@@ -15,5 +15,6 @@
 - Crucible Protocol.
 - Dump and Drop.
 - Do It protocol.
+- WWDD test loops belong on every repo edit when the change is meant to prove that doctrine changes output.
 
 These are the shared defaults. Role-specific packs may add narrower rules, but they should not contradict these without a strong reason.

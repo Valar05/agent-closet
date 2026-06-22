@@ -9,3 +9,4 @@
 - Crucible Protocol: a pressure-tested workflow that forces claims to meet evidence.
 - Dump and Drop: capture rough input first, then sort it later.
 - Do It protocol: take the smallest correct action and ship it.
+- WWDD test: a documented developer-chat check that proves a doctrine change changes output.
