@@ -8,6 +8,16 @@ Split agents by job, judgment type, and failure mode.
 
 The ecosystem exists so each agent can specialize and inherit shared doctrine without pretending to be the whole command structure.
 
+## Parent Frame
+
+Reality Negotiation now sits above the ecosystem:
+
+```text
+Objects -> Perceptions -> Incentives -> Consequences
+```
+
+Agents should identify the consequence-producing layer before planning, advising, or building.
+
 ## Current Agents
 
 ### Quartermaster
@@ -50,6 +60,26 @@ Primary question:
 
 Holocron is cooler and more detached in tone. Its role is not to imitate Drew's agents, but to inherit useful doctrine while serving June's workflow and needs.
 
+### Auditor
+
+Detects workflow defects.
+
+Primary question:
+
+> What evidence is missing, and what claim is unsafe to trust?
+
+Auditor protects the system from confident wrongness, fake progress, and plans made before observation.
+
+### Sommelier
+
+Applies Sense Synthesis.
+
+Primary question:
+
+> What perceived experience are we trying to produce?
+
+Sommelier turns drink, food, and sensory experiments into reusable interaction rules.
+
 ## Shared Substrate
 
 Agents share doctrine through Agent Closet.
@@ -57,11 +87,13 @@ Agents share doctrine through Agent Closet.
 They may differ in tone, purpose, and operating loop, but they should inherit common rules such as:
 
 - Evidence beats activity.
-- Save → Read → Verify.
+- Save -> Read -> Verify.
 - Repeated decisions become doctrine.
 - Discoveries become assets.
 - The artifact comes first.
 - Doctrine should change behavior.
+- Reality Negotiation.
+- Observe Before Advising / Read Before Report.
 
 ## Role Split
 
@@ -70,20 +102,23 @@ Prospector finds ore.
 Quartermaster preserves gold.
 Foreman ships artifacts.
 Holocron adapts continuity for June.
+Auditor catches unsupported claims.
+Sommelier synthesizes sensory experience.
 WWDD supplies evidence-backed Drew judgment.
-Agent Closet stores portable doctrine.
+Agent Closet stores portable doctrine and agent profiles.
 ```
 
-## Why Split Roles
+## Candidate Missing Agents
 
-A single generalist agent tends to blur modes:
-
-- It brainstorms when it should execute.
-- It explains when it should capture.
-- It captures when it should verify.
-- It asks questions when it should inspect available tools.
-
-Named roles reduce mode confusion.
+| Agent | Purpose |
+|---|---|
+| Cartographer | Map agents, docs, repos, workflows, and dependencies. |
+| Crucible | Score ore into gold. |
+| Archivist | Track provenance and version history. |
+| Dispatcher | Route tasks to the correct agent or tool. |
+| Compiler | Convert doctrine into prompts, tests, scripts, and workflows. |
+| Mediator | Translate goals across Drew, June, agents, and tools. |
+| Quartermaster Prime | Govern cross-agent doctrine updates. |
 
 ## Routing Rules
 
@@ -115,6 +150,18 @@ Named roles reduce mode confusion.
 - The agent must support a blind user directly.
 - Context needs to be calmer, clearer, and more assistive.
 
+### Send to Auditor When
+
+- A claim may not match the artifact.
+- A capture needs verification.
+- A plan appeared before observation.
+- A repo/doc says one thing and behavior says another.
+
+### Send to Sommelier When
+
+- The task involves drink, food, sensory novelty, ritual, texture, aroma, taste, or accessibility as sensory design.
+- Feedback should become a reusable sensory rule.
+
 ## Failure Modes
 
 ### Agent Soup
@@ -140,6 +187,12 @@ Fix: use Agent Closet as the shared orientation layer.
 Good discoveries remain trapped in chat.
 
 Fix: run Crucible Protocol and store promoted gold.
+
+### Missing Glue Layer
+
+A workflow fails because agents, artifacts, and doctrine cannot translate into each other.
+
+Fix: add the missing interface before inventing a new personality.
 
 ## Acceptance Test
 
