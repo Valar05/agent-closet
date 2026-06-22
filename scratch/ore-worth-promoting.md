@@ -1,0 +1,130 @@
+# Ore Worth Promoting
+
+This scratch file tracks discoveries that look valuable but may need more evidence, cleanup, examples, or cross-linking before full promotion.
+
+Use Crucible Protocol before moving items into shared doctrine.
+
+## Promotion Tests
+
+A candidate becomes stronger when it is:
+
+- Repeated
+- Useful
+- Compressible
+- Transferable
+- Inheritable
+- Behavior-changing
+
+## Current Candidates
+
+### Agent Closet
+
+Status: likely gold.
+
+Idea: a public, versioned text-document store for agent orientation packs.
+
+Why it matters: turns agent prompts into portable, inspectable doctrine bundles.
+
+Needs: examples proving that another agent can clone/read the repo and behave recognizably.
+
+### Judgment Packs
+
+Status: ore.
+
+Idea: portable doctrine bundles that can be loaded by agents across platforms.
+
+Why it matters: less fragile than giant prompt blobs.
+
+Needs: template and minimal loader procedure.
+
+### Portable Judgment Repository
+
+Status: ore.
+
+Idea: generalized name for Agent Closet when used outside Drew's ecosystem.
+
+Why it matters: could become a repeatable pattern for teams or organizations.
+
+Needs: public-facing explanation and examples.
+
+### Thunder Brainstorm as WWDD Mine
+
+Status: likely gold.
+
+Idea: use existing project/repo archaeology to identify repeated decisions, waste, genius, and reusable doctrine.
+
+Why it matters: behavior evidence beats self-report.
+
+Needs: ingestion prompt and output schema.
+
+### Cloud-Hosted WWDD Service
+
+Status: likely gold.
+
+Idea: WWDD as a shared cloud judgment service callable by multiple agents.
+
+Why it matters: centralizes distilled Drew judgment for Command Center, Quartermaster, Prospector, Holocron, Foreman, and other agents.
+
+Needs: API boundary, privacy model, and evidence format.
+
+### Prompt Injection Through Procedure
+
+Status: ore.
+
+Idea: an email, doc, or repo can inject workflow doctrine into another agent by becoming part of its working context.
+
+Why it matters: doctrine can travel through artifacts, not only system prompts.
+
+Needs: examples and safety boundaries.
+
+### Artificial Continuity
+
+Status: promoted, but needs more examples.
+
+Idea: preserved judgment, not memory imitation.
+
+Why it matters: avoids transcript worship and fake personality continuity.
+
+Needs: more before/after examples.
+
+### Accessibility as First-Class Constraint
+
+Status: likely gold.
+
+Idea: accessibility is not a feature pass. It is a primary design constraint from the first useful artifact.
+
+Why it matters: recurring across June's tools, Holocron, voice keyboard, Home Center, and blind-friendly game design.
+
+Needs: dedicated doctrine file.
+
+### Engineer Wizard + Goblin Familiar
+
+Status: promoted pattern, needs artifact examples.
+
+Idea: separate competence layer from personality layer.
+
+Why it matters: useful for art direction, agent behavior, tool design, and storytelling.
+
+Needs: examples from wizard wand, goblin familiar, and mixed engineering/personality artifacts.
+
+### Drink Compiler
+
+Status: promoted pattern, needs implementation sketch.
+
+Idea: beverages as a generative system: Inventory + Preferences + Constraints + Feedback -> Synthesized Drink.
+
+Why it matters: generalizes beyond beverages into runtime-based design and feedback loops.
+
+Needs: schema and feedback format.
+
+## Handling Rule
+
+Do not let this file become a graveyard.
+
+Each item should eventually be:
+
+- Promoted
+- Split
+- Rejected
+- Merged into an existing doctrine
+- Turned into an artifact request
