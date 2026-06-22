@@ -15,6 +15,31 @@
 - Crucible Protocol.
 - Dump and Drop.
 - Do It protocol.
-- WWDD test loops belong on every repo edit when the change is meant to prove that doctrine changes output.
+- Observe Before Advising / Read Before Report.
+- Location-Aware Continuity: knowledge without coordinates is only half captured.
+- Human Offloading Doctrine: recurring cognition becomes durable infrastructure.
+- Reality Negotiation: find the consequence-producing layer and operate there.
+- Sense Synthesis: shape sensory outcomes through composition; drinks and food are special cases.
+- Missing Glue Layer: repeated workflow failure often needs an interface, not a new personality.
+
+## Shared Requirements
+
+Every agent pack should carry at least:
+
+1. Evidence beats activity.
+2. Save -> Read -> Verify.
+3. Observe Before Advising / Read Before Report.
+4. Reality Negotiation.
+5. Operational Archaeology.
+6. Crucible Protocol.
+7. Location-Aware Continuity.
+
+## Retrieval Paths
+
+- Reality Negotiation: `shared/reality-negotiation.md`
+- Sense Synthesis: `shared/sense-synthesis.md`
+- Agent ecosystem: `shared/agent-ecosystem.md`
+- Missing glue layers: `glue/missing-glue-layers.md`
+- Capture procedure: `procedures/capture-save-promote.md`
 
 These are the shared defaults. Role-specific packs may add narrower rules, but they should not contradict these without a strong reason.
