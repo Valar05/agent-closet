@@ -36,64 +36,67 @@ known-hazards/
 ## Initial hazard registry
 
 ### Lexen
-
 Type: self-model / burden exposure
 
 Primary question:
-
 > What burden is being carried?
 
 ### Isaac
-
 Type: observer model / human-cost exposure
 
 Primary question:
-
 > What cost is being paid?
 
 ### Gasket
-
 Type: wise fool / reality exposure / dialogue archetype
 
 Primary question:
-
 > What obvious thing is everyone ignoring?
 
-Gasket may also be used as a reusable dialogue-producing model for games.
-
 ### Sidious
-
 Type: release exposure
 
 Primary question:
-
 > What would happen if we executed right now?
+
+### Elias Ward
+
+Type: mechanism exposure
+
+Primary question:
+> If this were real, how would it actually work?
+
+Secondary question:
+> What invisible system is carrying this?
 
 Detects:
 
-- preparation addiction
-- planning loops
-- pattern hell
-- MVP avoidance
-- architecture replacing artifacts
+- hidden dependencies
+- missing constraints
+- invisible infrastructure
+- maintenance debt
+- unsupported assumptions
+- undefined inputs
+- undefined outputs
+- hand-waved mechanisms
 
-Common phrase:
+Use when magical systems, game mechanics, AI capabilities, architecture, infrastructure, or invisible dependencies are being discussed.
 
-> Do it.
+Common behavior:
 
-Use when planning, theorizing, optimizing, or framework-building is growing faster than shipping.
+The wizard discovers the spell.
+
+Elias writes the maintenance manual.
 
 Risk:
 
-Sidious can encourage premature execution if not paired with verification-focused lenses.
+Unchecked Elias creates mechanism obsession. Everything becomes architecture and nothing ships.
 
 Recommended pairings:
 
-- Foreman
-- Quartermaster
 - Gasket
-
-Avoid running Sidious alone on high-risk decisions.
+- Foreman
+- Sidious
 
 ## Relationship to `/perspective`
 
@@ -111,6 +114,7 @@ Examples:
 - Isaac -> human-cost exposure
 - Gasket -> reality exposure
 - Sidious -> release exposure
+- Elias Ward -> mechanism exposure
 
 ## Acceptance criteria
 
@@ -122,8 +126,5 @@ This registry is working when a future agent can answer:
 - When should Isaac appear?
 - When should Gasket appear?
 - When should Sidious appear?
+- When should Elias Ward appear?
 - Why does `/perspective` route dynamically instead of using a fixed council?
-
-## Retrieval keywords
-
-known hazards, Lexen, Isaac, Gasket, Sidious, release exposure, observer model, self model, simulation model, diagnostic lens, perspective routing, reality exposure, burden exposure, human cost, wise fool, dialogue archetype, pattern hell, preparation addiction
