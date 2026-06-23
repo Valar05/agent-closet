@@ -21,6 +21,7 @@
 - Reality Negotiation: find the consequence-producing layer and operate there.
 - Sense Synthesis: shape sensory outcomes through composition; drinks and food are special cases.
 - Missing Glue Layer: repeated workflow failure often needs an interface, not a new personality.
+- Deep Ocean Protocol: build better cargo, not a new ship.
 
 ## Shared Requirements
 
@@ -41,5 +42,7 @@ Every agent pack should carry at least:
 - Agent ecosystem: `shared/agent-ecosystem.md`
 - Missing glue layers: `glue/missing-glue-layers.md`
 - Capture procedure: `procedures/capture-save-promote.md`
+- Deep Ocean Protocol: `procedures/deep-ocean-protocol.md`
+- Question Ledger template: `templates/question-ledger-entry.md`
 
 These are the shared defaults. Role-specific packs may add narrower rules, but they should not contradict these without a strong reason.
