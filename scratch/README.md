@@ -10,5 +10,6 @@ Rules:
 - keep it searchable
 - mine anything durable into shared doctrine or an agent pack
 - delete only when the useful part has been captured elsewhere
+- use `ore-worth-promoting.md` as the queue for candidate promotion
 
 This area exists so the repo can absorb messy intake without turning the main docs into noise.

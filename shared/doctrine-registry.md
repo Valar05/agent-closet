@@ -1,109 +1,81 @@
-# Shared Doctrine Registry
+# Doctrine Registry
 
-Type: Registry
-Status: Active bootstrap
-Date: 2026-06-22
+This registry tracks promoted doctrine and the evidence that earned it storage.
 
-## Purpose
+## Entry Format
 
-This registry gives agents a fast map of promoted shared doctrines and first-class skills.
+- `Name`
+- `Status`
+- `Confidence`
+- `Evidence Files`
+- `Supporting Doctrines`
+- `Supporting Agents`
+- `Counterexamples`
+- `Why It Matters`
 
-A doctrine or skill is only promoted when it has:
+## Current Entries
 
-- name
-- durable content
-- retrieval keywords
-- source/context
-- related assets
-- acceptance criteria
-- readback verification
+### Evidence-Pressure Loop
 
-## Promoted Doctrines
+- `Status`: promoted
+- `Confidence`: high
+- `Evidence Files`: `shared/crucible-protocol.md`, `shared/wwdd-protocol.md`, `scratch/wwdd-proof.md`
+- `Supporting Doctrines`: `Evidence beats activity`, `WWDD`, `Crucible Protocol`
+- `Supporting Agents`: `Foreman`, `Quartermaster`, `Prospector`
+- `Counterexamples`: chat-only claims, untested doctrine
+- `Why It Matters`: keeps claims tied to files, logs, and visible output change
 
-| Doctrine | Path | Classification | Core use |
-|---|---|---|---|
-| Infrastructure Doctrine | `shared/doctrine/infrastructure-doctrine.md` | Gold | Recognize load-bearing humans, agents, and invisible support layers before they become unbounded infrastructure debt. |
-| Hidden Factory Doctrine | `shared/doctrine/hidden-factory-doctrine.md` | Gold | Analyze people, characters, organizations, and agents by identifying the production system beneath visible behavior. |
-| Encoded Judgment Doctrine | `shared/doctrine/encoded-judgment-doctrine.md` | Gold | Treat written perspectives as the substrate required for grounded WWDD, observer-model agents, and perspective synthesis. |
+### Continuity Without Memory Theater
 
-## Promoted Skills
+- `Status`: promoted
+- `Confidence`: high
+- `Evidence Files`: `shared/artificial-continuity.md`, `shared/recursive-sense-synthesis.md`, `agents/holocron/identity.md`
+- `Supporting Doctrines`: `Save -> Read -> Verify`, `Artificial Continuity`, `Recursive Sense Synthesis`
+- `Supporting Agents`: `Holocron`, `Quartermaster`
+- `Counterexamples`: raw memory reliance, unstated assumptions
+- `Why It Matters`: preserves useful shape across sessions without pretending recall is truth
 
-| Skill | Path | Command | Classification | Core use |
-|---|---|---|---|---|
-| Perspective Graphing | `shared/skills/perspective-graphing.md` | `/perspective` | Gold | Gather multiple named perspectives before synthesis so WWDD becomes a council-aware judgment engine rather than a flat self-model. |
+### Extract-Compact-Promote
 
-## Doctrine Index Notes
+- `Status`: promoted
+- `Confidence`: high
+- `Evidence Files`: `agents/prospector/doctrine.md`, `agents/quartermaster/doctrine.md`, `scratch/dump-ground.md`
+- `Supporting Doctrines`: `Dump and Drop`, `Repeated decisions become doctrine`, `If it appears three times, capture it`
+- `Supporting Agents`: `Prospector`, `Quartermaster`
+- `Counterexamples`: one-off drama, giant explanations
+- `Why It Matters`: turns messy intake into reusable doctrine
 
-### Infrastructure Doctrine
+### Delivery-Handoff Loop
 
-Core phrase:
+- `Status`: promoted
+- `Confidence`: high
+- `Evidence Files`: `agents/foreman/operating-loop.md`, `agents/foreman/doctrine.md`, `README.md`
+- `Supporting Doctrines`: `Do It protocol`, `Manifesto comes later. Merge request comes first.`
+- `Supporting Agents`: `Foreman`
+- `Counterexamples`: sprawling plans, explanation without action
+- `Why It Matters`: keeps action small, verifiable, and shippable
 
-> I am infrastructure.
+## Registry Notes
 
-Related phrase:
+- The registry is a promotion ledger, not a scrapbook.
+- A rule stays promoted only while evidence and retrieval paths remain easy to verify.
+- Keep the strongest canonical file and fold weaker duplicates into it.
 
-> I always become one with the floor.
+## Imported Governance Line
 
-Diagnostic question:
+The repo also carries a broader living-inheritance framing from the governance-glue line:
 
-> Who am I when nothing needs carrying?
+- Agent Closet stores portable doctrine and agent profiles.
+- Shared pages should make it obvious what exists, what is missing, and what doctrine governs behavior.
+- Scratch is staging, not storage.
+- Promotion should require repeated, useful, compressible, transferable, inheritable, behavior-changing evidence.
 
-Use when a person or agent repeatedly absorbs coordination, memory, troubleshooting, caregiving, accessibility, or continuity load until they become invisible support architecture.
+## Pending Review
 
-### Hidden Factory Doctrine
+- `Feed Is The Battlefield`
+- `Dashboard Failure`
+- `Capability Distillation`
+- `Agent Closet Origin`
+- `TFTM Discovery Chain`
 
-Core question:
-
-> What factory produced this?
-
-Use when visible behavior appears repeatedly and the agent needs to identify the underlying conversion pattern: chaos into responsibility, uncertainty into control, discomfort into humor, loss into continuity, and so on.
-
-### Encoded Judgment Doctrine
-
-Core phrase:
-
-> You couldn't be Isaac if June didn't write Isaac.
-
-Use when a simulated perspective, WWDD variant, observer-model agent, or judgment council needs grounding. A perspective is only reusable when it exists as durable writing, artifact evidence, repeated behavior, or saved pattern.
-
-## Skill Index Notes
-
-### Perspective Graphing
-
-Command:
-
-> /perspective
-
-Core use:
-
-Run a compact council of perspectives before synthesis.
-
-Default council:
-
-- Lexen: Drew's self-model / burden / responsibility
-- Isaac: June's impression of Drew / observer-model / human cost
-- Quartermaster: preservation / indexing / continuity
-- Prospector: value mining / gold detection
-- Foreman: execution / tests / delivery
-- Holocron: accessibility / lived support / orientation
-- WWDD: repeated behavior / judgment substrate
-
-Core doctrine:
-
-> The self-model explains the burden.
-> The observer-model explains the cost.
-> Wisdom appears when both are allowed to speak.
-
-## Required Agent Behavior
-
-When a promoted doctrine or skill is relevant, agents should:
-
-1. Name it.
-2. Explain why it applies.
-3. Identify the risk, failure mode, or disagreement.
-4. Recommend the smallest useful action.
-5. Preserve any new reusable discovery.
-
-## Retrieval keywords
-
-infrastructure, load-bearing human, hidden factory, responsibility factory, continuity factory, one with the floor, operational archaeology, artificial continuity, invisible labor, maintainer, agent design, doctrine registry, perspective graphing, /perspective, WWDD council, Isaac, Lexen, observer model, self model, multi-perspective judgment, encoded judgment, written substrate, June's impression of Drew, vibe puppetry
+These remain in review until they have stronger evidence or are merged into a canonical page.

@@ -10,7 +10,7 @@ Source anchors:
 
 ## Purpose
 
-Agent Closet is the registry and inheritance layer for agent behavior.
+Agent Closet is a living inheritance system for agent behavior.
 
 It tracks:
 
@@ -21,6 +21,24 @@ It tracks:
 - agent profile cards
 - failure modes
 - update paths
+
+## Core Loop
+
+1. `scratch/` captures messy discoveries.
+2. `Prospector` mines repeated signal.
+3. `Crucible` pressure-tests claims against evidence.
+4. `Quartermaster` promotes durable findings into doctrine.
+5. `Foreman` turns doctrine into action or handoff.
+6. Future agents inherit the repo, not the chat transcript.
+
+## Repository Shape
+
+- `agents/`: role packs for specialized agents.
+- `shared/`: common doctrine, protocols, glossary, phrases, patterns, and registry files.
+- `scratch/`: staging area for rough ore and pending promotion candidates.
+- `discoveries/`: durable discoveries that need later curation.
+- `doctrines/`: focused doctrine pages that have already earned storage.
+- `procedures/`: operational sequences that support doctrine execution.
 
 ## Authority Stack
 

@@ -117,6 +117,36 @@ Why it matters: generalizes beyond beverages into runtime-based design and feedb
 
 Needs: schema and feedback format.
 
+## Imported Queue
+
+### `wwdd-proof`
+
+- Source: `scratch/wwdd-proof.md`
+- Why it is here: proof-loop note with a real repo change behind it
+- Evidence still needed: a tighter pointer to the before/after behavior it changed
+- Likely destination: `shared/wwdd-protocol.md` or the doctrine registry
+
+### `feed-is-the-battlefield`
+
+- Source: `doctrines/feed-is-the-battlefield.md`
+- Why it is here: strong framing, weak concrete evidence
+- Evidence still needed: a specific case where the metaphor changed an action
+- Likely destination: merge into a broader evidence-pressure family or demote
+
+### `dashboard-failure`
+
+- Source: `doctrines/dashboard-failure.md`
+- Why it is here: plausible failure mode, but thin support
+- Evidence still needed: a concrete anti-pattern from a repo or run
+- Likely destination: merge with an evidence/display failure family or demote
+
+### `recursive-sense-synthesis`
+
+- Source: `shared/recursive-sense-synthesis.md`
+- Why it is here: overlaps with continuity doctrine
+- Evidence still needed: proof it is distinct from `shared/artificial-continuity.md`
+- Likely destination: merge into the continuity canonical page
+
 ## Handling Rule
 
 Do not let this file become a graveyard.

@@ -11,13 +11,16 @@ It exists to make the useful parts easy to clone, read, update, and reuse:
 
 There is no app here. No build. No dashboard. Just markdown files.
 
+This is a living inheritance system for agent behavior. The repo keeps the rules that survive repeated use so future agents inherit judgment instead of starting from zero.
+
 ## Start here
 
-1. Read `shared/index/repository-map.md`.
-2. Read `shared/index/doctrine-index.md`.
-3. Read `shared/index/agent-index.md` if the task involves agent routing or agent design.
-4. Read `shared/index/skill-index.md` if the task involves a reusable behavior, procedure, template, or theory.
-5. Read the target agent pack or task-specific file.
+1. Read `MANIFEST.md`.
+2. Read `shared/index/repository-map.md`.
+3. Read `shared/index/doctrine-index.md`.
+4. Read `shared/index/agent-index.md` if the task involves agent routing or agent design.
+5. Read `shared/index/skill-index.md` if the task involves a reusable behavior, procedure, template, or theory.
+6. Read the target agent pack or task-specific file.
 
 ## How to use it
 
@@ -28,12 +31,13 @@ There is no app here. No build. No dashboard. Just markdown files.
 
 ## How an AI should orient
 
-1. Read `shared/index/repository-map.md` first.
-2. Read `shared/doctrines.md`, `shared/glossary.md`, and the target agent pack.
-3. Scan `shared/index/doctrine-index.md`, `shared/patterns.md`, `shared/prompt-phrases.md`, and `shared/wwdd-protocol.md` for reusable language.
-4. Treat examples as guidance, not as sacred output.
-5. Prefer the shortest accurate update to the docs over a big explanation.
-6. If a decision repeats, promote it into doctrine.
+1. Read `MANIFEST.md`, `shared/doctrine-registry.md`, `shared/doctrines.md`, `shared/glossary.md`, and the target agent pack.
+2. Read `shared/index/repository-map.md` and `shared/index/doctrine-index.md`.
+3. Scan `shared/patterns.md`, `shared/prompt-phrases.md`, and `shared/wwdd-protocol.md` for reusable language.
+4. Check `scratch/ore-worth-promoting.md` for pending material before inventing anything new.
+5. Treat examples as guidance, not as sacred output.
+6. Prefer the shortest accurate update to the docs over a big explanation.
+7. If a decision repeats, promote it into doctrine.
 
 ## Rule
 
@@ -55,10 +59,13 @@ The rule is simple: dump first, then mine the useful parts into shared doctrine 
 
 ## Current durable stores
 
+- `MANIFEST.md`: repo truth and governance map.
+- `shared/doctrine-registry.md`: doctrine ledger with evidence and status.
 - `shared/doctrines.md`: shared defaults and promoted doctrines.
 - `shared/recursive-sense-synthesis.md`: the continuity framework note.
 - `discoveries/`: promoted discovery notes and origin records.
 - `doctrines/`: focused doctrine pages that have already earned storage.
+- `scratch/ore-worth-promoting.md`: intake queue for rough ore and promotion candidates.
 
 ## What does not belong here
 

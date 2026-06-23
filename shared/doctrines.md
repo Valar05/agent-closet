@@ -22,6 +22,9 @@ For retrieval and promotion status, start with `shared/index/doctrine-index.md`.
 - Feed Is The Battlefield.
 - Dashboard Failure.
 - Crucible Capture Protocol.
+- Doctrine registry is the promotion ledger.
+- MANIFEST.md is the repo truth map.
+- Scratch is staging, not storage.
 - Do It protocol.
 - Observe Before Advising / Read Before Report.
 - Location-Aware Continuity: knowledge without coordinates is only half captured.
