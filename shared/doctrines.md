@@ -16,6 +16,12 @@ For retrieval and promotion status, start with `shared/index/doctrine-index.md`.
 - Operational Archaeology.
 - Crucible Protocol.
 - Dump and Drop.
+- Recursive Sense Synthesis.
+- Capability Distillation.
+- Evidence Must Feel Physical.
+- Feed Is The Battlefield.
+- Dashboard Failure.
+- Crucible Capture Protocol.
 - Do It protocol.
 - Observe Before Advising / Read Before Report.
 - Location-Aware Continuity: knowledge without coordinates is only half captured.

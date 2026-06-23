@@ -53,6 +53,13 @@ The rule is simple: dump first, then mine the useful parts into shared doctrine 
 - concise orientation notes
 - scratch material that is explicitly marked for later mining
 
+## Current durable stores
+
+- `shared/doctrines.md`: shared defaults and promoted doctrines.
+- `shared/recursive-sense-synthesis.md`: the continuity framework note.
+- `discoveries/`: promoted discovery notes and origin records.
+- `doctrines/`: focused doctrine pages that have already earned storage.
+
 ## What does not belong here
 
 - app code
