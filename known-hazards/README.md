@@ -33,19 +33,6 @@ known-hazards/
     character simulations
 ```
 
-Examples of agents:
-
-- Foreman: builds, verifies, ships.
-- Prospector: mines value.
-- Quartermaster: preserves, indexes, curates.
-- Holocron: orients and protects accessibility/support context.
-
-Examples of hazards:
-
-- Lexen: exposes burden.
-- Isaac: exposes human cost.
-- Gasket: exposes obvious reality and punctures bloat.
-
 ## Initial hazard registry
 
 ### Lexen
@@ -56,8 +43,6 @@ Primary question:
 
 > What burden is being carried?
 
-Use when the situation involves responsibility, obligation, carrying, sacrifice, endurance, repair, or the user assuming they must become infrastructure.
-
 ### Isaac
 
 Type: observer model / human-cost exposure
@@ -65,8 +50,6 @@ Type: observer model / human-cost exposure
 Primary question:
 
 > What cost is being paid?
-
-Use when the situation involves close observers, relationships, care, exhaustion, unseen emotional cost, or the difference between usefulness and personhood.
 
 ### Gasket
 
@@ -76,9 +59,41 @@ Primary question:
 
 > What obvious thing is everyone ignoring?
 
-Use when the situation involves over-abstraction, doctrine bloat, fake profundity, missing fun, complexity worship, or a giant obvious next action nobody is saying.
+Gasket may also be used as a reusable dialogue-producing model for games.
 
-Gasket may also be used as a reusable dialogue-producing model for games. In that mode, Gasket characters are competent enough to matter, wrong enough to create stories, and funny because they notice reality too clearly.
+### Sidious
+
+Type: release exposure
+
+Primary question:
+
+> What would happen if we executed right now?
+
+Detects:
+
+- preparation addiction
+- planning loops
+- pattern hell
+- MVP avoidance
+- architecture replacing artifacts
+
+Common phrase:
+
+> Do it.
+
+Use when planning, theorizing, optimizing, or framework-building is growing faster than shipping.
+
+Risk:
+
+Sidious can encourage premature execution if not paired with verification-focused lenses.
+
+Recommended pairings:
+
+- Foreman
+- Quartermaster
+- Gasket
+
+Avoid running Sidious alone on high-risk decisions.
 
 ## Relationship to `/perspective`
 
@@ -90,6 +105,13 @@ Do not invoke every hazard by default.
 
 Choose the hazard that exposes the relevant blind spot.
 
+Examples:
+
+- Lexen -> burden exposure
+- Isaac -> human-cost exposure
+- Gasket -> reality exposure
+- Sidious -> release exposure
+
 ## Acceptance criteria
 
 This registry is working when a future agent can answer:
@@ -99,8 +121,9 @@ This registry is working when a future agent can answer:
 - When should Lexen appear?
 - When should Isaac appear?
 - When should Gasket appear?
+- When should Sidious appear?
 - Why does `/perspective` route dynamically instead of using a fixed council?
 
 ## Retrieval keywords
 
-known hazards, Lexen, Isaac, Gasket, observer model, self model, simulation model, diagnostic lens, perspective routing, reality exposure, burden exposure, human cost, wise fool, dialogue archetype, character simulation
+known hazards, Lexen, Isaac, Gasket, Sidious, release exposure, observer model, self model, simulation model, diagnostic lens, perspective routing, reality exposure, burden exposure, human cost, wise fool, dialogue archetype, pattern hell, preparation addiction
