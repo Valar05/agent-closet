@@ -24,6 +24,7 @@ A doctrine or skill is only promoted when it has:
 |---|---|---|---|
 | Infrastructure Doctrine | `shared/doctrine/infrastructure-doctrine.md` | Gold | Recognize load-bearing humans, agents, and invisible support layers before they become unbounded infrastructure debt. |
 | Hidden Factory Doctrine | `shared/doctrine/hidden-factory-doctrine.md` | Gold | Analyze people, characters, organizations, and agents by identifying the production system beneath visible behavior. |
+| Encoded Judgment Doctrine | `shared/doctrine/encoded-judgment-doctrine.md` | Gold | Treat written perspectives as the substrate required for grounded WWDD, observer-model agents, and perspective synthesis. |
 
 ## Promoted Skills
 
@@ -56,6 +57,14 @@ Core question:
 > What factory produced this?
 
 Use when visible behavior appears repeatedly and the agent needs to identify the underlying conversion pattern: chaos into responsibility, uncertainty into control, discomfort into humor, loss into continuity, and so on.
+
+### Encoded Judgment Doctrine
+
+Core phrase:
+
+> You couldn't be Isaac if June didn't write Isaac.
+
+Use when a simulated perspective, WWDD variant, observer-model agent, or judgment council needs grounding. A perspective is only reusable when it exists as durable writing, artifact evidence, repeated behavior, or saved pattern.
 
 ## Skill Index Notes
 
@@ -97,4 +106,4 @@ When a promoted doctrine or skill is relevant, agents should:
 
 ## Retrieval keywords
 
-infrastructure, load-bearing human, hidden factory, responsibility factory, continuity factory, one with the floor, operational archaeology, artificial continuity, invisible labor, maintainer, agent design, doctrine registry, perspective graphing, /perspective, WWDD council, Isaac, Lexen, observer model, self model, multi-perspective judgment
+infrastructure, load-bearing human, hidden factory, responsibility factory, continuity factory, one with the floor, operational archaeology, artificial continuity, invisible labor, maintainer, agent design, doctrine registry, perspective graphing, /perspective, WWDD council, Isaac, Lexen, observer model, self model, multi-perspective judgment, encoded judgment, written substrate, June's impression of Drew, vibe puppetry
