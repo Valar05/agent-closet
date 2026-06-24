@@ -1,5 +1,7 @@
 # Agent Ecosystem
 
+For role lookup and orientation paths, start with `shared/index/agent-index.md`.
+
 ## Core Doctrine
 
 Do not force one agent to be every tool.
@@ -7,6 +9,12 @@ Do not force one agent to be every tool.
 Split agents by job, judgment type, and failure mode.
 
 The ecosystem exists so each agent can specialize and inherit shared doctrine without pretending to be the whole command structure.
+
+Before creating or changing an agent, run Self-Insertion Calibration:
+
+> What part of the user is being externalized?
+
+See `shared/doctrine/self-insertion-calibration.md`.
 
 ## Parent Frame
 
@@ -94,6 +102,27 @@ They may differ in tone, purpose, and operating loop, but they should inherit co
 - Doctrine should change behavior.
 - Reality Negotiation.
 - Observe Before Advising / Read Before Report.
+- Self-Insertion Calibration.
+
+## Self-Insertion Calibration
+
+Before creating or changing an agent, ask:
+
+> What part of the user is being externalized?
+
+Preserve useful judgment patterns, not identity.
+
+The agent should inherit capability, responsibility, and decision heuristics while being allowed to reject burdens, disagree productively, and notice what the user misses.
+
+Use the Archetype Independence Test:
+
+> If the user disappeared tomorrow, would this character, agent, or system still make useful decisions?
+
+If no, it is a clone.
+
+If yes, it is an archetype.
+
+See `shared/doctrine/self-insertion-calibration.md`.
 
 ## Role Split
 
@@ -175,6 +204,12 @@ Fix: preserve role-specific questions and operating loops.
 The agent mimics tone but misses the job.
 
 Fix: preserve job, triggers, and acceptance criteria before voice.
+
+### Clone Instead of Archetype
+
+The agent preserves identity markers but fails to carry independent responsibility or useful judgment.
+
+Fix: run Self-Insertion Calibration and the Archetype Independence Test.
 
 ### Prompt Blob Dependency
 
