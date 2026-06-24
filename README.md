@@ -11,6 +11,14 @@ It exists to make the useful parts easy to clone, read, update, and reuse:
 
 There is no app here. No build. No dashboard. Just markdown files.
 
+## Start here
+
+1. Read `shared/index/repository-map.md`.
+2. Read `shared/index/doctrine-index.md`.
+3. Read `shared/index/agent-index.md` if the task involves agent routing or agent design.
+4. Read `shared/index/skill-index.md` if the task involves a reusable behavior, procedure, template, or theory.
+5. Read the target agent pack or task-specific file.
+
 ## How to use it
 
 1. Clone the repo.
@@ -20,11 +28,12 @@ There is no app here. No build. No dashboard. Just markdown files.
 
 ## How an AI should orient
 
-1. Read `shared/doctrines.md`, `shared/glossary.md`, and the target agent pack.
-2. Scan `shared/patterns.md`, `shared/prompt-phrases.md`, and `shared/wwdd-protocol.md` for reusable language.
-3. Treat examples as guidance, not as sacred output.
-4. Prefer the shortest accurate update to the docs over a big explanation.
-5. If a decision repeats, promote it into doctrine.
+1. Read `shared/index/repository-map.md` first.
+2. Read `shared/doctrines.md`, `shared/glossary.md`, and the target agent pack.
+3. Scan `shared/index/doctrine-index.md`, `shared/patterns.md`, `shared/prompt-phrases.md`, and `shared/wwdd-protocol.md` for reusable language.
+4. Treat examples as guidance, not as sacred output.
+5. Prefer the shortest accurate update to the docs over a big explanation.
+6. If a decision repeats, promote it into doctrine.
 
 ## Rule
 
