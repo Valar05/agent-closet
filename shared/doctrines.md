@@ -1,5 +1,7 @@
 # Shared Doctrines
 
+For retrieval and promotion status, start with `shared/index/doctrine-index.md`.
+
 - Attention is the bottleneck.
 - Repeated decisions become doctrine.
 - Discoveries become assets.
@@ -38,6 +40,10 @@ Every agent pack should carry at least:
 
 ## Retrieval Paths
 
+- Repository map: `shared/index/repository-map.md`
+- Doctrine index: `shared/index/doctrine-index.md`
+- Agent index: `shared/index/agent-index.md`
+- Skill and procedure index: `shared/index/skill-index.md`
 - Reality Negotiation: `shared/reality-negotiation.md`
 - Sense Synthesis: `shared/sense-synthesis.md`
 - Agent ecosystem: `shared/agent-ecosystem.md`
