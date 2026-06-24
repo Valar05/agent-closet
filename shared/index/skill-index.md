@@ -1,0 +1,64 @@
+# Skill and Procedure Index
+
+Type: Index / skill retrieval / procedure retrieval
+Status: Canon seed
+Date: 2026-06-24
+Purpose: Make reusable behaviors, procedures, templates, and theory easier to find.
+
+## Skills
+
+| Skill | Path | Use when |
+|---|---|---|
+| Perspective Graphing | `shared/skills/perspective-graphing.md` | Comparing encoded perspectives and observer models. |
+
+## Procedures
+
+| Procedure | Path | Use when |
+|---|---|---|
+| Capture Save Promote | `procedures/capture-save-promote.md` | Turning chat discoveries into durable repo assets. |
+| Deep Ocean Protocol | `procedures/deep-ocean-protocol.md` | Improving cargo/structure before scaling the vessel. |
+
+## Templates
+
+| Template | Path | Use when |
+|---|---|---|
+| Doctrine Template | `templates/doctrine-template.md` | Creating a new doctrine with consistent metadata. |
+| Question Ledger Entry | `templates/question-ledger-entry.md` | Capturing questions, provenance, and follow-up investigation. |
+
+## Glue Layers
+
+| Asset | Path | Use when |
+|---|---|---|
+| Missing Glue Layers | `glue/missing-glue-layers.md` | A workflow repeatedly fails because tools, agents, or artifacts cannot translate into each other. |
+
+## Theories
+
+| Theory | Path | Use when |
+|---|---|---|
+| Artificial Continuity | `shared/artificial-continuity.md` | Preserving useful decision-making machinery across sessions and agents. |
+| Learning Is Play | `shared/theory/learning-is-play.md` | Connecting play, exploration, feedback, and learning. |
+| Simulation as Learning Infrastructure | `shared/theory/simulation-as-learning-infrastructure.md` | Treating simulation as practice infrastructure. |
+
+## Scratch / Ore
+
+| Scratch asset | Path | Use when |
+|---|---|---|
+| Scratch README | `scratch/README.md` | Understanding the dump-ground rules. |
+| Dump Ground | `scratch/dump-ground.md` | Capturing rough notes before refinement. |
+| Ore Worth Promoting | `scratch/ore-worth-promoting.md` | Reviewing candidates for promotion. |
+| WWDD Proof | `scratch/wwdd-proof.md` | Holding proof notes before mining into stable doctrine. |
+
+## Skill Promotion Rule
+
+A skill is ready for promotion when it changes behavior across more than one task.
+
+A procedure is ready for promotion when repeated execution becomes safer, faster, or less dependent on chat memory.
+
+A template is ready for promotion when repeated files start needing the same shape.
+
+## Open Retrieval Debt
+
+- More skills probably exist as doctrine but are not yet extracted into `shared/skills/`.
+- Procedures and skills should be separated by behavior type after another inventory pass.
+- Theory docs should point back to doctrines and skills they support.
+- Scratch files need periodic Crucible review.
