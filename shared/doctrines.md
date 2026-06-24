@@ -22,6 +22,7 @@
 - Sense Synthesis: shape sensory outcomes through composition; drinks and food are special cases.
 - Missing Glue Layer: repeated workflow failure often needs an interface, not a new personality.
 - Deep Ocean Protocol: build better cargo, not a new ship.
+- Self-Insertion Calibration: preserve useful judgment while allowing divergence; do not clone the user.
 
 ## Shared Requirements
 
@@ -40,6 +41,7 @@ Every agent pack should carry at least:
 - Reality Negotiation: `shared/reality-negotiation.md`
 - Sense Synthesis: `shared/sense-synthesis.md`
 - Agent ecosystem: `shared/agent-ecosystem.md`
+- Self-Insertion Calibration: `shared/doctrine/self-insertion-calibration.md`
 - Missing glue layers: `glue/missing-glue-layers.md`
 - Capture procedure: `procedures/capture-save-promote.md`
 - Deep Ocean Protocol: `procedures/deep-ocean-protocol.md`
