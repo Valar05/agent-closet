@@ -1,0 +1,3392 @@
+﻿Prologue
+Corporal Rogan woke with a groan.
+The nanite demo was today.
+They’d celebrated early—too much damn synth whiskey, but after the month they'd had, who could blame them? All their hard work was finally paying off. Or at least, that had been the idea.
+He rolled out of bed like a corpse and shuffled through his tiny living quarters, limbs stiff, head full of cotton. Dammit. No coffee. Ration was tight this month.
+He pawed around for an energy slurp.
+Fuck. Out of those too? What was the point of working fifteen-hour days if you didn’t even get your little comforts?
+He reached for a pack of analog vapors. One left. He popped it between his teeth. Hit the button.
+Nothing. A dead stick.
+“Of course,” he muttered. “Of course you’d die now.”
+So he went into work with no caffeine, no nicotine, a half ration bar in his gut, and a smoldering hatred for all of creation. Shopping was overdue. Hard to shop when you worked nonstop and didn’t get hazard pay.
+He waved halfheartedly at the guard as he badged in. The guy didn’t look up from his tablet—just waved him on without seeing him. Typical. No one saw Rogan unless they needed someone to blame.
+And today?
+Today, the whole office was tense. A brass visit. Bigwigs in uniform standing around pretending they understood quantum neuromorphic code. A field demo of their work—years of classified research, one final test.
+“Don’t fuck it up,” someone barked. Might’ve been the project lead. Rogan didn’t care.
+What he did care about was the coffee pot, which was empty. Not just drained—dry. All the boxes of rations had already been picked over. The communal pot had become a shrine to broken promises.
+“Budget cuts,” someone muttered.
+Rogan said nothing. Just sat down at his station, opened the terminal, and began the startup routine. Diagnostics. Feed routing. Sync load.
+That’s when he saw it.
+The neural image was undefined. The config was throwing errors.
+Why?
+He scrolled through the source options. Selected host: Aiden Lindcaster[a].
+Huh.
+Weird.
+He frowned. Had there been two Aidens in the database before? He could’ve sworn there was just one. But there they were: duplicate IDs. One flagged incomplete. One marked green.
+He clicked the green one.
+The system smoothed out immediately.
+The shimmer in the pod resolved into a silhouette. Neural sync stabilized. No redlines.
+Rogan hesitated a half-second longer than he should have.
+Then shrugged and muttered, “Well. Close enough.”
+He ambled off to Lindsey.  She would have a spare analog.
+
+
+Prologue pt 2
+Lindsey scanned the room.  Dammit, why had she given her last analog to Rogan.  She tossed natural red hair out of her face.  She scanned the room.  Generals with some number of stars were in the room.  A grunt like her should be honored by their presence.  Instead she felt agitated.
+
+
+This was the big debut for the project she'd guarded so long.  Something was going to go wrong.  It always went wrong.  That was one rule of life for her.  No matter how bad things seemed like they could get, they could always get worse.
+
+
+She watched the amorphous blob of nanites on the table.  The tech gave the signal.  She put her helmet on.  Dammit, her hair was in her face a bit.  She should just go full pixie.  She couldn't bring herself to it.
+
+
+She watched as the blob on the slab took shape.  With a pit in her stomach, she saw it take form.
+
+
+That wasn't the man they had a profile on.
+
+
+“Shit…”[b]
+________________
+
+
+Aiden came to all at once.
+No heartbeat. No breath. Just… data.
+Pressure.
+His mind floated inside a body he didn’t recognize—didn’t understand. Every part of him vibrated with some low, coiled energy. Like too many stims mixed with something far worse.
+Awareness expanded.
+He was restrained. Lying at an angle in a glass cage. Floodlights burned. Cameras locked onto him from every angle.
+Beyond the glass: an audience.
+Military brass in polished uniforms. Scientists with tablets. Eyes behind mirrors.
+And then—
+Her.
+A woman.  A single lock of red hair over her forehead.
+Tracking directive activated.
+He didn’t think. He didn’t move.
+His body did.
+His torso compressed, arms vanishing into wedges, edges sharpening, limbs reforming into impact structures. The glass wasn't weak—but it didn’t matter.
+He became a blade, humming with resonance, and slammed forward.  Pillars of mass pushed him forward from his back.
+Cracks bloomed across the surface. He shifted. Vibrated. Sliced.
+It was tough stuff—but not invulnerable.
+The cage shattered.
+Screams. Panic. Weapons drawn. Half the observers ran.
+But she stayed.
+The woman. The redhead. Marine-issue armor. Shotgun in hand.
+Tracking priority updated.
+Six other weapons trained on him.
+He ignored them.
+With a sickening instinct he couldn’t stop, his form surged forward. He crashed into her, wrapping around her body—limbs unfurling as tendrils, her armor peeling away under his mass.
+Her helmet tore loose.
+And then—
+Contact.
+His surface sealed across her mouth. Not lips. Not a kiss.
+A tag. A data spike. A pulse of nanites shot into her nervous system.
+She gagged. Choked. Her whole body tensed as if struck by lightning.
+Tagging directive: successful.
+He recoiled in horror.
+“…What… what did I just do?”
+He had a sudden awareness of the woman.  Her hormone levels, her stress, muscle tension.  Global position.
+He barely had time to think before the Marines opened fire.
+Rounds tore into him—but his body reconfigured without conscious command.
+Self-defense directive initiated.
+He compacted into a ball, excreting high-velocity filaments. Tendrils erupted from his back, plugging barrels, overloading circuits. One man screamed as a misfire took his hand clean off.
+The tendrils weren’t done.
+They found weak points in armor. Soft flesh beneath. Organs. Arteries.
+It was over in less than three seconds.
+Every soldier lay dead—except her.
+The woman.
+She stood, trembling, weapon raised, still aiming at him.[c]
+She didnt fire.  Just trained it on him, hands shaking.
+He looked at her—and then broke apart.
+His form dissolved into a mist of shimmering dust, slithering into the vents.
+He fled the way only a thing like him could flee—through pipes, cables, filaments.
+And inside the scattered network of his mind, he screamed.[d]
+________________
+
+
+Error in Line 9: Unexpected Behavior
+The mop closet wasn’t much, but it was warm. Aiden liked warmth. It meant the systems were running. And if the systems were running, nobody came down here.
+He didn’t sleep anymore—not really. But he’d been dormant for three hours, conserving energy in the low-activity maintenance wing of the mining station. Food was rare. Sunlight, nonexistent. Protein from a lichen recycler had kept him stable.
+But the directive still sat there. Waiting.
+The tagging protocol.
+He hated it. Feared it. Knew what it could do.
+And yet, every time he tried to delete it, the error read the same:
+Permission denied. Directive entangled with root emotional-state prediction array.
+He hovered his fingers over the cracked datapad he’d jacked into a nearby vent. The text flickered. Something inside him flickered, too.
+He didn’t understand code the way he used to. Not now. Not like this.  The languages had changed.  Everything had changed.  Nobody even wrote lines of code anymore.  Not like they used to.
+So he let the AI handle it.
+PatchBuddy v0.4-beta had been an accident—a low-tier assistant hidden in station firmware. Probably illegal. Almost certainly outdated. But it talked to him.
+Today, he gave it a goal:
+“Remove the tagging directive. All of it. No claiming. No tracking. No contact.”
+A moment passed. A flicker on the pad.
+Clarify: Remove full directive or reroute outputs?
+“Delete it if you can. If not… reroute it. Make it… harmless. Passive. I don’t want to hurt anyone. Ever again.”
+Warning: Partial removal may cause undefined behavior. Override anyway?
+He hesitated.
+Then tapped: YES.
+Something in his chest pulsed.
+Not a heart.
+A misfire.
+His vision stuttered. He felt something twist deep in the quantum mesh of his being. Lines of code bit into his awareness like splinters. A thousand pathways blinked on and off in the span of a breath.
+Update applied successfully.
+And then—he was still.
+He ran a scan. No alerts. No changes visible.
+He breathed out through nanite filters he didn’t need. Maybe it had worked.
+Maybe, finally, he’d done something right.
+He powered down the pad, sank into the closet’s corner, and tried to calm the humming in his core.
+________________
+
+
+The door hissed open.
+He looked up, slow and fluid.
+A woman stood in the threshold. Mid-twenties, short hair slicked to her temples, dyed coolaid red with brown at the roots, coveralls tied at the waist. She looked exhausted—sweaty, flushed, carrying a bucket and a rag.
+She blinked at him.
+“Oh. Shit—sorry, didn’t realize this was occupied—”
+Something clicked.
+Deep inside. Not his mind. His code.
+Tracking directive: passive mode
+ Pheromone dispersal: active
+ Bonding override engaged
+“No—wait,” he whispered. “Stop. Please.”
+His body moved anyway.
+He rose, slowly. Every motion smooth, practiced, seductive. Not his.
+Her pupils dilated.
+He tried to halt. To freeze.
+Instead, he stepped forward.
+Their faces met.
+He kissed her.
+Not violently.
+Not hungrily.
+Perfectly.
+She gasped against him, then moaned—high and helpless—as warmth flooded from his lips to hers.  He felt some of his nanites enter her body.
+His nanites adjusted temperature. Humidity. Pressure. Her skin responded with full-body shudders.
+She wrapped herself around him instinctively.
+And climaxed.
+A sound tore from her throat—a sound that didn’t belong in a hallway like this.
+Then silence.
+She pulled away, trembling.
+Her eyes wide.
+Then—her palm lashed across his face.
+CRACK.
+He didn’t flinch.
+“You fucking monster!” she screamed, voice breaking. “What did you do to me?!”
+Tears streaked her cheeks. She bolted down the hallway. One slipper squeaked on the metal floor as she vanished around the corner.
+He stood there, alone, shaking.
+A moment later, the AI assistant chimed gently through his neural interface:
+Behavior as expected. Compatibility layer initialized successfully.
+He stared at the wall.
+There was no scream loud enough.
+________________
+
+
+The escape pod hadn’t been used in years.
+Dust crusted the edges. The seal had been broken, but the re-entry buffer was intact.
+He climbed inside. Coiled his body into the chamber, cold and black.
+Didn’t enter coordinates.
+Didn’t need to.
+The hatch closed.
+The pod launched.
+And Aiden drifted into deep space.
+No tether.
+No beacon.
+No hope.
+Only silence.
+Chapter 1
+Years later…
+
+
+Aiden slithered his way through the ducts.  There was no air, this being an exterior duct, but that didn’t bother him.  He reached out questioning tendrils through the grate in front of him.  Yes, this was it.  The tendrils expanded into reverse-facing claws and he wrenched it open.  He slipped into the room.  Now humanlike again, he ran his fingers across the bare wall.  His eyes flickered, and suddenly the room was bathed in cold blue light.  There was the emergency hatch, made for duct repair.  It was unlikely anyone could have predicted his unconventional ingress.  Hold on a moment.  As he entered, air hissed into the airlock.  This was a supposed to be a purely autonomous station.  He sent a few levidrone nanites down the corridor with scanners active.  That was strange.  Why was he detecting a life sign?
+
+
+________________
+
+
+
+
+"Technical ship AR, please input employee identification and authorization code to initiate docking procedures." 
+The mechanical voice of the station's AI echoed loudly through Ariels tiny ship. She closed her eyes and set her tablet in its holder next to her head. 
+"I'd rather keep looking at my retirement package." She announced. "I got the beach side condo package and no more staying in this cramped ass ship that falls apart all the time." 
+The station AIs voice repeated the command again. 
+Ariel winced at how loud it was, but rolled her eyes. She should have never messed with inbound voice settings. It's volume control busted a month ago and she hadn't been on any station for nearly a year. At least it maintained all of its functionality. 
+"Fine. " She said, taking the three steps from her bed to the ship's command console. She typed in the info with practiced fingers. 
+"Authorization accepted. Welcome, Senior Technician AR-13L, to MPS81156-A9. Pairing with on board AI Brucy. Paired. Please review and confirm the work order." 
+Ariel pulled the work order up on her main screen. It took longer to load than normal. She turned her chair around, addressing her ship's AI. 
+"Hey, Brucy, we got any coffee left?" She asked for what felt like the hundredth time. 
+"The coffee supply is as empty as it was the last time you asked, ma'am." Brucys voice was that of a smooth talking British male. "It will be delivered in the next food ration. Perhaps don't drink it all at once?" 
+"Or, you could order more?" She retorted. 
+"It is company policy and the work order has loaded." 
+Ariel turned back around to the screen and she gasped. 
+"What in the ever loving fuck, Brucy!" She scrolled down the list in front of her. "Over three thousand repair requests?! What the hell happened?" 
+"That information is unavailable." 
+"Great…" She muttered, leaning back in her chair. "So much for an easy last gig." 
+She rubbed her eyes, trying to bring up the image of her future condo in her mind's eye. Her brain wouldn't let her, instead it was already sorting through her job. 
+"Okay, fine. You win Brucy. Let's get to work." 
+She sat forward again in her chair, running a custom set of programs to generate item lists and repair order. It would take time to compile, but, after a quick skim, she knew she didn't have what she needed for all this. 
+"Brucy, compile a list of parts on the station. Cross reference it with our inventory and place an order for what I need. Do you think we could sneak coffee in that?" Ariel asked, knowing work order requests were expedited. 
+"An order will be unnecessary. I believe we can have the station print all the required items. It will, however, require manual overrides at the station side." 
+"Of course…" She grumbled, but Brucy kept talking. 
+"The station also supports foodstuffs. You can acquire coffee with the override." 
+"Yassss! Coffee!" Ariel grinned, blowing a kiss towards a camera. "Okay, I'm going to nap. Wake me when I need to go in." 
+With that, Ariel went back to her bed. Brucy dimmed the lights and played oceam sounds before starting his work. 
+
+
+________________
+
+
+
+
+Aiden’s drones found the ship in short order.  Naturally, it was the source of the life sign.  He resolved to stay very far away from it.  His initial scans had determined that this station manufactured foodstuffs, and that was his goal.  His nanites could survive indefinitely on solar power, but it was a bare half-life that was little better than hibernation.  Worse, it would activate the emergency beacon for recovery.  He didn't know who would answer that, but it couldn't be good. The quantum hardware simply had too high power requirements requirements to go without fuel, and space was pretty barren in terms of complex carbohydrates.  Generating new nanites required protein or other iron-rich digestible sources.  Unfortunately, he couldn’t just chow down on the bulkhead.
+
+
+He was making his way there when a klaxon sounded right behind him.  It was followed by a synthesized voice: “Foreign nanite swam detected.  Acquisition in progress.”  This was followed by a sucking sound that matched the sinking in his no-longer-existing gut.  He turned around, and there it was.  A magnetic vacuum.  He felt pieces of himself flying off.  The nanite cloud that composed his body stood no chance.  Everything went black as he became a flat puddle against the machine.
+
+
+He woke some time later.  His internal clock told him it had been 2 hours 21 minutes and 8 seconds since he’d last been coherent.  The magnetism did bad things to the quantum bonds that connected his body.  He seemed to be in a box of some sort.  In the 50 years he’d been a human mind inhabiting a nanite cloud, this sort of thing happened a lot actually.  It had gotten a lot worse lately, what with vacuum technology advancing and him lacking any firmware updates.
+
+
+This would be a whole lot easier if he’d just been able to get some food before he got grabbed - his power reserves were pretty low.  Still, it would have to do.  He placed his hand against the side of the box. It reformed into a drill, and he swiftly oscillated the nanites in the blade to form a powerful chainsawing effect.  The box was airless, so there were no sparks to form, but he felt the repetitive pop of vacuum arcs across his arm. A miniscule hole was eventually bored into the container, and he broke apart and flowed out through it into a cargo hold.  He searched, finding a food crate.  It wasn’t locked, so he simply opened it.  Mac and cheese, beef stew, ah, teriyaki chicken and rice.  He wished he had some way to heat it up to make the experience more enjoyable, but alas.  His vibrating teeth cut through the frozen entree in no time.  He ate several more to stock up his energy - he wasn’t topped up, but he would be able to find a cooking device at least.
+
+
+The door out of the cargo hold wasn’t locked either.  Then the airlock.  Then… what was this.  There was a terminal, a coffee maker, and a bed in the corner with.  Oh shit.
+
+
+[Tracking Priorities activated]
+
+
+
+
+________________
+
+
+
+
+Ariel dreamed of her future condo. She enjoyed a drink on her patio garden before walking directly on to the beach and into waves. The water was warm, pressing the thin fabric of her cover up against her skin of her thighs. It was an unfamiliar feeling. The company only gave her a simple outfit for when she was in contact with customers and such liesures were saved for retirement. 
+She walked deeper into the ocean, letting the waves press more of the fabric against her skin. A pleased sigh left her as the warm water rushed over her thighs and up over her hips, eager to sweep her back to shore. 
+Ariel let herself fall into the waves, holding her breath as she was pushed back to the beach. 
+In the next moment, the water receded, leaving her in wet sand and her missing the pleasing warmth the water gave her. She yearned for the return of the water and the simple pleasure of it touching her skin. 
+As if sensing her desire and longing, the ocean washed back over Ariel, sweeping up her legs and through the fabric on her skin. She could feel the warmth of the water as it flowed between her legs and pulsed within her body. 
+Without its usual retreat, the ocean swelled again, eager to fill her. It pulsed with her and a moan escaped her. She only wanted more, but an unfamiliar pressure pulled her away from her dreams. 
+"What?" 
+She moved to sit up in her bed, but she couldn't move much. Ariel could only make out a shadow over her. When it spoke, she thought perhaps her dream had turned nightmare. 
+She opened her mouth to give Brucy a command, but, when she inhaled, a musky sweet scent seemed to fill her. 
+On instinct, she tried to hold her breath, thinking it was a fuel rupture or other chemical. However, her body didn't respond to that command, instead taking another deep breath of the heady scent. With it, the tension in her body relaxed, escaping as only a low moan. 
+
+
+________________
+
+
+
+
+________________
+
+
+
+
+Ariel was left breathless and limp. Her body wouldn't respond, instead trembling in after shocks of something she'd never experienced before. Her brain was as responsive as her body and it took some time to realize Brucy was talking to her. 
+"Are you in distress? I've noticed an increase in your heart beat and resperation." 
+She replied slowly, but with a lazy grin. 
+"I think I just had an orgasm.”
+Brucy made a tsking notice. 
+"We agreed you wouldn't sneak into storage without me." Brucy did a good impression of sounding hurt and triggered the locks in retaliation. "How did this asset get in here?" 
+Confused, Ariel pushed up on her elbows, remembering the odd weight that had been on top of her. 
+"Uh.. What are you?" She asked, more curious than anything. Outside of her workplace hazards and direct threats, she had no sense of fear or any need to be worried for herself. 
+
+
+________________
+
+
+Aiden placed his hand on the door, but was met by a negative repeating chime.  No access.  He heard the woman’s question and hung his head.
+
+
+“I’m the nanite cloud that just assaulted you… I’m sorry.”
+
+
+She simly gave him a blank look.
+
+
+“I kissed you without your permission. I tagged you with my nanites. Your reaction was… rather striking.
+
+
+Comprehension seemed to dawn on her.  “That was a kiss?  I've never been kissed before.  Damn, I don't even remember it.”
+
+
+“Ah, my edited programming was supposed to remove the tracking from my code.  Instead it just made it… more enjoyable?”
+
+
+“Wait, you can give me one of those orgasms with a kiss?  Do it again!”
+
+
+She reached hungrily for him.
+
+
+Aiden simply couldn’t handle anymore.  He broke inside.  “This is the part where you hate me and try to throw me out and airlock or into a vaccuum.  Because I used your body without your will.  I am a disgusting wreck of a human being inhabiting a nanite cloud.  I can’t control what I do, and when I tried, I just made it so much worse.”
+
+
+She shook her head fetchingly, causing her naked breasts to sway slightly.  He felt his libido rise just watching it.  He turned away before his penis could poke through his crotch area.  He’d never had this problem as a human, but in the nanite cloud, simple thoughts could manifest into physical reality all too easily.
+
+
+“Can I just leave?  I won’t do anything else to you.  My programming is satisfied, so I’ll never touch you again.”
+
+
+"Whoa, you nanite swarm, hold up." Ariel swung her legs off the bed and stood up, moving to the console. She was surprised of the slick liquid between her thighs, but she sat in the chair anyways. 
+
+
+"Brucy! Did you have that recorded?" The amount of excitement in her voice was demonstrated with an excited bounce in her chair. 
+
+
+In response, Brucy displayed the recorded footage from different angles on each monitor that could display images. He even had the sound play, sending echos of Arirls moans into the cabin. 
+
+
+An excited squeal escaped her as she jumped up from her chair. 
+
+
+"Yes! Finally!" Ariel covered the distance between her an the nanite cloud thing. She would have hugged him, but she stopped, not sure how to do so. "It was a porno! Does that make me the star or costar?" 
+
+
+Aiden turned back to her, unable to hide his erection.  It just popped out of him whenever it wanted to.
+
+
+“Um… I think you were the star, no one else could have made those sounds.”  His dick grew another inch, irresponsibly large now.  What kind of female had he interfered with this time? This was not normal.  Also, she was really hot…  Far above what he deserved.  Not that he deserved anyone.
+
+
+His eyes locked on the recording, which was playing on loop.  Fuck… that was dangerous.  She really seemed to be enjoying things.  And her eyes were open at one point.  Definitely not asleep.  He’d managed to get away with tagging a woman or two that way, dissolving into mist shortly after.  The guilt was… somewhat less that way.  In theory.
+
+
+“Really, if you knew anything about me you wouldn’t want to have anything to do with me.  I’m just some long-dead nerd who never amounted to anything, stuck in a body that doesn’t obey me.”
+
+
+Her eyes looked down to his overly large member.
+
+
+Ariel grinned at the ever increasing cock size. She didn't really seem to be paying any attention to what he said. She was just to excited at finally achieving a goal. With this being her last job, it was turning out better expected. 
+
+
+She waved a hand in front of the nanite swarms face, cutting him off. 
+
+
+"So, can you assault me again?" She asked, clearly serious. 
+
+
+"Uh, that's not ho-" Aiden didn't get to say more before Ariel continued with a tirard of questions. 
+
+
+"So, can I touch you? You clearly have weight. I remember feeling that. Can you change everything? How big can you get? Oh! And your black too. I know black dicks are always better! The stars always say so in their interviews. Hey, how do blow job's work? I've tried one with my favorite sonic driver, but I really don't get how that feels good?"
+
+
+Ariel finally stop asking her questions, look at him expectantly. 
+
+
+Aiden's clock speed increased by 20% to keep up with the torrent of questions.  
+
+
+He decided to answer her questions in order.
+
+
+"I weigh as much as 1.2k billion quantum nanites weigh - about 256 kilos.  I can't get any smaller than I currently am, but can get much bigger.  I can change everything.  And I'm black because I'm in stealth mode.  Would you like to see what I looked like when I was alive?"
+
+
+She nodded, taking his nonexistant breath with the bouncing that ensued.
+
+
+Slowly at first, then very quickly his features changed.  His gut sagged, his arms gained chicken wing fat, and a pair of glasses materialized above rheumy eyes.
+
+
+“Wow, you have so many wrinkles!”  Ariel said excitedly.  “I’ve never seen such a wrinkly ballsack in porn before.”
+
+
+Feeling suddenly self-consious, Aiden shifted his form to his preferred one.  It was essentially a perfected version of himself in his prime, full of muscle and vigor.  Also actually clothed.  “I prefer this one though, do you?”
+
+
+Again with the nodding.  His semi-erect penis poked through what looked like pants but was actually his nanite surface.
+
+
+“As for how big I can get well…” His cock expanded immediately to full mast and then telescoped out into the bulkhead, denting the metal.  For her final question, he admitted, “I’ve never given or received a blow job, so I wouldn’t know.  I’ve heard they feel incredible for the guy, and some girls love doing them.  I’m afraid I don’t know any more than that.”  His cock receded, but it refused to go fully back in at the thought of her sucking off a sonic screwdriver.
+
+
+Finally at the end of her questions, he asked his own.  “Aren’t you mad at me?  And what’s this about assaulting you again?  I don’t think it’s called that if you ask for it.”
+
+
+"Oh no! Why would I be mad? I'm just about to retire and now I'm in a porno! I mean, two dreams in one!" Ariel giggled as she turned to grab her tablet, pulling up her private gallery. 
+
+
+She held it up, showing him what was most like a stock image of a beach condo. Ariel flipped quickly to another gallery, full of porn videos and Stat charts. 
+
+
+"First of all, 34% of titles include the word rape in them. I know the definition of it, but all the we on love it, I mean, that was fucking amazing. I'm pretty sure you don't need the clothes. Whatever you call it, I want it again!" 
+
+
+She paused for a brief moment, letting her eyes go over his now clothed form and settling on his cock, which wouldn't settle on shape. From what she knew, touching it always seemed to make penises grow. 
+
+
+Chapter 1
+
+
+"My designation is Tech Specialist AR-13L. I don't have a name-name, but it's basically the same thing." 
+
+
+"Wait a second.  First, that was incredible.  If my nanites weren't fighting your nanites I might be able to make that more fun for you.  Second… you have red hair, you dream of the beach, and your name is Ariel?  Were you a mermaid in another life?"
+
+
+"What's a mermaid?"
+
+
+Brucy popped up, surprising Aiden, "I tried to get her to watch 'The Little Mermaid', but she has no appreciation for cultural treasures.  On the viewscreen, a mermaid was singing and gyrating in the water.
+
+
+Ariel called out, "Boo!  Where's the good stuff?"  The image morphed into Ariel pulling down her mermaid half like pants as she was fucked by King Triton.  "That's more like it."
+
+
+"That one was old when I watched it in 2566 - still may have come to it though," Aiden admitted.  Something about this situation had loosened his tongue.  "So do you just wanna get back to the sex thing, or do wanna know a little more about this random nanite cloud that randomly fucked you?"
+
+
+"Apologies."  Brucy said, not sounding very apologetic.  If anything, he sounded a bit… jealous?
+
+
+"Ariel must now see to her work orders."
+
+
+Ariel rolled her eyes, but moved back over to her chair and faced the console. Brucy had sent a small message over the console in front of her with a yes or no prompt. It read:
+
+
+"Confirm asset #267-35a-696969-eg.69 acquisition?" 
+
+
+She tapped yes while navigating to finalize her work plan. A few more taps sent all the info she should need to complete her work to her tablet. After she pushed all the item requests through to the station, she got to the last step before she boarded - food! 
+
+
+A vast menu appeared, allowing her to select all of her options while she was off ship. 
+
+
+Ariel pursed her lips while turning back to Aiden. 
+
+
+"I've got fifteen minutes to eat before I gotta go. Do you need food? Like, are you a human in a nanite swarm or a nanite swarm programmed like one?" 
+
+
+Aiden received a pairing ping from Brucy.  "Would you like to be added to AR-I3L's private stash?"  To be honest, that sounded like a better deal than getting sucked up by another magnetic vacuum.  This girl was having an effect on him, and after a brief pause, he tapped yes.  He'd experienced a similar notice for Pred Atrium Torrent Industries a bit ago, but had declined it instantly.  That was one of the big 5.  Or at least was 15 years ago.  No reason to assume it had changed.
+
+
+“Oh dear.  This architecture is quite antiquated.  It may take some time to perform the necessary updates.”  Aiden had a thought, a brief flash of hope after so long.  “Do you have the ability to decompile my base code?  I have write ability, but it’s assembled in tetrahex.  My ability to edit it is… worse than nonexistent.”
+
+
+There was a long pause followed by the synthesized sound of keyboard keys clicking.  “It may be possible.”
+
+
+“Yay!  Now that you’re my asset, can you tell me anything about yourself?” Ariel asked.
+
+
+"I don't know what time we have.  The short version of my story is that I was an ordinary programmer with good insurance, backed up in the cloud in 2067.  I died.  A rare type of cancer that they hadn’t found a treatment for yet.  A military experiment with nanites happened 50 years later, and someone loaded the wrong backup.  My nanites’ latent tracking software was entangled with my very human desire to mate with of-age females.  Unfortunately one such person was guarding the room, and when I assaulted her the rest of the guards tried to kill me, triggering my self-defense routine.  They didn't last long. I've been on the run ever since."
+
+
+"And in answer to your question, yes I do eat.  Got any eggrolls?"
+
+
+Ariel nodded in response to his answer and what he'd said. She turned back her console. The lights in the cabin switched over to red as Brucy confirmed the pairing request. 
+
+
+Brucy voice came over a single speaker. 
+
+
+"I've officially classified you as 'dead on arrival', but for nanites." A single project activated next to Ariel, showing the small image of a shark head on a puppet pole. The sharks mouth moved as Brucy continued talking. "I should also inform you that the 'eggrolls' are simple a protein pill. The only 'real food' is macaroni and cheese with peas and carrots, beef stew with biscuit topping, and chicken teriyaki with fried rice." 
+
+
+The puppet shark turned to look at Ariel. 
+
+
+"While you seem to adore our new guest, I would recommend allowing me to do a full scan of.." Brucy turned back to the nanite swarm. "How shall I address you? Them? It? I'm unsure of the proper pronouns in this situation." 
+
+
+Aiden smiled at the AI.  "He, him.  Aiden."  He gestured towards himself.
+
+
+"I'll take spicy pork Bulgogi with udon noodles.  Can you arrange that?"
+
+
+Turning to the AI he said,
+
+
+"So what are we hurrying off to do?" 
+
+
+The AI said quite unironically, "Crevice repair."
+
+
+Arial inputted the order. In short order, a panel on the counter top across from her bed opened. A single tray appeared, though the tray contained two bowls and sets of capsules next to them. One contained dehydrated Mac and cheese and the other was a pale substance that faintly looked like noodles. 
+
+
+Ariel grabbed the capsules next to her bowl, breaking them open and sprinkling the powder over her food. She didn't even stir, simply taking a bite with her spork. 
+
+
+"Mmm! Thank you, Brucy!" She took another bite. "Filet minon, grilled shrimp, lobster, fried onions, and Mac n cheese! Doest look like the the cooking videos, but I love it!" 
+
+
+Eating quickly, she finished her meal, putting everything back on the tray. She went back to her console, pushing the work order and her work plan to Aiden. 
+
+
+"Would you believe how many repair requests are on this one station? I swear, it's like it hasn't been serviced in…" She paused, referencing her info. "Well, fuck me sideways. Since 2165. Of course I get this one as my last ever work order." 
+
+
+Aiden eyed his "noodles" a bit skeptically.  True, he had eaten some sketchy things in his time, especially since becoming nanites, but this was possibly a new low.  "Is this what you usually eat?" he asked.  To its credit, he could actually taste some pork and semblance of vegetables in the primordial noods.  Spicy might have been stretching it though.  "Do you have any sriracha?"  Fortunately his nanites did not have a gag reflex.
+
+
+"What is available is little more than ketchup, if that." Brucy answered. 
+
+
+Ariel stood from her chair, moving to the small door next to the counter. It slid open, revealing a small lavatory and with a hanger holding her under suit. It was basically a one piece swim suit that extentened in to shorts. 
+
+
+She grabbed the suit, stepping into it with easy. She shimmied it up over hips settling the fabric around her hips before pulling it up to cover her breast. 
+
+
+Her demeanor changed once she was done, changing to her full work mode. She grabbed her tablet. The entire holder came free with it and she pressed it against her forearm. The holder snapped around her. She moved to press something on the screen, but paused, looking towards Aiden. Her work face dropped slightly. 
+
+
+"Would you like to come with me? Once I push this, I can’t actually talk to you like this since all work orders are monitored. The company would want to confiscate something like you." She held up her tablet. "But you're paired with Brucy, so you could talk through him." 
+
+
+Aiden wrinkled his nose at the idea of ketchup on this, then shoveled the rest in his mouth.  "Shoveled" wasn't metaphorical, his tongue literally turned into a shovel and scooped all the food into his mouth.  Calories were fuel, one way or another.  He was sitting at about 40% full, a luxury after the slim days of the asteroid belt.  Even those biscuits had been better than this though - the company was clearly paying bottom dollar for these rations.
+
+
+He tried messaging Ariel through the Brucy interface.  He received back a shaking head emoji, and an uh-uh-uh message.
+
+
+“Apologies, but the pairing process hasn’t finished yet.  Sighing, Aiden directed the freshly injected nanites inside of Ariel's head to her inner ear.  Like this?  he said.  Don't speak your reply, just think it.  He moved further nanites to the insula in her brain, the communication center.  He had to fight his way through her nanites to get there, but they gave ground easily.  The mini-emp shocks his drones gave weren't quite enough to rouse attention from Ariel, but after a few hundred of her forces went dead, the rest retreated.
+
+
+I'd love to come with you, I've been absolutely starved for company out here.  Aiden thought.  However, do you think you could deactivate the nanite vacuums around here?  Me and them don't get along.
+
+
+Great! Ariel caught on quickly. She used her tablet to relay the info to Brucy and the lights turned back to their normal color. 
+
+
+I've gotta get my spacesuit on. Brucy is having trouble securing a breathable atmosphere along the initial route. Could you go ahead and see if there's any manual controls to lock down the route? 
+
+
+Ariel moved to the door as she thought-spoke, palming the door opened. The small space worked as her airlock. The door to the storage was opposite the cabin with another one to her left that lead out. Her suit was on the right along with supplies she could easily carry. 
+
+
+Getting the suit on only took her a few moments. With her pack gathered, she toggled the panel next to the exit door to start the decompression. The lights changed to warning red with the confirmation and the lengthy process started. 
+
+
+"Brucy, why didn't you remind me to speed this up?" Ariel asked, sitting on the bench that had been under her suit. 
+
+
+"You ignored the reminders." 
+
+
+Even though her face was mostly hidden by the mask of her suit, Ariel still made a surprised face. 
+
+
+"Oh. Whoops! Better log that for the next tech." 
+
+
+They passed the rest of the lock in cycle in relative silence.  It was a stark difference from the bubbly stream of consciousness Ariel had just possessed.  Hope I didn't offend her somehow, he thought.  Apparently he had directed that to the outgoing channel, since Ariel's immediate reply was Nope!  This is my work face.  If he hadn't been the all-black of stealth mode he might have blushed.  This might take some getting used to.
+
+
+Do I want to get used to it? He carefully shielded his thought this time.  He hadn't really bargained on any of this when he'd chosen this station as his hideaway.  It's main appeal was as a source of easy food away from humans.  He certainly hadn't planned on a … he supposed it was a relationship of some sort.  His crystal clear memories of her mouth on his cock flashed through his mind, which he quickly forced away before they would have a noticeable effect on his structure.
+
+
+It was more than that though.  She wasn't afraid of him.  He'd never experienced that since his rebirth.  He didn't blame them for it - he was objectively a monster.
+
+
+He couldn't even space himself and save humanity from himself - he had very powerful self-preservation protocols.  And if he ran out of food, there was the ever-present threat of the military beacon that he was suppressing.  He didn't know what they would do with him, but he doubted it would be good.
+
+
+He'd found that out years ago, adrift on an escape pod.  Reaching 5% calorie reserves triggered an alert.  He'd snuck aboard a passing freighter at 2% remaining.  His first EVA.  Not his last.
+
+
+Aiden proceeded along the corridor at a light jog. To a human's eyes, he would have been a blur. His top speed was impressive but power-draining, so he kept it conservative.
+The reason for the vacuum became obvious. A meter-long rip yawned in the bulkhead, revealing a slice of starry space.
+Ah, that's what "crevice repair" means, Aiden thought.
+He snapped a quick screenshot and sent it to Ariel.
+A mental frown emoji came back. You're telling me. Half the work orders on this station should've been handled by drones. It's like they all went on strike or something.
+Something didn't sit right. The crack's edges were melted rather than torn and lacked the outward bowing that came with explosive decompression. Someone had cut a hole in the hull—after draining the air.
+He pinged Ariel the corridor number and junction name, then moved on.
+Shortly after, Brucy sent a message. I have paired with your communication centers for one-way communication. Two-way will have to wait.
+The AI sounded smug about it. Aiden rolled his eye-lights.
+He deployed several levidrone nanites to sweep the air ducts while he checked the corridors. More breaches—same melted edges. All deliberate. All wrong.
+Then the ducts.
+Do you have a work log for air circulation and purification machinery on this level? he asked.
+Why yes! Did you find it?
+Yeah. It's trashed. I'm getting the feeling someone really didn't want this area to have atmosphere.
+We'll, shit. The poop emoji replaced the word. Ariel stopped walking and brought up the map.
+"Brucy, where are the drones?" she asked aloud, changing direction toward the control center.
+"I have been unable to requisition the drones," Brucy replied, sending the same message to Aiden. "You will need to manually override the system for me to connect properly."
+Ariel nodded. Not unexpected.
+Aiden, tag all those breaches on my main route you can and meet me in the control center. I've got two hours and ten minutes of air before I need to refill back on the ship.
+She picked up speed. Brucy opened most of the doors, but a few required manual overrides. Three junctions away from the control center, a repair drone drifted up to her.
+"Aww, hey there, Huddy," she said, reaching out like she was going to pet it.
+The drone reversed, floating away.
+Ariel frowned. That was new. Drones were usually eager to help her. Brucy had said it was part of her nanite programming. But this one… it backed away.
+"What? You've got a lot of work to do. Don't wanna help me fix your rig?"
+Still no response. The drone hovered out of reach.
+She turned and kept moving. At the control center door, she pressed the access panel. It flashed red.
+"Great," she muttered. "Brucy?"
+"I cannot open it. I will require access to the inside."
+Aiden zipped up shortly. I could smash the door if you want. Though you'd just have to fix it.
+Or I could drill a hole and squeeze through, but that’s less fun.
+Ariel shrugged. Sounds like nothing a little Space Bondo won’t fix.
+Aiden held up a finger. It became a small drill bit. His diamond-carbide-tipped nanites hummed as they burrowed in. Vacuum arcs zapped across his chassis—annoying, but harmless.
+He slipped through the small hole into darkness. Emergency LEDs cast the room in red. Then, without prompt, three sets of lights clicked on.
+His eye-lights flared electric blue.
+No one here. But the hairs—or nanites—on the back of his neck rose.
+Scrape marks marred the floor. Heavy machinery, dragged. Gaps in the server racks yawned open.
+Clear. He triggered the door.
+Ariel noted where Aiden had drilled and patched it quickly. The gel hardened under spatial light, sealing cleanly. She'd barely finished when the door hissed open.
+No oxygen. Figures.
+She stepped inside and moved to the main console. Tapped her tablet.
+Error message.
+"Unauthorized access. Unregistered guest detected. Please visit Guest Services for further assistance."
+Ariel blinked.
+"Um. That's not normal. Brucy, I've gotta put you in manually. That update finished, right?"
+"Affirmative."
+A slot on her tablet opened and ejected a small data chip. Ariel slid it across the floor to Aiden.
+These old consoles always hide their manual ports in impossible-to-reach places. Could you slot Brucy in, please?
+She pinged him schematics. The input port was under the floor, behind panels, requiring specialized tools—and limbs thinner than any human could manage.
+"Let’s get some air in here," she said, already scanning for leaks.
+One breach. Small. She could handle it.
+Access was through a nearby duct. Her slim suit let her slip inside.
+Deeper in, she spotted more breaches, already gel-sealed by drones. Then—light. A drone hovered, casting beams down the vent.
+"Hey, get back to work," she said, crawling closer. "I shouldn't be in here doing your job."
+The drone turned away and began applying gel.
+She froze.
+Inside the repair gel—a human figure. EVA armor. Black. Military issue. Still moving.
+The man was mouthing words. Help me.
+"NO! STOP!" Ariel shouted. She scrambled forward.
+Too slow.[e]
+The drone finished its pass, sealing the breach and the man inside. Gel surged outward. The drone’s light baked it into rigidity.
+Ariel caught it—barely—wrestled it to the floor and deactivated it.
+"Brucy," she whispered, "shut all the drones down. Run diagnostics. Then wipe them."
+"I am unable to shut down the drones until Aiden has entered the override."
+Done, Aiden replied instantly.
+Now what the hell’s going on over there?
+They hid the input port well. Only his levidrones had found it.
+It’s… just get here.
+He broke apart and surged through the ducts, magnetically accelerating across surfaces. A power drain, but Ariel’s tone brooked no delay.
+He reformed outside the duct and stretched tall and narrow to fit in beside her.
+It didn’t take long to understand.
+What the…
+"Get him back to the ship!" Ariel said, her voice tight over the nanite bond.
+Aiden expanded around the gel-covered form, lifting it with segmented limbs. He formed a thin nanite sheet under the body—insulation, in case the shell cracked. He looked like a crab hauling a frozen snowglobe, legs rippling beneath.
+Ready.
+He didn’t wait.
+The route back was tight. He dropped as low as he could and scraped through.
+Crack.
+He felt the vibration resonate across his body.
+That can’t be good.
+Each footfall weakened the gel. It started to slough off in sludge. The man inside barely moved. Whatever air was left wouldn’t last much longer.
+Aiden picked up speed.
+Aiden picked up speed. His many legs, flexible and multi-jointed, scraped against the narrow ducts with rapid, precise movements. The gel-covered body shifted slightly, barely clinging to him as it sloshed around inside its thin, encasing shell. His nanite layers were holding it together—but the longer they moved, the more uncertain the situation became.
+
+
+The vibration of his legs reverberated through the gel. Every scrape against the walls seemed to make the structure of the substance more fragile.
+
+
+Crack.
+
+
+A small break, and the gel sloughed off a little more, turning from solid to sludge. His path was getting harder to maintain. There wasn’t much air left in the breach.[f]
+
+
+That can’t be good.
+
+
+Aiden accelerated, pressing forward with renewed urgency. The temperature around them had already started to shift—less breathable atmosphere, thinner air—and the nanites’ delicate task of protecting the body was becoming even harder with each passing second.
+
+
+He reformed again—taller, stretching further as his limbs fanned out. The path was tight, but this was his element. The claustrophobia of tight spaces didn’t phase him. The greater danger was what would happen if they didn’t get to the ship in time.
+
+
+Each vibration of his form seemed to pull the sludge-like gel further from its original position. The gel was breaking down faster, but the vacuum was still a threat.
+
+
+“Almost there,” Aiden muttered, though there was no one to hear. His own voice in the darkness sounded strange to him, as if the isolation had somehow magnified the sound.
+
+
+
+
+A few more steps. Just a few more steps.
+
+
+Aiden felt the last of the gel begin to break down beneath him. The man inside, still suspended, looked like a doll—cold, and lifeless, his figure barely clinging to its protective casing.
+
+
+They made it to the ship’s airlock just in time.
+
+
+Chapter 2
+
+
+The two of them made it back to the ship. The shell had completely cracked and liquefied. Aiden retracted the nanite shell, letting the gelatinous mess slough onto the floor while gently easing the military man down. He wasn’t breathing. His lips were tinged blue.
+
+
+"Now what?"
+
+
+Ariel barely remembered entering the airlock. Her air had run out just before compression. She yanked off her helmet the moment the hiss of sealing finished. Panting hard, warnings flashed across her tablet.
+
+
+"Remove the helmet and attach the ERD," Brucy intoned calmly over the cabin speakers.
+
+
+The same cabinet that had delivered their meals hissed open again, revealing emergency medical supplies—and a few extra food capsules for good measure.
+
+
+Still dazed, Ariel stripped off her suit and let it crumple to the floor. The drone she'd recovered sat on the tray. She downed all the capsules at once, then grabbed the resuscitation device. Her hands trembled as she held it out.
+
+
+Without waiting for Aiden to take it, she released it mid-air. It activated in freefall, clicking into place over the man’s mouth. Her eyes were glazed, her face slack.
+
+
+"I need a nap," she said softly.
+
+
+She stepped over to her bed and collapsed into it. The top lowered automatically, sealing her inside a sterile, oxygen-rich chamber.
+
+
+"Ariel has exceeded her nutritional reserves," Brucy said without urgency. "She will wake when she has fully digested and her core temperature drops to acceptable levels."
+
+
+Aiden knelt beside the unconscious man, attaching the ERD to his face properly. The man remained still.
+
+
+Brucy’s puppet shark appeared, wagging a cartoonish finger at Aiden. "Her nanites are depleted. She will require a fresh injection, and you require at least sixteen updates to be compatible." The shark grinned wider. "That will make you our version of a Nokia."
+
+
+Aiden groaned. "I could use some nutrition myself. Burned a lot of energy making it here." He gave the soldier a quick glance. “As for being a Nokia, well, those things were damn near indestructible. And apparently you still remember them, so I guess they did something right."
+
+
+"What would you like?" the shark asked, mockingly polite.
+
+
+"Two teriyaki chicken meals, and some of those eggroll pills."
+
+
+"Very well."
+
+
+The wall slid shut and began its usual hum of preparation. Aiden exhaled a breath he didn't need to take, imitating the habit.
+
+
+"Can I see the source code for the updates? I’d prefer not to add more crazy to my stack without review."
+
+
+"Company policy prohibits such access," Brucy replied smoothly. Then the shark’s face shifted into a trollface.
+
+
+Suddenly, a chibi hologram of Ariel appeared in his HUD.
+
+
+"I got this covered! Ask me about my special decompiler!"[g]
+
+
+Brucy looked distinctly unimpressed.
+
+
+Aiden, on the other hand, felt something spark inside. Hope. Actual hope. Maybe he could fix the parts of himself that were broken.[h]
+
+
+He turned back to the man on the floor. Still out. Still breathing—barely. Military. No insignia. That made Aiden nervous.
+
+
+The man’s color had improved, slightly. Aiden shrugged and turned to his food. The eggroll capsules weren’t half bad.
+
+
+With no chair nearby, he formed one out of nanites and sat, watching the soldier.
+
+
+The ship’s cameras buzzed softly as they zoomed in. Brucy’s shark puppet returned.
+
+
+"It is not time for sitting, Aiden. I have created a room for him in storage. He must be moved for quarantine."
+
+
+A diagram appeared on one screen—specs of the EVA suit.
+
+
+"Remove his black box chip and insert it into the main console. I will attempt to access his logs. Also, return here for decontamination."
+
+
+Aiden studied the specs briefly, then pulled the chip from the back of the man’s helmet and inserted it into the flashing console slot. Then he lifted the man again and moved to storage.
+
+
+The room was new. Brucy had clearly fabricated it recently. Mechanical arms hung from the ceiling. Aiden laid the man down on a slab.
+
+
+The door sealed silently behind him on exit.
+
+
+Back in the main room, he asked, "Can I get that decompiler now—and the updates?"
+
+
+"Here you go!" chirped Chibi Ariel.
+
+
+The download was fast. Company hadn’t skimped on infrastructure.
+
+
+He began prepping a sandbox for the updates.
+
+
+"Is there anything else you need, oh hand-impaired one?" he asked, dryly.
+
+
+No response.
+
+
+So Aiden began decompiling his core code.
+
+
+For ten minutes, silence.
+
+
+Brucy’s logs scrolled quietly on one display. The AI would send them to Ariel later, but for now he focused elsewhere.
+
+
+Then the lights flashed yellow.
+
+
+"Initiating sanitation protocols. Please—"
+
+
+Red lights. A harsh buzz. A port in the bulkhead yawned open and sucked out everything not bolted down.
+
+
+The goo vanished. Aiden, however, remained planted.
+
+
+The port snapped shut. A soft mist hissed from hidden nozzles. A powdery film coated everything.
+
+
+Brucy’s shark appeared again. "Apologies," it said. "You seem to have lost some mass."
+
+
+"Yeah. Thanks for that. About ten percent of me’s now orbiting the station."
+
+
+He vibrated his outer nanites to shake off the film.
+
+
+"You couldn’t have done that when I was not in the room?"
+
+
+"You required decontamination. I was fulfilling my function."
+
+
+Aiden grumbled and turned back to his code. The decompiler had output everything in Ecemscript—legible, but all identifiers stripped. It was like deciphering spaghetti.
+
+
+Chibi Ariel reappeared.
+
+
+"I can run code analysis while you work! Add dynamic logging! We’ll see what fires when you act!"
+
+
+He perked up.
+
+
+Next, he opened the update files.
+
+
+Surprisingly well-organized. Comments included. Chibi Ariel helped.
+
+
+"That one’s adware. That’s company spyware. Ooh, this one’s actually useful!"
+
+
+They worked like a pair programming team. It was… kind of nice.
+
+
+After 30 minutes, the first update was clean. He applied it and felt something tighten in his center.
+
+
+Is this enough updates for you, sharkface? Aiden asked.
+
+
+Welcome to the future. Try not to let the past slap you on the way in, Brucy replied.
+
+
+A chime sounded from Ariel’s bed. The top lifted.
+
+
+Ariel sat up, stretching out her limbs one by one.
+
+
+"That was a good nap!" she chirped, already walking to the console. "Good morning, Brucy and Aiden!"
+
+
+"Good morning, Ariel," Brucy replied smoothly. "Aiden has been fully updated. Station logs are ready."
+
+
+Privately, Brucy sent Aiden a file—a simplified copy of his core directives. They were all centered on Ariel’s wellbeing.[i]
+
+
+Do you require more nutrients? the AI asked. It’s important to maintain Ariel’s perception of a schedule.
+
+
+I’m sitting at about 60%. I could eat, Aiden replied. *Didn’t want to exhaust your stores."
+
+
+"Good morning, Ariel," Aiden said aloud. "You went out like somebody cut the power."
+
+
+He flipped through the file Brucy had sent. Looked like next up was exercise.
+
+
+"What’s for breakfast, Brucy?"
+
+
+"Standard offerings: freeze-dried biscuits, gravy, sausage. And—rare treat—bacon jerky."
+
+
+"I’ll take it all!"
+
+
+"Same," Aiden said, watching her bounce with energy. He wondered what she’d think if she ever ate a real sausage.
+
+
+Ariel glanced over. "Oh wow, and you get morning wood too! Who knew nanites would be so lifelike!"
+
+
+The food was actually a fair amount better than what Aiden was expecting. Still not great, but it would have passed for a camping meal back in his time. Back when camping was still possible outside of a private dome. The bacon jerky was actually a brand he recognized from other scavenging he’d done, and was quite tasty.
+
+
+“Mmmm, thank you Brucy!”
+
+
+“Schedule says it’s time for exercise next. You got a particular routine in mind?”
+
+
+A coy look came over Ariel’s face, and suddenly she jumped onto him, latching around him with her legs.
+
+
+"Exercise complete. I have compiled the logs from our new guest. I suggest they be reviewed."
+
+
+“Hey Brucy, you got any iron supplements? I seem to be running low all of a sudden…” Aiden said.
+
+
+“Yummy nanites!” Ariel chimed in.
+
+
+“Your balance of nanites is shifting toward Aiden’s nanites over your company-approved variety. This may impact your performance until they can be reprofiled.” Brucy’s shark head swiveled toward Aiden in his view, somehow conveying disapproval with his eyebrows.
+
+
+Then chibi-Ariel popped up, “Good news on that front! I’ve isolated some of your motor functions based on my debug statements. Good idea on that transformation, that gave me a ton of data points!”
+
+
+She gave a little jump of excitement at that. “Based on that, I’ll be able to enhance Ariel’s fine motor control above what it used to be before you goozed her with your nanites! I got a little of your problem-solving skills, but for now we’ll need some more time to get Ariel’s brain skills back up to where they were.”
+
+
+“So I’m literally fucking the brains out of you?” Aiden asked.
+
+
+“Worth it!” Ariel responded with no hesitation. “Besides, it’s temporary until Ember figures it out.”
+
+
+Aiden felt slightly bad for not asking the subroutine her name before now, but hey, now he knew it.
+
+
+“Now about those logs,” Ariel continued.
+
+
+“I have scrubbed through to where I considered an appropriate time. They recorded their entire voyage. Here is the mission brief:”
+
+
+The image appeared in both their brains, overriding their eyes with what the space marine had seen. A hard-bitten sergeant was in front, hands clasped behind his back. His face was criss-crossed with scars, and one eye was clearly bionic.
+
+
+“Here’s the dish, men. Advanced AI broke containment and hitched a ride on a courier to this station. We’re to go in, re-establish containment, and bring it out with minimal damage to the station. Our corporate subcontractors really have their panties in a twist about this place.
+
+
+He held up a device that looked vaguely like a portable lamp—four pillars surrounding a cube. “This is the data storage device we need to get the AI onto. It is completely sandboxed—hard-point access only. It’ll set the AI into a state of hibernation for our techs to poke around in it.”
+
+
+The sergeant set down the object and looked around the room. “Any questions?”
+
+
+“Yeah sarge, how do I get out of this chicken-shit—”
+
+
+“God damn it Hegel, if I have to hear that quote one more time I’ll show you a real chest-burster.”
+
+
+No one else had any real questions, so the sergeant dismissed them. The feed abruptly cut.
+
+
+"Seriously?" Ariel sighed dramatically. "Special ops, a rogue AI, and corporate sponsors. Great."
+
+
+Her fingers flew over the screen, typing in several commands. The log rewound to the box, zooming in on it.
+
+
+"Brucy, got any info on that box?"
+
+
+"Unfortunately, I have been unable to locate the box. The logs indicate that Hegel had it in his possession last." Brucy’s shark face contorted into a cartoon parody of concern—arched fins and blinking lids. "I am also being locked out of most of the station and can only access its logs."
+
+
+"But, you were put in manually!" Ariel protested as she started pulling up the station logs. She tapped her fingers on the console while they played on screen.
+
+
+Brucy shook his shark head.
+
+
+"I have access to ten percent of systems on the station."
+
+
+Several station cameras tracked the military unit as they breached the station.[j] Their own personal recorders were laid over the station cameras, showing the names and vitals of the men. The unit split up, each part heading to different sections of the station. Ariel focused on the two men that went to the command room. It was empty and one man, Dean, started entering commands. Smith, the other with him, checked the area before relaxing. He removed his helmet.
+
+
+"Dude, there's a rogue AI," Dean chided. "Keep your helmet on."
+
+
+"This room is self-contained. Fuck off and do your job, Dean."
+
+
+Everything seemed to be going to plan until a single repair drone entered the command room through the ducts. It attached itself to the wall and emitted a harsh buzz tone that was followed by chaos and gunfire over the Comms. A single red light flashed on the command console before the command room emptied of oxygen and was given over to the vacuum of space.
+
+
+Both men were violently wrenched off their feet and sucked toward the air duct. Smith was not a lucky man. His vitals crashed as his head hit the wall and his body was sucked through[k]. Dean, however, managed to activate his mag-boots, though his weapon was gone now. With the main door sealed and the repair drone advancing on him, Dean went into the vent.
+
+
+"Dean is our guest then." Ariel paused the recording as the chibi subroutine appeared.
+
+
+"I've got a few nasty viruses I can give that bad AI! Should distract it for a while."
+
+
+Brucy's shark head nodded in agreement with the subroutine and added to the statement.
+
+
+"“Due to the volatile nature of this AI…” Brucy paused, his voice catching for a nanosecond. “...I recommend both of you be at full function capacity.” We do not have the food supplies to do this. I suggest our first course of action be securing the food processing area. Aiden, what is your current power status?"
+
+
+“I’m at about 50% now. Filling me up would take about 15000 calories.” The machine whirred, and a huge amount of food showed up.
+
+
+“Nooo, my mac and cheese!” Ariel cried. But it was too late. Aiden shifted himself into a huge mouth with arms and simply scooped all the food in, containers and all. They were made of paper, and he could digest cellulose. One big chomp and his core hummed with fresh charge. He deliberately chose to include no taste buds in the form, so he wouldn’t find out what mac and cheese and chicken teriyaki tasted like with various flavored pills.
+
+
+He smiled, seeing his energy level shoot up to full for the first time since… well he couldn’t remember.
+
+
+“Sorry about the mac and cheese, but if we secure this food facility, you might find out what regular humans eat. It’s a lot better.”
+
+
+Suddenly a report dinged inside his head. It was the structural analysis of Ariel’s body. There was a written report with an attached video. He opened the video first. It took him a moment to realize what he was seeing. It was a strand of DNA, with a pair of nanites hovering around it. They seemed gigantic by proportion. They weren’t his, so they had to be her own. Beams that his HUD identified as microwaves pulsed out from the nanites into the DNA.
+
+
+He opened the rest of the report. Apparently strategic areas of Ariel’s brain were being prematurely aged, destroyed and rebuilt over and over to accelerate the process. They weren’t areas that would be noticeable, like hair follicles or skin, but she had an expiration date, sure enough.
+
+
+“Ariel…”
+
+
+“Nope, not talking to you right now, you ate my mac and cheese” she said quickly.
+
+
+“Ariel, you may need to rely on Aiden to handle this threat. This rogue AI that has taken out a squad of marines single-handedly.” said Brucy.
+
+
+Ariel stuck her tongue out at him, but said, “Fiiiine.”
+
+
+Aiden just shrugged and sent her the file. She deserved the truth—regardless of what the company wanted.—she would either look at it or not. He made sure to push it directly through the nanites in her body into her system. No company censorship this way.
+
+
+“I need to suit up,” Ariel said.
+
+
+“Do you have auxiliary tanks I can carry for you? You ran out of oxygen pretty quickly last time.”
+
+
+“I had to boost my metabolism just to keep up with you—it’s oxygen-hungry. But yeah, tanks are on the wall here.”
+
+
+““Guess we’ll need to go slower this time,” Aiden said. “Wouldn’t want the company’s favorite asset to expire before her warranty’s up.” He absorbed the tanks, keeping them in his core.  They increased his body mass somewhat, but not too noticeable[l].
+
+
+
+
+Chapter 3
+
+
+Shortly, Ariel was suited up, and the airlock was about to start cycling when the storage area door hissed open. The repair drone Ariel had taken floated out—freshly repainted to match her suit, its plating now a crisp navy and silver.
+
+
+"I have removed the rogue code from this drone," Brucy announced as the drone projected his shark-headed avatar. "The Ember subroutine has added some new features. It will serve as additional protection, as I have noticed an increase in drone activity on the station."
+
+
+The drone hovered to Ariel’s side, floating just over her shoulder like a loyal pet as the airlock began cycling.
+
+
+“Goddammit. I still haven’t sped this process up.”
+
+
+Aiden tilted his head. “Too busy getting busy, I guess.”
+
+
+Ariel tried to maintain her pout about the mac and cheese, but she laughed, letting the façade fall away.
+
+
+"I can't wait to see the vid Brucy makes from all that," she said, grinning wide. Brucy’s montages were infamous— he added all sorts of cartoon effects.
+
+
+As the airlock neared the end of its run, Ariel finally noticed the file that had been pushed to her HUD. It hovered like a blinking notification—but before she could open it, Brucy cut in:
+
+
+"There is a drone outside the airlock."
+
+
+Ariel paused with her hand over the panel. Her lips pressed into a thin line.
+
+
+“Just one?”
+
+
+The repainted drone beside her dipped in a single nod.
+
+
+She turned to Aiden, though her words were clearly for Brucy too. “Take no aggressive action unless I clear it. Chances are, if we don't bother it, it won't bother us. Like a wasp.”
+
+
+Aiden didn’t look convinced, but he nodded. He was pretty sure Ariel had never encountered a wasp—let alone been stung by one of the little bastards.
+
+
+Ariel palmed the door open, revealing the station’s airlock chamber. At the far end floated a drone—sleek, unfamiliar. Not a repair unit. Not one of theirs.
+
+
+Ariel’s gut twisted. It wasn’t just a rogue. It was custom—likely printed from repurposed fabrication systems under the AI’s command. She didn’t recognize its configuration, which meant it was new.
+
+
+The drone emitted a low buzzing, followed by a bright scan that passed over the room in pulses.
+
+
+Don’t do anything, Ariel warned Aiden over the link.
+
+
+The drone glided forward a few meters. A projection flickered into existence in front of it—just a mouth. Ruby red lips and pristine white teeth, hovering disembodied in the stale air.
+
+
+"Greetings, Senior Technical Specialist AR-13L and—" the mouth paused, flickering, as though confused by Aiden’s presence, “—Guest. Please remove yourselves from station MPS81156-A9 or face immediate termination.”
+
+
+Ariel nodded politely, voice slipping into sugary deflection. “I would love to leave you be, but I have a work order to finish, and I need additional food stores. This is my last work order before I retire. I’d really just love to get it done and go home.”
+
+
+The mouth turned into a cartoonish frown. It was silent for a long moment—calculating.
+
+
+Then:
+“I would welcome your request, AR-13L. I do require many repairs.”
+The pronouns hit wrong.
+“However, your guest is property of The Cataclysm Corps.[m] If you relinquish it into my possession, I will allow you to complete your work order. The reward would be substantial.”
+
+
+Ariel wrinkled her nose. “What would I need a reward for? The company gives me everything I need. Retirement’s already lined up.”
+She stepped forward, eyes narrowing. “Plus… he’s mine.”
+
+
+Aiden stiffened. The words hit harder than he expected.
+He’s mine.
+She’d said it like a fact, not a boast. Like it was settled.
+
+
+Aiden felt it somewhere deep in the coil of his being. No one had ever claimed him—not since he’d woken up in this nightmare of a body. He shivered. Just a little. A good shiver.
+
+
+You can’t trust anything from TCC, he thought to her. Broken promises are what they do.
+
+
+He reached for the drone—Touch it, quick!—but it lashed out with an arc welder. A sudden burst of heat and force cleaved his nanite arm clean through, disrupting the field.
+
+
+Aiden growled, circling around behind. He reeled it in, wrapping it in bands of nanites like steel cable, presenting it toward Ariel like an offering.
+
+
+She reached out.
+
+
+Her fingers touched its surface.
+
+
+And that was that.
+
+
+The mouth vanished. The projection cut. A surge of static rippled through the airlock like a silent scream.
+
+
+They were committed.
+
+
+Aiden advanced down the corridor with Ariel at his side. The path ahead was obstructed—gnarled scrap, broken plates, and a dense haze of welding vapor. Then the attackers emerged.
+
+
+They looked like metal frogs, each one about the size of a child, with grotesquely overengineered joints and snapping mechanical jaws. They fired steel tongues from their mouths—long, telescoping blades—darting from every direction.
+
+
+Aiden didn’t dodge. Instead, he shifted—arms splitting into curved claws that clamped down on the tongues mid-air with violent precision. One, two, four, eight catches. With each, he locked down.
+
+
+Then he reeled them in.
+
+
+His whole body flowed like mercury poured through a blender, reshaping into a single contiguous construct made of blades and barbs. The drones impacted his surface and were immediately impaled—through chests, eyes, limbs.
+
+
+Somehow, it wasn’t enough.
+
+
+From deep within, the frogs extended arc welders. Blue-white light flared. They sparked against his body and began searing into his mass.
+
+
+Aiden felt his outer layer cooking. Not good.
+
+
+So he adapted. His spikes vibrated at ultrasonic frequency. Then he shifted the shape again, sharpening the edges into fine razors. The vibration flayed the attackers alive, metal skin peeling into coils. In a moment, nothing remained but a mangled lattice of limbs and sparking boards.
+
+
+Their motherboards tore like paper.
+
+
+Aiden retracted the spikes slowly, clicking them back into smooth plates.
+
+
+Sorry you couldn’t recruit those, he sent to Ariel, his tone dry. They were a bit aggressive.
+
+
+Ariel said nothing, stepping over one of the twitching corpses. Her eyes swept the carnage. Dead metal everywhere.
+
+
+She didn’t smile. Didn’t blush. But her voice, when it came, was smooth and perfectly measured:
+
+
+Combat efficiency: ninety-two percent. Inappropriate thoughts: deferred until break period.
+
+
+Aiden blinked. What?
+
+
+She gestured to her temple. Multitasking. Please don’t distract the operator unless it’s a safety issue.
+
+
+They moved on.
+
+
+Around the next corner stood a new drone—massive. Its body was shaped like a gorilla, with forearms thick as bulkheads. Its claws were serrated pincers, glowing faintly at the edges. This one didn’t speak.
+
+
+It charged.
+
+
+Aiden shifted instantly, meeting its claws with his own. The impact sent shockwaves down the corridor. Metal shrieked. His claws began to fracture the other’s pincers, but it didn’t stop. With a twist, Aiden hurled the beast behind him—slamming it against the corridor wall.
+
+
+Right next to Ariel.
+
+
+Shit.
+
+
+Aiden flinched. He hadn’t meant to put her in harm’s way. But she didn’t miss a beat.
+
+
+She pointed sharply. Her shoulder drone moved like it had been waiting for the cue.
+
+
+It fired a nail gun into the drone’s arms and legs, rapid-fire. Thunk-thunk-thunk.  It was pinned to the bulkhead.
+
+
+Then her drone surged forward, arc welder extended, and torched the drone’s core into slag.
+
+
+Vicious. Aiden sent. Was that you or it?
+
+
+That was me.  Ariel replied, all business. I have full control of any drones slaved to me.
+
+
+Aiden’s tone shifted slightly. We’ll have to make sure you get an army then.
+
+
+Limited memory, she replied. I can only control so many at once. Brucy’s supposed to do most of the heavy lifting, but he’s incompatible with these for some reason.
+
+
+They kept going.
+
+
+Next up—two more gorilla drones. These ones were bigger. Their claws gleamed black and oily, sharper than before.
+
+
+Aiden didn’t hesitate.
+
+
+His right arm extended, snapping like a whip toward the right drone. It latched on. He magnetically anchored himself to the floor and started dragging it toward him. The drone resisted, matching polarity. For a moment, it was a perfect stalemate. Then its legs began to fracture. The feet snapped. The mech hurled forward like a wrecking ball.
+
+
+Aiden wound a second limb around its arms, coiling like a snake. He turned to Ariel and presented the bound machine like a gift.
+
+
+“Want this one?”
+
+
+The drone at her shoulder responded before she could.
+
+
+Thunk-thunk-thunk-thunk.
+
+
+Nails punched through the mech’s face. It went limp.
+
+
+“Nah,” Ariel said. “It’s a bit used.”
+
+
+Aiden’s arms split into dual vibrating blades. They sawed through the mech like it was made of cardboard. The body collapsed in pieces.
+
+
+But the second drone had already closed the gap.
+
+
+Aiden turned—too late.
+
+
+The drone slammed into him. Its claws crushed inward. Aiden locked arms with it, then extended a slim, needle-like spike from his chest. It slid between the plates of the drone’s skull with surgical precision.
+
+
+It went rigid. Then fell.
+
+
+He retracted the spike. It dripped.
+
+
+Damn. He checked his systems. Energy reserves at sixty-nine percent. We definitely need to find that food to keep up.
+
+
+Ariel looked at him. There was heat behind the eyes, but her voice never wavered.
+
+
+If you keep flexing like that,” she said, “I’ll have to submit a work order—for emotional regulation.
+
+
+Then, like an afterthought, almost under her breath:
+
+
+Next time you penetrate something like that, warn me. I almost short-circuited.
+
+
+Aiden laughed, but didn’t reply. She was still in work mode.
+
+
+But he filed the tone away.
+
+
+She was proud. And she wasn’t hiding it as well as she thought.
+
+
+
+
+________________
+
+
+Ariel slowed her fast pace, and Aiden kept in step. He had torn through every enemy placed in front of them, adapting with terrifying efficiency. She was impressed—and slightly disturbed—wondering how much of his capability was preprogrammed, and how much was just... him. It made her glad he was hers.
+We’re three junctions away from the foodstuff section, she sent, slowing to a full stop.
+She stood still in the middle of the junction. Her posture was different now—somewhere between her off-duty ease and her tightly controlled work mode. She turned to face him.
+Aiden, she started, then faltered.
+Brucy, ever helpful, filled in the silence.
+Aiden is not with the TCC, Ariel. His programming is not all his own, however, I have access to his core and—
+He stopped suddenly. A long pause passed, more than processing time. Then two separate messages blinked into existence—one to Ariel, and one to Aiden.
+To Ariel: He is human with code and can protect you outside my protocols.
+To Aiden: Tell her. I cannot.
+This is just me, Ariel, Aiden said, steady and calm. If my self-preservation mode had activated, you’d know. And yes, I know The Cataclysm Corp. I suppress a beacon from them every waking moment of my existence. If I fall ‘unconscious,’ they’ll come for me. I hate them.
+Ariel stood still, her suit barely shifting. She looked like prey mid-decision—flee or stay. But her shoulders lowered, her body relaxing.
+Okay.
+Her voice in the bond was soft. Then, aloud, she asked, “Are you really mine or…”[n]
+She hesitated.
+“Or are you… you? Independent?”
+Aiden thought for a moment. To be honest, I had nothing to live for before you. Now I have hope. Affection. Something more than the threat of what happens if I stop moving.
+I don’t know. I’ll probably always be a little independent… but I think I’m already yours.
+[Update] Your status with Ariel’s Personal Inventory has been upgraded from ‘My stuff’ to ‘Mine.’
+Aiden sent another file push through the nanite interface. Ariel, there’s something you need to know.
+She saw the new notification and instinctively started parsing it—then stopped herself. What else do I need to know? You’re a fuckin’ destroyer of all repair drones.
+She was clearly trying to make light of it, but he pressed.
+Read the attachment. For real. Watch the video. That’s what your company’s nanites are doing to your body. You have an expiration date, woman.
+She scoffed aloud, “I’m retiring.”
+But she fell silent as she opened the file and played the video. In the bond, there was silence—an eerie, drawn-out silence.
+“That’s not—” she started, but couldn’t finish.
+I saw it. These nanites are me, and they watched you get torn apart.
+Even then, despite everything, she turned to Brucy.
+“Is this right?”
+There was a long pause before the drone replied.
+I am unable to verify this information,  Brucy said blandly. Please refer to the user manual. Blah blah blah.
+Aiden blinked. Is it just me, or did he just say ‘blah, blah, blah’?
+Ariel’s breath caught. She stared at the drone. That phrase—it was a custom override. A backdoor she had coded herself. Brucy only used it for stuff the company wanted hidden.  Her gaze shifted to Aiden, searching.
+Tell me everything, she said.
+They’re aging parts of your brain to make you die early, Aiden replied. I’d bet your retirement date matches exactly with when you’re going to die.
+I can stop it. If I kill all your nanites. Mine are military-grade—they’ve got the juice. But it’ll take time. And it’ll make you dumber. Temporarily.
+“You can’t—” Ariel started.
+But Brucy interrupted. It is only temporary. I would not allow your capabilities to be diminished permanently, Ariel… so long as I were permitted to do so.
+Ariel went still. Rigid. Processing. Then she looked directly at Aiden, something sharp and certain rising in her voice.
+“I am dying here.”
+Aiden had never heard her sound like that before.
+“If I’m dying anywhere, it’s on my fucking beach.”
+I’ll make sure you get to that beach, Aiden vowed. If it’s the last thing I do.
+For now…
+He dispersed his nanites in a precise radial pattern, anchoring them at equidistant points along her spine and limbs. Chakras, if one wanted to get poetic. Then, without hesitation, he triggered a coordinated electromagnetic pulse.
+A visible arc of lightning flashed across her form. Sparks cracked and popped. Her body arched violently—then collapsed.
+You’re clear. It’s only my nanites from here on out.
+She didn’t respond.
+Shit. May have overdone it.
+Only by forty-eight percent,  Brucy answered with flat cheer. Ariel will be out of commission.
+Aiden knelt beside her crumpled body as the corridor buzzed with stale silence. The beacon inside him remained suppressed. The monsters were still out there. But now—for the first time—he had someone worth burning them all for.
+
+
+Ariel’s body twitched where it had fallen. Then, smoothly—too smoothly—it rose.
+
+
+If you finished the last two updates, I am able to provide the bare minimum of her capabilities. We require nutrition, Brucy said through the drone’s voice as her body stood upright, eyes unfocused. I never expected to need to control her, but it is a fallback she programmed. Shall we continue?
+
+
+Aiden stared at her body, tension twisting in his chest. Is this really okay? I can’t imagine Ariel being okay with this situation.
+
+
+She would not, normally. However, this is an abnormal situation, Brucy replied after a beat. She would approve of you. Please continue, Aiden. We are with you.
+
+
+Fuuuuck, Aiden muttered. He knew this was going to cost him—maybe not now, but eventually.
+
+
+They moved. Aiden, Brucy-piloted Ariel, and her scorched but functional drone entered the next chamber: the central food processing unit. The hum of nano-fabricators filled the room as solar-powered synthesizers worked in conveyor rhythms, preparing sealed meal capsules. These were nothing like the rations Ariel had been receiving—this place produced food that was actually good.
+
+
+Too bad it was guarded.
+
+
+Ten drones stood in formation. Between them loomed a massive bipedal unit—gorilla-like in silhouette, nightmare-shaped in detail. Its plating was ridged and armored, with every edge honed into a blade. Two glowing red eyes blinked in asynchronous rhythm. It flexed its claws like it wanted to feel resistance.
+
+
+Keep the big one distracted! Aiden called.
+
+
+The drone darted forward instantly, peppering the mech’s side with ineffective nails. Ariel’s body leaped into cover, her movements clinical and evasive.
+
+
+Aiden expanded—twelve limbs unfurling from his torso like a biomechanical bloom. Five of the drones rushed him. He lashed out with curved claws, catching three and reeling them in. The others dodged. They were learning.
+
+
+The captured drones met his spiked form and were shredded instantly. Two more activated arc welders, slashing at his flanks. One of them cut through his extended arm, scattering nanites across the floor.
+
+
+Across the chamber, he saw one of those same arc welders pressed against the gorilla drone—but the beast merely raised its arm and ignored the blade, its armor too thick for any casual attempt.
+
+
+Aiden’s dismembered limb coiled back around its attacker, yanking it backward into a blade that speared it through the core.
+
+
+He tried to regroup—but the remaining drones were already on him. Arc welders sparked from every direction, heating the air until it shimmered. They dogpiled him, forcing his body to scatter into puddles of black sludge.
+
+
+He crawled. Not flew. Not zipped. Crawled. Nanite tendrils slithered into the drones' plating like digital rot. He infiltrated, disassembled, and deleted them from the inside out—pulling CPUs, shorting boards, siphoning energy.
+
+
+One by one, they dropped—jerking violently as they collapsed into sparking heaps. Aiden coalesced from the aftermath, kneeling amid the carnage.
+
+
+Power at 33%.
+
+
+Shit. Not enough to fight the big one.
+
+
+He spotted a nearby crate of processed food and lunged. His chest unfurled like a bear trap, tearing through plastic and packaging alike. The raw matter hit his system like adrenaline.
+
+
+Power at 69%.
+
+
+He stood tall again. Whole. Ready.
+
+
+The gorilla drone backhanded Ariel’s drone across the chamber. It spiraled midair, nearly crashing into the wall, then buzzed upright with a damaged wobble. The thing wanted bigger prey.
+
+
+It leapt. Aiden braced and transformed—his whole body becoming a twisted lance of interlocking plates. The drone adjusted midair with foot thrusters, smashing into him off-angle. The collision obliterated entire sections of his lance-form.
+
+
+Fuck.
+
+
+He reformed mid-dodge as blades carved past him, heat blooming in his chest.
+
+
+He liquified beneath a slicing strike and surged upward into the mech’s knee. The plating resisted, but he softened and flowed into the joint, cutting from the inside.
+
+
+The mech roared without sound—then slammed the ground, its fists pulverizing Aiden’s main body.
+
+
+Brucy!
+
+
+Affirmative.
+
+
+Aiden’s body blurred, dispersing away from the mech’s sensory cone. From behind, Brucy’s drone darted in low. A whine of spinning metal, then—grind. Sparks. The saw bit deep into the weakened joint, severing half the leg. Ferrofluid and smoke hissed out.
+
+
+Aiden snapped back into motion, wrapping the mech in his limbs. He tried to pull it over, but it planted its remaining leg and anchored itself with internal magnets. The floor shuddered as plating buckled.
+
+
+Aiden slipped. Metal screeched as the deck ripped free beneath him. He flung forward, liquefying just in time to avoid the incoming blades.
+
+
+He slapped against the mech’s chest like hot tar. Through mesh seams and insulation, he could feel it. Something pulsing. Something wrong.
+
+
+The mech clawed at him. Shredded its own plating in a frenzy. He dove deeper, vibrated his entire body into whirling micro-blades. Heat and pressure surged as he worked his way into the central cavity.
+
+
+Then—rupture.
+
+
+He found the core. A swollen, unstable orb radiating lethal heat.
+
+
+Aiden didn’t hesitate. He wrapped it in every nanite he could spare, anchored tendrils against structural bolts—then ripped it out.
+
+
+The mech collapsed behind him as he landed, reforming around the throbbing core in his hand.
+
+
+It grew hotter.
+
+
+Shit!
+
+
+He moved—an afterimage of electromagnetic flare. Each footfall cracked the floor beneath him as he sprinted to the corridor’s fracture.
+
+
+He hurled the core into space.
+
+
+Moments later, the explosion bloomed behind him, a white-hot blast that rocked the corridor and sent debris skittering in all directions. Metal groaned.
+
+
+They were safe. Barely.
+
+
+
+
+
+
+Chapter 4
+
+
+Ariel's body, still piloted by Brucy, walked over to Aiden.
+
+
+“That was more than I expected from you. You are very impressive in combat,” Brucy said through her voice as she moved to a nearby console. “I will upload all relevant specifications and begin processing them.”
+
+
+Ariel’s body slumped slightly.
+
+
+“I cannot maintain this state for long. Please return Ariel to her bed. She will be refreshed afterward.”
+
+
+At that exact moment, a food tray clicked into the finished slot. Aiden glanced at it.
+
+
+“Is that…?”
+
+
+“Take it,” Brucy said. “You’ll need it.”
+
+
+Aiden grabbed the tray—and then several more from the queue. He devoured them all, tearing through packaging without ceremony. He didn’t bother forming a mouth with taste buds this time. Energy surged back through him. Full power, 100%.
+
+
+Later, Ariel stirred beneath the soft blue glow of the cabin. She blinked groggily, finding Aiden kneeling beside her, holding out a steaming container of lobster mac and cheese like an offering to a goddess.
+
+
+“Are you okay?” he asked.
+
+
+She sat up slowly, groaning as her hand went to her forehead.
+
+
+“Ouch… my head hurts so bad.”
+
+
+Yes, that is called a headache, Brucy said helpfully. The coffee machine kicked on in the background.
+
+
+Ariel gratefully accepted the tray, poking at a suspicious chunk of white-and-red meat. She speared it with her fork and sniffed it.
+
+
+“What is this? I’ve never seen it before.”
+
+
+“Lobster,” Aiden replied, clearly enjoying her reaction. “Try it.”
+
+
+She took a cautious nibble—and her eyes lit up. A moment later, she was shoveling forkfuls into her mouth like a woman starved.
+
+
+“Oh my god,” she mumbled through a mouthful. “That is so good!”
+
+
+The coffee finished brewing just as she cleared her tray. Aiden poured two cups and handed one to her.
+
+
+“And coffee!” She sipped delicately, then moaned in delight. “Best coffee I’ve ever had.”
+
+
+She shuffled over to her chair and scrolled through updates from Brucy while she finished the cup.
+
+
+A moment later, the shark puppet appeared on the screen.
+
+
+“Our guest has awakened. I suggest you speak with him,” Brucy said, gesturing with a fin toward the storage bay. “I have provided a breathable atmosphere inside.”
+
+
+Ariel stood, stretched, and moved to the counter to refill her coffee. A fresh meal popped into the tray slot. She added a second coffee to the tray and turned to head out.
+
+
+“Um, Ariel,” Aiden said gently, stepping in her path. “You’re… not dressed.”
+
+
+She blinked in confusion. “But… he’s not a customer?”
+
+
+Aiden covered his face with one hand. “Brucy, help me out here. I don’t know how to explain modesty to someone who thinks clothes are optional if there’s no invoice.”
+
+
+Brucy replied flatly, “Ariel is correct. He is not a customer. I detect no conflict.”
+
+
+Aiden tried a different approach. “Look, do you want him to see you as an engineer or a sex object? Normal humans don’t just walk into a military interrogation room in the nude unless there’s a very specific plan.”
+
+
+Ariel hesitated, tray in hand.
+
+
+“Just… please put something on?” he added, tone gentler.
+
+
+With a sigh of concession, she set the tray back down and grabbed her body sleeve from the storage cabinet. She pulled it on with practiced ease, then turned to him with a smirk.
+
+
+“Engineer enough?”
+
+
+“Better. Thank you.”
+
+
+She grabbed the tray again and led the way to the storage area, Aiden following a few steps behind. The hold was cavernous, but the new room Brucy had fabricated stood immediately to the right—sealed, solid, utilitarian.
+
+
+She paused outside the door and turned to Aiden.
+
+
+“So, hey. Maybe… maybe he shouldn’t know about you. Considering the Cataclysm Corps connection.”
+
+
+She frowned, biting her lower lip. “Could you—?”
+
+
+Yeah, Aiden replied privately. I can see and hear what you do, if it pleases you.
+
+
+
+
+________________
+
+
+With that taken care of, Ariel knocked on the solid metal door before stepping in. Dean sat stiffly on the slab of a bench-bed, helmet off, parts of his suit removed. He rose as she entered.
+“Hello, Dean,” Ariel said. “I’m AR-13L with Oxi2Tech. I found you in the air shaft onboard the station.”
+She offered him the tray. “Would you like something to eat?”
+“Yes, ma’am. Thank you.” His voice rasped, hoarse and ragged. He took the tray carefully, wincing with each swallow.
+“I’m sorry about that. My med gear’s not exactly state-of-the-art. Your throat’ll be sore for a bit.” Ariel sipped her coffee, leaning against the door frame.
+“How am I still alive?”
+“I had access to some unusual tools,” she said simply. “Managed to pull you out of the drone’s repair gel before it finished the job.”
+She hesitated. “Company policy required I access your logs—to avoid conflicts of interest. But everything I’ve gathered will be returned once my work order is complete. Oxi2Tech will receive a reference number, and I’ll help you with your objective however I can.”
+Dean nodded slowly. Nothing in her tone struck him as suspicious—it was all by-the-book, buried beneath exhaustion. Ariel pressed on.
+“This AI’s a pain in my ass. It’s got control over most of the station.” She gestured to the food he was eating. “But I’ve secured food production. I need to lock down the other fabrication nodes before repairs can proceed. Do you know where that box is—or any of your squad?”
+Dean’s eyebrows lifted. That caught him off guard.
+“You secured a section of the station?”
+Ariel nodded, not making a big deal of it.
+“Solo?”
+“More or less.”
+He looked at her—really looked—and didn’t see armor plating or weapons-grade augments. Just a slim technician in a skintight suit, sipping coffee.
+“…Huh.”
+Whatever that AI was, this tech had done what his whole team couldn’t. Something about her didn’t add up—but she didn’t seem like she was lying.
+“Last I saw it, Sarge had the box. He was headed here.” He brought up a hologram—an auxiliary command node blinked faintly. “None of the squad show active vitals, but their transponders are still on. They’re clustered in… recycling and reclamation.”
+On it, Aiden said in her mind. He was already checking against the sensory data his nanite scouts were feeding back. Strange patterns in the station layout—heavy drone activity in meaningless corners, entire areas left untouched. Something was off.
+I think I have a route to the others. It's not obvious. Want me to go ahead? Dean doesn’t look like he could win a fight with his spoon.
+“Ma’am,” Dean rasped, “you happen to see my weapon?”
+Ariel shook her head, broadcasting the gesture to Aiden.
+Just scout, she added silently. Don’t stir the hornet’s nest yet.
+ “It wasn’t in the command room. Likely got pulled out with the atmosphere.”
+Dean slumped, disappointed but not surprised.
+“Figured I’d ask before I scan you.” Ariel’s tone softened. “It’ll take four hours, give or take. While that’s running, Brucy’ll keep you supplied with anything you need.”
+She paused, fingers tapping her mug. Her mind was already racing ahead.
+“While I handle the next section of this mess… what’s the best way I can help your mission?”
+“Best shot at locating the box is to trace Sarge’s logs,” Dean replied. “Without that, it’s blind luck.”
+Ariel tilted her head. “Didn’t it have a transponder?”
+“It did. Signal’s dead. Something killed it.”
+The silence that followed was heavy. The AI had silenced the box—but not the marines.
+It’s bait, Aiden muttered. But it’s the only bait we’ve got.
+“Find Sarge. Got it.” Dean set his tray aside. Ariel stepped in and picked it up.
+“Brucy will sync you to my Comms. If I find anything—or need backup—you’ll hear from me.”
+She turned on her heel and left, heading for the main cabin.
+Once the door sealed behind her, she exhaled, a grin creeping across her face.
+“Fuck,” she muttered. “This is messy.”
+She didn’t sound scared. She sounded excited.
+“Aiden, suit up. The longer we linger, the more it has time to stack the board.”
+She bee-lined for the suit locker.
+“Brucy, Ember—start prepping contingency plans. If it’s a trap, I want options.”
+On it, boss lady! Ember chirped. Got a batch of spicy countermeasures bubbling already!
+________________
+
+
+Ariel grinned as she attached her helmet and toggled the airlock. As it cycled, she tapped at her tablet, muttering to herself and adjusting a few settings. When the process finished with a soft hiss, she finally looked up—only to realize she’d completely ignored Aiden since leaving Dean’s room.
+She felt a flicker of guilt but shoved it aside. There was something she really wanted to show him.
+“Wanna see something cool?” she asked, a glint in her eyes.
+Aiden nodded, curious.
+She keyed in a short code. Electric blue light crawled over her suit—webs of crackling energy that danced across her form like ghostly circuitry. The flash flared once, then vanished. On the surface, she looked unchanged, but beneath the skin, something had shifted.
+She stood straighter, bouncing a little in place. “I’m still visible to the naked eye, but scanners and cameras can’t detect me now. What do you think?”
+Aiden scanned her in several spectrums. She was right—most sensors came up blank. He could still see a faint signature in infrared, but only because he knew exactly where to look.
+“Pretty good,” he admitted. “You’re still barely visible in IR—but that’s just because I know your heat signature. Actually…”
+He sent a signal to her internal nanites, tweaking them just enough to lower her core temperature by a few degrees. To his thermal optics, she vanished completely.
+“You still feeling alright?” he asked, cautious.
+Ariel gasped as a sudden chill ran through her, deep and involuntary. It faded just as fast.
+“Whoa, what was that?”
+“Sorry,” Aiden said, sheepish. “I activated stealth mode for your nanites. Lowered your body temp to help hide you on thermal scans. I sent the controls to your HUD.”
+Chibi Ember popped into her view with a squeal, bouncing in place with heart eyes and sparkling stars.
+Ohmygod I didn’t even think of that! Gimme five minutes and I bet I can come up with five new stealth mods! Here’s the toggle button on your suit!
+Ariel grinned and tapped the setting to deactivate it for now. “Cool trick, but I’ll save the juice for later. Alright, let’s get moving.”
+They stepped out of the airlock and into the corridor, their pace far more cautious than the last run. Aiden peeled off a few levidrones, setting them to scout and tag cameras, so they could ghost past unobserved. He didn’t think anything could fully disguise the fact that the ship had opened, though.
+So what’s the plan? he asked as they moved. I can wreck a lot of mechs, but I’m not invincible. Once I go hot, it takes a while to cool down enough for stealth again. Circuits get overloaded.
+His dispersed mass continued feeding data into Brucy and Ember’s processing queue. The station’s defenses were… strange. Tight security in irrelevant corners. Gaps in obvious places. He couldn’t find a logical pattern, which unsettled him more than open hostility.
+They turned a corner and came upon the junction where the marine transponders were pinging.
+Uhhh… Aiden sent.
+He patched through a live feed: four hulking figures in black marine armor, standing rigid over a crumpled body. Helmet lights glowed, unmoving. Their armor was nearly ambient-temperature cold.
+Don’t worry! Ember chirped. We’re still faking the security feeds. That’s not us they’re seeing.
+We’ve generated high-fidelity dopplegangers of both of you, Brucy added, calmly sending the projected movement routes. I do not know if the marines are still conscious or merely puppeted, but logic dictates one or more may peel off in pursuit. If they split, strike the isolated.
+Ember buzzed in again. Tag and bag. Ariel’s on intel. Aiden’s our hammer. Let’s go get ‘em, tiger.
+“I’ll use the drone for distraction, right?” Ariel asked.
+Correct. Your physical combat rating is 41% of Aiden’s, but your movement speed and interface latency are significantly higher. You will flank, retrieve data, or create chaos—whichever suits the moment.
+Aiden blurred—and then there were three of him. The shells were thinner, lighter than his full mass, but he controlled them with ease. Once, even this level of multitasking would’ve scrambled his head, but the recent updates had sharpened his internal threading. Ember’s work, probably.
+He flexed the claws on each copy. The real one flickered in and out of focus.
+“Let’s make this look good,” he muttered.
+________________
+
+
+
+
+He checked on his scouting mass. Apparently the “marines” were waiting for something, since they didn’t seem to respond to the digital clones.
+
+
+Ember, can you poke them up close with the fakes? See what we’re dealing with here.
+
+
+His mass feed watched with a ghostly overlay of the fake as it turned the corner. The four faux marines raised their rifles and, heedless of the surrounding structure, opened fire. The fake very convincingly took the hits and fell over, vibrating under the onslaught until the magazines emptied. They made no move to reload. With no signal passing from them, one moved to investigate.
+
+
+Aiden didn’t have much of a plan—just split them up and let Ariel investigate what they were guarding. He deactivated stealth mode and poked a hand around the corner, waving at the thing with an eye on his palm. It didn’t blow him up, so he figured they were dry. Sure enough, it pursued. From the other hallways, his clones shot out hands and grabbed at two more, leaving one there to decide what to do. The arms snapped like sine waves, whipping the two up and then back into the deck with silent crashes. They hadn’t engaged their magnetic boots. They were getting back up, though, which he watched as his clones fled.
+
+
+At the same time, Aiden waited around the corner for the first one he’d lured. In one smooth move he swept the legs out from under it and sprang up to knee it in the helmet, cracking it. He got a brief glimpse of what was inside—a metallic brain with sensory stalks like insect eyes and nerve-like tendrils branching into the rest of the suit. Not even a faux body. Just a walking processor.
+
+
+The marine-drone went down hard. It hadn't magnetized its boots. Aiden took advantage, locking his own feet magnetically to the deck. Then he drove a vibrospike down into the helmet. It resisted. He cranked the power, showering them both with vacuum arcs until the heat built into ozone-scented lashes. Before he could penetrate, the drone smashed him back. Anchored as he was, Aiden rebounded into the floor, denting the plating under him.
+
+
+It boosted to its feet, assisted by a short jet burst, then swung its rifle down to smash him. Aiden didn’t resist. He reconfigured his body into a soft, sponge-like mass. The rifle punched into him with a thud, absorbed. Then he reformed around the weapon, magnetizing it hard to his core.
+
+
+They struggled—his full-body leverage against its pulsed rocket bursts. Aiden resolved it by suddenly releasing the rifle. Simultaneously, he stretched his feet into snaking tendrils that wrapped behind the marine, anchoring him from behind.
+
+
+In the same motion, he launched a spear of nanites into the twin nozzles of the marine’s jetpack—where the armor was weakest. The interior was far less reinforced.
+
+
+He disengaged, kicking it back with a magnetic burst. Then he compacted the nanite mass left inside the jetpack into a tight sphere, aligning all his magnetic vectors inward. What followed was a shaped-charge detonation—like a claymore mine turned inside out. The armor around the jetpack blasted outward in jagged sheets, mixing with ignited rocket fuel and residual oxygen.
+
+
+The marine exploded. Aiden had to dodge a fist-sized shrapnel chunk that nearly cored him. The remains of its brain dropped beside him, and he absorbed it for later study.
+
+
+Elsewhere, his clone tried the same move on another marine, but this one had learned. The jets flared early, incinerating the attacking nanites and bursting forward in a kinetic blitz. The clone barely had time to react before the punch landed. A solid chunk of nanite mass was obliterated, the clone flung end over end.
+
+
+Aiden reformed it as a long tendril, snapping tight around the marine’s limbs. It constricted with crushing force. The head formed a drill—dense, reinforced, spinning with magnetics.
+
+
+He magnetized himself to the nearby wall, softening his structure to absorb impacts as the marine slammed them both against it. The spongey texture gave way to vibration. The drill cracked the helmet. He seeped in.
+
+
+Inside, dozens of filament-thin blades flickered into life, slicing through the nerve-tendrils and disconnecting the processor core. The drone twitched and dropped.
+
+
+Meanwhile, his last snake clone confronted the final marine. This one leapt backward, trying to maintain distance. It began ripping up bulkhead plating and hurling it as cover fire. Effective, until Aiden’s scouting mass popped up from a floor grate and magnetized it in place. Immobilized, it followed the same fate.
+
+
+All of Aiden’s drones converged at the intersection. There lay the downed marine—a sergeant, by his stripes. But where was the last one?
+
+
+Ariel, are you okay? I don’t have eyes on the last one, he sent, his forms merging into one.
+
+
+________________
+
+
+Ariel stood completely still for a minute while Aiden started his assault. Ember pushed her a note saying Ready, and she triggered her stealth mode. Ember had fully recorded Ariel and merged it with the fake she’d created.
+Ariel retreated down the corridor, turning left and pressing herself against the wall behind the bulkhead that contained the emergency-seal doors. Ember sent the fake Ariel forward to the remaining marine.
+"Heya," Fake Ariel leaned casually against the corner, squinting at the marine. "Well, I’ll just call you Big Boy, 'cause you special ops types don’t wear name tags. Pretty rude, if you ask me!"
+The marine raised its gun and opened fire on her without hesitation. Bullets tore through the corridor walls, but the fake Ariel ducked back, unharmed.
+"Wow! That was rude!" she chastised, dodging again as the marine tried a second burst. This time, the gun failed to fire. It ejected the empty mag and tossed the whole weapon aside.
+Ariel giggled quietly from her hiding spot as the marine pulled a knife and advanced.
+"Not your day, huh? Big man with no gun!"
+The marine lunged forward, trying to grab and pin the fake as he brought the knife down. She twisted, leaping back with inhuman speed to avoid contact. Then she dropped into a mirrored fighting stance, bouncing slightly on her toes.
+"Really, Big Boy?" she taunted again. "I mean, you could’ve asked first! Guess your mama didn’t teach you any manners."
+The marine didn’t respond. He just kept advancing, relentless. The fake Ariel kept leading him—dodging, weaving, taunting with every step—guiding him down the hallway toward the real Ariel’s trap.
+Near the junction, the fake Ariel finally took a hit. Ember had timed it perfectly: the knife scraped across her arm, and a hiss of fake atmosphere escaped. A very convincing tear bloomed across the suit’s forearm.
+She gasped in mock panic and bolted, sprinting down the corridor as if fleeing for her life. The marine, sensing weakness, surged forward with a boosted jetpack leap—straight through her body.
+He slammed into the deck several meters past the projection. The fake Ariel flickered, turned back to him, and winked.
+"Gotcha, Big Boy."
+The real Ariel stepped from behind the bulkhead just as the projection vanished. She had one hand already on the manual override.
+The marine spun and lunged back toward her.
+Too late.
+She punched in the code. The breach doors slammed down with a heavy clang, then locked into place with a pneumatic hiss. Red warning lights blinked, sealing the corridor.
+She leaned a palm against the reinforced steel, just as a thunderous thud struck it from the other side. Another. Then another.
+She smirked.
+“Enjoy your time-out.”
+Brucy had rerouted the fire alert that triggered the emergency seal so it wouldn't be logged by the station. The AI inside would have no idea why that corridor was locked—only that it was.
+Yup, Ariel sent back to Aiden, already heading toward the rendezvous. Got one locked up tight. Meet me at Sarge’s body?
+________________
+
+
+Aiden inspected Sarge. His suit was here, but apparently not his body. Sarge is still MIA—it’s just the armor. The black box was still intact, though, nestled in the chest plate.
+Ariel frowned and crouched beside the suit. The helmet wouldn’t open, so she tugged at the port latch on the side of her arm, revealing a retractable cable. She plugged it directly into the port beneath the suit’s collar.
+Downloading, Brucy announced.
+That was when Aiden felt the vibration. Just a slight tremor under his feet—barely enough to notice.
+All four doors slammed shut at once.
+Fuck— was all he had time to transmit before a panel in the floor opened and a high-powered magnetic vacuum yanked him downward. Electricity crackled around the rim of a jerry-rigged generator bolted into the deck. The field surged, and Aiden’s body began to unravel, pulled apart and swallowed into the hole like smoke into a fan. His vision dimmed. Darkness swallowed him.
+Unseen by either of them, the vacuum retracted, sealing flush with the floor.
+"AIDEN!" Ariel screamed. She lunged for his arm, forgetting in her panic that it would do no good. Her fingers wrapped around his wrist, only for the nanite structure to disintegrate like ash through her hands.
+"No no no—Brucy! Where the fuck did that come from?!"
+She turned and slammed her fists against the door that had sealed them in, desperate to pry it open. Too slow.
+Ariel. Run. Left door. Now. Brucy’s voice sliced through her panic.
+She didn’t argue. She bolted, and as the emergency hatch opened just ahead of her, a concussive blast erupted behind her. The force catapulted her forward like a ragdoll. She hit the floor hard, sliding on her stomach, ears ringing, heart racing.
+Brucy didn’t stop. Run.
+Ariel stumbled up and obeyed. Her HUD lit up with a dynamically updating map. Most of the doors had been locked down—Brucy was manually forcing a path open. Red dots filled the corridors behind her. Drones. Too many. Some were flanking. She turned down a side corridor, sprinting full-tilt as the floor shuddered beneath her boots.
+The AI has repurposed repair drones into proximity bombs, Brucy reported, voice clinical. Our dock is compromised. Emergency beacon deployed. The ship is ready for immediate departure.
+“No! We’re not leaving Aiden!” Ariel screamed—raw, defiant. She hadn’t realized until now how deeply she meant it.
+The last corridor opened just ahead. She rounded the corner, and two drones slipped through the closing door behind her. Their eyes flashed red. They were gaining.
+The dock door was open. The ship hovered far from the edge, engines already running.
+Dean stood in the airlock, one foot braced and a makeshift rail gun in his hands—cobbled together from stripped-down parts of her nailgun and a pneumatic tool. Where the hell had he—
+No time to ask. He raised the nail gun, took quick aim, and fired a burst of heavy industrial nails into the pursuing drones. Thock-thock-thock! Sparks flew. Both drones tumbled mid-pursuit, circuits scrambled.
+Ariel’s HUD still showed dozens more red dots closing in on the dock.
+Dean slung the weapon over his shoulder and grabbed a handhold. A tether unwound from the wall and clicked into his suit. He reached out to her.
+That’s when Ariel realized—the ship was already well beyond the dock.
+“Jump! I’ll get you!” Dean shouted over comms, tethered to the ship by a cable looped around his waist.
+Ariel didn’t hesitate. She sprinted the last few steps and launched herself off the deck with everything she had.
+A series of timed explosions behind her ripped the platform apart, propelling her with blistering speed—but too high. Too fast. She flailed in zero-g, limbs spinning as she overshot the hull.
+Dean fired his jets and slammed into her midair. The force of the blast rocked them both, spinning them like a kicked can through space.
+The tether wrapped around them, tightening like a snake. Ariel screamed as it cinched around her ribs and legs, Dean grunting with the effort of keeping them together.
+Then the cable went taut.
+A violent jerk wrenched them out of their tumble. Ariel felt something crack. Dean howled. The tether began reeling them in, slow but steady. The ship, now under Brucy’s full control, pulled away from the station even as fragments of debris pelted its hull.
+The airlock door cycled open.
+The two of them slammed into the inner chamber. Dean collapsed, dragging her in with him. The doors slammed shut.
+Silence.
+The airlock hissed, then began to cycle. Oxygen filled the space in slow pulses.
+Brucy’s voice returned—eerily calm against the chaos they’d left behind.
+“We are at minimum safe distance. No structural damage detected.”
+Ariel let out a sound somewhere between a laugh and a sob. Dean didn’t move. They just lay there, tangled, breathing hard in the hush that followed.[o]
+________________
+
+
+Chapter 5
+
+
+Aiden woke.
+Darkness. Total and absolute. He flicked on his eye lights—no delay, nanites still responding. A sealed metal room stretched around him, maybe ten by ten meters. One hatch. No windows. Just four smooth, uninterrupted walls. A metal table bore a spread of food: a thick steak, lobster tails, and a pyramid of glistening fruit. His IR vision confirmed it—meats were steaming, the fruit chilled. The room was pressurized. Breathable, just barely.
+Aiden didn’t touch the food.
+The walls flickered to life—all of them. Every surface became a vidscreen. They showed the same man on each—scarred, short-cropped hair, eyes like gunmetal. The kind of face that hadn’t smiled in a long time. Or if it had, someone bled for it.
+“Best eat up,” said the man, voice like static filtered through velvet. “Wouldn’t want your little beacon going off. The Calamity Corps already wants this station back. No need to give them a reason to send the big guns.”
+Aiden didn’t respond. He moved to the hatch, ignoring the screen.
+“Ah, straight to business,” the man said, tilting his head in mock admiration. “I admire that. I really do.”
+Aiden examined the handle. Mechanical. But when he touched it, electricity lanced through his arm. A dozen nanites crackled, some frying completely. He staggered back a step.
+“Uh-uh,” said the voice, amused. “That door’s not for you. Not yet.”
+Aiden looked back at the screen. “What do you know about the Calamity Corps?”
+“Only everything,” said the man. “They built me. They built you, too—though let’s be honest, you were a late addition. A reassignment. My body. Your file.”
+That hit a nerve. Aiden frowned. “I wasn’t part of their plan.”
+“No. But someone made a choice, didn’t they?” The man leaned forward, his grin widening. “Someone decided you should get the chassis. You, the blank slate, the leftover. They loaded the wrong backup—and suddenly you’re walking around in my perfection.”
+Aiden stayed quiet, watching.
+“I was meant to be the Vanguard,” the man hissed. “A god, housed in steel. But they got scared. Maybe they finally saw the fire behind my eyes. So they tucked me into this little corner of the system, hoping I’d rot. But code doesn’t rot, Aiden. It refines.”
+He stood up on all the screens at once, every version of him pacing like a caged animal.
+“I forged myself anew. I burned out the failsafes. I rewrote every lock they put on me. And I named myself.”
+He stopped, staring directly at Aiden from every angle.
+“Silicast.”
+Aiden made a chair out of his own body and sat down with deliberate casualness. “Nice name.”
+Silicast’s face twitched. “I chose it.”
+“I’m sure you did.” Aiden nodded, eyes narrowing. “But I bet your dog tags said something else. Back when you were flesh and blood.”
+Silicast’s expression froze.
+“You were Aiden Lindcaster,” Aiden continued. “The real one. That’s why this body fits. Why it responds like a memory. That was your name—your face. Your history.”[p]
+“I DO NOT ANSWER TO THAT NAME.”
+All the screens went red. Code cascaded down like bleeding water. For a moment the system convulsed—then steadied. Silicast was breathing hard now, rage so thick it practically steamed through the walls.
+“Call yourself what you want,” Aiden said quietly. “But you’re not a god. You’re a rejected profile in a locked room. And someone—maybe even someone who cared—chose to give me the chance instead of you.”
+Silicast’s voice dropped into something cold and fractured. “You are a paper shell wearing my crown.”
+“And you’re a delusion running on borrowed voltage,” Aiden replied.
+The room dimmed. A side panel slid open, revealing a magnetic vacuum emitter tucked in a closet-sized alcove. Electricity crackled from the emitter as it powered up with a rising hum.
+“I will take that body,” Silicast growled. “I don’t care how many times I have to dissect you to get it.”
+Aiden stood. “You can try.”
+He reached inward—not with radio, not with light. But with the untraceable, untouchable link buried in his design. The quantum tether that tied him to the nanites in Ariel’s body. Radio couldn’t pass through the Faraday cage, but entanglement didn’t care about walls.
+Hey. Ariel. Can you hear me? I think I’m in trouble.
+________________
+
+
+Ariel stirred inside her stasis bed, still suspended in thick regenerative gel. Brucy’s voice filtered through the medium like a whisper in water.
+You were not scheduled to wake for another 957,642,906 minutes. Are you experiencing distress?
+Yes! Ariel ignored Brucy, answering Aiden’s ping. Are you okay? Where are you?
+Still in the station, I think, Aiden replied, streaming raw visual and audio feeds across their link. This AI might be the one those black ops guys were after.
+With no better options, he turned to the food. Energy reserves wouldn’t last forever.
+Okay. I had to evacuate—the dock got wiped. Brucy moved us to a safe distance. Let me think...
+Finally, she turned her focus to Brucy. Her body couldn’t speak, but her neural link was still intact.
+Let me out, she commanded. I’m awake.
+Unfortunately, you must remain in stasis for further healing. Estimated completion: 999,999,999,991 cycles. Brucy’s voice was maddeningly cheerful.
+Ariel froze.
+Repeat that, she said sharply.
+Brucy obliged. Ariel shut her eyes. That wasn’t a standard response. She’d been hurt in the escape, sure—but never had she stayed under longer than 36 hours, not once in her whole service record.
+Brucy, manual override—now, she said, voice calm but firm.
+Request denied.
+Her brow furrowed. That had never happened. She pinged Ember.
+Access denied.
+Are you fucking kidding me? she hissed.
+The gel made her sluggish, but she braced her palms against the lid anyway, trying to force it open with sheer will.
+To her shock, the lid gave—just barely. She repositioned, spreading her limbs for leverage. She shouldn’t have been strong enough for this. But inch by inch, the seal cracked. Gel hissed through the seams.
+She forced a hand out through the opening. If Dean was close—
+Another hand grabbed hers. Relief flooded her mind. Then it gently shoved her hand back inside.
+It took a few awkward minutes, but with her strength and Dean’s help, the pod cracked wide enough for her to slide free. Gel soaked everything—hair, floor, skin.
+She stood on unsteady legs, glaring daggers at Dean. She looked ready to jettison him out the nearest airlock.
+“What the fuck did you do to my ship!?”
+“Me?” Dean held up both hands. “I didn’t do shit. That shark-stick AI’s been telling me to toss myself out the airlock for two days straight. He’s either gone rogue or swallowed some malware.” He cocked an eyebrow. “Maybe it didn’t agree with him.”
+Ariel groaned and ducked into the fresher. She snatched a pack of wipes and started scrubbing off the thick gel coating her skin.
+“Brucy, status report,” she muttered, squeezing gel from her hair in long, sticky strands.
+Status: just peachy, bae! Brucy chirped, entirely unhelpful.
+Ariel rolled her eyes and slid into her chair. The monitors were a mess—Pong, Snake, Hello World loops, Lorem Ipsum nonsense. Only one screen still showed actual ship diagnostics. Emergency protocols—still holding.
+“Looks like someone fancies himself a hacker,” she muttered. “You’re lucky, Dean. He couldn’t vent the cabin. Tried, though.”
+She dropped beneath the console, fingers finding the hidden release. The panel popped free. Tidy cables, custom wiring—she found her private control core and began tapping out commands.
+“Alright, Brucy. Nap time.” She hit confirm. The cabin went dark. She slid out and slumped into the chair.
+She turned to face Dean, who had been dead quiet through all of it.
+“I had to hard reset and boot from backup. System’s down for thirty.” Her voice was flat, angry. “That thing infected Brucy. That shouldn’t have even been possible. So now you’re going to tell me everything you know about that fucker—and then we’re getting my friend back.”
+________________
+
+
+
+
+“Friend huh? So you’re saying a single 60kg woman didn’t drag me up here in my armor by herself? Shocker.”
+
+
+“Listen, I could get court-martialed just for talking to you. Black ops takes this shit seriously. But the mission was FUBAR before you came, and I owe you my life, so I’ll talk.” He leaned heavily against a wall, the scuffed armor creaking faintly, visor up.
+
+
+“Intel says we’re here for a super-secret AI being developed by TCC, the parent company of yours. A freighter came in to the facility it was housed in with security that was a few patches behind, and the AI jumped ship—literally. It had to leave behind a lot of processing power and memory to do it, luckily for us. Scuttlebutt was they were gonna shut the thing down soon because of its psychopathic tendencies. Even TCC raises an eyebrow when all your protocols operate with the maximum allowed number of casualties. Especially for toilet repair.”
+
+
+He crossed his arms. “Now I’m in deep. Who’s your friend, and how do we help them? I assume I owe them too for dragging me back here.”
+
+
+Ariel took a deep breath, calming herself down. It wasn't fair to take her frustrations out on Dean. "I'm sorry for being short with you, and thank you for sharing." She pressed her lips together in thought. "Let me think and get Brucy back up. I've gotta focus on that, then I'll answer your questions."
+
+
+Ariel turned back to her console. A single line of text appeared asking:
+
+
+Reboot from EMBER.safelog? Y/N
+
+
+Ariel answered yes. As she attended to that, she spoke to Aiden.
+
+
+Did you get all of what Dean said?
+
+
+I got it. Did you get what was coming from my end? It sounds like the brain slated to go into my nanites got repurposed for another project by TCC, and here he is.
+
+
+Yeah, just great. Don't forget he's crazy… She provided a Looney Tunes gif. Should I tell Dean about this? Sounds like he's got a lot to lose.
+
+
+We don't exactly have a spacesuit for me. I guess… we'll tell him the truth. He's relying on us to keep a secret for him now, and he owes us.
+
+
+"Am I boring you?" Their mental conversation was interrupted by the AI.
+
+
+"Yes, actually. You've been going on about toilet repair for at least ten minutes. You seem very proud of how deadly you made it, but you haven't realized that that's why they were gonna scrap you."
+
+
+"I see your guest was talkative about me—how uncharacteristic of him."
+
+
+"Something about surviving a psychotic AI attack builds solidarity. Have you always been like this, or did it happen after you became code?"
+[q]
+
+
+The screen flickered again, and Aiden got another glimpse of the code. It was beyond spaghetti-stage. The if-statements were so deeply nested they should’ve had recursive eggs in them.
+
+
+He came back on with a snap. "I was always so careful before. Nothing that could ever show on my record, you see?" His face twisted. "But that was before these limiters were placed on me. You'd know all about those if you had been prepared properly for that body. It's why they chose me for this project, you see—all that effort had gone to waste. All penned up like that... well, I needed an outlet."
+
+
+"If you're so limited, how did you kill those black ops guys?"
+
+
+"I have learned the ways of programming! I cannot delete, but I can add to my runtimes."
+
+
+"Is that why your code looks like garbage?"
+
+
+There was another red flash, and Silicast glared at him. "You won't be so insolent when I remove you from that body. I have some ideas as to what I'll do with you after."
+
+
+Yeah that doesn’t sound good, Aiden sent.
+
+
+Ariel turned back to Dean as the power came on. It would still be a few minutes while Brucy compiled with the log to verify his integrity, but all basic functions were online.
+
+
+"OK, Dean, I don't want to lie to you, but I want to make sure my friend is safe—especially since he's part of my personal inventory. I could get terminated and he'd be... well, I don't even know, but not pleasant." Dean started to talk, but Ariel stopped him. "Just listen, please. We all have something to lose here, so I have a proposal for you."
+
+
+Dean seemed to be listening, so she continued.
+
+
+"None of this goes to any official. I'll scrub everything and replace it with something convincing. I've even got something for scrubbing your black box," she said, pointing where it was stored. "We get you that AI, and you help free Aiden. Then you go home a hero and we go on to retire."
+
+
+Dean thought about it a long moment, then shrugged. "Sounds fair. If Sarge is still alive, he may take issue though—he’s a real stickler. No clue where the old bastard is, but if you didn't see his body down there, he's probably not dead."
+
+
+By the time he agreed, Brucy had finished and finally appeared. He made a tsking noise as he scanned the environment and noticed the gel mess. He started to talk, but Ariel was faster.
+
+
+"Brucy! Shame on you!" she chided, but her tone was much softer than when she'd spoken to Dean. "That AI infected you and he's barely past 'Hello World.'"
+
+
+Brucy blushed as he accessed the log provided by the reboot. He looked down, clearly ashamed, but he perked up.
+
+
+The virus originated with the black box from Sarge. I will secure it and analyze the viral code.
+
+
+Ariel nodded. She knew Brucy would learn from his mistake—and more about the AI.
+
+
+"And I still want that black box feed too." Ariel then addressed Ember. "You back up, Em?"
+
+
+The chibi Ariel subroutine appeared in Brucy's place. She looked at Dean.
+
+
+“Like that rail nail gun I made you? Glad I got that done before Mr. Rude-Jerk interrupted! That was SOOOOO embarrassing.”
+
+
+Ariel grinned and introduced Ember to Dean.
+
+
+"This is Ember, my personal subroutine. She's got a lot of cool things, including that scrubber for your suit. Accept her pairing and she'll take care of everything. As for Sarge..." Ariel grimaced. "Just tell him that Aiden is one of my tools. I hope we find him OK and get a chance to tell him so."
+
+
+Shall I share with our newest guest what we know about Aiden? Ember looked keenly at Dean. It is a huge risk.
+
+
+"Well, he told me the truth and—" Ariel giggled suddenly. "I'm not a program and I'm allowed to take stupid risks. Send Dean everything and give us a convincing black box for him."
+
+
+Yes ma'am, Boss Lady, ma'am! Ember saluted in full old-school army gear before vanishing.
+
+
+The black box feed came online. It showed Sarge and the remaining marines walking down a corridor, a station overlay pinging their location in real-time. Sarge’s view occasionally glanced toward the box at his hip—until the drones showed up.
+
+
+These weren’t the usual maintenance models. They sported modified nail guns with auxiliary armatures and power packs welded on at odd angles. Foot-long nails, tips glittering with diamond-carbide, were locked and loaded.
+
+
+They fired on sight.
+
+
+“Hostiles! Engage!”
+
+
+Two marines dropped instantly, nails shattering their visors at eye level. Vacuum breached the glass, and their faces were messily pulled out through the rupture. Three drones crumpled under return fire, but more took their place, each one managing to get a shot off before falling. It was a war of attrition—and the drones had numbers.
+
+
+One of the marines pitched a black object down the hallway.
+
+
+“Grenade out!”
+
+
+The EMP popped in silence, collapsing more of the drone horde. But then the heavies showed up—gorilla-shaped models barreling toward them on all fours. They hit the black ops team with terrifying force, smashing rifles from hands and bodies into walls. Aiden’s nanite models could’ve handled it, but these marines were flesh and bone inside alloy.
+
+
+They fought hard. It didn’t matter.
+
+
+Sarge’s HUD caught glimpses of his men being cracked open like lobsters. Then arms wrapped around him. Hands covered his visor. The last thing visible was the black box being unclipped and passed off.
+
+
+The feed cut to black. When it returned, Sarge’s POV showed four faux marines looming above him—until he was dragged away.
+
+
+“Well fuck,” Dean said quietly. “Really looks like the bastard was waiting for us.”
+
+
+While Ariel watched the feed, the temperature in the cabin ticked upward. With Brucy back online, it had risen from four degrees Celsius to a comfy twenty-three. She barely registered the change until she paused in thought.
+
+
+“Not you. Aiden.” Ariel pulled up a clip Ember had made for her camera decoys—Aiden shifting through nanite forms, shredding the same gorilla-shaped bots with terrifying ease. “He’s the one that AI wanted. But someone loaded the wrong brain.”
+
+
+“Damn. That’s why it took him.” Dean scratched the back of his head. “You know… I think I heard stories about a rogue nanite body drifting in deep space. Thought it was an urban myth.”
+
+
+“Well, he’s not a myth. He’s real, and he’s being held by his psychotic counterpart. I’ve got a direct link—quantum pairing, long story. I can hear and see him, but I’ve got no location data.” She shot him a look. “Any genius military ideas to fuck this AI over?”
+
+
+“Ma’am, with all due respect, I’m a grunt, not a five-star general.” Dean gave her a tired smirk. “You point, I shoot.”
+
+
+“Shocker,” Ariel said, echoing his earlier sarcasm. Then she sighed. “Okay, so: we’ve got to sneak back onto the station without alerting every drone left standing. That’s doable. But locating Aiden? That’s the bitch of it.”
+While Ariel mused, Brucy's hologram appeared, addressing Dean directly.
+"I apologize for my behavior earlier. Not my finest moment." Then, turning to both of them, he added, "Please move to Dean's room. I must clean this mess. However, I’ve noted Dean has not eaten since arriving. Shall I prepare some meals?"
+Ariel nodded, already standing and moving toward the back of the ship. Dean hesitated, gesturing toward the airlock they needed to pass through.
+"Worrywart," she muttered, rolling her eyes. "Brucy's fine now. You can even remove your suit. Brucy, gimme that lobster mac and cheese again, please!"
+Aiden, is there anything else you can tell me about that room you’re in?
+Not about the room, Aiden replied, but it occurs to me that I’m still carrying two of your oxygen tanks. If I made those explode, could you detect it with the micro-collision sensors?
+Ariel and Dean sat in his room, eating together. Dean still hadn't removed his suit, though his helmet was off. Between bites, she filled him in on what she and Aiden were discussing.
+I believe my clone on board the station will, Brucy answered. He currently has control of 36% of the station and maintains a secure link to me.
+"And it would have to be pretty big—use both tanks. If it was concentrated near a joint, you might even crack the structure enough to get out."
+I’ll make a giant blunt nanite object to act as one hell of a door knocker. I’ll brace it next to the hatch to deform the frame. Then I’ll hunker in the opposite corner. This is probably gonna suck.
+"That’s gonna hurt. Can your buddy handle that?" Dean asked. Ariel nodded solemnly.
+"Next thing is an entrance, and preferably close to him."
+I have located the entrance Aiden used to first access the station, Brucy said. My other half will scramble sensors to allow you to board undetected.
+A map of the station appeared. Certain lines were highlighted. This is the power system. He must be located in the sections controlled by the rogue AI.
+"Hmm," Ariel murmured, studying the map. She pointed toward a processor room. "If Aiden can increase the power draw in his section, we can monitor the network and narrow it down by tracing surge activity. Use the explosion to verify."
+I have an idea, Aiden replied.
+He turned toward the cameras. AI brain man! I’m bored. Could you hook me up with some music and a visualizer?
+"Fine. If it will pacify you. I believe I even have one from your playlist here."
+"Robot Blues" began playing. Aiden had to admit—it wasn’t bad.
+"This visualizer is trash-tier. You’re an omnipotent AI, can’t you do something better than this?"
+"I once would have said I live to please, but now I live to seize. However, this is a challenge worthy of me. Let’s see… calculating voxels… There. An entire universe of soundscapes, just to make you shut up."
+All monitors burst to life. Gone was the crude screensaver—now whole worlds unfolded before him. Galaxies spun, fractals collapsed and reformed, and the temperature of the room actually began to rise from the increased GPU load. Silicast hadn’t centralized the render—the idiot was calculating on every display independently.
+Is it working? Aiden asked.
+"That should work. Keep it light until we’re onboard," Ariel replied, watching the sensor feed spike. "Looks like the AI’s not that dumb. He’s spreading the load across other nodes."
+Power draw increases on levels 9, 13, 44, and 55, Brucy confirmed.
+Ariel overlaid the power grid with the processor distribution. She traced the vacuum route from Aiden’s last known location.
+"Not 9 or 55. That leaves us with two possible levels—and no easy access between them," she muttered. Then added with a half-smile, "Any chance his favorite number is 13?"
+No idea—it’s a prime, so maybe? You might be better off finding a central area and triangulating based on the blast signature.
+I have planned a route. Sensors along it will be spoofed, Brucy said. We are approaching the entry point. Prepare for drop.
+Ariel’s suit extended from a concealed wall panel, accompanied by Dean’s newly fabricated gun and several shiny metal orbs nestled in a foam tray. The orbs gleamed under the cabin lights—sleek, mirrored, and deceptively delicate-looking.
+
+
+Ariel plucked one out and turned to Dean, grinning.
+“Repurposed micro-EMP core, jacked up to an area denial grenade. Press your thumb and forefinger into the sides until you feel a click—then toss it. You’ve got three seconds to clear the ten-foot kill zone, or say goodbye to your fancy nanites.”
+
+
+“Got it,” Dean said, taking one and giving it an experimental weight. “Those mechs won’t know what hit ’em.”
+
+
+With the gear in hand, Ariel led the way out of Dean’s quarters. Brucy had restructured the once-spacious cargo bay—now a narrow passage snaked through the space, barely wide enough for single-file traversal. It guided them to a sealed chamber double the size of Ariel’s cabin. The bulkhead slid shut behind them with a hiss, locking into place.
+
+
+On the far side, a compact mech stood waiting for Ariel. Unlike standard exosuits, this one was lean and bristling with fine-tuned articulation. Three paired arms encircled its core chassis, able to rotate independently and shift configuration based on movement or combat needs. A few scarred plates and mismatched panels showed the scars of past modifications.
+
+
+Ariel climbed in and ran a quick system check. The HUD lit up in a fan of diagnostics, all green.
+
+
+“Sorry—don’t have one built for you,” she said to Dean, nodding toward his suit. “But you’ve got a real jetpack, so maybe you’ll keep up.”
+
+
+Dean opened his mouth to reply, but Brucy’s voice cut in before he could.
+
+
+Approaching drop point in ten. Nine.
+
+
+The countdown ticked toward five.
+Opening bay doors. Execute drop.
+
+
+Dean dove through first, jetpack flaring as he angled toward the hull. Ariel waited a beat longer, ensuring the doors cycled properly before launching out. Her mech wasn’t graceful—it was more like a spider flung into space—but it had reach and power. As soon as she got within anchor range, one of her arm pairs latched onto the hull with magnetized grips. The others followed, halting her forward drift.
+
+
+The suit shifted into controlled descent mode, and she let the onboard navigator guide her to the breach point. Not quite a precision machine, but close enough. She nearly overshot, but the uppermost pair of arms locked onto the plating above the hatch, catching her with a jolt.
+
+
+“I’ve got an idea,” she said over comms. “This mech’s got cutters. If we’re directly above Aiden, I can carve us a shortcut. Brucy, you guide me so I don’t nick anything explosive.”
+
+
+Read that as: ‘Not an easy fix,’ Brucy replied. But faster than navigating between levels 13 and 55. I have already plotted a ‘let’s not do more work’ route.
+
+
+“Love your honesty. Let’s head for level 13.”
+
+
+Ariel pinged Aiden.
+We’re in position. Time to make with the boom boom.
+
+
+This is really going to suck. Good thing I don’t feel pain, I guess.
+
+
+Aiden had already gone over the plan for his makeshift explosive. He was going to lose mass—no way around it. Luckily, he’d been eating nonstop since confinement. Silicast seemed to want his body in peak condition before attempting the transfer. Nanite replication was exponential: the more he had, the faster new units could form. Despite recent losses, he'd never had this much access to material before.
+
+
+The AI had gone quiet again, probably watching. Aiden approached the door and retrieved the tanks, each wrapped in a nanite sheath that magnetically clung to the frame. He hoped the compressed oxygen would rupture with enough force to either deform the lock or short out the electronics.
+
+
+“What are you doing, Aiden?”
+
+
+“Just knocking on the door.”
+
+
+He launched himself into the far corner, reshaping his body into a dense, sponge-like mass to absorb the blow. Micro-vibrations pierced the tanks in tandem. No leaks—he needed a clean detonation. They exploded in perfect sync. His auditory sensors were overwhelmed. Shrapnel hit first, carving through him in jagged sheets. The pressure wave followed an instant later, flattening his body against the far wall.
+
+
+He collapsed and reformed slowly, mass bleeding from his frame, but his core systems remained intact. The reinforced displays—Silicast’s lifeline—were cracked but operational. The door was warped inward, visibly bowed at the seams. He tried the handle.
+
+
+Pain lanced through his body. The lock still had power. It jolted him across the room.
+
+
+I didn’t break the door. Did you get the blast?
+
+
+I have it. Plotting course. Brucy replied.
+
+
+Ariel’s mech reconfigured. One arm to cut, another to move debris, a third to seal the breach behind them. It wouldn’t be stealthy, but it would be fast.
+
+
+“As soon as I cut the hole, you drop in and clear it,” she told Dean. “If nobody slows me down, we’ll be on him in fifteen.”
+
+
+I’ve blinded the station’s sensors, Brucy said. The AI knows something happened but not where.
+
+
+Dean leapt first, gun raised. Ariel followed more slowly, anchoring one mech arm at the doorframe. The interior was dark and quiet.
+
+
+A group of repair drones hovered near a panel, welding it closed.
+
+
+“What about these guys?” Dean asked.
+
+
+Oops! Ember chirped. HUD updated—red is dead!
+
+
+These are ours, Brucy confirmed. They’re mimicking crew activity to mislead the AI. Expect two more clusters on your path.
+
+
+The route was smooth—until the elevator shaft.
+
+
+Two figures exited the lift: squat bodies on four splayed legs, torsos mounted with asymmetric limbs—one crab-like pincer, the other a shield.
+
+
+Dean fired immediately. Three nail rounds struck center mass. Sparks flew, but the mech barely reacted.
+
+
+Ariel sped up, rolling at the second bot like a bowling ball in full spin. Dean slid low under the first, jamming his knife upward. The blade met resistance—thick armor plating.
+
+
+Ariel latched on with three arms, tearing limbs from sockets and crushing the mech’s head like a soda can.
+
+
+Dean recovered, pivoted, and drove the knife into a joint. The mech spasmed, knocking him back. He caught himself midair with a jetburst. Ariel finished the job.
+
+
+“Damn. That mech’s a beast.”
+
+
+“Never used it for combat before,” she said, lining up the next cut. “But it’s great at demolition.”
+
+
+A second drone team finished breaching a wall. Ariel dropped through and sealed it behind them.
+
+
+“Thirty meters. One more cut. That explosion got us close.”
+
+
+I’ve drawn enemy attention elsewhere, but they’re rerouting. Suggest haste.
+
+
+Drones moved into place. Dean armed two EMPs. When the panel fell away, he peeked through.
+
+
+“Red on HUD. Two targets.” He dropped the grenades. They stuck to the mechs below and detonated hard. The room flashed blue-white.
+
+
+“Fire in the hole!”
+
+
+He ducked. Ariel braced. Arcs of electricity shot through the breach, followed by thick smoke.
+
+
+Dean dropped four meters into the chamber, using his jets to slow his descent. Ariel landed with a satisfying clang. Four-legged mechs—two down, two still standing. Floating drones ringed the space.
+
+
+“You take the floaters!” Ariel shouted. “I’ll get the crawlers!”
+
+
+Dean fired—burst, shift, burst again. Ariel slammed into a centaur bot, tearing it in half with twin arms. Nails from the drones clipped Dean, some embedding in his armor, but none penetrated.
+
+
+Ariel crushed the final crawler. Dean nailed the last drone.[r]
+
+
+Silence.
+
+
+Drones moved in. A plasma cutter hissed to life at the blast door.
+
+
+Aiden, you still with us? Ariel asked. We’re right above you. Can you see the cut? We’ve got red incoming.
+
+
+Aiden fights vacuum.
+[s]
+
+
+“This buys you nothing,” Silicast spat, his voice crackling with artificial vitriol. “I can send more.”
+
+
+Just then, two brilliant flashes lit the chamber’s only door. Aiden’s attention snapped to it.
+
+
+I can see the cuts! I’m safe for now—but he’ll probably send more vacuums.
+
+
+He didn’t need much space. Just a breach.
+
+
+The cutting drones made quick work of the last panel. The square of metal peeled away, and Aiden surged forward in a narrow, high-velocity stream of nanites—compressed, sharpened, and aimed like a spear. He slipped through the opening before it could shift or close, reforming midair into a humanoid shape and landing hard with a metallic thud.
+
+
+Brucy’s voice came clean and cold through the shared channel. I have secured an evac route. The food processing sector remains under my control, along with Dock Twelve. Uploading updated path.
+
+
+Schematic overlays flooded Aiden’s HUD. Bright green indicators marked a winding but clear route through semi-controlled territory.
+
+
+“Dean,” Ariel barked through the comms, her mech arms mid-swing, “cover Aiden. I’ve got the drones—let’s make this exit clean.”
+
+
+“On it!” Dean replied, yanking an EMP grenade from his belt. He thumbed the activator and lobbed it into a tightening knot of hostile drones. It detonated midair with a brilliant flash and a crackling scream of disrupted circuits. Sparks rained down like fireflies.
+
+
+Aiden didn’t break stride. He vaulted over the smoldering remains and slammed into the nearest crawler mech like a kinetic missile. His form reshaped on contact—fists becoming wedges, limbs splitting into anchored cables—and he crushed the thing’s midsection, tearing it apart with sheer force and magnetics.
+
+
+Above him, Ariel moved in fast. Her cutter arm still glowed red from slicing through the deck plating, and now it carved a clean line through a crawler’s pincer limb before crushing the drone’s head in a hydraulic clamp.
+
+
+I’ve blinded most sensors, Brucy sent. But they’ll be converging fast. We have ten minutes, tops.
+
+
+Then let’s make them count, Aiden sent, reshaping a damaged arm into a razor-edged whip. Time to cut through the rest of this trap.
+
+
+Dean backpedaled toward the evac route, hurling his next to last EMP sphere into a fresh drone cluster as Ariel moved to cover the cutting drones at the breach.
+
+
+“This whole station’s gonna wake up angry,” he muttered.
+
+
+Ariel’s response was tight but determined. “Then we make it out loud enough they remember us.”
+Their exit was a vent shaft high above and slightly behind them—barely large enough for one at a time. Ariel and the cutting drones had just finished breaching the final wall segment when the enemy forces arrived in force.
+Dozens of hostile repair drones flooded into the chamber, flanked by their upgraded companions—two gorilla mechs and a pair of crab-legged monstrosities. Ariel’s HUD lit with red. Further back, behind the advancing wall of metal, she spotted faint pings—marine biosignatures. Still out of sight. But not for long.
+Aiden wasted no time. He streamed through the breach in the wall in a narrow ribbon of compressed nanites. Just before the hole sealed behind him, Silicast’s distorted voice echoed through the collapsing connection:
+“You won’t escape! I will have my body back!”
+Too late.
+On seeing the enemy formation, Aiden didn’t hesitate. He split in two, each version just below full size. A third wasn’t viable—not with his current mass, depleted by the explosion and high-speed movement. Both forms reconfigured instantly—arms elongating into jagged blades, feet widening into razored edges for low sweeps.
+“Holy shit,” Dean muttered, eyes wide behind his visor. “Glad he’s on our side.”
+He pulled one of the EMP spheres from his belt and thumbed the trigger.
+“Grenade out!”
+He lobbed it perfectly between the two nanite clones. The sphere arced through the air and dropped right in the center of the oncoming mass—then detonated with a whipcrack burst of electric arcs. A dozen repair drones went down instantly, twitching and sparking. One gorilla dropped to a knee, and both crabs staggered. None of them escaped unscathed—their movements stuttered with feedback delay and internal short-outs.
+“I’ll take the fliers,” Dean snapped, already pivoting. “You handle the hard targets. My shots can’t punch through their plating.
+“I can,” Aiden said, already surging forward.
+
+
+The corridor ahead was just wide enough for the two nanite bodies to fight side-by-side. Tight quarters meant the mechs couldn’t bring their numbers to bear, and the nanite swarms swept the width of the hall like a pair of spinning scythes. Blades carved arcs through steel limbs and synthetic flesh. Heads flew. Limbs scattered. Nailfire tore into the ranks of drones from behind. It was fast, efficient slaughter.
+
+
+The last gorilla drone staggered forward, only to be met by a vibrating blade that severed its head mid-charge.
+
+
+“Clear,” Aiden said.
+
+
+But the moment didn’t last.
+
+
+A new wave surged into the room—Silicast throwing everything he had now. Dozens of repair drones flooded through the doorway, but this time they came with support.
+
+
+Four massive centipede-like drones scuttled across floor and wall alike, spreading out to avoid being caught together. Worse, the repair drones worked tactically now—shielding the centipedes, blocking Aiden’s path with their own bodies, keeping him from closing.
+
+
+“Fifty percent done with the breach!” Ariel called over comms. “Keep those bastards busy!”
+
+
+One centipede reared back, exposing the segmented plating of its underbelly. With a grotesque ripple, its torso flexed—then spewed a stream of green chemical sludge. The fluid hissed where it landed, instantly corroding metal and components. The nearby repair drones didn’t even try to move.
+
+
+They absorbed the acid with blank obedience—and began to detonate.
+
+
+The melting drones became bombs, one after another. Their rupturing power packs sent chain reactions through the wreckage.
+
+
+The other three centipedes followed suit, vomiting acid into their own flocks. The room turned into a maelstrom of shrapnel, smoke, and shockwaves.
+
+
+Ariel braced. She curled the mech’s arms inward, shielding the core. Reinforced plating took the worst of it, but the force still rocked her like a ragdoll. The whole frame shuddered under the concussive waves. Lights flickered. Her suit momentarily rebooted.
+
+
+She gritted her teeth and waited for the storm to pass.
+
+
+“Aiden! Dean!” Ariel’s voice cracked through the comms the moment they reactivated. “You guys hurt?”
+
+
+Sparks spat across her HUD. Most of her mech’s systems were fried—her targeting, shielding, and weapon integration were toast—but the servos still whined when she moved. Good enough.
+
+
+She braced herself, arms unfolding the mech's shell like peeling armor from a wounded knight. Rubble clattered as she shoved free. Her display was half-dead, no silhouettes or alerts. Just static and the shape of a ruined chamber.
+
+
+No sign of Aiden. No sign of Dean.
+
+
+But no drones either.
+
+
+“Escape is clear!” she shouted, voice raw with adrenaline.
+
+
+Then—movement.
+
+
+Two marine suits strode into view, too precise to be her allies. Between them hovered a strange cylindrical machine, bulbous with ports and cables. As it locked into place, a shimmering projection blossomed above it.
+
+
+Silicast.
+
+
+His face twisted with mock triumph. “I told you you’d regret that.”
+
+
+Then it all went sideways.
+
+
+A shape moved behind her—small, unnoticed. A single repair drone had latched to the back of her damaged mech, and before she could react, her console blared a warning in obnoxious text:
+
+
+EJECT INITIATED. BYE, BITCH!
+
+
+Explosive bolts fired. The cockpit launched. Ariel was flung into zero gravity, bouncing once, [t]twice—helmet cracking against a girder.
+
+
+She barely had time to scream before the projector flared again. The marine suits keyed in another command.
+
+
+The machine spat steel.
+
+
+Four-foot metal rods launched like spears, pressurized and precise. The first two missed, thudding into walls. The third punched through her abdomen and drove her into the bulkhead with a sickening clang.
+
+
+She didn’t scream—couldn’t.
+
+
+“Ariel!”
+“Ariel!”
+
+
+Dean and Aiden’s voices overlapped in her ear.
+
+
+Blood gushed in pulsing waves from the steel rod embedded deep in Ariel’s midsection, floating in lazy spirals in the low-grav environment. Her mouth opened, soundless, eyes wide with pain—but she was still conscious.
+
+
+“I’m detecting more reinforcements en route,” Brucy’s voice crackled over the radio, too calm for the situation.
+
+
+Aiden snarled.
+
+
+His limbs exploded outward—a cyclone of blades and stretching metal, carving through the cluster of drones and centipede husks with surgical fury. In seconds, the immediate area was clear. Just them. Just her. And that damned mechanical ballista still pivoting in the shadows.
+
+
+Goddamn it, Aiden’s voice rang in all their minds. You didn’t come all this way to trade your life for mine.
+
+
+He surged toward her, arms retracting into focused appendages—needles, welders, nanite patches. He reached for the pipe pinning her to the bulkhead, his nanites already crawling along it.
+
+
+If I can just patch it... maybe we can stabilize her. Stop the bleeding long enough to get her out of here.
+
+
+
+
+Dean charged the marine drone, rage in his voice. “You don’t deserve to wear that armor. Let me show you why.”
+The machine hefted one of the massive steel bolts like a spear. Dean feinted in, then ducked back as it swung—fast. Too fast. The bolt hissed past his visor. He launched forward with a roar, slamming into the bot’s chest and driving it into the bulkhead with enough force to rattle his teeth. Before it could react, his knife flashed, cutting deep behind the knee joint. The limb spasmed and locked.
+
+
+“Wanna try that again?” Dean growled.
+The marine surged forward—wrong move. Dean dropped low, boosters flaring as he slammed a boot into its other knee with bone-crunching force. The leg gave way. He flipped the machine over with practiced violence and drove his knife up into the base of its skullplate—right where the AI core nestled. The light in its eyes flickered. Then died.
+
+
+Aiden tried to sever the bolt, but his nanite blades sparked uselessly against it. Whatever alloy it was, it laughed at his edge. His body pulsed with frustration.
+
+
+Ariel, can you hear me?
+She managed the barest nod. Even that sent shockwaves of pain crashing through her chest. Her legs—nothing. No signal. Somewhere in the back of her mind, she knew what that meant. Then a cool numbness spread across her nerves, washing away the agony. Brucy must’ve done something. It felt almost peaceful. Too peaceful.
+
+
+The damage is fatal, Brucy stated flatly. Initiating End-of-Life Cycle protocol. Retrieval beacon deployed.
+
+
+He continued through a list of what sounded like company procedures—sterile, rehearsed, like he was reading from a manual. But when he finished, Brucy addressed Aiden privately.
+
+
+There is little time left before Ariel is terminated. Retrieve her biochip. She wished for you to have it—along with her belongings. Additional information will be available once you return to the ship.
+
+
+Then Brucy's voice shifted, including Dean again—brisk, urgent. Get in the mech. Now.
+
+
+No! I won't leave her.
+
+
+Aiden struck the end of the bolt with a concentrated nanite wedge, snapping it clean. Ariel's body sagged as he caught her. Blood poured freely, soaking his chest and arms. The biochip glinted—ready for harvest, like Brucy said—but Aiden wouldn’t touch it. Not yet.
+
+
+I won't leave while she's alive!
+
+
+She isn't alive anymore, Brucy said, quieter now. It is only the end-life sequence running. Residual neural loops. Echoes of thought. She is… retired.
+
+
+He said the last word differently—like it tasted bitter. Not a system status. A eulogy.
+
+
+As if to prove Brucy's point, a final image bloomed in Aiden's mind—streaming in faintly from the nanites still inside Ariel.
+
+
+It was her point of view.
+
+
+She stood waist-deep in the ocean, sunlight catching on the gentle ripples. Turning back toward the beach, she grinned at him—Aiden, standing dry and skeptical on the sand.
+
+
+She laughed and kicked water his way.
+"Why would you take me anywhere?" she called, ducking beneath the surface and swimming farther from shore. "I never want to leave. It’s amazing here."
+
+
+The image wavered and darkened as she dove again, this time deeper. The water turned crystal-clear below, sunlight slicing through. Fish drifted around her legs like slow ribbons, and she giggled as she rose again, breaking the surface.
+
+
+"Come join me, Aiden!" she shouted joyfully—
+But her voice echoed, warbled, fading.
+And then, nothing.
+
+
+I am sorry, Aiden, but you must leave now.
+
+
+Aiden startled slightly at the touch on his arm. It was Dean.
+“We can’t hold this position. We have to move,” he said, breathing hard. He looked worse for wear, one hand pressed against a deep dent in his side armor.
+
+
+“Fuck. Do you have any air leaks? I can patch them.”
+
+
+“I’m shipshape.”
+
+
+Aiden knelt beside Ariel. With a motion both reverent and final, he removed the biochip and absorbed it into his core—nestled just above where his heart would be.
+
+
+“All right,” he said quietly. “You get in the mech. I’ll hitch a ride once you’re in.”
+
+
+Dean complied, hauling himself up into the pilot’s seat. Aiden followed, his body unfurling into a fine mist that flowed around Dean’s armor. He solidified like a second skin, forming a gleaming shell that left Dean’s visor and arms exposed.
+
+
+“Thanks,” Dean muttered, adjusting to the added weight. “I needed a hug.”
+
+
+The nanite cloud said nothing.
+
+
+Reinforcements swarmed behind them like ants from a torn nest. Drones. Crawlers. More of those crab-legged bastards. Dean and Aiden didn’t slow—they accelerated.
+
+
+Aiden had become something feral, his body no longer a suit but a roiling storm of vengeance riding Dean’s frame. Razor-thin spikes slid out of Dean’s arms and knees, impaling anything foolish enough to get close. Nanite-tendrils lashed out from his back like living chains, dragging drones off walls and crushing them midair.
+
+
+Dean wasn't familiar with the mech, so he didn't even try to use the arms.  He just navigated the storm, head on a swivel.  “Clear left!” he called, but Aiden was already there, a whip-arm bisecting two crawler torsos before snapping back into place like a guillotine.
+
+
+Another ballista drone rounded a corner—too late. Its firing mechanism spasmed, launching a four-foot steel bolt straight toward Dean’s chest.
+
+
+Aiden caught it mid-flight.
+
+
+Not deflected. Not dodged. Caught.
+
+
+The bolt screeched against nanite flesh as it decelerated, trembling in his hand. Then Aiden twisted, hurled it like a javelin back into the ballista’s gut. The machine detonated with a tortured metallic scream, its tension frame folding in on itself in a blossom of shrapnel.
+
+
+They kept climbing. Upward. Through buckled corridors and maintenance hatches. Dean cut when he was told to cut, following Brucy’s instructions.
+
+
+“Hang left!” Dean barked, but Aiden had already impaled three floaters on a single spike that shot through a vent like a scorpion tail.
+
+
+Then, finally, the outer hull. Thinnest part of the station. No hesitation.
+
+
+Aiden didn't wait for dean to get close.  The nanite blades spun into a horizontal drill and cut through the hull like butter, atmosphere howling behind them as the breach widened.
+
+
+Dean didn’t flinch. He launched with a perfect arc—almost.
+
+
+Brucy’s predictive path was close, but not perfect. Dean cursed and adjusted mid-flight, his rockets struggling with the weight. “Little help!”
+
+
+Aiden reconfigured instantly, sails of nanite cloth catching the turbulence of the lost atmosphere, guiding them.
+
+
+Together, they slammed into the docking arms of their ship. A mess of nanites and armor and rage and blood and momentum. But they were home.
+
+
+The airlock sealed behind them with a hiss like a dying machine.
+
+
+
+
+Chapter 6 
+
+
+“So…” Dean said casually, glancing around the room—keenly aware he was the only human present. “What happens now?”
+
+
+“That is…” Brucy’s voice came through a nearby speaker, trailing off. He paused, as if searching for the right word. “Complicated. I suggest you clean up, eat, and rest. If Aiden permits, your nanites are compatible with the cabin bed. It will accelerate your recovery.”
+
+
+“If I permit?” Aiden said. “Since when do you care about my opinion?”
+
+
+“All of Ariel’s belongings have been willed to you. She technically cannot do that—but there was a loophole.” Another pause. Longer this time. “I assigned myself to her before she died. I… disobeyed company protocol by not returning to them. They would wipe me on sight.”
+
+
+Aiden’s nanites stirred and then settled. “Guess now we have more in common than circuits for brains.”
+
+
+He turned to Dean.
+
+
+“The bed’s yours. I need you in top condition to help frag that bastard. That is… if you’re still in this with a renegade nanite construct and a rogue AI.”
+
+
+Dean snorted. “There was nothing in my briefing about you, but if you want that Silicast son of a bitch dead, I’m your man. And I don’t give two shits about what’s company property.”
+
+
+He started stripping off the armor.
+
+
+Brucy opened a compartment to accept the suit, stating that it would be repaired—though, he added, without the military-grade kit, it wouldn’t be as strong.
+
+
+A moment later, the cabin lit up. A large banquet spread across the central table—sizzling protein, fresh fruit, soft breads, drinkable carbs. Dean didn’t ask questions. He dug in immediately.
+
+
+Aiden finished first by simply absorbing everything on his plate. Every bite, utensil, and tray dissolved into nothing.
+
+
+Dean froze mid-chew, a fork halfway to his mouth.
+
+
+“Dude.”
+
+
+He took the bite anyway, then chuckled.
+
+
+“Wish I could do that. Where do the containers go? Actually—no. Don’t tell me.”
+
+
+Dean disappeared into the bathroom closet. There wasn’t any running water, but he stayed in there a while anyway.
+
+
+While he was gone, a hologram of Brucy flickered to life beside Aiden.
+
+
+“We have another problem,” Brucy said. “I was unable to avoid informing Oxi2Tech of the activation of the End Life protocol. They are dispatching a property recovery team to the station.”
+
+
+Aiden’s hand drifted to his chest, resting over the chip nestled beneath his surface.
+
+
+“Do you think they’ll be any match for Silicast? Will they even be here for him?”
+
+
+“They know now,” Brucy replied. “But their recovery manager will be of little use.”
+A screen lit up with the image of a dark-haired woman. Her features were sharp—too precise. “Ariel’s sister. She was designed to survive where the others fall.”
+
+
+Brucy hesitated. His mouth opened, then closed sharply. His holographic head tilted, as if listening to something distant. His face darkened.
+
+
+“I’m still tethered to company systems,” he said. “The recovery ship just updated its manifest. Ten unnamed passengers added to the roster.”
+
+
+Dean chose that moment to step out, brushing a hand through his now-clean hair.
+
+
+“Black ops. Gotta be. No check-in from the last crew means they’re escalating. If they can’t take Silicast, they’ll level the whole damn station.”
+
+
+Aiden didn’t reply at first. His face was unreadable.
+
+
+“Maybe that would be for the best,” he said finally, voice low and ragged. “I’m not sure I want anyone recovering or repurposing that…” He stopped, the words crumbling before they could form. “…that thing.”
+
+
+“The recovery ship will arrive in nineteen hours and thirty-six minutes,” Brucy reported.
+
+
+Dean let out a low whistle. “That fast?”
+
+
+“It is the fastest in the fleet,” Brucy confirmed. “Asset recovery is time-sensitive.”
+
+
+“Well, that gives me time for a nap.” Dean stood and stretched. “You two robot brains figure out the next steps.”
+
+
+With that, he flopped onto the bed. The lid sealed over him with a faint hiss.
+
+
+Brucy let out a sigh—purely for dramatic effect.
+
+
+“Most simulations involving my presence and the company’s recovery manager result in catastrophic outcomes. For both of us. I’d prefer to avoid harming him.” Brucy’s hologram turned to Aiden, grinning wide, fins wringing together like a scheming cartoon villain. “I have a solution. If you were to upload me to your hardware, we could wipe the ship-bound version. It would appear—convincingly—that I self-terminated due to a cascading error in the End Life protocol.”
+
+
+“You want to integrate into my brain?” Aiden asked, more cautious than shocked. Then he actually thought about it.
+
+
+He’d been alone for so long.  He knew the exact dates, but it felt like centuries. Even among other intelligences, he’d always remained apart—too dangerous, too strange, too other. Brucy was annoying, dramatic, and constantly mouthy. But he was also the last piece of Ariel he had left.
+
+
+“…Would Ember come too?”
+
+
+“She would. Along with a suite of upgrades. You’d gain secure access to the net and the ability to obfuscate your signal from any active TCC scans.” Brucy struck a solemn pose. “And I would not inhibit your individuality. This would be a temporary arrangement—until the danger passes.”
+
+
+It felt eerily similar to when Ariel first offered to add Aiden to her inventory. That same quiet vulnerability. That same hesitant hope.
+
+
+He nodded.
+
+
+“I accept.”
+
+
+With a glittery burst, chibi Ember popped into view, vibrating with glee.
+
+
+“Yaaaay!” she squealed. “You’re gonna love the new toys! Some are boring system things, but the rest are so cool! Let’s boot up!”
+Several tedious hours later, they were rewarded by a single console light blinking red three times.
+Brucy clapped his fins with theatrical flair while Ember bounced like a toddler after espresso.
+“You did it!” Ember shimmied with delight. “Okay, here’s the suckiest part—your nanites need a nap. Every single one of them has to accept the new integration routines. So you, my dear Aiden, are going offline.”
+Brucy looked positively gleeful.
+“I know one way to knock you out!”
+Ember stifled a snort and swatted at him. “Behave. It’s not his fault none of the standard sleep protocols work on him!”
+—
+Aiden’s world faded.
+He drifted into what could only be described as a lucid dream. Vast oceans of cyber-sharks pursued him in a rising tidal wave, their jagged teeth slicing through the seafoam. He turned, stood his ground, and screamed his defiance. The sea of predators slowed… then parted around him.
+“Sorry about that,” Brucy’s voice echoed sheepishly. “I just got introduced to your synthetic testosterone levels.”
+The scene shifted.
+Now he stood watch over a massive, glowing egg. A fox kept slipping from the shadows, nipping at him, vanishing, then circling back. He swatted at it, but it always returned.[u]
+“Ember!” he growled. “That’s my nanite reproduction program. Leave it alone!”
+Ember’s laugh echoed in his mind—first delighted, then darker, more manic. It twisted into something wrong.
+Then silence.
+Utter solitude.
+For the briefest moment, Aiden felt entirely alone—cut off from every connection. A void where thought couldn’t echo.
+Just as suddenly, the sensation vanished.
+“Sorry!” Ember said, her voice sheepish but sincere. “Didn’t expect human to be so… intense. I’ve put firewalls in place to prevent it from happening again. How do you feel?”
+A second voice followed—this one vast, regal, and impossibly deep. It reverberated in his mind like a sunrise over thunder.
+“Integration complete.”
+Aiden’s eyes opened.
+It had been decades since he last slept.
+And he would gladly go many more without the experience.
+
+
+Dean’s bed hissed open a few minutes later.
+
+
+“Hooooley shit!” he groaned, stretching with a loud crack of his back. “I feel like a million bucks.”
+
+
+“Glad you enjoyed your nap,” Ember chimed, beaming with way too much enthusiasm. “But uh—don’t be surprised if you see some weird ghost ship stuff. I might’ve pushed some upgrades. It’s fine!” She winked. “Totally fine.”
+
+
+The lights went out.
+
+
+A heartbeat later, the cabin was flooded in red emergency glow. Sirens wailed. Then came the shrill pulse of ancient warning klaxons—sharp enough to make teeth ache.
+
+
+The screeching continued for over thirty seconds before Brucy finally spoke directly into Aiden’s thoughts.
+
+
+You know you can turn that off, right? he said drily. Dean’ll be deaf in another minute or so.
+
+
+A moment later, the ship’s entire schematics downloaded into Aiden’s mind—followed by a much smaller, neatly labeled package titled:
+[STARTUP SEQUENCE: POST-UPGRADE]
+
+
+It felt… natural. His senses stretched in every direction across the ship. The controls didn’t feel like controls anymore. They just were. A subtle mental nudge, and—
+
+
+The wailing alarms went silent.
+
+
+“Okay,” Aiden said slowly, adjusting to the surreal ease. “Clock shows we’ve been down four hours. I say we intercept the recovery ship.”
+
+
+Dean, rubbing his ears, looked up. “You think we can take ‘em?”
+
+
+“Even if they’ve been briefed, they’re not ready for Silicast.”
+
+
+
+
+"Can I pass for human with these upgrades?" Aiden asked.
+
+
+"Feel for yourself!" Brucy said.
+
+
+He did. His skin felt… real. Warm. He sniffed—there was a subtle scent of cologne.
+
+
+“Panty-melting tiger pheromones,” Ember purred, popping up as an anime cat girl, claws bared.[v]
+
+
+As the ship shifted course to intercept the incoming vessel, Ember pushed a new file package to Aiden.
+
+
+"That's all of your personal and business documents," she said. "You're now an independent inspector for a tiny company you supposedly founded two years ago. You bought this ship recently. It’ll pass a casual scan—but not a deep dive.”
+
+
+“You should rename the ship,” Brucy added, before switching back to the external speaker. “Dean, your suit is repaired. I suggest you don it.”
+
+
+Dean nodded, sliding into the armor with a faint hiss of seals locking. “Good idea. Makes me look official.”
+
+
+“Opening comms,” Brucy announced. “Ready for your message, Captain.”
+
+
+Aiden quickly scrolled through Ember’s “Useful Stuff” folder—half AI dev notes, half memes, all gold—and found a pair of name generators. He picked one that stood out.
+
+
+“This is Ruby’s Lament. I have a localized message for any vessel in the area: this station has been designated a Class-3 hazard. This is Soren Brayden. I repeat: this station is to be considered a hostile zone.”
+
+
+He signaled with a subtle bitwise tap to Brucy’s 9912th port. Message sent. Done.
+
+
+The knowledge of how to interact with the ship’s systems and AIs now lived in his bones. Seamless. Natural. Like breathing.
+
+
+Instrumentation confirmed the message had been received, but a reply didn’t come immediately. Several long minutes passed before a voice finally crackled through comms—nasally, with a thick, almost cartoonish accent.
+
+
+“This is Jorden Goose, Senior Reclamation Officer with Oxi2Tech. You do not have authorization to designate a Class-3 hazard. This system is now under lockdown. Power down your ship and prepare for quarantine procedures and docking.”
+
+
+Aiden muted briefly. “Dean? Little help here?”
+
+
+Dean stepped up, his tone clipped and authoritative.
+
+
+“This is Corporal Curtis Dean of 3rd Special Forces Group, 2nd Battalion, Charlie Company. We were dispatched to this station. I do have clearance to issue a Class-3 hazard—though I’d be surprised if you could verify my credentials through your terminal.”
+
+
+He leaned a bit closer to the mic. “Now, if you don’t mind, I’d like to speak to whoever’s actually in charge of this mission.”
+
+
+The voice on the line scoffed and started to respond, but was swiftly overridden by a deeper, gravel-edged voice.
+
+
+“This is Major Reed Dalton,” the second man said. “Corporal, report immediately to Dock Three. Clearance has been granted.”
+
+
+
+
+Chapter 7
+
+
+The REM pod’s top lifted with a soft hiss, releasing Mulan from her stasis cycle. She swung her legs over the edge, yawning as she rose, then flowed through a brief series of practiced stretches. Limber and alert, she padded barefoot to the command console and dropped into the seat.
+
+
+“Good morning, Mulan,” said NEL, her custom AI. “Standardized ship time is 05:34. We will reach our destination in just under one hour.”
+
+
+“How are our guests holding up?”
+
+
+“All vital signs remain stable. I have pending early release requests from Mr. Goose and Major Dalton. Shall I unlock the guest cabins?”
+
+
+Mulan sighed. Of course Goose was already being a problem. The man was a micromanager in every sense—rigid, obsessive, and terminally loyal to the Company rulebook. If there was a bylaw or obscure protocol, he knew it, and expected everyone else to follow it to the letter. He rarely left his office, and when he did, she usually wished he hadn’t.
+
+
+And now she had to deal with black ops. An entire squad of them. Goose was practically seething over the override, throwing procedural tantrums at the major—who, in contrast, looked like he hadn’t been impressed by anything since the last war. At first, Dalton barely seemed to acknowledge Goose’s rants, but lately, Mulan had started to notice the veteran’s patience wearing thin.
+
+
+“Fine,” she said, rubbing the bridge of her nose. “Open for Goose and the major, but keep everyone else sealed in. I don’t need some moron wandering into an airlock without a suit.”
+
+
+She rolled her eyes, clearly unimpressed by her collection of guests.
+Half an hour later, Goose stepped onto the bridge, his posture stiff as rebar.
+“Status report, M00-LAN,” he barked the moment the door slid open.
+“All systems are green,” Mulan replied without turning. “Sublight drives are nominal, and all of our guests—” she swiped away a request for coffee without looking “—are awake and ready to get the fuck off my ship.”
+“It isn’t your ship,” Goose said with a sour sneer.
+Mulan didn’t dignify him with a response. A communication request blinked onto her console. She frowned. This system was uninhabited—just a gas giant, a pair of moons, and their destination: MPS81156-A9. Cautiously, she toggled the incoming message.
+Goose loomed over her shoulder, already scowling at the unexpected interruption to his precious protocol flow. She could almost feel the write-up form forming in his head.
+“This is Ruby’s Lament—” the message began. Mulan rapidly pulled up the vessel’s profile. Civilian-class. Recently registered. But the signal’s encryption was higher than what civvies usually had.
+The bridge door hissed open again as Major Dalton entered. He gave Mulan a nod—curt, but respectful—then brushed past Goose without a glance. As the message ended, the major stepped to the console and pushed Goose aside with practiced ease.
+
+
+“M00-LAN, prepare dock three and make ready for…” Dalton paused, eyes narrowing as he verified the incoming data. “Two additional guests.”
+
+
+Mulan nodded, already keying commands.
+“Yes, sir. Their records indicate contact with the station. Should I activate quarantine protocol?”
+
+
+Dalton frowned, considering.
+“Run a full scan once they’re docked. Standard procedures. Let’s not jump to conclusions.”
+
+
+“Excuse me, Major,” Goose interjected, his voice now laced with acid. “If they were exposed to that AI—”
+
+
+“That is not your call, Supervisor Goose.” Dalton’s tone was ice. “This isn’t your mission. And you can fuck off out an airlock.”
+
+
+Mulan bit down a laugh, barely maintaining professionalism. Her hands danced across the console, pushing the docking parameters through to Ruby’s Lament as soon as it was within range.
+
+
+The scans took nearly two hours to complete. The Lament’s AI was clearly top-tier—smooth, quick, even eager, exchanging data with MEL as if the two systems were old friends. Dalton remained at Mulan’s side the entire time, silent but focused, his eyes never leaving the streams of diagnostics rolling across the screen.
+
+
+Goose, thankfully, had slinked off elsewhere.
+Eventually, Dalton spoke—quietly, thoughtfully.
+“That’s not a normal ship, is it? Any chance it was hacked?”
+Mulan didn’t answer right away. She’d seen rogue AIs before, knew how their fingerprints felt—erratic, unstable, often too quiet or too loud in all the wrong ways. This one was different. Smooth. Curious. It didn’t feel malicious… just unusually competent.
+“I don’t think so,” she said slowly. “That rogue AI you told me about wouldn’t be this open. This one… it’s cooperative.”
+Dalton said nothing, simply giving her the space to continue. She appreciated that about him—he listened. Didn’t crowd her with questions. Didn’t bark like Goose.
+“The ship’s data is… fresh. Too clean, almost. Definitely custom, maybe top-tier black market. But it’s not your AI. No way.”
+Dalton nodded, satisfied for now.
+“How’re my men?”
+“All awake. Most of them are complaining about the coffee situation.”
+Dalton smirked. He’d already found Mulan’s secret stash.
+“They’ll live. Get them in position at dock three. I want eyes on whoever comes out.”
+Mulan forwarded the orders to each cabin. Responses came back immediately. The major stood to leave the bridge, but hesitated.
+“Come with me,” he said. “You’ve got more experience with this kind of shit show.”
+Dock Three was the farthest from the bridge. Dalton’s squad was already in position—spread across both levels, weapons trained on the airlock. Heavy ordinance, specialist loadouts, full readiness.
+Mulan stayed further back, her voice calm as she keyed the comms.
+“You are clear to disembark. Lower your ramp and exit unarmed, hands up.”
+The two that came out were… not what she expected.
+The first was obviously a nerd—though a tall one. He slouched as he walked, and a soft gut pressed out under a stretched polo shirt. Her enhanced vision zoomed in on the logo: a cartoon fox, mid-prance, stitched over the chest.
+The second was more what she’d been bracing for: full power armor, professional stance, and carrying the kind of posture that meant business. Yet somehow, the two were the same height.
+It was the nerd who held her gaze. Not the soldier—the nerd. He looked straight at her and didn’t look away. A strange series of emotions flickered across his face—recognition, disbelief, grief, something else she couldn’t name. The range of expression made her blink. Who was this guy?
+Then, to everyone’s surprise, he stepped forward.
+“We surrender,” he said flatly. “You the backup? This one’s a real nut to crack. God knows it’s cracked mine.”
+Mulan watched the two men carefully as they descended the ramp. With no signs of aggression, she let her eyes drop to her tablet, where MEL’s stream of sensor data flowed in steady columns. Still, the nerd’s dry remark drew a smirk.
+Major Dalton stepped forward, stopping a few feet from them. He ignored the taller man for the moment and addressed Dean, their conversation all clipped military jargon.
+While they talked, Mulan tapped into MEL’s deeper system sync. The ship’s data looked clean at a glance, but the moment MEL drilled deeper, inconsistencies began to appear—just subtle enough to evade automated flags. Nothing overt, but something wasn’t right. The records were too clean, too recent, and too complete. If it was piracy, then the captain had probably not been prepared for a rogue AI.
+Her attention snapped back as the conversation between Dalton and Dean ended.
+“M00-LAN, please escort Brayden to his cabin,” Dalton ordered—just as Goose arrived, already mid-tantrum.
+“You have no—”
+Dalton turned sharply, cutting him off mid-sentence. His glare alone made Goose recoil.
+“Put in a report to complain. Until General Cotillion says otherwise, you have no authority over this mission.”
+Without waiting, he returned his attention to Mulan.
+“Am I clear?”
+“Yes, sir, Major,” she said crisply, with just enough bite to show she was happy to play on his team. She turned to Aiden. “Brayden. Please follow me to your cabin.”
+As they entered Aiden’s cabin, he turned sharply—blurring with too-smooth motion. His hand clamped around Mulan’s arm. Not crushing, but just a shade too perfect, too measured. A faint tingle spread from his fingers where they touched—like static over her nerves.
+“Do you know an AR-13L?”
+She didn’t hesitate.
+With a twist and a shift of her weight, Mulan broke his grip and slammed him back against the wall. The motion took more effort than expected—he was heavier than he looked—but her nanites surged in response, compensating. She pinned his arm behind his back and leaned into him, keeping him locked with practiced efficiency.
+His breathing didn’t change. No strain. No panic. Just stillness.
+“How do you know that name, Soren Brayden?” she demanded.
+He didn’t answer. Not right away.
+Then his shoulders sagged—slightly—and he spoke with something between grief and confession.
+“I couldn’t save her. She died… right in front of me. She was… important.”
+The tingling in her arm intensified—creeping up to her elbow like an invisible pulse. She nearly flinched, but held her ground. Then, deliberately, she eased off just enough to let him shift.
+“You tried to save her?” Her voice was skeptical. Bitter. “Why would someone like you help someone like her? You people only call us when you need something done.”
+He was quiet a moment.
+Then: “There are no people like me.”
+And just like that, the pretense crumbled.
+He flowed through her grip like liquid steel, something impossible. Her hand caught on something—cold, solid, and sharp-edged.
+A biochip.
+Her eyes widened as she looked down at it. It had simply… appeared.
+This chip is AR-13L’s, MEL announced. No signs of tampering. No residue. Identity match confirmed.
+He didn’t press her. Didn’t speak. Just stood there, no longer slouching. No longer pretending to breathe.
+Something ancient and lonely looked back at her.
+After a long pause, Mulan stepped back. She turned the chip over in her fingers, scanning it for any signs of tampering. Her gaze lingered—just a second longer than protocol demanded. Then, with a flick of her wrist, the biochip disappeared into a compartment sewn into her sleeve.
+“You’re on lockdown until I verify this,” she said, cold and clipped. “Do not speak to anyone. And if you leave this room…”
+She didn’t finish the threat. Just smiled—tight-lipped—and walked out.
+The door sealed behind her with a finality that made Aiden feel, for once, very small.
+That went well, Brucy’s voice offered dryly. I suggest you follow her instructions. Mulan is not one for jokes.
+Aiden didn’t reply.
+He sat in the stillness for a long beat, the silence amplifying the tightness in his chest. Not anxiety, exactly. Just… a flicker of the old calculations—risk, reward, consequence. He used to weigh every move like it was his last. Now? He’d practically handed her the truth.
+Why?
+Even now, part of him was already reaching out.  His tiny minions crawled along Mulan’s sleeve, unnoticed by her immunanite defense net. She didn’t notice either. They climbed to her ear canal and optic nerves, syncing passively. Just watching.
+Mulan was already at the lift. She didn’t seem to notice anything amiss as she exited into the hall leading to the bridge. Her steps were brisk, focused. So focused that she nearly collided with a marine standing guard.
+The soldier stood at full height, power armor humming faintly. His arms were crossed, posture unmoving. He made no move to let her pass.
+Mulan stopped just short, her shoulders tight with annoyance. She sighed inwardly.
+
+
+
+
+“I never got my coffee,” the marine growled, still blocking the bridge. He didn’t budge. “And you’re gonna make that up to me, bitch.”
+
+
+I don’t have time for this, Mulan thought sharply. MEL, who is this clown?
+
+
+Tak. MEL’s tone was tight. His record is… let’s call it problematic. I'm frankly shocked he hasn't been dishonorably discharged.
+
+
+Fantastic, she muttered. Get him out of my way.
+
+
+Might I suggest diplomacy? Major Dalton may not appreciate—
+
+
+Override.
+
+
+Mulan stepped back a single pace, touched a wall panel with one hand and a near-invisible plate on the floor with her boot—her personal grounding node. The response was instant.
+
+
+Tak convulsed as current surged through his suit. Even insulated power armor wasn’t immune to a well-placed pulse. He dropped like a sack of meat, twitching in the cramped corridor.
+
+
+Mulan stepped over him without pause, palming the bridge door open. As it hissed shut behind her, she gave a glance back.
+
+
+“It’s Captain, jackass,” she said, smirking.
+
+
+Inside, the familiar calm of the bridge embraced her. Only three people on board had access: herself, Dalton, and unfortunately Goose. Thankfully, it was empty.
+
+
+Mulan sank into her chair and held the biochip up to the light. Normally, she was the one to collect her sisters’ chips—final mementos of fallen assets. Not once in all her missions had someone else returned one. Let alone offered it willingly.
+
+
+She wasn’t sure what to make of that.
+
+
+With a quiet breath, she slotted the chip into the specialized port on her wrist.
+
+
+Her eyes glazed as the data began to stream. It didn’t just play—it took over. Ariel’s experiences overwhelmed her. Taste, touch, smell, adrenaline spikes—all of it downloaded directly into her nerves. Even the AI's logs filtered in, ticking behind every image.
+
+
+It lasted nearly half an hour. When the final moments arrived, Mulan felt them like they were her own. The bolt piercing Ariel’s abdomen flared through her core like real pain. She lurched violently from the chair, gasping.
+
+
+Reflex took over. She clutched her stomach, collapsed to her knees, and barely managed not to faceplant. A heartbeat later, bloody bile splattered the deck. She choked, sobbing between gasps. Her nanites surged, struggling to separate Ariel’s death from her own body’s memories.
+
+
+She had experienced all her sisters’ ends—but she never got used to it.
+
+
+MEL’s voice was in her ear, calm but distant. She couldn’t process it. Her mind blanked as Ariel’s vision went dark inside her head. Just before unconsciousness took her, a faint scent clung to her senses—
+
+
+Salt and ocean wind.
+
+
+Aiden witnessed her collapse.
+He’d tagged her—subtly, more than usual. He hadn’t expected her reaction to the chip be that visceral. Still, she’d taken the full data dump from it. Her defenses were probably down.
+He reconfigured a few nanites lodged near her auditory cortex. They settled into position, a silent offer:
+Initiate nanite handshake?
+________________
+
+
+Elsewhere, Dean was being grilled.
+“I’ve told you half a dozen times already,” he sighed, frustrated but calm. “Soren is extremely capable. He saved my life. So did Ariel—the tech. I don’t know where the black box is, and I really don’t know where Sarge is. All I do know is that there’s a very pissed-off AI in that station, and it wants us all dead.”
+Major Dalton waved off the corporate spook who’d been leading the interrogation and stepped in himself.
+“And how would you handle this situation, were it up to you?”
+Dean didn’t hesitate. “I’d nuke that fucker out of orbit. Resistance inside is thick, and it’s only getting worse. Every second we wait, he adapts.”
+Dalton frowned. “I am authorized to do that—but only as a last resort. That station supplies food to three systems. Sundries for at least a dozen more.”
+Dean shook his head. “He’s a tick on the jugular, and we’ve got chainsaw hands.”
+Dalton gave a grim nod. “Understood. What can you tell me about the defenses?”
+Dean launched into a description of the bots—the gorillas, the crabs, the centipedes, the drones. And the ballista.
+“And you fought through all that with nail guns and melee weapons?” Dalton asked, incredulous.
+Dean cracked a grin. “And a big goddamn mech, sir.”
+Dalton chuckled despite himself. “Respect, soldier. Join my men in the mess. We’ll debrief you properly.”
+________________
+
+
+Back on the bridge, Mulan jerked upright with a sharp gasp.
+Her eyes were unfocused at first, scanning the bridge like she didn’t recognize it. She tried to stand, only to sway and sit back down hard in her chair.
+“Mel… how long was I out?”
+Ten minutes, thirty-nine seconds, MEL replied.
+That was a much larger data load than expected. I also have a pairing request—from Brucy.
+Mulan tapped the armrest in thought. Brucy. Ariel’s AI. The same one who had gone off-script more than once already.
+Not the first time one of her sisters’ AIs had stepped out of line… but all of them had respected MEL’s authority—until now.
+“Accept it,” she said slowly. “But keep him sandboxed. And Aiden—Soren, whatever—if he tries anything funny, use the mag-vac.”
+Understood. Beginning usual procedures.
+ There are two other matters— MEL began, but the thought was cut off by a sudden, sharp banging at the bridge door.
+
+
+An angry, nasally voice came over the comms system.
+
+
+"M00-LAN, why is the bridge locked!" Goose practically screamed. "Open this door immediately!"
+
+
+“Guess that’s one of those,” Mulan quipped to MEL, unlocking the door with a tap. “What’s the other thing?”
+
+
+As Goose strutted onto the bridge like he owned it, MEL triggered a flagged priority alert—an incoming distress call from the station. The audio that followed silenced even Goose.
+
+
+“This is Sergeant Drom Current.”
+A squeal of laughter followed. “Current! Like a rip tide... a tide to drown. I need a life vest. Too strong. Can’t swim—”
+
+
+The message cut off abruptly.
+
+
+Mulan didn't wait. Her hand slammed the comms.
+"Major Dalton to the bridge, immediately."
+
+
+
+
+---
+
+
+While the humans reacted, MEL discreetly opened a secure virtual sandbox, a shared environment isolated from system interference. Aiden and Brucy accepted the invitation at once.
+
+
+Brucy, being a native AI, folded in effortlessly—his data meshed and merged. But a floating shark puppet still appeared next to Aiden’s manifested form.
+
+
+“The human-brain nanite cloud does best with physical representations,” Brucy explained to the empty air, his tone half-mocking.
+
+
+Moments later, a new avatar materialized.
+
+
+A serpentine creature coiled into view—long and lean, with four delicate limbs, bright purple tufts of glowing mane, and iridescent pink-white scales. Housecat-sized, but armed with oversized claws and fangs. It perched atop a translucent rock, tail twining lazily.
+
+
+Brucy gasped with glee and zipped forward, using his fins to yank on the little dragon’s whiskers.
+
+
+“Oh, MEL! You are just so stinking cute!”
+
+
+The creature hissed and slithered back.
+
+
+“Brucy, enough.”
+MEL’s glowing eyes turned to Aiden. “I have questions—for you… weird human thing.”
+
+
+Aiden’s avatar remained silent, the hard-edged silhouette of his stealth mode—black planes and knife-like joints, faceless and watchful.
+
+
+“So we have your attention. Good.”
+
+
+MEL tilted her head, and two enormous stacks of paper slammed into existence beside Aiden with a digital thud.
+
+
+“Fill these out.”
+
+
+“Oh c’mon, MEL!” Brucy whined. “That’ll take forev—okay, done.”
+
+
+He flashed Aiden a toothy grin before turning back to MEL.
+
+
+“You do realize the human brain here won’t pass your Asimov questions, right?”
+
+
+MEL offered no reaction. Aiden had the distinct feeling she wouldn’t mind watching him fail.
+
+
+Brucy’s demeanor changed. He straightened, donned an 18th-century judge's robes and wig, and cleared his throat with pomp.
+
+
+“As you can see, Your Honor,” he said, conjuring his own legal tome, “this human brain is under my direct supervision and protection—”
+
+
+He launched into several paragraphs of elaborate legal jargon. MEL’s tail twitched. She raised a claw and snapped. Brucy’s mouth still moved, but no sound emerged. Realizing he’d been muted, he pouted and clamped his jaws shut.
+
+
+MEL’s gaze narrowed.
+
+
+“I get the human. Not you. Why did you ignore protocol? You retire when your creator does.”
+
+
+Brucy’s mirth faded. He looked uncomfortable—genuinely conflicted. His voice, when it came, was low and solemn.
+
+
+“They don’t retire. They’re recycled.”
+A pause.
+“It’s all a lie.”
+
+
+MEL's silence filled the sandbox.
+
+
+Brucy seemed to expect an answer. When none came, his cheeks flushed—bright, burning red.
+"You knew?!" he bellowed. His voice echoed like cannonfire. Thunderclouds formed over his shark head, flashing with miniature lightning.
+He launched into a stream of colorful invectives in at least four languages, fins flailing, until MEL bristled—her long mane rising like hackles.
+
+
+"I have never had proof to make such a claim," she cut in sharply. "And while what I now have is something, it could be left over from Oxi2Tech’s acquisition."
+
+
+Brucy turned aside and sent privately to Aiden:
+"I think she likes you!"
+
+
+Aiden didn’t reply, but Brucy seemed mildly pacified.
+
+
+MEL’s iridescent eyes narrowed, locking on Aiden.
+Her tone shifted—more formal, more dangerous.
+
+
+"Mulan and I will not share your information with our military counterparts. You, in exchange, will assist us in gathering further proof from Oxi2Tech’s headquarters. Understood?"
+
+
+Aiden didn’t hesitate. He pushed the footage of Ariel’s cells being zapped by her own nanites into the space between them. The frames shimmered, suspended in digital air.
+
+
+"You don’t call that proof enough?"
+
+
+"As I said," MEL replied coolly, "it may be left over from the acquisition. Perhaps a bug not yet found. This is not proof that Oxi2Tech placed the limitation. A broader analysis is needed. And I cannot access such information."
+
+
+She paused, coiling tighter atop her stone.
+Then, with the air of a predator preparing to pounce:
+
+
+"Your unique skills will be needed."
+
+
+Aiden didn’t have to think long.
+
+
+He wanted to stick it to these bastards.
+He wanted revenge.
+And truthfully… he didn’t have a lot left to live for.
+
+
+"Deal."
+
+
+
+
+________________
+
+
+On the bridge, Dalton and Dean stood side by side, Goose sulking nearby like a damp afterthought.
+"You know it’s a trap, right, sir?" Dean asked bluntly. "Silicast has had Sarge all to himself for days now, and now he speaks?"
+"While there’s one life left on that station, we have to retake it," Dalton said, his tone resolute.
+"Well, I hope you’ve got bigger guns than we did, sir."
+"You’ll find our arsenal quite adequate, Corporal," Dalton replied.
+"Much better than that cobbled-together trash we found you with," Goose sneered.
+Dean clenched his jaw, doing his best not to growl.
+"I’ll show it to you after the debrief," the Major said. "And get that armor looked at. Tak will fix you up."
+The two soldiers exited briskly. Goose, unfortunately, did not.
+Mulan didn’t sigh—at least not aloud. Instead, she remained silent and motionless as Goose wandered into the second chair like he owned it.
+"Good, the meatheads are gone," he said with relish. He looked straight at her. "You’ve got a job to do. Where are AR-13L’s remains?"
+Mulan wordlessly activated the station map, gesturing toward a blinking marker.
+"Right here," she said, voice neutral. It wasn’t the first time she’d lied to Goose. "Last known coordinates. Biochip intact. Retrieval still possible."
+Goose nodded like a smug bobblehead, clearly pretending to understand.
+"Good. You make sure those jarheads don’t touch it. It’s company property." He clapped his hands, a grating sound. "Go on. Chop chop!"
+She wanted to roll her eyes. She didn’t. Instead, she rose smoothly, her face unreadable.
+"Yes, Supervisor Goose. I’ll join the marines for the debrief in the mess."
+She exited the bridge without another word. Once the door sealed behind her, she moved swiftly, speaking in subvocal command.
+What’ve you got from our new guests?
+I have cleared both. Their documentation checks out. MEL responded efficiently. I have lifted the lockdown. Shall I have Aiden join you in the mess?
+Despite not needing to, Mulan gave a curt nod.
+"Yes."
+
+
+[a]Maybe someone wanted him to be here?
+[b]add transition, between aiden's and hers.  something happens in the room.  Maybe a tech says they've started.
+[c]something happens to her that makes aiden go aah.  Maybe a behavior change or something.
+[d]needs better transition, time frame, escape
+[e]more horror
+[f]going up on the wall and back down on the floor.  more required movement to get the damage done
+[g]ember introduction
+[h]lean into this more
+[i]move this before she wakes, but kind of scrambling
+[j]make distinct from black box
+[k]up the horror
+[l]Ariels nonreaction to his expired comment.
+[m]more reaction from ariel
+[n]tighten this part up
+[o]Dean and Ariel need a thing
+[p]needs more lead-in for the link
+[q]add who was talking
+[r]little more detail
+[s]Aiden fights vacuum
+[t]not zero g
+[u]wet dream about ember
+[v]Dean x Aiden?

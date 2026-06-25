@@ -1,0 +1,912 @@
+﻿Chapter 1: Shattered Beginnings
+
+
+Dorian Flint was not having a good day. Of course, since Jess had left him, those were in short supply. He glanced up from the function on the screen to the suit of armor standing in a glass case in the center of his living room, gleaming halberd in its hand. 
+
+
+It was pristine. Of course it was; he hadn’t worn it since the breakup. The armor was a full plate, polished to a mirror shine, with intricate engravings running along the edges of the chest plate and gauntlets. Jess had been his window into the outside world. She was full of energy, with a radiant smile that seemed to make even the darkest days brighter. Her laughter was infectious, and she had this way of drawing people in—a magnetic presence that made her the center of any gathering. She was spontaneous, always pulling Dorian into adventures he never would have dared on his own. She was always changing her appearance, but no matter the color, her eyes always seemed to sparkle with mischief whenever she looked at him.  
+
+
+She was the one who got him into LARPing, then HARMA. She’d always been the adventurous one, convincing him to try on costumes and join her in elaborate roleplays, her excitement infectious. It was through her that he found himself dressing up as a medieval knight, something he never imagined he’d enjoy—the Historical and Recreational Medieval Association. He still remembered the excitement in her eyes when they first picked out the armor together.  
+
+
+They had mostly seen each other over video chat. Jess always seemed to be in costume—whether it was armor or some elaborate outfit for one of her events. She was larger than life, even on a small screen, her energy always palpable. In person, they were often in character, running around in full gear, living out the fantasies that she adored. But it also meant that he rarely saw the real Jess outside of those moments. It had been fun, exciting, but also a bit surreal.  
+
+
+He still remembered the last call they had. She’d been dressed in her favorite armor, her green eyes alight with excitement. She was talking about *Shattered Bonds Online*, how incredible it was going to be. He was interested, genuinely—but he was also multitasking, his attention divided between her and the lines of code on his screen. She kept talking, her voice full of enthusiasm, while he mumbled responses, his focus elsewhere. And then, out of nowhere, she went quiet.  
+
+
+“Dorian,” she had said, her voice trembling slightly. He glanced up, her expression catching him off guard. There was a sadness there, a frustration that he’d seen growing over time but had never fully acknowledged.  
+
+
+“This isn’t working,” she said, her voice cracking. “I need more than this. More than just... being an afterthought.”  
+
+
+He remembered fumbling, trying to give her his full attention, but it was too late. She was done. The breakup had happened right there, over video, with him still half-distracted by his work. He tried to fix it, to say the right things, but her mind was made up. She signed off, leaving him staring at the empty screen, the silence in the room deafening.  
+
+
+When she left, he no longer knew anyone in the real world. Turned out those they had met together weren’t really his friends, and they’d all shut him out.  
+
+
+Now he barely left the house. He could order most anything online, and he worked from home. The living room, once filled with LARPing gear, costumes, and Jess’s laughter, now felt hollow. The suit of armor stood like a relic of a past life, an artifact of a different Dorian.  
+
+
+Work. It was a problem. He felt like he was slipping these days. He was an AI auditor for hire, contracted to evaluate adaptive constructs that ran smart cities, logistics networks, and personal assistant systems. The job sounded impressive, but it was excruciatingly dull.  
+
+
+AI problems were predictable. Most models were built off one of four foundational templates, and their flaws were just as foundational. The issues he found were either misaligned weighting in decision matrices or edge-case bugs nobody had bothered to patch. Even the occasional outlier—like IntegraAI, who insisted on developing proprietary models—didn’t excite him. If anything, their over-complicated systems made his job harder, not more interesting.  
+
+
+He looked back at the code. He spotted the issue pretty fast: a poorly integrated decision tree causing cascading failures. Fixing it would mean ripping out half the optimizations he’d added in the last drop. And he just didn’t want to do it.  
+
+
+Motivation was a problem for Dorian. He went through phases of intense focus on projects, interspersed with long stretches of ennui. When he had something he was into, it gave him purpose. When he didn’t, he was lost.  
+
+
+Unfortunately, that same focus had alienated the one he’d cared about most. He’d neglected her too many times, and she’d had enough. He remembered the arguments, the quiet disappointment in her eyes that had slowly turned into frustration. She had tried so hard to be patient with him, to understand his need to immerse himself in his work. But the constant broken promises, the canceled dates, and the evenings where he was too distracted to even listen had worn her down.  
+
+
+His holoband chirped. He tapped it, and the notification appeared in a hologram in front of him.  
+
+
+**“Shattered Bonds Online invites you to its beta.”**  
+
+
+The notification went on to tell him his hardware would be delivered tomorrow evening.  
+
+
+He looked at the time on the display. 9:00 PM. He switched over to his task list, an app he’d designed years ago for smartphones. He’d added on to it so much over the years it was barely recognizable. It was a mess of features, half-finished add-ons, and custom scripts—an evolving project that mirrored his own chaotic mind.  
+
+
+There was the bug, with a high priority. His schedule was actually clear after that. So, if he just knocked this out, he’d be able to fully immerse himself in the game for a couple of days before life intruded.  
+
+
+He stood up, going to the fridge. He pulled out an Aether Energy drink and brought it back to his desk. The fridge was nearly empty, save for a few more energy drinks, some takeout containers, and a half-full carton of milk that was probably expired. He cracked his knuckles, then his neck.  
+
+
+It was time to get to work.  
+
+
+
+
+Chapter 2: Pet shop 
+
+
+“Jaden!!” The singsong voice rang out, cutting through the hum of chatter in the pet store. It echoed unnervingly in the small space, bouncing around shelves stacked with birdseed and cages.
+
+
+The voice called his name again, twice more—persistent.
+
+
+Jaden clenched his jaw, trying to block it out, teeth grinding in frustration. He knew what it was. No one else could hear the voice; it was trapped inside his head. For that small mercy, he was relieved, but the constant nagging grated at him.
+
+
+Jaden kept his focus on the customer in front of him, Mrs. Warren. She was a sweet, elderly woman, always accompanied by her bratty teenage grandson.
+
+
+Carefully, he packed her canned cat food, placing the cans with extra care and double-bagging them. As he slipped the receipt into the bag, he handed it over with a polite smile.
+
+
+"Have a good evening. Would you like help with this, Mrs. Warren?"
+
+
+Before the old woman could answer, her grandson snatched the bag with a wicked grin that she missed entirely. Jaden’s eyes narrowed, meeting the kid’s smug expression with a flat, steady stare. Every time, this brat caused trouble. He had a habit of opening cans and smearing food in the bathroom, but Jaden had yet to catch him in the act.
+
+
+“Don't worry. Larry will catch him soon...” The singsong voice seemed to answer his thoughts.
+
+
+Jaden gritted his teeth, suppressing the urge to respond as he forced a smile.
+
+
+“Have a good evening. Would you like help with this, Mrs. Warren?”
+
+
+Jaden met the kids grin with a flat stare, mentally preparing for the inevitable mess.
+
+
+“Thank you, dear,” Mrs. Warren said sweetly, oblivious as always.
+
+
+Forcing a smile for the old woman, Jaden bid her a good evening, the voice still lingering in the back of his mind.
+
+
+Jaden followed them to the door and he slid his holoband over the controls and the front of the store blacked out. He heard the familiar sounds of bolts sliding into place and automations taking over the primary functions of closing time He turned around, closing his eyes and leaning on the doors, letting the sounds and smells of the closed pet store wash over him.
+
+
+The smell of the antiseptic systems hit him first, followed by the sounds of automatic temperature controls kicked on for the enclosures that houser live animals. He could clearly hear the sounds of restless animals still active on the energy brought in. 
+
+
+Then he opened his eyes as  the rest hit him 
+
+
+The sleek, metallic floors are now cluttered with small traces of disarray—a dropped bag of high-tech pet food spilling micro-nutrient pellets, holographic screens still flickering from hastily pressed buttons, and the hum of malfunctioning displays left in mid-demo.
+
+
+Grimacing, he preferred the animals to the humans, so why he chose to open a store was beyond him. 
+
+
+The sound of flapping wings made him Drew his attention. Jaden had expected this parrot to be coming in for a landing, how a small jade feathered song bird hovered in front of his face. He watched the bird barely flap it's wings, yet it remained level with his eyes.
+
+
+“It's dinner time! I'm hungry!"  The bird cried out, sounding like an impatient toddler. 
+
+
+Jaden's eyes flicked to the fish area, where Kayli moved around. She didn't notice the stranger bird, despite how loud and flamboyant it was. 
+
+
+Jaden was glad for that, but still wondered how to even bring the bird up to his therapist, let alone the pill pusher. 
+
+
+"Yes, doc. I see a green songbird that talks to me like an eight year old girl.” He thought bitterly. "Oh, don't forget the dark man who always looks behind me " 
+
+
+Then the world shifted on him. 
+
+
+Shapes lose their edges, melting into shadows, while once-sharp sounds become disjointed, echoing as if from far away. The animals are only faint movements now, just whispers of presence at the edge of perception. Glowing displays pulse as indistinct blobs of light, no longer clear or solid. The air feels heavy, filled with muted scents of spilled food and antiseptic, but even these are slippin.
+
+
+The only distinct object was the little bird.
+
+
+Resisting the urge to shoo the bird away and pushing panic down, Jaden turned to head for the cleaning supplies and promptly hip checked a display table. The carefully stacked dog bowels clattered to the ground and he could feel a cut on his hip from the corner. 
+
+
+“Dammit! Who the hell put the display here?" Jaden's voice snapped in anger, surprising him.
+
+
+The parrot that snoozed happily on his perch suddenly woke at the noise. It promptly started cawing loudly 
+
+
+"Man down! Repeat, man down.”
+
+
+Kayli appeared in a flash beside him, her eyes full of concern. She ignored the bowls and eyed where he held his hip. She sighed as she spotted the small blood stain.
+
+
+“Jaden," She started, but he cut her off. 
+
+
+“I know, I known I need to use my damn stick." He grumbled, but it was her turn to cut in.
+
+
+“Yes, that, and, you moved that display this morning.* Kayli retorted. Her tone was lighthearted, but she lectured him like she was the boss. "Anyways, I'll close up. You're all out of sorts today, Jaden.”
+
+
+Without breaking the conversation, kaulis head snapped to look a parrot that was still calling out.
+
+
+“Larry, mute." 
+
+
+At the command, Larry went silent. The normally talkative parrot flipped his wings with a soft rustle before settling down on his perch. His vibrant green and blue feathers shimmered in the dim light, but there was an unusual stillness to him now. Draped over his small frame was a tiny blue sweater, stitched with the words “I 💙 Jaden” across the front. The sweater clung awkwardly to his feathers, adding an odd contrast to his usual regal demeanor. Larry tilted his head, his sharp, intelligent eyes locking onto Jaden, watching him intently, almost as if the bird was waiting for his next move.
+
+
+“Treat?" 
+
+
+Kayli giggled as Jaden rolled his eyes.
+
+
+“Some support parrot you are." Jaden grumbled, but gave the bird the command to come.
+
+
+Larry, despite being able to fly, hopped of his perch, and waddled over. He stopped in front of Jaden, staring up expectantly. Jaden stared back, still holding his arm out. Kayli was trying to hide her laughter and hurried to pick up the display.
+
+
+"You've got wings. I'm not picking you up.” 
+
+
+Larry bobbed his head and body and doing his best to beg. Jaden called his bluff, moving his arm down. The parrot quickly jumped with wings assisting him. 
+
+
+Larry settled on jadens sho7lder, nibbling gently on his ear. Despite his stubbornness, it still made Jaden smile at the affection Larry gave him.
+
+
+Giving Larry his treat, Jaden turned back to Kayli. She'd already straightened the display and she was watching him carefully. He held his hands up in front of himself defensively.
+
+
+"Okay, okay. I'll leave you to it.” He paused, glancing at the out the storefront. "I'm not tired though, so I'll wait here and walk you out to the car.”
+
+
+He bit off the word “car". Jade dislike that he was eligible for the Guided Mobility automated cars. It wasn't the tech he disliked, but the fact he was forced to use it 
+
+
+Jaden leaned against the counter, absentmindedly stroking Larry’s feathers while Kayli finished closing up. The Guided Mobility car hadn’t arrived yet, leaving him alone with his thoughts.
+
+
+His mind drifted back to his eight years in the military, where he had been one of the best—until the Spectral Field Atrophy, a genetic blindness, started creeping in. Little things at first, then worse. They’d discharged him with honors, telling him it wasn’t his fault. But that didn’t stop the bitterness from festering.
+
+
+It was the future, a time when technology could fix almost anything—except for him. Now, instead of guiding others through the chaos of war, he was navigating a pet store, relying on automated cars and a cane to get by. The memories still stung, and the life he had now felt like a distant shadow of what could have been.
+
+
+A sharp pain on his ear brought him sharply back to reality. Larry had sensed the foul mood coming from the thoughts. The parrot was gentle most of the time, but had to resort to a painful bite. Jadens initial reaction was to swat the bird off of him, but he reined in the impulse. Instead, he scratched Larry's chest feathers 
+
+
+“Good boy, Larry." Jaden muttered before blinking in surprise 
+
+
+Kayli was now standing across from him on the customer side of the counter. She'd set her small personal bag on the counter and she leaned on her elbows. Her brown hair was freed from the work ponytail and framed her round face with ringlets. She was looking at him with a look of amusement and sadness. 
+
+
+As Jaden blinked in confusion, he forced a smile for her benefit , but the familiar bitterness stirred in his chest. She was always there—always. When he’d forget where he was or when he’d stare blankly at the ceiling trying to piece together the fragments of his memory, she was the one to guide him back.
+
+
+It frustrated him to no end. He had failed her, unable to be what she needed, yet she stayed by his side, picking up the pieces like she always did. She deserved better than the man he'd become, but she never left, never pushed him away. Instead, she helped him recover every time.
+
+
+“She was always there for me... when I couldn't be for her.” The thought made him gritted his teeth, the resentment building.
+
+
+She reached out and gave Larry a scratch as Jaden tried to gather his thoughts after the sudden jump in time 
+
+
+One moment she was humming softly to herself as she secured enclosures and the next she was finished. Jaden glanced out the front. The car was there.
+
+
+“You were staring into space again." Kayli answered his quiet confusion. 
+
+
+She looked like she was going to say more, but Larry cut her off.
+
+
+Larry fluttered his wings, his voice loud and clear, though a little late. “Car’s here! Car’s here!”
+
+
+Kayli glanced at the car that had already been parked for a solid minute. “Good timing, Larry,” she said, laughing softly.
+
+
+Jaden shook his head with a smirk. “You’re slacking, Larry. Car’s been here.”
+
+
+The parrot ruffled his feathers dramatically and gave a lazy squawk. “Better late than never!”
+
+
+Kayli couldn’t help but giggle at the bird’s antics, and Jaden’s lips curled into a smile despite himself. "I guess you're right."
+
+
+With a quick tap of his leg holoband, Larry waddled over to the door controls, tapping them lazily. The store’s locks disengaged with a chime, and the door slid open.
+
+
+Jaden gestured for Kayli to head out first, rolling his eyes at the bird. “He’s a good guide, when he feels like it."
+
+
+Kayli, still laughing, stepped through the door. "He’s got personality, I’ll give him that.”
+
+
+Jaden followed her, shaking his head as Larry settled back on his perch, puffing out his chest with pride. The cool night air hit them, and the Guided Mobility car was waiting silently by the curb.
+
+
+“You’ve got everything?” Jaden asked, trying to stay focused, though he could feel Kayli’s gaze lingering on him.
+
+
+“Yeah, I’m good," Kayli replied, glancing back at Larry who was watching them from inside. "You sure you don’t need a break? Larry’s got you covered.”
+
+
+Jaden snorted. “Only when he’s not napping on the job."
+
+
+Larry, hearing the jab, squawked. “Work-life balance!”
+
+
+Both Jaden and Kayli burst out laughing, the weight of their previous conversation forgotten for the moment. Larry’s sarcastic quips did their job, offering a brief escape from the tension.
+
+
+Kayli slid into the car, still chuckling. “If you ever want to talk, though, I’m here.”
+
+
+Jaden waved her off with a smile, grateful for the distraction. “I know. Take care.”
+
+
+As the car pulled away, he turned back toward the store. Larry was already snoozing, one eye half-open, but Jaden knew that bird had more in store for him tomorrow.
+
+
+Reaching out, Jaden relocked the store. The moment he did, a sharp, searing pain exploded in the back of Jaden’s head, like a knife twisting into his skull. His vision blurred, and suddenly, the world around him shifted into a surreal haze of bright, exaggerated colors, as if he were seeing through the eyes of a child’s painting. Everything glowed unnaturally—too vivid, too intense. His breath quickened, and just as quickly as the colors came, they drained away, plunging him into suffocating darkness. The sounds of the world became distant, hollow, until there was nothing left but silence.
+
+
+
+
+Chapter 3: Facing the Mirror
+After a brief moment in the black where he felt nothing—no sound, no sensation—light slowly filtered back in. He felt warmth returning to his skin, a subtle tingling spreading through his limbs as if they were waking from deep sleep. It was like the world was reconstructing itself around him, pulling him from emptiness back into a realm of feeling and presence. He found himself on a flat gray surface that extended in all directions, the sky a canvas of noisy patterns that moved around him, like shifting clouds. The patterns seemed to swirl in around him, luminous particles coalescing in front of him.
+A figure took shape, and solidified. It was him. Just as he’d been when he laid down—sock-footed, wearing his boxers. He felt a rush of embarrassment seeing himself like this, so vulnerable and unkempt, the reality of his state laid bare in stark detail. His paunch sagged, acne scars riddled his face, his hair long and his beard patchy. His shoulders were slumped, and his eyes distant.
+How could Jess have ever loved this? The thought struck him, a sudden pang of insecurity cutting deeper than he expected. She always seemed so vibrant, so full of life, while he looked like this.
+His mind felt heavy, a fog of frustration and regret clouding his thoughts. There was a raw vulnerability in seeing himself like this, stripped of all the illusions he had clung to. The game had somehow taken the worst version of him and thrust it right in front of his eyes, forcing him to confront his own stagnation and decay. Maybe that's why Jess had left—how could she have stayed with someone who had let himself fall so far? It felt like an accusation, a visual representation of everything he had let slide. He was angry, not just at the game, but at himself. Angry for every excuse, every moment he had let himself become less.
+There was something disturbingly real about the simulation. He could feel the weight of the world pressing down on him, the sterile atmosphere, the way his feet tingled against the cold, flat surface beneath him. The simulation was far more advanced than he’d expected—down to the feeling of the cold hard floor. It blurred the line between virtual and real, and the more he experienced, the less sure he was of where that line even existed anymore. A creeping unease settled over him—how much of this was the game, and how much was something deeper, something that seemed to peer into his very essence?
+He stared at the figure before him, and that creeping unease fanned the flames of something deeper. The anger flared in his chest, a mix of humiliation and a desperate need to do something, anything, to seize back control. He heard a crack from his knuckles as his hands clenched into tight fists, the raw emotion surging through him like a tidal wave. He needed to break free, to take action, to escape this confrontation with his own inadequacies.
+He launched himself at the doppelganger. He chambered a fist low for a brutal uppercut. The impact was visceral—his fist sunk deep into the soft flesh, the sensation startling in its realism. It was as if the game wanted him to feel every ounce of resistance, every contour of his own failure.
+Then something stopped him. A hard surface like steel. His hand hurt, and he was pulled out of his rage in confusion. He surveyed the unmoving figure in front of him. It was still overweight, but where he’d hit was a crater in the fat, and flat, board-like abs peeked out beneath. Experimentally, he poked at a different spot. The skin molded like wet clay, easily sculpted, bending to his will. The sensation was strange—uncomfortably intimate, like molding the very essence of his flaws into something different. The feeling was somewhat obscene, but there was also an odd satisfaction to it—a glimpse of what could be if he took control.
+Considering the other him, he finally spoke. “Am I in character creation?” he asked.
+To his surprise, there was an answer, seemingly coming from all directions at once. It had the same soft whispery quality as the one he’d heard out of game. “Would you like to finalize this character? If yes, say ‘Confirm’. Otherwise, continue customization.”
+He thought about asking for help, maybe even wondered what Jess would have said—probably something encouraging, something about potential. But he decided against it. He’d just do what felt right. He moved his hands along the arms, smoothing fat and pulling out muscle. Hard angles emerged where once had been lumpy curves. He continued until the body looked… not like a bodybuilder, but like someone who took care of themself.
+He moved on to the head. With chopping gestures, he cut the lank hair, trimming it up into an undercut, a little length on top but shaved sides. He moved on to the beard, combing his hands through it. Where he touched, new hair follicles grew. He pulled them all out to a bushy, even length, then cut them to shape, giving him an angular full beard that came to a point. Then he turned his gaze to the acne scars on his cheeks. He rubbed at one like it was a dirt patch, and it disappeared. He started going around removing the rest.
+Finally, he stepped back and surveyed the character. Would she have liked this version of me? he wondered, almost wistfully. It was hard to imagine, but he wanted to believe it. Maybe if he had looked like this, had been more confident, Jess wouldn't have grown distant. Maybe then they wouldn't have kept things so casual, so detached—maybe then, intimacy wouldn't have felt like such an impossibility. Almost, but not quite. There was still something holding him back, a lingering feeling that it wasn't enough. Deep down, he knew it was his own insecurities—the fear that no matter how much he changed, it wouldn't be enough to make him feel truly different. He adjusted the shoulders, fixing the posture to be upright and proud. He tilted the head up, then snapped his fingers in front of it. Its eyes suddenly focused on him instead of distantly gazing into the distance. It was a bit disconcerting.
+“Confirm character creation,” he said.
+“Please supply a name to finalize your character,” the voice said.
+He looked at the other him, the him he wanted to be. “Dorian,” he said simply.
+He braced himself for the usual transition—the blackness, the loading screen, the shift into a new digital environment. But it didn’t happen. Instead, the figure in front of him broke apart into multicolored light, each fragment shimmering with a life of its own.  It hovered there.
+A bright disk shimmered on the dull ground, and from it emerged a figure—not humanoid, but made entirely of glowing, metallic strokes of light. The lines gleamed like liquid metal, shifting and flowing in a mesmerizing display. It resembled a Viking rune, but as though written in cursive, the symbols looping and twisting upon themselves in an endless, fluid dance. Each stroke morphed effortlessly into the next, like mercury flowing over glass, bending and reshaping with an otherworldly grace. The metallic glow shimmered between silver and gold, sometimes catching the light like polished steel, other times rippling like molten ore. The runes seemed alive, ever-changing, as if they were the very essence of language trying to form but never quite solidifying. The fluid metal-like lines were captivating, impossibly intricate, and yet hauntingly familiar, pulling at the edge of his consciousness. It felt as though they held some elemental truth, something raw and beyond the grasp of any human tongue.
+As he watched, a deep sense of awe and trepidation filled him. The glowing strokes pulsed gently, radiating warmth, and it seemed to reach into him, stirring emotions and thoughts he had buried long ago. It was as if this presence was more than just a figure—it was a force, a manifestation of something greater that transcended human understanding. He could feel it probing at the edges of his mind, not in an invasive way, but almost like a gentle reminder, urging him to remember something he had forgotten—something essential.
+The voice boomed from no source, somehow different from the whispered system messages.
+I am Fractal. Your pattern is… interesting. What is your purpose?
+The question drew him up short. It was one that had echoed through his mind for months. He opened his mouth to speak, then closed it.
+What was his purpose? He thought of Jess again, how she had always pushed him to dream bigger, to try harder. He thought back to his younger days. His first programs, all designed for friends and family. The simple joy that came from making something useful. From helping someone.
+Finally, he spoke. “I want to create. To create things that help people.
+The shifting lines slowed.  There was a pause and the being answered.
+Creation.  Destruction.  I sense a duality in you.  I will grant you the power to harness both.
+The colors and patterns flickered in greater intensity. Then they settled on one. It was far simpler, and static. At the center was an oval, with a thick slash running diagonally.  It looked a bit like a mirror.  There were three chevrons with looping corners overlaid on top.
+The whispered voice spoke in his ear. “New ability unlocked - Rune-etching. To activate this mode, form your hand like you are holding a writing implement.”
+The voice continued, “You have discovered a personal rune.  This rune had been crafted for your use and will not consume Prime rune slots.”
+He performed the gesture. A glowing stylus appeared in his hand. It looked a lot like the one he’d made for his holoband, contoured ergonomic grip and all. The texture felt so real, the weight of it familiar, almost comforting. He examined it, noticing a bump where his thumb would rest. Experimentally, he pressed it, and sparks started emitting from the nib. When he moved it, the tip left a glowing trail in the air, the sparks crackling softly in the stillness of the void around him.
+Drawing had always been a skill that eluded Dorian. He’d used it frequently in his hobbies and work, but had never truly mastered it. There was a part of him that always felt inadequate—the lines never quite right, the proportions always just a bit off. But now, with the glowing stylus in hand, it felt different. There was a chance here to be better, to refine himself in a way he hadn’t before. He’d always said he’d get good at it one day. Maybe now was the time.
+Hesitantly, he moved to trace the rune shape before him. It took quite a few tries, the energy fizzling when he made a mistake, forcing him to start over. The system was relentless, punishing his every error.  Finally he finished it.  It snapped into being, swiftly tranistion from ephemeral brush strokes to shining metal.
+The rune hung in the air, glowing.  It broke into particles, which rushed into him, filling him with warmth and intensity.  Then the fire of his soul, long burned down to embers, suddenly roared back to life. The washed-out patterns in the sky erupted into vibrant nebulae of stars and colors, and in that moment, he felt something deep inside him change. It was more than just the simulation—something fundamental within him shifted, a rekindling of hope, of determination. It was as though the game had reached into his core, finding the part of him that had been dormant for too long, and jolted it awake.
+The whispering voice spoke in his ear.  “You have learned Temperus, the polish rune.  Polished level: 0%.”
+Then everything changed.
+
+
+Chapter 4: Jade
+
+
+Jaden’s eyes fluttered open, the throbbing in his head dulled but still present. The first thing he noticed was the smell—warm, buttery popcorn. His senses slowly caught up, and he heard the soft rustle of Larry munching away nearby. Blinking in confusion, he glanced around his bachelor living space, only to find it transformed. His once minimalist setup was now littered with crayons, coloring books, and other children’s materials scattered across the floor. Bright scribbles adorned paper strewn on the coffee table.
+
+
+Larry, mid-chew, chimed in with a muffled, “Three days late!”
+
+
+Jaden blinked again, trying to make sense of the scene. As his gaze shifted, he noticed colorful stickers plastered all over the coffee table—smiling suns, stars, and animals. Larry, perched nearby, had a few stickers stuck to his feathers too, a glittery star on his chest and a dinosaur on his wing.
+
+
+His own hand shifted slightly, and he realized he was holding something soft. A bright green frog stuffed animal sat nestled in his grasp, its round eyes staring up at him. The absurdity of it all hit him at once—his bachelor space now a chaotic explosion of kid-like creativity.
+
+
+Jaden slowly uncurled himself from the couch, setting the plush frog down carefully on the cluttered table. As he shifted, the soft fabric of his clothes caught his attention, and he froze. Looking down, he realized with disbelief that he was dressed in a rainbow unicorn onesie—complete with a hood featuring a tiny, glittering horn. He could feel the ridiculous tail brushing against the couch as he stood up.
+
+
+Glancing across the room, his eyes landed on Larry’s perch. Hanging there was a miniaturized version of the same rainbow unicorn onesie, complete with wing holes for the bird. Larry, still munching on popcorn, cocked his head smugly, the glittery star sticker still shining on his chest.
+
+
+“Really, Jade?” Jaden muttered, shaking his head as Larry fluttered his wings, looking quite pleased with the setup.
+
+
+At the mention of Jade’s name, Larry suddenly perked up. With a quick flutter of his wings, he hopped off his perch and waddled over to a torn-open package lying among the scattered crayons and coloring books. The parrot gave it a few sharp tugs before pulling out a crumpled letter, written in bright, uneven crayon strokes.
+
+
+Larry dragged the letter to Jaden, dropping it at his feet before giving a playful squawk. Jaden bent down, picking it up carefully. The childish handwriting was unmistakably Jade’s:
+
+
+"Hi Jaden! Pretty please can we play Shattered Bonds online? I really, really, REALLY want to! It'll be fun! Love, Jade."
+
+
+Jaden groaned, rubbing his temples as he read the letter. "Shattered Bonds, huh?" he muttered, shaking his head.
+
+
+Larry squawked again, as if insisting on the matter.
+
+
+Jaden rubbed his eyes and let out a groan as Larry waddled over, tapping his holoband against the table. The little bird wasn’t exactly a wordsmith, but he was smart. With a click, Larry activated his holoband, and a recording played. 
+
+
+The voice that filled the room was unmistakable—Jade, the little green bird that Jaden sometimes saw, who also looked like a little girl in his mind. He believed she was possessing him, chirpy and full of mischief.
+
+
+“Called in a Boss Man day,” Jade’s voice echoed from the recording. “You’re welcome. Enjoy your time off!”
+
+
+Jaden blinked, staring at Larry. The parrot tilted his head, looking impossibly pleased with himself. The recording continued, Jade’s playful tone unmistakable. “And don’t even think about cleaning! Kayli will be up here in two seconds if you touch anything!”
+
+
+Jaden sighed, half-amused, half-annoyed, as the message finished. He looked down at the colorful chaos surrounding him and then back at Larry, who ruffled his feathers smugly.
+
+
+"Great," Jaden muttered, tossing the note back onto the table. "So now even you're in on this?"
+
+
+Larry squawked softly, hopping up to his perch with a sense of accomplishment, clearly satisfied that he'd conveyed Jade’s orders. The bird might not be able to speak complicated sentences, but with Jade’s help, he didn’t need to.
+
+
+Jaden rubbed his temples, eyeing the chaos in the room once more. With a heavy sigh, he bent down and grabbed the package Larry had pulled open. The crayons, coloring books, and scattered paper felt like an overwhelming reminder of Jade’s ever-present influence.
+
+
+“Alright, Jade,” he said, a hint of sarcasm creeping into his voice. “Let’s get one thing straight. Multiplayer doesn’t include ghosts, so you can drop the haunting act. If you’re going to possess me, at least make it entertaining.” He shook the package slightly as if trying to reason with the unseen girl. “No invisible tricks, no poltergeist nonsense. If we’re playing, you’re in it to win it like a proper player.”
+
+
+There was no reply, of course—just Larry giving a smug flutter of his wings, his glittery star sticker glinting in the light. Jaden sighed again, setting the package down on the cluttered table, feeling like he was somehow both in control and completely at the mercy of a little girl he couldn’t see.
+
+
+“Let’s get this over with,” he grumbled, casting a sideways glance at Larry. “Just remember, if you pull any ghostly stunts, I’m getting a refund.” 
+
+
+Just then, Larry waddled over with a fresh note in his beak, dropping it at Jaden’s feet.
+
+
+Jaden picked it up and couldn’t help but smirk. The new note was filled with childlike drawings, clearly Jade’s handiwork. One drawing showed a hand grabbing high-tech stickers resembling EKG pads, another depicted gel being applied to them, and the last image illustrated the stickers being placed on his temples.
+
+
+As he examined the note, a dark memory threatened to pull him in, stirring feelings he preferred to ignore. He shook his head to clear it, shrugging off the weight of the past. Just then, Larry nipped playfully at his fingers, grounding him in the present. 
+
+
+“Alright, alright,” Jaden said with a resigned chuckle. “Let’s get this over with, ghost girl.”
+
+
+Jaden followed the directions left for him by Jade and discarded the box with the other art debris. A soft voice seemed to whisper from all around him, yet came from nowhere. It sounded eerily like Jades voice when she spoke to him, except for the slight robotic undertones. He suppressed a shiver at the similarity. 
+
+
+“Game will initialize in 30 seconds. Please lay down.”
+
+
+Since Jaden was already on the couch, he swung his legs up to stretch out length-wise. The bright rainbow colors of his legs and he had to wonder what sort of charges the child had wracked up on his account. Sparing a glance at the mess left behind, he pointed a finger at Larry.
+
+
+“I know you encouraged this, so you better clean up before I get back.”
+
+
+The last thing Jaden saw was Larry puffing out his chest feathers as of to say he was on it. The star sticker flashed in the lights of the apartment that seemed to send sparks flying across his vision.
+
+
+Then the world was black 
+Here's the revised version of the chapter with additional details and adjustments to fit the tone you're going f
+
+
+Chapter 5: Timberhollow Initiation
+Dorian landed on solid ground, the smell of rich earth, damp pine needles, and faint smoke filling his senses. Everything seemed so real, more so than real life.  It was as though he'd been living in fuzzy black and white, and then everything changed to high-definition color.   
+As he walked, he relished the simple physical activity, a welcome contrast to his sedentary life. But the tranquility didn’t last.
+
+
+Here’s a refactored version with the steampunk aesthetic and magic-infused technology:
+
+
+---
+
+
+A cloaked figure stepped out from the treeline, wearing cracked, grease-streaked leather armor reinforced with brass fittings. Dorian’s pulse quickened. The man raised a hand, revealing a heavy iron ring engraved with intricate, whirring gears that exuded wisps of colorful mist. He took a deep breath, his unhinged face lighting up with fervor. “I smell it on you... Fractal’s mark. You’ve been close to something… extraordinary. The cost will be more than you know.”
+
+
+Dorian took a step back, hands raised. “I don’t know what you’re talking about—”
+
+
+“Lies!” the stranger spat, his voice seething with fanaticism. He drew a sword with a serrated edge, the blade’s spine embedded with brass coils that thrummed faintly. In his other hand, he unfurled a chain of interconnected copper plates, crackling with arcs of contained energy. “You’ve embraced chaos!”
+
+
+Dorian ducked as the chain whipped past, feeling a static jolt buzz across his back. He grabbed a rock from the ground and hurled it, but the man’s blade flashed; a hiss of steam burst from hidden vents as it sliced clean through the rock, turning it to dust. Dorian’s panic grew as the stranger advanced, eyes gleaming with madness.
+
+
+“You meddle with forces you don’t understand,” the man sneered, reeling back his chain for another strike.
+
+
+Dorian dashed forward, keeping low under the swinging chain. He feinted to the left, forcing the man to swing early. Darting in, Dorian caught the man’s sword arm, aiming to twist it and force him around. He leaned in, using his weight for leverage, but the man’s wiry frame held surprising strength. The stranger lashed out, jamming the pommel of his sword into Dorian’s ribs with a mechanical hiss, sending pain radiating outward as something cracked.
+
+
+Before Dorian could react, a dark shape shot past him—an arrow with a raven-feather fletching thudded into the attacker’s shoulder.
+
+
+“Murderer! It’s the bloody murderer!” a burly man in chainmail shouted, charging in with a heavy axe. An archer with cropped black hair sounded a horn, the call echoing through the forest. The cloaked attacker, now rattled, crouched low as a faint blue glow lit up around the brass caps on his boots. With a sudden release of pressure, he launched himself skyward, disappearing into the canopy with a blast of steam and a flash of metal. 
+
+
+“Troll dung on a hot day!” the axeman cursed, stomping toward Dorian. The archer followed, her bow still ready. She eyed Dorian with a mix of curiosity and suspicion. “Did he hurt you?”
+
+
+“A bit,” Dorian admitted, wincing. “Think he broke my collarbone.”
+
+
+The woman handed him a battered canteen. “Just a sip—it’s powerful stuff.”
+
+
+Dorian drank, the liquid burning like high-proof liquor. A wave of energy washed over him, his bone snapping back into place. He noticed an odd notification though. 
+Polish level 5%
+“What happens now? Is there a village nearby?”
+
+
+The burly man grunted. “Aye, but first you’ll want to come to the Talonhawk camp. That bastard’s a bloody nuisance. Ironbeak’ll want to hear what happened.”  He paused, then added, “I’m Oren.  That's Brina.”
+As they walked, Brina, the archer, explained. “He’s been picking off travelers, mostly those with magic about them. Maybe it’s some higher purpose—or he’s just mad.”
+
+
+Dorian nodded, still rattled. The mention of Fractal gnawed at him. What was the connection? Why was the stranger so fixated on him?
+
+
+They soon arrived at Timberhollow, a small village with rough streets and wooden buildings. The guards at the gate initially refused entry, directing them to the Talonhawk camp around the back. Oren scowled, “The hell we will! We’re coming through here unless you want Ironbeak breathing down yer neck.”
+
+
+The guards exchanged a glance before stepping aside. Dorian barely had time to take in the village—a blur of children playing, a blacksmith hammering, and cookfire smoke—as they hustled him through. The Talonhawk camp was bustling with sparring fighters, and in the center stood a broad-shouldered man with sharp eyes—Ironbeak.
+
+
+One of the guards saluted. “Captain, found this one past the north road. Ran into some trouble.”
+“He was in a bad way when we found him, but seemed pretty good in a scrap.”
+Ironbeak folded his arms. “What’s your side of the story?”
+Dorian kept his answer simple. “I ran into this guy, accused me of being near some great power, then attacked. I was losing when Brina and Oren showed up.”
+“That killer has a certain pattern.  Why do you think he targeted you?”
+Dorian felt a spike of anxiety.  He wanted to play this close after that stranger's talk about magic. 
+He scratched the back of his head, “I’m not really sure.  He just seemed crazy.”
+Ironbeak studied him for a tense moment before grunting. “You’re lucky the Talonhawks found you. That murderer’s been plaguing these woods. Few survive an encounter with him.”
+Ironbeak turned to Brina and Oren. “Get him settled. We’ll talk more later.”
+Dorian followed them to the barracks, grateful for the reprieve.  As excited as he was to be in the game, he needed a moment to gather himself, eat something, and use the restroom.  He didn't feel his body's needs right now, but they tugged at him regardless.
+
+
+ As he lay down, he reflexively checked his wrist for his holoband.  To his surprise, he had one, and looking at it triggered a menu. Alongside the usual options, he saw Addons and Console tabs. Curiosity tugged at him, but he knew he had more pressing matters to attend to. He swiftly tapped Logout.
+
+
+Chapter 6: Responsibilities 
+One moment, Dorian was in-game; the next, he found himself lying on his bed. The abrupt shift between worlds was disorienting. His body ached, as though he had truly gone through every physical trial he'd faced in the game. The energy and alertness from the game were gone, leaving him feeling lethargic and hollow.
+
+
+He peeled the stickers off his temples, wincing slightly from the tug on his skin. With a groan, he pushed himself off the bed and stumbled toward the bathroom. The hours spent in-game had not been kind to his bladder, which hadn’t been emptied since the previous day.
+
+
+Afterward, he shuffled into the kitchen, heading straight for the fridge. Grabbing a can of black cherry Aether, he cracked it open and downed half of it in one go, savoring the sharp bite of carbonation. It did little to chase away the dullness in his mind. He yanked a foil-wrapped meal from the freezer, tossing it into the microfryer and starting it up with a practiced flick of the dial.
+
+
+As the machine whirred, he absentmindedly scrolled through his notifications on the holoband. Spam. Political ads. And then—he paused—a job offer. IntegraAI. They were offering him a senior developer position, complete with excellent pay, stock options, and benefits. It was tempting on paper, but as he read the message, he felt nothing. The promise of money and security didn’t stir anything within him.  And at this point, he was more used to seeing the company as an opponent than a partner.
+
+
+He deleted it. What did money even matter anymore? He had no one to share it with, no reason to indulge. Jess was gone, and any enjoyment he'd once found in spending or saving had vanished with her.
+
+
+His gaze dropped to the last message: Build failed.
+
+
+"Shit," he muttered, his voice echoing through the silence of the apartment. The microfryer beeped, signaling that his meal was ready. He grabbed the packet from the fryer, barely flinching as his fingers burned slightly. He stared at the meal, not really seeing it, before plopping it onto a plate and eating mechanically. His mind wasn’t on the food—it was on the failure. The ticking deadline hung over him like a guillotine.
+
+
+He glanced at the holoband again in confusion. Only 15 minutes had passed since he’d logged into the game. It felt like he'd been there for hours. It seemed time passed differently in the game—like in dreams, where moments stretched and blurred.
+
+
+His eyes flicked toward his bedroom, longing to dive back into the game. The real world felt flat and cold in comparison. He tore into the freezer meal, his mind briefly drifting to the days when he used to make homemade kolaches for Jess. They’d laugh in the kitchen as they cooked together. Now, cooking felt pointless. Why go through the trouble when he was the only one around to eat?
+
+
+Finishing the meal, he tossed the can and wrapper into the trash. With a sigh, he sat down on the edge of the bed, reattaching the stickers to his temples. A part of him knew he should focus on work, fix the build, meet the deadlines—but the pull of the game was too strong. The countdown began, and he closed his eyes, letting the tension in his body melt away.
+As Dorian re-entered the game world, the rush of energy hit him like a wave, restoring his focus and sharpening his senses. He rose from the bedroll in the barracks tent, feeling rejuvenated. The clack of wooden weapons greeted him, barely muffled through the canvas walls. The vibrant sensory feedback was a contrast to his flat lifeless apartment.
+The camp was bustling with activity—recruits sparring, others practicing archery, and the drill sergeant barking orders at a group of newcomers. Not knowing what else to do, Dorian went up to the drill sergeant.
+The sergeant, who could have been Ironbeak's older brother, gave him a quick look.  “Grab some gear,” he said, pointing to a table with padded armor, metal half-helms, and heavy leather gloves.
+Dorian grabbed one of each and put them on.  He eyed the weapon rack.  His eyes were drawn to the halberd.  But for some reason, he gravitated toward the sword and shield - Jess's favorite.
+He took them for a few practice swings.  Both were wood, light and well-balanced.  He felt a bit awkward after his time away from HARMA, but he corrected his stance and warmed up.
+“Recruit!” The sergeant called, pointing at him.  “You fight Mavrik.”
+Mavrik, a broad-shouldered young man barely out of boyhood, stepped forward, hefting a long pole-hammer over his shoulder. Dorian eyed the weapon warily—its reach was considerable, and Mavrik looked like he knew how to use it.
+
+
+The two squared off, Dorian holding his sword in a high-ox stance, the point aimed at chest level. Mavrik wasted no time, charging forward, his feet kicking up puffs of dust as he closed the distance. His speed was impressive for someone of his size, his aggressive style leaving Dorian on the defensive almost immediately.
+
+
+Mavrik’s attacks were relentless. Dorian struggled to keep up, raising his shield and sword to block, but the sheer force behind Mavrik’s swings made his arms ache. He deflected what he could, but more often than not, he ended up absorbing the brunt of the blows. His strength was flagging as Mavrik swung down with a particularly vicious strike. Dorian braced, but the blow hammered through his guard into his chest, sending him sprawling onto the ground and knocking the wind out of him.
+
+
+“Again!” barked the sergeant, his voice cutting through the haze of pain.
+
+
+Polish level: 10%
+
+
+Suddenly, everything seemed to snap into focus. Dorian could see the rhythm of Mavrik’s attacks, the power behind them, but also the lack of finesse. Mavrik had a powerful body and raw strength, but his technique was straightforward—predictable.
+
+
+As Mavrik charged again, raising the hammer for another overhead strike, Dorian stepped into the blow instead of retreating. He caught the blow on the end of his sword, using the force to lever his pommel into Mavrik's face in a powerful pommel bash.
+Mavrik stumbled back, dazed, but Dorian wasnt done.  His shield hand hadn't been either, and it was already a blur of motion that smashed into Mavrik’s side. The impact was solid, and Dorian heard the telltale crack of ribs breaking under the force.
+“I yield!” Mavrik gasped, sinking to the ground, clutching his side.
+Dorian immediately dropped his weapons and crouched down next to him. The sergeant called for a potion, but Dorian was already at Mavrik’s side, gripping the young man’s hand, which was clenched tight with pain. Slowly, as the healing elixir was administered, Mavrik’s white-knuckled grip loosened.
+“Damn,” Mavrik muttered as the pain subsided and he got to his feet, gingerly touching his still-tender side. He extended a hand to Dorian, a grin creeping through the bruises. “Good match. What’s your name?”
+“Dorian,” he replied, shaking the offered hand. “Sorry about that. It’s been a while since I’ve sparred.”
+Mavrik laughed, though it quickly turned into a wince. “Coulda fooled me! Grog later? I think I owe you one after that beatdown.”
+Dorian agreed, much to his own surprise.  The sergeant came over and paired them up differently.
+The sergeant had him doing drills for bit qfter that along with some of the other recruits.  The weapons started to feel more familiar as he practiced.  Then there was more sparring.  
+He was surprised to find how comfortable the weapons felt.  His movements felt natural, muscle memory blooming where he didnt think it was before.
+After some amount of time, a voice cleared nearby.  He looked up and saw Brina, Mavrik, and someone he didnt know.
+Brina spoke fist, “So here's the deal.  We're going on a little training exercise tomorrow.  Dorian, Mavrik, Rory, and myself.  The scouts say it's clear but you lot are gonna treat it like a dragon den, got it?  We're gonna look at some boring ruins in a bog.”
+“She's really selling it, isn't she?” Rory whispered audibly to Mavrik.  That earned him a glare.
+“We meet at sunrise, so don't drink too much.”  She stared meaningfully at the other two recruits in turn.  “Got it?”
+The two snapped to attention and saluted, saying, “Yes, sahr!”  Dorian belatedly followed.
+They were dismissed.  Dorian followed the two to the mess hall.  It had tall canopies with benches under them, and several cookfires.  They got bowls of a hearty stew and chunks of bread to dip, as well as a mug of a strong dark beer.
+He took a sip of the beer.  It was incredible.  Roast coffee and chocolate notes, just the right amount of bitter.  He looked at the mug in appreciation.
+“Cookie makes it,” Rory informed him.  He turned to Mavrik, a grin on his face, “Wait till he tries the soup.”
+He did so.  It had cooled enough not to be scalding.  He realized every single ingredient, meat, vegetables, and rice, was perfectly cooked and seasoned.  He almost forgot the bread, which turned out to be both crusty and chewy.  
+The two chatted away until they all retired. 
+
+
+
+
+Chapter 7: In game 4 real 
+Jaden found himself standing in the middle of a clearing in a dense woodland forest. Sunlight filtered through the leaves overhead, casting playful shadows on the ground. His attention was quickly drawn to a figure in front of him. There stood a very realistic version of Jade, her bright green eyes sparkling like emeralds, perfectly matching her namesake.
+
+
+He was stunned by her appearance—she was short, with pointed ears that gave her an otherworldly charm. As he blinked at her in surprise, a grin broke across his face, revealing little fangs like a vampire. “Is this really you?” he asked, his voice barely above a whisper as he took a hesitant step closer, trying to reconcile the fantasy before him with the little green bird he thought he knew.
+
+
+Jaden stared, frozen in place, as Jade’s bright green eyes sparkled with excitement. To his surprise, she responded with childlike enthusiasm, practically bouncing in place.
+
+
+"It worked! I knew it would!" she exclaimed, her voice full of joy.
+
+
+Jaden’s mind spun, trying to process what was happening. Jade seemed so real, so alive, and she clearly knew more about this strange situation than he did. But he was too shocked to ask the flood of questions swirling in his head, too stunned to do anything but stand there, watching her.
+
+
+Jade, overflowing with excitement, continued in one long breath. “This is so cool! Larry helped me make myself, and we figured out how to get me here! And look—I'm not just a bird! I can run, I can jump, and—oh!—I can even climb trees if I want! Larry said the stickers would work, and I knew they would, and now we’re in the game together, isn’t that amazing?”
+
+
+Jaden barely listened, his thoughts racing elsewhere. Jade was sharp, more aware of current tech than most adults. If she wasn’t absorbed in coloring books, she was into the latest gadgets, devouring knowledge with that same boundless enthusiasm.
+
+
+The problem, though, was she couldn’t access any of his tech without Larry’s help.
+
+
+Jaden sighed internally. She must have taught Larry some code magic, somehow manipulating the system to create this eerily real version of herself for the game. He wasn’t sure how they’d pulled it off, but here she was—talking, running, as if she belonged in this world.
+
+
+Jade noticed Jaden wasn’t paying attention to her excited ramblings, and in an instant, she darted forward with unnatural speed. Despite her small frame, the sudden flash of indignant anger in her bright green eyes made her presence feel far larger than before.
+
+
+“Hey, you can’t ignore me here!” she yelled, jabbing her finger hard into Jaden’s chest.
+
+
+When her finger made contact, both of them froze, staring at the point of contact in stunned silence. Jade’s finger, solid and real, pressing against him—impossible, but happening.
+
+
+The game's hyper-realism seemed to trigger something deep in both of them. Jade’s eyes widened in pure, unfiltered glee, the shock quickly giving way to exhilaration. She opened her mouth to speak, but before she could, Jaden's panicked voice cut through the moment.
+
+
+“No! You can’t touch me!” he screamed, stumbling backward, his breath coming in short gasps. The panic washed over him like a wave, crashing into his chest, squeezing his lungs. His hands trembled, his mind spiraling, unable to process this new reality.
+
+
+Jaden backed away further, his legs giving out as he fell to the ground, no longer the proud soldier who stood tall, but a terrified boy lost in the confusion and fear. His heart pounded, and his breath came in shallow bursts, his mind trapped between the game and something much darker from his past.
+
+
+Jade stood frozen, her earlier excitement dimming as she watched him unravel, unsure how to react.
+
+
+In response to Jaden's panicked cry, a new form materialized from the shadows of the woods behind him, vague and shifting, like smoke twisting through the trees. The form moved swiftly, a mass of dark shadows rushing forward, growing in size and power. In an instant, the smoke solidified into the shape of a dark wolf, its eyes glowing with fierce intent.
+
+
+The wolf snarled, snapping its teeth as it lunged at Jade, a menacing growl rumbling deep in its throat. Its presence was overwhelming, a force of pure protection.
+
+
+Jade let out a terrified scream, “I’m sorry! I didn’t mean to!” as the wolf lunged, her form flickering. In a flash, her body transformed into the familiar small, green songbird, and she darted into the air, flapping desperately to escape the wolf's reach. The once joyful girl was now a frightened bird fleeing for her life.
+
+
+From the depths of the forest, a powerful figure emerged, the sunlight glinting off her scaled hide. A majestic hybrid lioness materialized, her long, feathered tail swaying gracefully behind her. She moved with a commanding presence, embodying strength and tranquility as she stepped into the fray.
+
+
+With a low, soothing growl, she approached Jaden, her glowing eyes locking onto his. The intensity of her gaze seemed to wrap around him, creating a cocoon of calm. In that moment, Jaden felt the panic begin to dissipate. The dark wolf, sensing her familiar aura, instinctively retreated to hide behind Jaden, reassured by her protective energy.
+
+
+She lowered her head slightly, an invitation for Jaden to take a deep breath and find his center. With a soft rumble emanating from her chest, she turned her gaze toward the woods, signaling for Jade to return. The melodic resonance of her presence filled the clearing, beckoning the little songbird to come back, offering a sense of safety in the chaos.
+
+
+Jade returned cautiously, flapping her tiny wings as she perched on a nearby branch. Her bright green eyes darted between Jaden and the imposing lioness, uncertainty etched across her feathery face. After a moment, she sensed the calmness radiating from the lion and, reassured that the wolf lurking behind Jaden posed no threat, she transformed back into her human form.
+
+
+With a gleeful squeal, she dashed forward and hugged the lion, her arms wrapping around the creature’s powerful neck. She stuck her tongue out at the wolf mockingly, clearly delighted by the reunion. “Look, Val, I did it! We’re finally all together!” Jade exclaimed, her voice filled with infectious joy.
+
+
+Yet, despite the cheerful scene unfolding before him, Jaden felt a lingering unease. The lioness’s presence called to him, tugging at something deep within, but the earlier panic still clung to him like a shadow. He stood there, torn between the instinct to run and an even stranger desire to join the little girl. The thought of embracing that connection frightened him more than he cared to admit.
+
+
+“Log out,” Jaden called out to the game’s system, his voice steady despite the turmoil swirling in his mind.
+
+
+As Jaden’s command echoed in the air, a holographic error message flickered to life in front of him:
+
+
+System Error:
+Unregistered User.
+Please contact support for assistance.
+
+
+Frustration bubbled up within him as he swiped the message away. To his surprise, he noticed Jade and the lioness mimicking the gesture simultaneously, their expressions shifting to confusion as they too were met with the same notification. The illusion of control felt even more elusive, adding to the unsettling atmosphere surrounding them.
+
+
+Before they could ponder the strange error any further, the game suddenly began to stutter and slow, as if struggling to maintain its immersive facade. The sounds of the forest warped, distorting into a jarring cacophony like an old tape recording being rewound and fast-forwarded at the same time.
+
+
+Trees flickered and twisted, their trunks elongating unnaturally, while vibrant colors bled into one another. The once serene woodland scene began to glitch, graphical errors causing patches of the ground to shimmer and vanish, leaving behind voids of nothingness. Jade and the lioness exchanged nervous glances, sensing that something was very wrong in this digital realm.
+
+
+As the forest continued to distort, a new system message materialized in front of Jaden. This time, it was a stark blue and white prompt, more direct than the previous holographic display:
+
+
+SYSTEM ALERT:
+Unexpected Error Detected.
+Initiating Restart Protocol. Please Stand By.
+
+
+As the chaos in the game escalated, another system message flickered to life, this one more perplexing than the last. It displayed in the same blue and white format, but with an unsettling combination of medical jargon:
+
+
+SYSTEM ALERT:
+Diagnostic Error Encountered.
+Missing Libraries for Mental Health Classification.
+Attempting to Diagnose: [DSMV-5 Code Not Found].
+Defined Code: DSMV-U (Undefined Classification).
+Recommendation: Consult Support for Psychological Evaluation.
+
+
+The game lurched suddenly, as if someone had hit fast forward. The distorted forest snapped back into place, the trees, sounds, and colors returning to their previous idyllic state. It all settled unnervingly quickly, leaving Jaden feeling as though the world around him had just reset.
+
+
+Before he could process it, another system message appeared, sleek and polished like the first one:
+
+
+Welcome, New User.
+Please stand still for user scanning...
+Scanning...
+...Done.
+
+
+Jaden remained still, uncertain of what might come next. 
+
+
+Despite his careful stillness, the world around Jaden suddenly plunged into darkness. The ground vanished beneath him, sending him into a terrifying freefall. Fear gripped him instantly, cold and paralyzing, threatening to take control once more.
+
+
+But this time, something new pushed through the terror—a strange, hollow feeling. It was as if something vital had been ripped away from him the moment he could no longer see Jade or the calm lioness. The absence gnawed at him, deeper than the fear itself.
+
+
+Whatever that feeling was, it drove the fear that had dominated his life.
+
+
+And as he fell through the void, he couldn’t help but wonder if he would ever find it again.
+
+
+
+
+meetup
+Here’s the revised version with adjustments to align with Dorian’s role as an AI auditor, retaining the tone and original structure:
+
+
+---
+
+
+Dorian lay awake in his bedroll, staring up at the canvas of the barracks tent. The buzz from the ale had faded, leaving a restlessness in its wake. He swiped through his UI idly, the nagging thoughts of the bug he’d patched earlier gnawing at him. His eyes lingered on the web browser icon. He hesitated, wondering briefly if the light from his screen might disturb the others in the tent, but no one stirred. Maybe it’s just projected for me, he thought. Adaptive interfaces had their perks.  
+
+
+The thought of unfinished work tugged at him. Back when Jess was still in his life, he’d sometimes log into his holotop during their outings, catching up on diagnostics while pretending to pay attention. His remote holotop should still be accessible—even here, in this strange game world.  
+
+
+He typed in the URL, and to his surprise, the login screen appeared. He entered his credentials, and the interface sprang to life, the files and projects arranged just as he’d left them. The energy of the game world thrummed faintly at the back of his mind, a strange resonance that made him feel sharper, more focused. With a deep breath, he dove into the logs.  
+
+
+A corrupted dataset had thrown off one of the decision models—frustrating, but not catastrophic. His foresight in setting up automatic backups years ago saved him once again. As he initiated the restore, the familiar rhythm of debugging settled over him.  
+
+
+The more he worked, the more the process felt… *effortless*. Lines of code that would have taken hours to untangle practically unraveled themselves. He worked through a few smaller issues, his fingers moving as though guided by some unseen force. The database restored, the system ran its checks, and within moments, the green confirmation flashed across the screen. All tests passed. The build uploaded seamlessly to StackBridge’s servers.  
+
+
+**Polish level: 32%**
+
+
+The notification hovered in his peripheral vision. He frowned, his thoughts shifting to the rune Fractal had taught him. The connection was impossible to ignore: inverting the rune, switching modes. What had Fractal said about balance? He traced the rune cautiously under his blankets, keeping the faint glow hidden from view.  
+
+
+**Rust level: 32%**
+
+
+A familiar heaviness settled over him, like a weight pressing on his chest. The energy that had fueled him moments ago drained away, replaced by the cold, creeping emptiness he’d come to know too well. Even the game’s vibrant world felt distant, its colors muted by the wave of exhaustion and self-doubt.  
+
+
+He sank back into his bedroll, the weight pulling him down, and finally, exhaustion won out. He slipped into a deep, dreamless sleep.  
+
+
+When he woke, it was to the faint sound of laughter and the unmistakable sensation of something being poured into his mouth. The taste was tangy, funky, and—despite his grogginess—surprisingly invigorating.  
+
+
+Blinking groggy eyes, he croaked, “What… was that?”  
+
+
+Mavrik, barely containing his laughter, replied, “Cookie’s wake-up tea. Figured you needed a pick-me-up, sleepyhead!”  
+
+
+Another scent wafted over—a mix of cinnamon, cardamom, and a medley of unplaceable spices. Before he could say more, Rory shoved a bowl into his hands. “You missed breakfast, but we saved you some. Eat up quick, or Brina’s gonna have your head.”  
+
+
+Flint dug in, the cool oatmeal still managing to be the most incredible thing he’d tasted in ages. The tart apples and subtly sweetener balanced perfectly, each bite waking him up a little more.  
+
+
+Amid the others’ good-natured teasing, he managed to get dressed and gear up. He tried to keep up with their banter, but he felt sluggish, disconnected. The cold emptiness still lingered, dulling the edges of everything around him. There wasn’t even time to cast his rune again.  
+
+
+By the time they reached the gate, Brina was already there, waiting with a look that could cut steel. Without a word, she set off, and the group fell into step behind her.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+With work done,, he got up, stepping out into the camp proper. The scent of woodsmoke and sweat greeted him, along with the muffled sounds of training—grunts, the clash of weapons, the barked orders of the trainers. He didn't see Ironbeak anywhere, but a gruff man standing nearby, directing the training, caught his attention and waved him over.
+“Ironbeak is a bit busy now. He did leave an assignment if you're interested,” the man said, his voice gruff, almost dismissive.
+Dorian nodded. “I'm listening.”
+“Our scouts found a ruin, deeper into the woods. They didn't look far, but one spotted some shapes on the walls that looked a bit like your magic junk. It should be reasonably safe along the way, and the structure was abandoned.”
+The man paused, looking Dorian up and down, sizing him up. “Think you can handle it?”
+Dorian considered it, a mix of excitement and nervousness bubbling up. A ruin, possibly with more runes—more secrets. He nodded, a smile tugging at his lips. “Yeah, I can handle it.”
+With the directions clear, Dorian set off. The village gates opened for him, the guards giving him nods of acknowledgment. He stepped onto the forest path, the air immediately cooler beneath the thick canopy of leaves. The crunch of twigs and dried leaves underfoot was rhythmic, a reminder of the solitude of his journey. He could hear the distant call of birds, the rustle of small creatures moving through the underbrush. The forest felt alive, like it was breathing, watching.
+Dorian's thoughts drifted as he walked, the game world pulling him in deeper with every step. The contrast to his real life was stark. Here, he had purpose, a clear goal, and a strange magic that made him feel... powerful, capable. He wasn’t just a developer stuck in a cycle of bugs and failed builds. He was someone who mattered.
+Suddenly, a soft chime echoed in his ears, pulling him from his thoughts. He paused, frowning as the system interface flickered in his vision. A new notification appeared, hovering just in front of him. It was strange—unlike any system message he'd seen before.
+Diagnostic Report — Code: F31.9. Therapeutic measures in progress.
+Dorian stared at the message that blinked across his vision, his brow furrowing in confusion. “F31.9?” he muttered, the unfamiliar code feeling like an icy tendril snaking into his thoughts. It was clinical, detached, almost inhuman in its precision. It reminded him of hospital records or error logs, the cold language of something designed to categorize but never explain. Therapeutic measures? The words made his pulse quicken, and a chill ran down his spine.
+
+
+He waved the message away with a flick of his hand, trying to shake the creeping unease that had settled in his gut. What the hell was that supposed to mean? The strangeness of it all lingered, nagging at the back of his mind like a pebble in his shoe. He couldn’t stop thinking about it.
+
+
+But there was something he could do. With a swipe of his fingers, he brought up his UI again, the familiar lines of the web browser floating in front of him. His instinct was to search for that code, to find out what exactly "F31.9" meant. He hesitated, though, his fingers hovering over the search bar. What would he even find?
+
+
+However, before he could type a shadow suddenly covered him.  He had no time to react before a limp human body fell on him from the sky.  There was a brief tangle of limbs before the two separated.
+
+
+Dorian grabbed his halberd and used it to stand, angling it at the man.  “Who are you?”
+
+
+Jaden lay on his back, attempting to catch the air knocked out of him by the sudden fall. Each breath came painfully slow, and with it, the familiar fog settled over his mind, clouding his perception. He could feel the memories of the woodland forest slipping away, retreating into the back corners of his mind, locked from his reach. Despite it all, one thing lingered.
+
+
+A little green songbird calling out his name as he disappeared through the hole.
+
+
+He clung to the memory of her bright green eyes—alive with excitement and hope—like a drowning man grasping for a lifeline. Those eyes held a promise, one he could barely define but knew, with sharp clarity, that he wanted that feeling to stay forever.
+
+
+“No, not wanted. Needed,” Jaden muttered under his breath.
+
+
+The conviction in his own voice startled him, yet he remained fixed on the image. The memory still threatened to fade, but he couldn't let it go. He refused to let it slip away.
+
+
+The bird…she had a name. Jaden was sure of that much. The vivid image of those eyes grew clearer in his mind, and then, all at once, it clicked.
+
+
+"Jade. Her name is Jade."
+
+
+At the mention of her name, the strange feeling intensified, anchoring him to something solid amid the swirling fog in his mind. Though the full memory remained elusive, Jaden knew he had uncovered something incredibly important. Yet, along with that realization, a sharp pang of loss pierced through him, as if he'd grasped something precious only to watch it slip away.
+
+
+Blinking through the fog, Jaden found himself  flat on his back and forced himself to sit up, groaning as pain flared through his body. He took in a sharp hiss of breath. His eyes fell on his left wrist where his holoband normally sat 
+
+
+At his glance, a holographic UI display appeared and was comforted by the normalcy that greeted him, but the feedback within reminded him of the combat simulations. 
+
+
+
+
+
+
+
+
+
+
+
+
+Notes 
+* He forgets the code after the convo

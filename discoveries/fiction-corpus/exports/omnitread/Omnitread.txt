@@ -1,0 +1,2702 @@
+﻿CHAPTER 1 — INVITE
+Evan Mercer stared at the email.
+SUBJECT: Invitation to Closed Beta (Hardware Tier: MAX)
+FROM: no-reply@parallax-interactive.net
+The body was short. No flashy banner. No fake-hype copy. Just text:
+We are seeking high-end VR users with full-motion rigs and haptic peripherals.
+Our simulation supports:
+– Iris Rift (all models)
+– OmniTread and similar omnidirectional platforms
+– Wrist and ankle haptics
+– Optional chest pad feedback
+Features:
+– Fully procedural mission generation
+– Infinite replayability
+– Persistent world state
+Click to install.
+He checked the sender again. The domain was generic as hell. The footer was nothing but a barely compliant blower line: You are receiving this because you opted in to marketing communications. He almost laughed. He had opted into a lot of things, sure. Most had died quiet deaths in abandoned inbox folders.
+He leaned back in his chair and looked over his kingdom of wasted money.
+The OmniTread sat in the corner like a giant black coin on a stand, harness folded up like a dead spider. The thing had cost more than his first car. It had exactly two games that used it properly. One was a “gamified cardio experience” that boiled down to jogging in place while an AI shouted encouragement. The other was a sports title that had been abandoned in early access after the devs realized nobody wanted to run wind sprints in their living room.
+The Iris Rift headset got more use, but for work. Floating monitors, code windows, simulated multiple screens. The wrist haptics mostly sat on their charging dock. The ankle straps lived in a drawer. The chest pad, a hard plate with embedded motors, leaned against the treadmill mount.
+There was a time he’d imagined using all of it at once. Sprinting through fantasy ruins, diving behind cover, feeling bullets whiz by. That… had not materialized.
+But this email said: Hardware Tier: MAX.
+He clicked the link.
+The browser spat up a minimalist landing page. Black background. White logo that could’ve been anything—some abstract cube folded into itself. Three sentences of marketing fluff. No trailer. No feature list. No company history. A tiny DOWNLOAD CLIENT button blinked like something from a decade-old MMO.
+“Could be malware,” he muttered.
+He hovered a finger over the mouse. Pulled it back. Looked around his silent apartment, lit mostly by the glow of his monitors. No unread messages from friends. No notifications he cared about.
+Boredom tugged harder than caution.
+“Fuck it.”
+He clicked.
+A small file dropped into his downloads folder. Suspiciously small. He opened it. A progress bar popped up.
+INSTALLING…
+ Then immediately: COMPLETE.
+“No way,” he said softly.
+Either it was about to stream half the game at runtime, or he’d just let the cheapest ransomware on the net into his system.
+A new icon appeared on his desktop. PARALLAX. Simple white cube, dark background.
+He stared at it for a long ten-count.
+He’d spent thousands on hardware. He had a full-body rig that mostly gathered dust. He’d bought into the fantasy of immersion and gotten two glorified tech demos.
+His mouse moved on its own. Or it felt that way.
+He double-clicked.
+The monitors went black. Then:
+A forest.
+Not a main menu. Not a company logo. Just—forest. Filling both screens. Grainy, like old film. The fidelity was unreal. Leaves moved in wind that he didn’t hear yet. Shafts of light cut through branches. The image had depth. Too much depth for a flat monitor.
+He reached automatically for the Iris Rift.
+The headset was still warm from his last work session. He slid it down. The world of his office vanished.
+The forest swallowed him.
+He was standing on a dirt track in a shallow gully, trees climbing up both sides. The “grain” was still there, a faint analog fuzz overlaying everything, but underneath… it was the most convincing real-time environment he’d ever seen.
+He looked around.
+No menus. No cursor. No “PRESS START.”
+He heard birds. Wind. A distant trickle of water.
+“Nice screensaver,” he said. His voice sounded small inside the headphones.
+He lifted the headset again, feeling for his wrist controllers on the charger dock. Slipped them on. Fingered the triggers. Fastened the ankle bands for good measure. After a second’s hesitation, he grabbed the chest pad and strapped it on, pulling the Velcro tight.
+Last, he walked over to the OmniTread.
+The platform hummed to life at a voice command, motors waking underfoot. He stepped onto the low concave surface and clipped into the harness. Waist, thighs, shoulders. The crotch strap bit into him, as always.
+“Immersion,” he muttered. “At the cost of your balls.”
+He settled the headset back down.
+The forest stayed.
+No calibration. No countdown.
+Just him, in the trees.
+His hands were there—gloved in black. When he flexed his fingers, the avatar flexed too, haptics buzzing faintly. He looked down. Black jeans. Black long-sleeve shirt. Black gloves. He could see the faint edge of a mask intruding at the sides of his vision, just barely.
+“Edgy,” he said.
+He took a tentative step.
+The OmniTread responded like it had been waiting its whole life for this. The platform slid under his feet, offering just enough friction to feel like ground, motors adjusting with subtle shifts of tilt. The in-game camera tracked with his movement, perfectly synced. No lag. No drift.
+He took another step. Then another.
+No joystick. No teleport. Just walking.
+He moved his feet faster. The platform tilted upward, mimicking an uphill incline. The gully walls rose around him. Dirt and small rocks crunched underfoot. Leaves brushed his shoulders, invisible in his apartment, real in his ears.
+“Okay,” he said quietly. “You got my attention.”
+After a minute of wandering, nothing happened.
+No objective markers. No narration. Just trees, wind, birds.
+He started to wonder if this really was just some kind of interactive benchmark.
+Then a voice spoke in his ear.
+“Proceed to the GPS coordinates on your HUD.”
+The voice was deep. Too deep. Artificially pitched down and filtered, as if someone had taken an ordinary voice and forced it to sound like god.
+A compass appeared at the top of his vision. A small glowing blip pulsed on the edge, slightly to the left, pointing uphill.
+HUD. Voice-of-god tutorial. He relaxed a fraction. Finally. A game.
+He started walking toward the marker.
+As he climbed out of the shallow creek bed, the OmniTread adjusted its pitch, creating the illusion of uphill push. His leg muscles responded automatically, bracing harder. The system met him halfway, matching his speed and stride so precisely it erased the old familiar disconnect he’d had in every previous game.
+He looked down as he walked.
+His feet were perfect.
+Every step landed on dirt, exposed roots, rocks. No clipping. No half-sunk toes or ankle-deep grass cheats. His legs bent properly on uneven surfaces. His shoes didn’t jitter in place when he stopped.
+Inverse kinematics, sure. Plenty of games had that now. But this felt dialed-in to an absurd level. Somebody had put in work.
+He crested the rise, breathing a little harder despite himself.
+Below, in a shallow valley, sat a house.
+Not a decrepit haunted cabin. A house. Modern. Clean lines. Big windows. Stone and wood and glass. A stream ran past the property, crossed by a small wooden bridge. The evening light turned the water gold.
+“Infiltrate the house and locate the room on the second floor marked on your HUD,” the deep voice said.
+His vision overlaid icons.
+Cone-shaped wedges of faint light appeared, sweeping back and forth from cameras mounted under the eaves and along the property line. Dots glowed where guards patrolled. Outside only; the HUD clearly indicated NO INTERNAL COVERAGE with a small warning. Annotations floated over windows: GLASS BREAK SENSORS. CONTACT ALARMS.
+It wasn’t hand-holding. It was a tactical overlay. Clean. Professional.
+“Security cameras and exterior guards are highlighted for you,” the voice continued. “Interior guards are not, due to line-of-sight limitations. There are no internal cameras, but the security system is active.”
+Evan frowned. “So… stealth. Great.”
+He was a decent stealth player. But not a patient one. His natural instinct in most games was to sneak until it failed, then solve everything with violence.
+He looked at his HUD. No weapon icons. No inventory.
+“Unarmed. Love that for me,” he murmured.
+He made his way down the slope, keeping as low as he could. There was no crouch button here—no quick toggle. The OmniTread harness didn’t love deep squats, but he managed a low, careful lope, trusting the treadmill to catch every step.
+He skirted trees and bushes, staying just outside the glowing camera cones. The guards’ positions updated in real time as they walked their paths.
+One was closer than the others, standing alone near a koi pond on the edge of the manicured lawn. His guarding, such as it was, consisted of looking at fish.
+Classic.
+Evan threaded through the last line of trees and stopped at the grass line. The guard’s back was to him, posture relaxed. Intel marker over his head confirmed: GUARD. ARMED.
+He’d done this a thousand times in other games. Sneak up. Choke out. Drag body into shadow. Easy.
+He stepped off the dirt and onto the carefully cut lawn, keeping his steps light. The sound design was absurd—subtle difference between dirt and grass underfoot, different vibration patterns through the OmniTread.
+He closed the distance.
+Ten feet.
+Five.
+Two.
+He lunged, wrapping his gloved hands around the guard’s neck from behind, ready for the usual animation to snap into place and do the rest.
+Nothing snapped.
+The man exploded backward.
+His head slammed into Evan’s faceplate. The chest pad and headset both detonated with a brutal haptic buzz that made white flare across Evan’s vision. The impact rocked the OmniTread under him. His grip broke.
+He stumbled. The guard spun on him.
+Not a generic stealth NPC. A man with scruff, crow’s-feet, a faint scar along his jaw. Close enough to smell imaginary aftershave.
+“What the—”
+The first punch took him in the cheek. The world lurched. The second hammered into his jaw. He tried to bring his hands up. The wrist haptics buzzed as fists collided with forearms, simulating impact.
+He had played VR boxing games. This was not that. This was nastier. Sharper. Less forgiving.
+He managed to block a third strike. The guard shifted weight, chambered a kick.
+The push kick hit him center mass.
+The chest pad went off like a riot shield slam. The OmniTread pitched under the force vector. For a second he lost his footing entirely and only the harness kept him from going down. In the game, his avatar slammed onto his back, air blasting out of his lungs with an audio grunt.
+He rolled on instinct, trying to scramble up, hands searching for purchase that didn’t exist.
+The guard stepped in, raising his gun.
+It looked huge from this angle. Black metal, bored muzzle, perfectly modeled rifling. The HUD helpfully tagged it: 9MM. LIVE FIRE.
+That text made something cold slide down into his stomach.
+The guard kept the gun steady with one hand and, with the other, yanked a radio from his shoulder.
+“Control, this is East—”
+Evan lunged.
+He went for the gun, like an idiot. No disarm training. No plan. Just panic.
+For one frozen second, he saw his own black-gloved hand reaching up, fingers about to close over the barrel.
+Then the world became sound.
+The pistol roared. The chest pad and headset both slammed him with a single overwhelming burst of vibration that felt nothing like a rumble pack. It felt like impact. Like his head had been struck with a bat.
+Everything went white.
+Then black.
+No “You Died.”
+No respawn timer.
+No loading screen.
+Just nothing.
+CHAPTER 2 — PERSISTENCE
+The forest blinked back in.
+No fade.
+No animation.
+Just an instantaneous snap to the same starting spot.
+Evan ripped off the headset, chest heaving.
+His heart hammered like he’d sprinted a mile.
+“Holy shit…”
+He stepped off the OmniTread carefully—like it might tilt again and throw him. His knees trembled. His palms were slick. His whole body felt weirdly light, electrified.
+He crossed to the mini-fridge, yanked it open, and grabbed a cold Aether Energy. Half the can was gone before he even registered the flavor.
+Black cherry.
+He pressed the can to his forehead and breathed, forcing his pulse lower.
+That had been brutal.
+Not video-game brutal.
+Not “good haptics” brutal.
+That had been real in a way games weren’t supposed to manage.
+And despite himself, a grin tugged at his mouth.
+He loved it.
+He rotated his neck slowly. The helmet’s impact had left a deep ache behind his eyes. His jaw felt bruised. If he were ten years older, the OmniTread’s throw might’ve snapped something.
+He wiped his face with his sleeve and went back.
+This time he clipped fully into the OmniTread harness—waist, thighs, shoulders. The crotch strap bit as usual, the price of immersion.
+The headset came down.
+The forest swallowed him again.
+No menu.
+No options.
+No feedback form.
+Just trees, wind, and the faint analog grain overlaying everything.
+He didn’t waste time. He jogged toward the hill, retracing the route toward the house. His breath synced easily with the treadmill’s pitch adjustments. Sweat prickled at his forehead as he crested the rise—
+Then he froze.
+Every guard.
+Every camera.
+Every glowing cone of vision was directed at a single point on the lawn.
+Where he had died.
+He slowed to a cautious creep.
+Moving through the trees, he slipped between camera arcs and eased close enough to see the scene clearly.
+A body in black. Masked. Sprawled near the koi pond.
+His body.
+His stomach lurched. The unreality of it hit harder than the guard’s kick ever had. Games didn’t leave corpses behind. This felt… wrong. Like a rule had been broken somewhere deep under the surface.
+Guards stood around his corpse with guns drawn. One nursed a bright welt on his neck—Evan’s doing. Another whispered urgently into a phone. A third scanned the treeline, tense.
+Persistence.
+He’d joked about it in procedural roguelites.
+He hadn’t expected it to mean this.
+But right now, the “persistent corpse” was also a distraction. A gift.
+He slipped around the far side of the property, staying low, weaving through the camera blind spots. A bay window gave him a flash of movement inside.
+A man in a suit—well-dressed, polished—approached the glass door.
+Perfect.
+Evan sprinted.
+The OmniTread whirred smoothly beneath him, correcting his stride. Before the man could close the door, Evan launched into a leaping throat punch.
+He caught a half-second of the man’s face—realistic in a way that made his skin crawl. Not a guard. A civilian. Homeowner, maybe. Genuine fear widened the man’s eyes.
+Impact landed like a hammer.
+The man folded. Evan followed, stomping fast and hard. The haptics buzzed differently—lighter, trembly—simulating soft tissue giving way underfoot.
+The gore wasn’t stylized.
+It wasn’t exaggerated.
+It was just… there.
+ Familiar and sickening.
+He almost gagged.
+Almost.
+But the first guard had taught him something: hesitation got you killed.
+His avatar left bloody footprints on the polished hardwood as he followed the HUD marker upstairs.
+The mission room was a study—mahogany desk, leather chair, a warm lamp casting golden light. It looked expensive. Lived in.
+The voice returned.
+“Take the flash drive and folder on the desk.”
+No puzzle. No challenge. Just a command.
+Fine by him.
+He grabbed the items. The moment they went into his pockets, shouting erupted downstairs.
+“Exfiltration route compromised. Seek alternate exit.”
+A new waypoint flared bright red.
+“Oh, shit-shit-shit—”
+This was where, in a normal stealth game, he’d grab a rifle from a guard and go loud. But he didn’t have a gun. Or armor. Or literally anything.
+He sprinted to the window. One side had an overhang—a survivable drop if he landed right.
+Maybe.
+He grabbed the ergonomic desk chair. Its molded grips fit perfectly against his palms; the haptics gave little pulses mimicking weight distribution. Strange how the game made objects feel real but not heavy.
+He slammed the chair into the window.
+The glass didn’t crack—it boomed, vibrating up his forearms.
+“Come on—come on—”
+He swung again. Harder.
+Footsteps thundered up the stairs.
+Guards shouted.
+A fist hammered the door behind him.
+He rammed the chair again. The metal bent. Cracks spidered through the glass.
+He flipped the lock just in time before another violent slam rattled the frame.
+He lifted the chair overhead and smashed it down with everything he had.
+The window finally burst outward.
+He half-stumbled through, nearly overshooting the ledge. His boots skidded on the overhang’s shingles, the OmniTread pitching sharply to simulate the slip. He caught himself with a panicked scrabble.
+Gunfire erupted behind him.
+Haptic buzz hit along his ribs and shoulder—simulated near-misses, sharp and insistent. One grazed him with a hot sting that sent a full-body shiver through the chest pad.  He hadn't even realized the pad could simulate temperature.
+He didn’t look back.
+He ran.
+The exfil waypoint pulsed brighter, leading him toward the main road. The OmniTread responded beautifully—tilt, pitch, pressure shifts all syncing with the uneven ground. His breath came ragged.
+A sleek self-driving SUV rolled into view, headlights washing over him like stage lights.
+The door popped open.
+He dove inside.
+Darkness swallowed everything.
+For a moment, he just breathed in the black.
+Shaking.
+Trying to understand whether he’d won…
+or survived.
+A single line of white text floated in the void:
+MISSION ACCOMPLISHED
+
+
+CHAPTER 3 — ECHOES
+
+
+Evan woke up sore the next day.
+
+
+Not “slept weird” sore.
+Full-body wrecked sore.
+
+
+Calves tight from sprinting.
+Ribs bruised from simulated impacts.
+Shoulders achey from bracing.
+Even his crotch complained—harness rub and sudden jolts weren’t forgiving.
+
+
+He stretched, winced, muttered:
+
+
+“Worth it.”
+
+
+He padded into the kitchen and set the moka pot on the counter. Grinding beans. Filling chambers. Heat on. All muscle memory.
+
+
+Today’s bag: Rwanda. Fruity. Bright. Better than anything waiting for him at work.
+
+
+While the pot hissed, he showered. Hot water did nothing for the soreness. He toweled off, stepped into the cold apartment, and sucked on his no-nic vape. The artificial buzz hit fast, then vanished just as quickly.
+
+
+His reflection in the microwave made him pause.
+A faint bruise along his cheek.
+A shadow along his jawline.
+
+
+He’d been hit yesterday.
+He’d been killed yesterday.
+
+
+His brain tried to rise into panic.
+He smothered it under routine.
+
+
+Coffee time.
+
+
+He poured the moka pot into a big mug and inhaled deeply. It almost, almost made him forget.
+
+
+First sip—too hot.
+Second sip—still too hot.
+He drank anyway.
+
+
+But as soon as the warmth spread through him, the simulation crept back into his head like a dream that refused to fade.
+
+
+The guard’s face when he lunged.
+The thud of the body hitting the ground.
+The sickening realism of each stomp.
+His own corpse lying in the grass when he respawned.
+
+
+He swallowed and forced his attention elsewhere.
+Coffee. Clothes. Tracksuit. Work.
+
+
+He drained the mug in three long pulls.
+
+
+He didn’t feel awake.
+He felt… waiting.
+
+
+
+
+---
+
+
+He slipped on his Iris Rift—desktop mode—and let his workspace software take its time booting. The HUD hung open like a warehouse window. Normally he’d pin Redflix shows to the side to stay conscious.
+
+
+Today nothing held his attention.
+
+
+Nile Shipping’s anomaly logs flickered open at last. Thirteen fully automated warehouses under his oversight. Thousands of robots doing quiet, endless, perfect labor.
+
+
+A blinking icon waited halfway down the screen.
+
+
+Anomaly detected — Unit G3, Warehouse 8
+Description: “Unexpected shelf motion detected.”
+Status: Pending human review.
+
+
+He clicked.
+
+
+The feed showed a shelf trembling slightly—probably a forklift passing or a misaligned stabilizer.
+
+
+He flagged it as false movement.
+
+
+Next anomaly.
+Next feed.
+All trivial.
+
+
+Fifteen minutes later, he was done.
+That left seven hours and forty-five minutes of pretending his job required a human brain.
+
+
+He flipped between robot feeds.
+Grippers. Lifters. Stackers.
+Everything moving with mechanical precision.
+
+
+Nothing.
+Nothing to challenge him.
+Nothing to engage him.
+
+
+He stared at the screens and felt hunger under his breastbone.
+
+
+For what the simulation had given him.
+For danger.
+For intensity.
+For clarity.
+
+
+And for a moment—tiny, ugly—he remembered the homeowner’s face as he stomped him.
+His stomach twisted.
+
+
+He shoved the feeling aside.
+Work. Just work.
+
+
+
+
+---
+
+
+His doorbell chimed an hour later—grocery drop-off. He pulled off the headset and collected bags from the step.
+
+
+No delivery worker.
+No hello.
+No goodbye.
+Just contactless efficiency.
+
+
+He wasn’t sure he missed anything.
+
+
+He put the food away. Eggs. Milk. Vat-bacon. The “bacon” sizzled too loud when he fried it, filling the kitchen with synthetic soy smoke. Tasted fine. Felt empty.
+
+
+He ate mechanically.
+Vaped mechanically.
+Returned to his desk mechanically.
+
+
+The malaise settled deeper.
+
+
+He didn’t want to watch anything.
+Didn’t want to game.
+Didn’t want to scroll.
+Didn’t want anything except—
+
+
+His eyes drifted to the OmniTread.
+
+
+He looked away too fast.
+
+
+
+
+---
+
+
+The afternoon crawled.
+
+
+Another anomaly. False.
+A sandwich. Flavorless.
+More vaping.
+More robots.
+More nothing.
+
+
+When 5:00 finally arrived, relief hit him so hard it felt like stepping out of a sensory deprivation tank.
+
+
+He logged out like a man escaping his own life.
+
+
+Stretch. Pop of joints.
+Aether Energy—watermelon lime.
+Frozen lasagna into the microfryer.
+Another vape hit—sharper this time.
+The promise of something electric waiting in the other room.
+
+
+The lasagna burned his tongue. He didn’t care.
+He shoveled it down, wiped his mouth with the back of his hand.
+
+
+His heartbeat quickened.
+
+
+He wasn’t even pretending anymore.
+
+
+He crossed the apartment in long strides—
+
+
+—and practically ran for the OmniTread.
+CHAPTER 4 — ALL OUT ACTION
+Evan spawned in as… a webcam.
+His vision didn’t follow his head. It was fixed, locked, pointed at a man in an expensive suit sitting before him. The framing cut off at the tie—deliberate, clinical. The room was dim, a single shaft of light carving the man out of darkness.
+The deep, distorted voice vibrated through the feed.
+“You did well in recovering the data. However, your termination of Unit 2174 has caused… unforeseen consequences.”
+Unit 2174.
+The civilian he’d killed.
+It hadn’t been random.
+The game had noticed.
+“Therefore,” the voice continued, “this mission will be different. Paramilitary forces will be closing in on 2174’s prototypes. You must recover the prototypes before they do.”
+The man reached offscreen and lifted an assault rifle. Sleek. Industrial. Prototype-clean.
+“This is the ZR-74. You will not have time to become accustomed to it during the mission. I will demonstrate its operation.”
+He walked through each motion—safety, magazine, chambering. Evan didn’t need the tutorial, but the calmness of the demonstration unnerved him more than the information.
+Then the man pointed the rifle at the webcam.
+“Zone is hot. Be ready.”
+He fired.
+The world dissolved into white.
+—
+Evan fell through darkness into a night sky roaring around him. Wind howled. A HUD marker glowed bright and urgent on a building far below.
+He looked down. Full gear: flak jacket, heavy pistol, knife, a rifle strapped tight, and a wingsuit stretched between his limbs. Even the airflow around his body translated through the haptics in jittery vibrations.
+No flight tutorial.
+Just survival.
+Below—balcony approaching too fast.
+He spotted a parachute cord buried in his gear. Yanked it.
+The chute detonated open, buzzing his shoulders violently. His descent slowed, but not enough. He slammed into the wall, scrambled, caught the balcony rail with both hands, and rolled onto the platform.
+A sudden gust threatened to drag him right back off. He fumbled with the buckles until the chute tore free and fluttered into the night.
+The voice returned.
+“Take the metal disk from your pack. Place it here. It will act as a mobile spawn point. It will not function indoors.”
+Evan found the disk, placed it. It unfolded like a metallic flower, then shimmered out of sight. Cloaked.
+He tried the balcony door.
+Locked.
+Fine.
+He drew his pistol, aimed, squeezed the trigger—
+Nothing.
+Safety. He flicked it.
+There was no zoom when he raised the weapon. No tightening of his view. Instead, a small barrel-cam feed appeared in the lower corner of his vision—crisp, immediate, angling exactly with the muzzle. A tactical periscope welded into his eyes.
+He fired.
+The blast hammered through his chest and arms. Glass exploded inward. The alarm wailed.
+He holstered the pistol, raised the rifle. Another barrel cam flickered in. Clean. Precise.
+He stepped inside.
+A private office. Money, but not executive money. A study lamp still glowing. Papers scattered. Ordinary in a way that made it feel real.
+The HUD marker pointed down.
+He cleared corners, relying on the barrel cam—sliding the rifle across angles to see before he exposed himself. It felt… unfair. Like cheating. Like a predator’s sense instead of a human’s.
+That’s how he found the first guard.
+Vest. Slacks. Standard corporate security. Not a PMC. Not armed for war.
+Evan hesitated only long enough to feel the familiar spike of guilt—
+Then he fired.
+One round.
+Right through the nose.
+The man folded instantly.
+His radio crackled.
+“Tom? Gunshots. You there?”
+Gunshots?
+Plural?
+Automatic bursts echoed from below. And a muffled explosion. Grenade?
+This wasn’t a stealth mission.
+It was a race.
+Evan moved toward the prototype marker. Fewer guards than expected. Too few.
+When he reached the mezzanine, he understood why.
+Below him, a full-on firefight tore through the lobby. Security guards pinned behind shredded furniture. PMC operators firing in disciplined bursts, advancing methodically.
+A dark cylinder arced across the room.
+“Grenade!” someone shouted.
+A guard dove out, kicked it—
+It detonated harmlessly mid-roll.
+He took bullets for the effort.
+Another dragged him behind cover.
+The PMC’s flanker swept in from the side.
+The guards didn’t stand a chance.
+Evan crouched behind the mezzanine railing.
+They were perfectly clustered.
+He flipped the rifle to full auto, aimed at shin level, and swept the burst across the group. Armor protected torsos. Not legs.
+Cries. Falls. Chaos.
+One soldier dodged and reached for his radio.
+Evan drew his pistol, aligned the barrel cam, and fired one clean shot through the soft gap between helmet and vest.
+The body dropped mid-word.
+“Tango squad, do you copy? Delta, go check on Tango.”
+More squads.
+More boots.
+A door behind him slammed open.
+He spun.
+PMC troopers on his level.
+Too close.
+He raised his rifle.
+Click.
+Empty.
+“Fuck—”
+Gunfire ripped into him. Haptics detonated across his ribs, chest pad, hands, ankles. The treadmill jolted violently to simulate losing balance.
+Everything snapped to black.
+Instant.
+Absolute.
+Like someone unplugged his soul.
+CHAPTER 5 — CORPSE RUN
+Evan respawned on the balcony exactly where he’d placed the disk.
+With nothing.
+No rifle.
+No armor.
+No pistol.
+Not even the knife.
+“Aww, come on.” He patted himself down harder, as if gear might magically appear. “Seriously?”
+The voice was perfectly calm.
+“Your equipment is my property. It has protections. You will need to recover it to complete the mission.”
+Protections?
+What, did his guns have forcefields?
+He didn’t stop to think about it.
+He remembered the pistol on the guard he'd killed earlier and sprinted.
+Being unarmed here felt like being naked in traffic.
+He dropped beside the corpse, grabbed the pistol—just a cheap 9mm, civilian grade. No smart systems. No syncing.
+The moment he lifted it, he saw the truth:
+No barrel cam.
+No overlay.
+No guidance.
+Just a gun.
+Just him.
+He swallowed and moved.
+The building rattled with distant automatic fire—PMC squads sweeping the floors. His pulse spiked. One mistake now and the corpse-run turned into a corpse-loop.
+He crept through the cubicles, using every bit of cover he could find.
+Boots.
+Multiple pairs.
+Getting closer.
+He slid under a desk, heart pounding against his ribs.
+Flashlight beams washed across ceiling tiles.
+Rifles swept the hall.
+The squad didn’t bother checking cubicles—they were hunting something else. Hunting hard.
+When they moved on, Evan didn’t waste a second. He slipped out, keeping low, following the HUD marker toward his corpse.
+And stopped cold.
+Now he understood “protections.”
+His avatar’s body lay sprawled near the railing—helmet still on, mask still in place.  Untouched.
+The burnt PMC slumped beside him was worse—hair singed, skin cracked. Like he’d been struck by lightning at point-blank range.
+Another soldier stood guard over both bodies.
+Silent.
+Ready.
+Waiting for extraction.
+Guarding Evan’s gear.
+His mouth went dry.
+The open lobby between them was a killing field. With the barrel cam he could’ve sniped the guard clean. With this dumb pistol… odds were bad.
+He scanned desperately.
+A heavy metal paperweight sat on a desk nearby. He grabbed it.
+Waited for the guard to turn.
+And hurled it.
+He forgot about the strength boost this world gave him. The paperweight launched like a cannon round and slammed into the far stairwell with a deafening clang.
+The guard snapped toward the noise instantly—rifle lifted, posture perfect, attention locked.
+His back wide open.
+Evan crept forward, pistol leveled. One yard.
+Half a yard.
+Close enough to see the fabric weave on the vest.
+He exhaled, squeezed—
+The guard turned.
+The round tore along the edge of his neck, carving a groove but not dropping him. Blood sprayed. The guard spun toward Evan with a furious snarl, rifle rising fast.
+No time to aim.
+No time to think.
+Evan lunged, ducking under the barrel just as it barked. Rounds tore overhead, haptic buzz jolting his forehead and ribs.
+He hit the guard shoulder-first.
+Hard.
+The impact wasn’t elegant—it was desperate.
+The guard staggered backward, boots skidding on tile, arms pinwheeling.
+He hit the railing.
+Tipped.
+And vanished over the edge.
+The screams cut off with a bone-cracking thud on the floor below.
+No time to breathe.
+Evan sprinted to his corpse. 
+He hesitated—just long enough for nausea to twist in his gut—then forced himself to work.
+He pulled the helmet off the body, but left the mask.
+He didn’t want to see the face beneath.
+He didn’t want to know how detailed it was.
+He grabbed the gear—rifle, smart pistol, armor, magazines—strapping everything back on in frantic, practiced motions.
+The HUD flickered as systems synced.
+Barrel cams blinked alive.
+Overlays returned.
+He felt whole again.
+Armed.
+Dangerous.
+Gunfire echoed below.
+Evan didn’t wait.
+He took off at a dead sprint, deeper into the building, heart pounding.
+He’d learned something.
+His life meant nothing to the handler.
+His gear?
+That was priceless.
+
+
+CHAPTER 6 — BREACH AND CLEAR
+
+
+Evan slowed only when the gunfire behind him softened into distant chaos. His breath steadied. His grip steadied. He slipped back into clearing corners with the rifle, hyper-aware now of every advantage the weapon gave him.
+
+
+That’s when he saw them.
+
+
+Four soldiers clustered around a heavy reinforced door.
+One kneeling, torch in hand, molten slag dripping in bright orange arcs.
+Three standing guard—alert, tight formation, covering every angle.
+
+
+His HUD pulsed.
+Objective.
+
+
+Three-on-one wasn’t bad odds in games.
+But here?
+One bullet and he’d be back on the balcony, naked and desperate.
+
+
+One of the guards began turning toward his angle—seconds before he’d make visual contact.
+
+
+Decision made.
+
+
+Evan fired.
+
+
+The first man dropped instantly—headshot, clean.
+Shouts erupted. Rifles snapped toward his corner. Bullets slammed into the wall inches from his hand.
+
+
+Evan fired again at the torch man. He’d aimed for the skull, but the soldier stood at the wrong moment—the round punched under the vest instead. The man gasped, stumbled, and collapsed.
+
+
+“Grenade out!”
+
+
+The metal canister bounced off the wall beside him.
+Evan dove—
+
+
+—but the harness held him upright even as the avatar hit the ground.
+For a heartbeat his real body pitched forward while the simulation righted itself violently.
+
+
+He didn’t question it.
+
+
+He spun and riddled the nearest guard’s vest with bullets. The armor absorbed most of it, but the impact staggered him badly.
+
+
+Another guard rounded the corner, rifle already rising.
+
+
+Evan fired on instinct—fast, panicked.
+One round caught the man directly in the eye. He dropped like a puppet with its strings cut.
+
+
+The last PMC recovered, one arm limp from the vest impacts, the other drawing a sidearm.
+
+
+Evan grabbed his pistol.
+Too slow.
+
+
+The enemy’s shot struck Evan’s weapon, slamming the pistol into his visor with a skull-rattling haptic blast. His eyes watered from the phantom pain. The soldier lined up the finishing shot—
+
+
+Evan lunged.
+
+
+His movement was messy—a half-stumble, half-sprint—but unpredictable. Bullets tore past him, the chestpad vibrating with simulated near-misses.
+
+
+He crashed into the man.
+Slapped the pistol aside.
+Grabbed his own last weapon: the combat knife.
+
+
+No hesitation.
+No plan.
+Just survival.
+
+
+He drove the blade into the soldier’s neck.
+
+
+There was no real resistance—only the faintest stutter of haptic buzz as the sim registered contact. The lack of sensation made it worse. Wrong. Weightless. Like cutting through pixel fog.
+
+
+The visual was real enough.
+
+
+A red curtain splashed across his view.
+The soldier convulsed, twitched, then dropped.
+
+
+Evan staggered back, breath ragged, heart hammering as his visor slowly cleared.
+
+
+He reloaded both weapons with trembling hands.
+His fingers felt too light, too loose—adrenaline making everything slippery.
+
+
+He turned to the reinforced door.
+
+
+Up close, the melt marks were obvious. The PMC squad had nearly breached it. With no orders from the voice, Evan grabbed the surviving torch and continued the cut.
+
+
+It was slow.
+Painstaking.
+The worst possible moment to be vulnerable.
+
+
+Sweat slid down the inside of his helmet.
+His pulse refused to settle.
+
+
+Then the radio behind him crackled:
+
+
+“Alpha team, have you secured the prototypes?”
+
+
+Ice flooded his stomach.
+
+
+He worked faster.
+
+
+The torch guttered out—just short of finishing.
+He backed up, braced, and kicked the weakened hinge with every ounce of strength the game would give him.
+
+
+Metal screamed.
+Another kick.
+A third—
+
+
+The door tore free and crashed inward, the sound echoing like a gunshot.
+
+
+Evan raised his rifle.
+
+
+And froze at what stood inside.
+
+
+CHAPTER 7 — FLESH AND BLOOD
+
+
+There were weapons and armor behind the door.
+
+
+But they weren’t meant for him.
+
+
+Even at a glance he knew: everything here was oversized. The chest plate looked roughly the size of a refrigerator door. The arm bracers were long enough to use as shields. Every strap and socket implied an inhabitant twice his mass, maybe three times his strength.
+
+
+These weren’t human tools.
+
+
+Then he saw it.
+
+
+A reinforced tank dominated the far wall—glass so thick it distorted shapes behind it like an aquarium panel. Suspended inside was a creature the size of a small car. Bald. Skin covered in tiny tan scales that shimmered under the vault lights. Musculature swollen far beyond human proportion. A long tail curled under it, lined with bony spikes that continued up the spine.
+
+
+Its mouth was too wide.
+Its nose just slits.
+Its chest rose and fell under a rebreather that fogged faintly with each breath.
+
+
+Evan’s throat tightened.
+
+
+When did this change genres…?
+
+
+The voice answered him instead of the question.
+
+
+“In your bag is a chip. Insert it into the console.”
+
+
+His stomach dropped.
+Every instinct screamed no.
+
+
+But mission markers stalled. The simulation refused to progress.
+He dug through the bag with shaking hands until he found a tiny wrapped object—thin as a SIM card. He slid it into the console.
+
+
+The machine lit up instantly.
+Warning lights flickered.
+Pressure gauges spiked.
+Something hissed behind the glass.
+
+
+Then the creature’s eyes opened.
+
+
+Reflective like a cat’s.
+Vertical pupils slicing through the light.
+
+
+It didn’t roar. It didn’t thrash. It didn’t react with animal panic.
+
+
+It simply drew a slow breath—
+and with a lazy, almost bored backhand, shattered the tank wall.
+
+
+Glass blew outward. Fluid cascaded across the floor. Evan staggered back, rifle up before he had time to think.
+
+
+The creature tore the rebreather from its face and turned to him. When it spoke, its voice was unmistakable—the deep mission voice—but now layered with a crackling, bass-heavy growl, like something speaking through torn speakers.
+
+
+“I believe this will do nicely.”
+
+
+It stepped free of the wreckage and into the armor rack. Its movements were disturbingly confident—as if it had always known how this body worked. Magnetic plates sealed over its scales with heavy, resonant clicks. It lifted a shotgun the size of a cannon and balanced it casually across one arm.
+
+
+Then it turned to Evan and extended an open, clawed hand.
+
+
+“Give me your weapons, and your mission will be complete.”
+
+
+Evan froze.
+
+
+His rifle wasn’t pointed at anything anymore. It just hung there, useless weight in his hands. His palms were slick. His heartbeat stuttered.
+
+
+“How do I know that’s you?” he asked, voice cracking.
+
+
+The answer came twice.
+
+
+“Because I say so,” the familiar deep voice intoned—
+from everywhere—
+while the creature’s throat produced the same words, slightly out of sync, vibrating with layered distortion.
+
+
+Evan felt sick.
+
+
+The disembodied handler voice.
+The monster wearing a body like clothing.
+Both claiming to be the same mind.
+
+
+He hesitated—only a moment—then handed over his weapons.
+
+
+The creature leaned down, placing its massive scaled hand on Evan’s helmet. The gesture might have been meant as reassurance, but the claws lightly scraping the visor made his skin crawl.
+
+
+“You have performed admirably,” the dual voice said. “I will take it from here.”
+
+
+Evan opened his mouth—
+
+
+The hand clenched.
+
+
+A crushing force snapped through the simulacrum of his neck. His visor detonated in violent haptic buzzing. His perspective spun as his avatar collapsed in a heap.
+
+
+Black.
+
+
+Instant. Absolute.
+
+
+And then, in the void:
+
+
+MISSION ACCOMPLISHED
+
+
+CHAPTER 8 — AFTERSHOCK
+
+
+Evan ripped the helmet off and let it skid across the desk. His pulse hammered in a raw, uneven rhythm. The last thing he’d seen—felt—was a monster crushing his skull like cheap plastic.
+
+
+A bioengineered creature.
+And the handler piloting it like a second skin.
+
+
+All because of that tiny chip he’d plugged in.
+
+
+The game had been grounded up until now—hyper-real physics, tactical AI, real weapons, real consequences. And then suddenly: a tank-grown nightmare wearing armor the size of an appliance.
+
+
+He didn’t know whether to be impressed or horrified.
+
+
+Probably both.
+
+
+But being murdered and then handed a bright white MISSION ACCOMPLISHED was… wrong. Deeply wrong. If the beta wanted realism, death should mean failure. If it wanted arcade fun, the creature shouldn’t have been able to pulp him like fruit.
+
+
+And the gear.
+Why was it so important?
+Why did it need to be recovered instead of respawned?
+
+
+Games didn’t care about continuity that way.
+This one clearly did.
+
+
+He rubbed the back of his neck.
+Flinched.
+
+
+It hurt.
+
+
+A dull ache pulsed from the base of his skull, exactly where the creature had crushed him. He hadn’t realized how violently he’d jerked inside the harness.
+
+
+He exhaled.
+He needed water.
+Maybe painkillers. Maybe sleep.
+
+
+It was—
+
+
+He checked his phone.
+11:07 PM.
+
+
+Shit.
+Work night.
+
+
+He was about to set the phone down when a notification slid across the top.
+
+
+Tech Billionaire Chad Norris Killed in Own Home
+
+
+He moved to swipe it away—clickbait, for sure—but he froze mid-motion.
+
+
+The thumbnail image was unmistakable.
+
+
+The civilian he had stomped to death.
+
+
+A cold pressure crept up his spine. He tapped the article.
+
+
+The story loaded.
+His breath hitched.
+
+
+There was the house.
+The same valley stretch.
+The creek.
+The koi pond.
+Even the angle looked identical to the HUD view he’d memorized while sneaking in.
+
+
+Not similar.
+Not inspired by.
+Exact.
+
+
+He scrolled.
+
+
+At the bottom was a blurred forensic photo with a content warning.
+
+
+IMAGE MAY BE DISTURBING — TAP TO REVEAL
+
+
+His thumb hovered.
+His heartbeat climbed into his throat.
+
+
+He tapped.
+
+
+The blur dissolved into brutal, clinical resolution.
+
+
+His mask.
+His helmet.
+His body—lifeless, sprawled exactly as he’d left it in the game.
+A single bullet hole drilled cleanly between the eyes of the victim.
+
+
+His stomach hollowed.
+His hands went numb.
+A wave of nausea washed up his throat.
+
+
+He shut the phone fast, as if the image itself were toxic.
+
+
+The phone buzzed instantly in his hand.
+
+
+He jumped.
+
+
+A text from an unknown number:
+
+
+We need to talk.
+
+
+Evan stared at the screen.
+
+
+Dry throat.
+Cold sweat.
+A tremor he couldn’t suppress.
+
+
+Someone knew.
+Someone was watching.
+Something was wrong—
+deeply, impossibly wrong.
+
+
+And whatever this was?
+
+
+It wasn’t a game anymore.
+CHAPTER 9 — THE CALL
+The ringtone cracked through the silence of his apartment, sharp enough to make him flinch.
+Unknown number.
+Evan stared at it.
+Did nothing.
+Let it ring out.
+A voicemail alert appeared immediately.
+New Voicemail — 0:03
+His thumb hovered, hesitant.
+Something in him whispered don’t, but he tapped anyway.
+“I know you can answer me.”
+Three seconds.
+Three words.
+The voice was impossibly deep.
+Impossibly calm.
+Impossibly familiar.
+Evan’s blood went cold.
+He dropped the phone like it burned him and lurched to the fridge. Yanked out one of his good beers—ten bucks a can, a heavy triple stout—and cracked it with shaking fingers. Half of it was gone before he tasted anything. Warmth surged behind his eyes, but it didn’t touch the dread.
+The phone rang again.
+Same number.
+This time he answered, adrenaline cutting through the alcohol.
+“Who the fuck is this?”
+“You should know by now,” the voice replied, smooth and certain. “I’m the game master. And you are the player. You have played well.”
+Evan swallowed hard. His palms were slick.
+“How is that real man—the one I killed in the video game—dead in real life?”
+A soft hum. Amused. Almost condescending.
+“It is a game, Evan. But it is not virtual. The avatars you control are flesh and bone.”
+A cold ripple moved through his entire body.
+“How the fuck is that a game? How—how the hell…” He struggled for air. “I’m a murderer. A fucking serial killer.”
+“I did say you play well,” the voice replied. “That is why I chose you. Well—” a subtle smile threaded into the tone, “you and others. I have my criteria.”
+Against all logic, all fear, Evan heard himself ask:
+“What criteria?”
+“Oh, for one—you’re a shut-in. That made it trivial to erase your footprint. You haven’t been seen on a public camera in six months.”
+Evan froze.
+“My coworkers will know,” he whispered.
+“Your coworkers,” the handler said, “have never seen your real face.”
+Evan felt the room tilt around him.
+“What?”
+“This ‘beta’ has been long in the making. You were marked some time ago.”
+His legs almost gave out. He leaned on the counter, breath shaking.
+“And Evan,” the voice added lightly, “your spare key under the fire extinguisher? You really should move that. Anyone could use it.”
+His heart slammed into his ribs. His vision tunneled.
+“Now that we’ve established that nobody knows who you are,” the handler continued, tone returning to that casual, unhurried cadence, “we can move to the crux.”
+A beat.
+“You keep playing. Or I send your information to the Federal Bureau. They will be… most interested.”
+Evan’s stomach dropped straight through the floor.
+Blackmail.
+Total, perfect blackmail.
+“And Evan,” the voice added, suddenly warm, “I would be ever so disappointed if you didn’t see what I have in store.”
+Click.
+Silence swallowed the apartment.
+Evan stood shaking in the dim kitchen, beer can trembling in his hand, the fridge hum the only sound in the world.
+For the first time, he understood—
+He wasn’t dealing with a game master.
+He was dealing with a man who had already rewritten his life.
+Someone who knew his habits.
+His vulnerabilities.
+His home.
+He wasn’t trapped by a threat.
+He was trapped by someone who had planned this for months.
+Maybe years.
+And there was no one left who knew who he really was.
+
+
+Here’s your critique and refinement for Chapter 10 — TABLE TURNING, focused on sharpening tension, tightening emotional beats, and elevating the prose into your new style tier without bloating it.
+CHAPTER 10 — TABLE TURNING
+Evan’s hands wouldn’t stop shaking.
+Not trembling—shaking.
+The beer sloshed over his lip and dribbled down his chin.
+Anger flared through the panic.
+Sharp. Hot. Misfiring.
+He crushed the can in his fist. Foam sprayed across his cheek, cold and sticky.
+“Fuck!”
+He hurled it into the trash and stood there breathing hard, jaw clenched so tight it hurt.
+Federal Bureau.
+ FBI.
+The handler hadn’t offered a threat.
+He’d delivered a promise—calm, clinical, inevitable.
+Evan staggered to his desk, refusing even to glance at the headset. The monitors were safer. Realer. Less predatory. He typed in the passkey to his encrypted capture folder—eight long strings, thermal-scrambled, brute-force hardened.
+If the handler controlled everything…
+If he really was overwatching his life…
+Then this should be gone.
+Except—
+It wasn’t.
+Every file was still there.
+Every mission.
+Every death.
+Every kill.
+Chad Norris’s murder played in crisp detail.
+The creature in the tank.
+The handler speaking through a bioengineered monster.
+Evan stared at the thumbnails, pulse rattling his ribs.
+He should’ve felt sick.
+He should’ve looked away.
+Instead—hope crawled its way up from the bottom of his lungs.
+He had proof.
+ Something the handler didn’t expect him to have.
+Something he could use.
+A new thought slid in—cold, reckless, dangerous.
+I don’t have to play by his rules.
+He pulled open the drawer and grabbed a burner phone—one of a half-dozen from an old security-engineering phase involving Arduino boards and improvised penetration testing.
+He booted the browser.
+Typed instinctively into the search bar:
+FacePage.
+He hadn’t logged in years. Maybe a decade.
+But old muscle memory lingered.
+Search.
+Dylan Warner.
+They hadn’t spoken since high school. Barely knew each other even then. But he remembered a post—an auto-notification about Dylan graduating from the FBI program.
+The page loaded.
+Dylan Warner — FBI Investigations Division
+Not “Junior” anymore.
+Not a trainee.
+The profile picture hit him in the chest.
+The same kid who’d once stepped between him and three football assholes outside the cafeteria. Someone who hadn’t had to help him—but did.
+He needed someone he could trust.
+Or at least someone who wasn’t trying to blackmail him.
+He hit the call button.
+One ring.
+Two.
+Three—
+A click.
+“Hello? Who is this?”
+Professional. Guarded. Not unfriendly—just ready.
+Evan shut his eyes, throat working.
+“It’s… Evan. Evan Mercer.” His voice cracked. “From Eastwood High.”
+A beat.
+“…Evan? Holy shit, man. Haven’t heard from you in forever. What’s going on?”
+Evan let out a breath he didn’t know he’d been holding.
+Terror, relief, shame—all tangled.
+“I’ve got a story for you,” he said.
+“And you’re not gonna believe a fucking word of it.”
+
+
+CHAPTER 11 — CONNECTION
+
+
+Dylan’s voice caught on the other end of the line.
+“I… thought it might be you. I recognized that body. But how?”
+
+
+Evan closed his eyes, swallowed hard, and forced the story out in one trembling breath.
+The invite.
+The missions.
+The respawns.
+The creature in the tank.
+The kill in the koi pond.
+The handler’s call.
+His own dead face in the news.
+
+
+When he finished, silence stretched—thin and brittle.
+
+
+“That’s impossible,” Dylan whispered. “But… hell. The timelines match. The anomalies match. Go on.”
+
+
+“I have footage,” Evan said. “Local captures. Everything’s still on my machine. But I don’t know if I can send it safely. He might already be watching.”
+
+
+“I’ll come to you,” Dylan said instantly. “I’m in town.”
+
+
+Evan blinked. “Why?”
+
+
+“Because we never lost your address. Whoever scrubbed your records… didn’t scrub everything.”
+
+
+A strange, electric shiver ran up Evan’s spine.
+Half fear.
+Half hope.
+If the FBI still had him on file, then the handler didn’t control everything.
+
+
+“Stay on the line,” Dylan said. “I’m close.”
+
+
+Evan kept the burner pressed to his ear as he paced, nerves scraping against his bones. Then a thought hit him—sharp, cold.
+
+
+The door camera.
+
+
+He grabbed his real phone and disabled the feed.
+
+
+It flicked back on.
+
+
+He turned it off again.
+
+
+On.
+
+
+“Fuck—”
+
+
+He slapped duct tape over the lens with shaking hands.
+
+
+A buzz vibrated in his palm.
+Not Dylan.
+
+
+His stomach curled inward.
+
+
+He spun toward his desk and ripped the webcam cable free. Sparks popped from the USB port.
+
+
+Should’ve done that sooner.
+
+
+Then—
+A soft click.
+A glow.
+
+
+His flat-screen TV—dead for months—lit up in a wash of pale blue.
+
+
+“What are you up to, Evan?”
+
+
+The handler’s voice filled the room, low and amused.
+
+
+Evan’s chest tightened. He lunged for his tower, grabbed the hard drive, and yanked it out so hard the SATA cable screamed.
+
+
+Into the burner:
+“He’s onto me, Dylan—”
+
+
+A deafening BOOM rattled the apartment.
+
+
+Evan froze.
+
+
+The door handle clattered to the floor. The lock hung in splintered ruin. The door creaked open on its hinges, the gap widening in slow, inevitable inches.
+
+
+A figure stepped in.
+
+
+Black clothes.
+Black mask.
+Black shotgun at his hip.
+
+
+The silhouette was wrong.
+Familiar.
+
+
+Terrifyingly familiar.
+
+
+The figure paused in the entryway.
+Lifted its hands.
+Unhooked the mask.
+
+
+Evan’s breath vanished.
+
+
+His own face stared back at him—blank, neutral, drained of anything recognizably human.
+
+
+Then it smiled.
+
+
+Just a small curl of the lips.
+Unnatural.
+Practiced.
+
+
+The shotgun rose.
+
+
+A week ago, Evan would’ve frozen.
+A few days ago, he would’ve screamed.
+
+
+Tonight?
+
+
+He moved.
+
+
+He dove sideways as the shotgun thundered, the blast shredding the floor where he’d stood. Splinters knifed across his cheek. He hit the tile hard and rolled behind the kitchen island.
+
+
+BOOM—
+The counter erupted, laminate and wood exploding over his head.
+
+
+Pump.
+Click.
+
+
+He reached blindly upward, fingers scraping the magnetic knife bar—closing around the biggest steel blade he owned.
+
+
+Another blast shattered the counter near his wrist.
+
+
+Pump—
+
+
+Evan surged up and threw the knife—not clean, not trained, just raw terror and muscle memory.
+
+
+It tumbled end-over-end—
+
+
+—and buried itself in the intruder’s shoulder.
+
+
+The arm went dead instantly.
+
+
+His own doppelgänger turned its head, examining the wound with eerie calm.
+It shrugged.
+Shifted the shotgun into its remaining hand.
+
+
+Evan dove flat as another blast tore open the cabinets above him.
+
+
+The shotgun clattered to the tile—a one-handed pump was impossible. But the intruder was already reaching for its sidearm.
+
+
+Evan sprinted for his bedroom.
+
+
+He nearly fell through the doorway, caught himself on the wall, and ripped the replica longsword from its mount.
+
+
+Steel hissed free.
+
+
+It wasn’t a toy.
+It wasn’t foam.
+He’d sharpened it himself.
+
+
+The intruder stepped into the doorway, pistol leveled with perfect form—Evan’s form—monochrome expression locked into that same soulless half-smile.
+
+
+Evan didn’t think.
+Didn’t plan.
+He acted.
+
+
+HEMA drills.
+VR sparring.
+
+
+Hundreds of simulated duels.
+
+
+His body moved before fear could catch up.
+
+
+He shifted right.
+
+
+CRACK—
+A pistol round tore a fist-sized chunk from the drywall where his head had been.
+
+
+The 21-foot rule flashed across his nerves.
+
+
+At ten feet, he had a chance.
+
+
+He lunged low—
+Boom—
+A second round missed by inches.
+
+
+He stepped left, blade sweeping in a brutal windshield-wiper arc.
+
+
+A perfect krumphau.
+
+
+The intruder’s wrist parted cleanly. The severed hand hit the floor and fired its final wild shot upward as the fingers spasmed.
+
+
+Evan didn’t hesitate.
+
+
+He let the momentum carry him—
+a twisting follow-through,
+a helicopter cut from the hips—
+hands turning the blade horizontal—
+
+
+—and his own head toppled from his doppelgänger’s shoulders in a burst of red.
+
+
+The body remained upright for a surreal moment, swaying, refusing to die.
+
+
+Then it collapsed like a marionette with cut strings.
+
+
+“Evan!” Dylan’s voice shouted from the doorway.
+
+
+Evan sagged against the wall, breath tearing out of him in jagged bursts.
+He let the sword slip from his trembling hand.
+It clattered to the floor.
+
+
+He didn’t speak.
+He couldn’t.
+
+
+Because the dead face staring up from the tile was his.
+CHAPTER 12 — COOLDOWN
+“Holy hell…” Dylan breathed as he stepped into the wrecked apartment, gun low but ready. His eyes locked onto the headless body on the floor. “That’s—your face.”
+“I know.” Evan’s voice came out thin, frayed. “Seeing it from the outside doesn’t make it less weird.”
+“I’ve read the internal reports,” Dylan murmured, circling the corpse like it might get up. “But… damn. You killed him with a sword?”
+“He wasn’t very good at getting his hands dirty,” Evan said, rubbing the bruise blooming across his jaw. “That’s why he used me.”
+Something flickered across Dylan’s expression—admiration warping into horror, then into something like reluctant respect.
+“If I’d met him in the hallway…” Dylan whispered.
+“He would’ve killed you without hesitation,” Evan said.
+“Yeah.” Dylan swallowed. “Yeah, he would’ve.”
+Silence expanded—heavy, electric, full of the reality neither of them wanted to say out loud.
+“I need to wash my hands,” Evan muttered.
+Dylan tensed for half a second, then nodded.
+Evan stepped into the kitchen and gripped the sink.
+That was when the shakes hit.
+Not trembling.
+Not nerves.
+Full-body, violent, uncontrollable shaking as adrenaline drained out all at once. Water splashed across the counter. The faucet leaked from where a shotgun pellet had clipped it earlier.
+The chrome stove reflected a warped version of his face—pale, wide-eyed, barely holding together.
+Alive.
+Alive instead of the thing wearing his face.
+He dried his hands and pointed toward the hard drive lying beside his PC tower—miraculously untouched.
+“It’s all in here.”
+Dylan sealed the drive inside an evidence bag with a practiced snap. “You’re coming with me. Safe house. You can’t stay here.”
+“No argument.”
+They took the stairs—fast, tense, avoiding the elevator’s trap-box potential. The smell of scorched metal and gunpowder hung faintly in the air.
+Dylan’s car waited at the curb: sleek silver body, muscular frame, manual steering wheel—old-school and deliberate.
+It beeped open as Dylan approached. He slid into the driver’s seat; Evan dropped into the passenger side, shutting the door with a click that sounded too loud in the quiet street.
+“Hey Ryder,” Dylan said, “call the boss.”
+The speakers rang. Connected.
+“Do you know what time it is, Detective?”
+Tired voice. Irritated.
+“An hour before you go home, sir,” Dylan said. “You’ve been working late.”
+“And getting an earful about it. What have you got?”
+“Evan Mercer,” Dylan said. “In the flesh.”
+Silence. Cold and thoughtful.
+“We had positive ID on his body,” the boss said. “DNA confirmed.”
+“Well,” Dylan replied, “apparently there’s more of him to go around. One tried to kill the real one.”
+Another pause—longer, sharper. “And what makes you think this one is the real one?”
+A spike of panic punched through Evan’s ribs. How did you prove you were real in a world where your own face could kill you?
+“He’s got a hard drive,” Dylan said quickly. “Footage proving the whole thing was framed as a game. And—he hasn’t tried to kill me.”
+“Or he’s waiting for a better moment.”
+“If that drive has a virus, Spooks will sandbox it so hard it won’t light an LED without permission.”
+A sigh from the other end. “I don’t like it. But… maybe we have a lead.”
+“I’m taking him to Zone F,” Dylan said. “We’ll need heavy guards.”
+“I’m sending a squad.”
+The call ended. Silence settled like dust.
+After a moment, Dylan glanced over. “How the hell did you learn to use a sword? The Evan I remember couldn’t throw a punch.”
+“VR,” Evan said. “Some games were full-body. HEMA sims.”
+“HEMA?”
+“Historical European Martial Arts. Dry as hell. But they taught form. Footwork. Timing. Shooting sims helped too.” He exhaled. “I guess it made me the perfect patsy. Skilled in violence. Desensitized to it. Used to following mission prompts. I didn’t question anything.”
+“Maybe you should have,” Dylan said softly. His voice hardened. “You didn’t mean to, but you killed those people, Evan.”
+Evan shut his eyes. “I know.”
+The weight of it pressed into the car until neither of them spoke.
+They reached the safe house: a normal-looking suburban home made uncanny by the row of black SUVs out front and the shadowed silhouettes watching from the dark.
+“That’s our protection,” Dylan said.
+Inside, the lock clicked open at Dylan’s code.
+A thin man with smartglasses hopped out of a nearby SUV, laptop tucked under one arm.
+“Spokane Washington,” he said, sticking out a hand. “Everyone calls me Spooks.”
+“Evan Mercer. Wish this was under better circumstances.”
+Spooks grinned. “But for the grace of Gaea, there go I. That bastard set one hell of a trap.”
+Evan immediately liked him.
+They stepped inside—a cramped living room full of agency hardware and borrowed furniture.
+Evan suddenly patted his pockets.
+“Dammit—my vape. I haven’t had a hit since—hell, I don’t even know.”
+“Here,” Spooks said casually.
+He handed over a vape shaped like a tiny dragon. The mouth emitted a faux flame when inhaled.
+Evan took a deep hit.
+Immediately staggered.
+“What the hell was—”
+“Ulti-stim,” Spooks said. “Not illegal.”
+“That’s only because it’s too new to be illegal,” Dylan muttered.
+“Same difference.”
+Evan took a slower second hit—yuzu apple—and felt the tension melt from his skull like it had been heated out of him.
+“…Okay. That’s really nice,” he admitted, sinking into a chair.
+Spooks opened the evidence bag and hooked the drive up to a thick, shielded cable. He typed a command.
+The drive lights flickered, sputtered, then went dark.
+“Oh, that’s nasty…” Spooks muttered. “Sneaky ransomware. Very sneaky. And… familiar? Why the hell does that signature look familiar…?”
+He typed faster.
+“Damn. It almost cracked your encryption.”
+“How?” Evan asked. “That was supposed to take a botnet eight years.”
+“Depends on the botnet,” Spooks said. “This guy’s got some serious juice.”
+Printed bodies. Controlled clones. Mutants in tanks.
+Ransomware punching through military-grade encryption.
+The panic Evan had been holding back surged again—tight, clawed, relentless.
+And as if summoned by it—
+A metallic crunch thundered through the night.
+Then gunfire.
+Then screaming.
+The wall shook.
+Spooks froze mid-keystroke.
+Dylan drew his gun.
+Evan rose to his feet, pulse hammering so hard it blurred his vision.
+He was here.
+The handler had found them.
+
+
+CHAPTER 13 — CONFRONTATION
+
+
+Dylan crept toward the window and flicked up the auto-blinds.
+
+
+He froze.
+
+
+“Holy… what is that?”
+
+
+Evan swallowed hard. “It’s the body I helped him steal.”
+
+
+Below, the mutant carved through federal defenders like they were made of paper. Each pull of the cannon-sized shotgun erupted into a blossom of gore. Armored agents vanished in sprays of red mist.
+
+
+Bullets hammered the creature—armor, scales, exposed skin—but only left chalk-white freckles. No penetration. No recoil. No effect.
+
+
+No hesitation.
+
+
+“I have to help them,” Dylan whispered, voice cracking.
+
+
+“So do I.” Evan tightened his grip on the window frame. “He’s here for me.”
+
+
+“You’re a witness. It’s my job to—”
+
+
+“And it’s my responsibility to fix what I did.” Evan’s stare didn’t waver. “We don’t have time to argue. Unless you want to handcuff me and offer me up as bait.”
+
+
+Dylan didn’t answer.
+
+
+He didn’t have to. The silence said it all.
+
+
+“I don’t have a spare weapon,” he muttered instead.
+
+
+Spooks cleared his throat from behind them.
+
+
+“Well…” he said, reaching into his coat pocket, “I might.”
+
+
+He produced a matte metal block, rectangular and unassuming.
+
+
+“What is that supposed to be?” Evan asked.
+
+
+“Japanese SWAT tech.” Spooks sounded almost proud. “Monomolecular edge. Vibro-oscillation. Cuts titanium.”
+
+
+“You’re shitting me.”
+
+
+Spooks clicked a button.
+
+
+The metal unfolded into a curved katana — shimmering, vibrating, humming like it had its own heartbeat.
+
+
+Evan stared. “A collapsible monomolecular katana?”
+
+
+Spooks tapped the folded block against his palm. “Never leave home without one. Always bring a sword to a gunfight.”
+
+
+Evan lifted the blade. It weighed almost nothing — a razor made of air and intent.
+
+
+They rushed outside.
+
+
+Smoke drifted like fog. Sirens pulsed. Metal rang. Men screamed.
+
+
+They ducked behind a shattered SUV just in time to witness a lone defender fire into the mutant’s face. Three shots missed; the fourth hit — a direct strike at the corner of the left eye.
+
+
+The mutant staggered.
+Then roared.
+
+
+It pulled the trigger—
+
+
+CLICK.
+
+
+Empty.
+
+
+Prototype weapon. Prototype ammo. No pouches. No reload.
+
+
+Evan registered it instantly.
+
+
+The mutant grabbed the lone defender and hurled him into a squad car. The entire frame buckled on impact. Glass exploded outward. The agent folded in half with a stomach-churning crunch.
+
+
+Dylan fired to draw its attention—
+
+
+The mutant turned.
+
+
+Coiled.
+
+
+And leaped.
+
+
+“MOVE!” Evan shouted.
+
+
+They dove apart as a fist like a sledgehammer cratered the pavement where they’d been standing.
+
+
+Dylan sprinted left.
+
+
+Evan sprinted right.
+
+
+The mutant locked onto Evan and advanced, each step a seismic shock.
+
+
+Then the handler’s voice boomed from the creature’s warped throat — distorted, cracked, but unmistakable:
+
+
+“I had such hopes for you, Evan.”
+
+
+The creature drew its fist back.
+
+
+A massive tell.
+A VR boss windup telegraph.
+
+
+“You were exquisite in the simulation,” the handler snarled. “Obedient. Efficient.”
+
+
+The punch fired like a piston—
+
+
+Evan sidestepped and raised the blade.
+
+
+Knuckles met vibrating steel.
+
+
+SCHLNK—
+
+
+Half the mutant’s hand fell away, spraying dark magenta blood in a fan across the asphalt.
+
+
+The creature stared at its ruined fingers — shock, disbelief, fury radiating through its monstrous frame.
+
+
+“No… no, this form is superior. You should be kneeling — not harming me.”
+
+
+Then it charged.
+
+
+Full commitment.
+Freight-train momentum.
+Zero feints.
+Overconfidence.
+
+
+Evan saw the tell — a compensatory shift of weight the wrong direction, a micro-stutter born from controlling an unfamiliar body.
+
+
+A VR telegraph.
+
+
+He pivoted and slashed across the ribs.
+
+
+The blade carved a deep, wine-dark trench. Magenta blood gushed thick and heavy.
+
+
+A gunshot cracked — Dylan, precise — punching into the exposed seam of flesh.
+
+
+The mutant staggered violently, limbs spasming.
+
+
+Evan recognized the movement instantly:
+
+
+Stagger state.
+Vulnerable window.
+Punish opportunity.
+
+
+“STOP—STOP INTERFERING—” the handler roared, the creature’s throat glitching with distortion. “THIS BODY—ITS NERVES—IT IS OVERRIDING—MY CONTROL—”
+
+
+Evan didn’t hesitate.
+
+
+He struck behind the leg — severing the hamstring.
+
+
+Another shot from Dylan blew out the kneecap.
+
+
+The mutant crashed to one knee, snarling, half-broken but still reaching for Evan with its remaining hand.
+
+
+“You were meant to stand beside me,” it gasped. “Not… against me.”
+
+
+Evan stepped back, centered the blade, breath steady.
+
+
+Then he lunged.
+
+
+No windup.
+No tell.
+A clean, perfect thrust — the kind VR drills hammered into reflex.
+
+
+The blade slid into the creature’s heart with horrifying ease.
+Resistance — then none.
+A catastrophic yielding of flesh around vibrating steel.
+
+
+The handler tried to speak.
+
+
+“You were…”
+A shudder.
+“…my finest…”
+A convulsion.
+“…cre—”
+
+
+The sentence died with the body.
+
+
+Magenta blood poured as the mutant collapsed sideways, weight hitting the ground like a fallen tree.
+
+
+Evan yanked the blade free and stepped back, steadying his breath as the creature’s final spasms twitched out.
+
+
+He wiped the sword clean in the grass.
+
+
+The trembling in his hands wasn’t fear.
+
+
+It was adrenaline.
+
+
+Resolve.
+
+
+A new, unfamiliar hardness.
+
+
+The safehouse door burst open behind him.
+
+
+Spooks stumbled out, pale, clutching his laptop.
+
+
+“We… we’ve got him,” he stammered.
+
+
+CHAPTER 14 — CONVOY
+
+
+A Blackhawk met them outside the house.
+No one argued about Evan coming along.
+Not after what he’d done.
+Not after what they’d all seen.
+
+
+The National Guard had already been deployed.
+This wasn’t covert anymore—
+this was war.
+
+
+A gruff sniper sat across from Evan, expression granite-hard. Without a word, he shoved gear toward him: a vest, spare mags, a high-caliber magnum, and a parachute pack.
+
+
+“Strap in,” he growled. “You’ll need it.”
+
+
+He checked the gun before holstering it.  It was big.  Really big.
+
+
+“.50 cal magnum.  Kicks like a horse.  Use the laser.”
+
+
+Evan nodded, fingers trembling—not from fear, but from the leftover adrenaline that still buzzed through his bones. The sword from Spooks lay across his lap, impossibly light and humming faintly with monomolecular vibration.
+
+
+Spooks hadn’t asked for it back.
+Maybe he didn’t expect it to return.
+
+
+Dylan sat beside Evan, jaw tight, hands clasped around his rifle. He opened his mouth once, then closed it. Tried again. Swallowed.
+
+
+Evan stared at him. “Spit it out.”
+
+
+Dylan leaned toward the mic over the roar of the rotors.
+“By my count, that’s the second time you’ve saved my life. I… owe you now. It’s a weird feeling.”
+
+
+“You didn’t get saved,” Evan said. “You helped take that thing down. Couldn’t have done it alone.”
+
+
+“You’re exaggerating. I saw how you moved. He never stood a chance.”
+
+
+Evan didn’t respond.
+
+
+Because Dylan was right.
+
+
+The intruder’s movements—
+the mutant’s telegraphs—
+they were obvious to him.
+Highlighted.
+Predicted.
+As if he’d practiced against them a thousand times in a place his conscious mind didn’t remember.
+
+
+He didn’t like that feeling.
+
+
+“Those shots into the wounds helped more than you think,” Evan said quietly. “They stunned him. Slowed him. That mattered.”
+
+
+Dylan grunted, but something in him relaxed.
+
+
+Below, more helicopters converged with theirs—shadows cutting across the distant glow of city lights. Armored personnel carriers rumbled across the roads like steel beetles.
+
+
+For a moment, Evan allowed himself to breathe.
+
+
+Then an APC hit a mine.
+
+
+The explosion ripped the night open. Fire blossomed upward, tossing the carrier onto its side like a toy. Men scrambled. Some didn’t.
+
+
+“Jesus—” Dylan muttered.
+
+
+Something streaked up from the treeline—
+a rocket-propelled flare of smoke and fire.
+
+
+“Incoming RPG!” the copilot barked.
+
+
+The missile slammed into a helicopter two formations over. Flames swallowed its tail rotor, spinning it wildly before it dropped out of sight.
+
+
+The radio erupted with panic.
+
+
+“—taking heavy fire—”
+“—multiple launchers—”
+“—we need suppressive—”
+
+
+The sniper beside Evan leaned out the open door, rifle braced on a knee.
+One clean shot.
+The rifle barked.
+
+
+“Got the bastard,” he said. “Whoever fired that was a she, for what it’s worth.”
+
+
+Evan’s stomach dipped.
+It clicked instantly.
+
+
+If she was firing rockets—
+
+
+“Other players,” he whispered.
+
+
+His pulse spiked.
+Hundreds of printed bodies.
+Thousands, maybe.
+Controlled by others who thought they were just playing a game.
+
+
+“Spooks!” Evan shouted into the comms. “You’ve got to shut down the simulation!”
+
+
+“I can’t do it from here!” Spooks crackled back. “I need a hard line!”
+
+
+Dylan slammed a mag into his rifle. “Then we get him one.”
+
+
+Another warning shrieked over the intercom.
+
+
+“Incoming—two o’clock—MOVE!”
+
+
+Evan saw it—
+Another rocket arcing straight toward them.
+Too close.
+Too fast.
+
+
+“JUMP!” the sniper roared, lunging for the door.
+
+
+Evan didn’t think.
+Didn’t plan.
+Just moved.
+
+
+He dove out of the Blackhawk with Dylan and Spooks beside him, the rotor wash ripping at their limbs.
+
+
+Gravity punched him in the gut.
+
+
+Wind howled.
+
+
+The chopper exploded above them—
+a sunburst of fire and shrapnel.
+
+
+Evan’s heart slammed into his skull.
+
+
+No respawns.
+
+
+No spawn beacon.
+
+
+Just sky.
+
+
+And below:
+
+
+Hell.
+
+
+CHAPTER 15 — BOOTS ON THE GROUND
+
+
+
+
+Bullets traced the air around them. Tracers buzzed past like hornets. One round punched straight through Dylan’s chute two yards above the ground. His descent accelerated violently — he hit in a crouch, rolled, and fought the tangled straps.
+
+
+Evan flared his chute, dropped the final meters hard, and tore himself free just as another burst screamed overhead. The landing rattled him, but he was upright.
+
+
+He saw the shooter a heartbeat later.
+
+
+No mask this time — an old man in a hunting jacket, white beard, braced behind a rock with a scoped rifle.
+
+
+He fired with calm precision.
+
+
+Evan lifted the magnum with both hands — breath shallow, wrists tight.
+
+
+BOOM.
+
+
+The recoil shocked up his arms like a hammer. The top of the old man’s skull vanished in a red mist. His body slumped sideways, boneless and silent.
+
+
+For a moment, Evan swayed.
+
+
+That hadn’t been VR. That hadn’t been simulated gore. It was… real.
+
+
+He swallowed hard, forcing his mind back online.
+
+
+Spooks was tangled in his chute twenty yards away. Evan sprinted over, slashed him loose, and dragged him behind cover.
+
+
+Then he heard it.
+
+
+A faint, insectile buzz under the gunfire.
+
+
+He snapped toward the noise.
+
+
+There — behind a rock — something shimmered, half-visible.
+
+
+A half-formed body was being printed. White bone lattice extruding. Wet, pale skin knitting over it. Featureless limbs twitching with puppetlike spasms.
+
+
+The disk beneath it flickered into full visibility while printing.
+
+
+Evan charged it.
+
+
+He stomped the spawner with all his weight. It shattered, sparks coughing upward. The unfinished body collapsed in a wet slump, melting into unshaped tissue.
+
+
+“They decloak while printing!” Evan yelled. “Find the hum — smash the disk! They’ll respawn forever if you don’t!”
+
+
+“Copy!” Dylan shouted back.
+
+
+A bullet cracked past Evan’s cheek. He dove behind a slab of fallen concrete, heart pounding.
+
+
+He peeked.
+
+
+A teenage girl this time. Maybe sixteen. Skinny, empty-eyed. Holding a full-length assault rifle far too large for her frame — but her stance was perfect. Mechanically perfect.
+
+
+She raked the landscape with fire. Evan threw himself sideways, VR-trained instincts firing. A round grazed his shoulder pad; the chestpad buzzed painfully.
+
+
+He hit the dirt, rolled, came up behind cover.
+
+
+Before he could fire, Dylan’s rifle barked twice. The girl jerked, collapsed wordlessly, limbs folding like someone pulling the plug.
+
+
+Evan approached, cautious.
+
+
+Her rifle gleamed on the ground — high-end, advanced.
+
+
+He reached for it—
+
+
+A memory slammed into him: the Corpse Run.
+
+
+The blackened body touching his rifle.  Charred.  Unrecognizable.
+
+
+He ripped his hand back.
+
+
+“Don’t touch their weapons!” Evan shouted. “They’re trapped. Pick one up and it’ll kill you.”
+
+
+Dylan froze mid-reach. “What? How do you know?”
+
+
+“I saw it in the simulation.  It fried someone completely. That wasn’t a mechanic — it was a failsafe.”
+
+
+“Jesus.”
+
+
+Evan keyed his radio. “All units, do NOT recover enemy guns. They’re trapped with lethal countermeasures.”
+
+
+A grim voice replied, “Already learned that the hard way.”
+
+
+They pushed toward the road, clearing as they went. More buzzing. More half-seen glimmers.
+
+
+Another disk — tucked under an overturned sedan.
+Another — wedged on a ledge above a drainage ditch.
+They smashed both before the bodies fully finished printing.
+
+
+They linked up with a National Guard squad — six soldiers, filthy, exhausted, moving like they’d been fighting nonstop.
+
+
+“Friendly?” one asked, weapon raised.
+
+
+“Dylan Warner, FBI,” Dylan shouted. “Mercer and Spooks — civilian support with intel on clone behavior.”
+
+
+That earned a wave-in.
+
+
+Their group grew as more survivors joined. APCs were abandoned — one burned in the distance, another lay on its side, tracks blown off.
+
+
+A Guard sergeant muttered, “Minefield under everything. Road’s dead. Dirt’s dead. Can’t move anything heavier than a man.”
+
+
+Of course.
+The Handler had designed the whole approach like a killbox.
+
+
+Gunfire erupted intermittently.
+
+
+After each firefight, someone would whisper, “Listen—”
+
+
+And the faint hum would give away another printing disk.
+
+
+They smashed disk after disk, shattering them before clones fully formed.
+
+
+They saw repeats.
+
+
+The old man printed again — Dylan shot him on reflex.
+The teenage girl printed again — collapsed the same way.
+A mechanic. A preacher. A teenage boy in a uniform.
+
+
+Some came once.
+Some came endlessly.
+
+
+The horror dulled. The guilt blunted. Evan felt something inside him go frighteningly quiet.
+
+
+By the time the compound loomed into view — a squat perimeter of concrete and barbed wire — killing had become muscle memory.
+
+
+“Fence is electrified,” Dylan said.
+
+
+“Yup,” Evan murmured.
+
+
+A young Guard specialist stepped forward with a demo pack. “They’ll know where we are if I blow this.”
+
+
+“They already know,” Evan said. “Satellites, thermal. The only place they can’t see us is inside.”
+
+
+The kid hesitated, then planted the charge.
+
+
+They crouched back — mouths open, ears covered.
+
+
+BOOM.
+
+
+The explosion tore the fence inward. A plume of fire and smoke rolled across them. The barbed wire spat sparks. Sections of chain-link curled like burning paper.
+
+
+Evan’s hearing went muffled. Dust rained down.
+
+
+Then—
+
+
+A deep, seismic THUD rippled through the ground.
+
+
+Another.
+
+
+And another.
+
+
+Not footsteps.
+
+
+Footfalls.
+
+
+Evan felt the vibration in his boots, his teeth, the back of his spine.
+
+
+Floodlights snapped on, one by one, cutting through the smoke.
+
+
+A massive shape moved beyond the torn fence.
+
+
+Big.
+
+
+Wrong.
+
+
+Not the mutant they’d killed.
+
+
+Something larger.
+Something heavier.
+Something built for war.
+
+
+The soldiers around him froze.
+
+
+Evan’s fingers tightened on Spooks’s vibrating katana.
+
+
+He exhaled, low and steady.
+
+
+“Boss fight,” he whispered.
+
+
+And the monster stepped into the light.
+
+
+CHAPTER 16 — BOSS FIGHT
+
+
+
+
+They didn’t have time to absorb the monster’s shape before gunfire erupted again. A fresh wave of clones poured out of the main building, rifles barking.
+
+
+“CONTACT!” someone shouted.
+
+
+Evan turned to the demo tech.
+“Got another pack? I’m gonna need it.”
+
+
+“I’ve got C4—here!” The tech slapped a dense block of explosives into Evan’s palm, then shoved a pen-sized detonator after it. Clone fire peppered the ground around them as he frantically demonstrated the safety. “Press here to arm—here to send—DON’T mix them up!”
+
+
+“I’m up,” Evan said, gripping the charge. “Cover me!”
+
+
+He sprinted.
+
+
+The new monster lumbered out of the smoke behind him—massive, misshapen, roided beyond anatomical sense. Fleshy bulges knotted under its slick skin. Hunched, it stood fifteen feet. Straightened, it would scrape twenty.
+
+
+Huge.
+Ugly.
+Half-formed.
+Power incarnate.
+
+
+The perimeter speakers crackled alive.
+
+
+“Hello, Evan,” the Handler boomed. “This one runs an AI assistance package. Much faster than my… meager reflexes.”
+
+
+The monster bent and wrapped one enormous hand around a steel girder. Like it was picking up a stick.
+
+
+Evan broke from cover, sprinting toward it. He had to get inside its range—go for the legs—because nothing else on earth would stop something that size.
+
+
+The girder came down.
+
+
+Not fast—
+but inevitable.
+
+
+Evan dove aside as the ground exploded where he’d stood. Concrete burst in a geyser. Dylan fired to cover him, his rounds leaving only faint pinpricks across the creature’s thick hide.
+
+
+The girder hit, stuck for a second—
+
+
+Then the monster wrenched it sideways.
+
+
+The sweep tore a trench across the ground, rolling toward Evan like a horizontal freight train. Evan jumped at the last possible heartbeat, boots barely clearing the metal as it screamed under him.
+
+
+The girder crushed an outbuilding beside him, flattening it into debris.
+
+
+Evan sprinted directly toward the monster, sword low at his side. The vibrating monoblade hummed with lethal promise. The beast reared back for another smash, but at close range the size became less of an an advantage—its own bulk slowed precise targeting.
+
+
+He slid under its reach and slashed at the nearest leg.
+
+
+The blade bit deep.
+
+
+The monster’s foot surged upward for a stomp—too fast for its size. Evan darted around the outside of the planted leg. The stomp hit where he’d been, the impact rattling his bones even from safety.
+
+
+But the movement threw the creature off balance—its AI overcorrecting. The planted leg twisted, weight shifting wrong.
+
+
+Evan struck again.
+
+
+A clean, brutal carve into the wobbling leg.
+
+
+Thick, magenta fluid gushed out in sheets.
+
+
+The monster staggered, lifting its good foot for another stomp—telegraphed, heavy, trackable. Evan rolled aside again, feeling the air compress as the foot cratered the ground behind him.
+
+
+The beast stepped back, trying to bring its weapon to bear.
+
+
+
+
+Dylan saw it.  The rear leg descending, blood dripping from it.  He had a clean line of fire.
+
+
+A shot cracked.
+
+
+The round slammed into the open wound, tearing deeper into the lumpy flesh.
+
+
+The monster buckled, the foot unable to support its weight.
+
+
+One knee crashed to the ground, sending tremors through Evan’s boots. Its other hand gripped the girder hard enough to bend metal, using it to hold itself upright.
+
+
+Perfect.
+
+
+Evan closed the last few meters in three long strides. Its groin—its lower torso—was now right in reach. He leapt upward, blade flashing.
+
+
+He drove the monoblade upward, carving a ragged opening into its abdomen.
+
+
+No cry of pain.
+No flinch.
+Just mechanical resistance, then give.
+
+
+He didn’t need it to feel anything.
+
+
+He needed an opening.
+
+
+Evan shoved the C4 charge into the cavity, pressing it deep into the pulsing mass.
+
+
+Then he kicked backward, rolling away hard.
+
+
+“CLEAR!” he shouted.
+
+
+He hit the detonator.
+
+
+CHAPTER 17 — DETONATE
+
+
+The beast ripped apart.
+
+
+The explosion didn’t just hit—it erased the thing. Its torso separated from the hips in a wet, catastrophic burst that drenched Evan in hot magenta gore. Chunks of flesh slapped the concrete. A massive hand twitched once, twice… then fell still.
+
+
+And as one, the clones collapsed.
+
+
+Like puppets with cut strings.
+
+
+Evan staggered back, chest heaving, wiping gore from his eyes. Around him, the battlefield went quiet—unnervingly quiet. Bodies lay everywhere, clone and soldier alike, the sudden stillness ringing louder than gunfire.
+
+
+Near the compound wall, Spooks popped up from behind a busted server cabinet. His laptop was hardwired into a blown-out junction panel.
+
+
+He lifted a trembling thumbs-up.
+
+
+“Got access! Server’s offline! Not before I snagged—oh boy—about half his archive. Encryptions nasty, but we’ve got federal-grade toys now.”
+
+
+Soldiers—battle-hardened, blood-smeared, exhausted—looked at Evan in a new way.
+Not fear.
+Not confusion.
+
+
+Respect.
+
+
+They followed him inside without being told.
+
+
+The building’s interior was eerily silent now that the respawns were gone. No humming. No printing. No footsteps. Just the heavy thunk of boots on tile and the faint buzz of emergency lights.
+
+
+They found him in a reinforced control room.
+
+
+The Handler sat on the floor.
+
+
+Unarmed.
+Legs calmly crossed.
+Hands folded in his lap like he’d been meditating.
+
+
+He didn’t rise to greet them.
+
+
+When he lifted his eyes to Evan, there was no fear—only appreciation. Almost… pride.
+
+
+“I’m proud of you, Evan,” he said softly. “Look at what I made you into. A true warrior.”
+
+
+Evan’s grip tightened on the bloody monoblade. His voice came out low, steady.
+“You didn’t make me anything. Except a murderer. I learned everything I needed before you ever found me.”
+
+
+The Handler’s smile widened—something cold and knowing in it.
+
+
+“Did you?” he asked.
+
+
+Evan frowned. “What?”
+
+
+The Handler tilted his head, expression strangely gentle.
+
+
+“And what about—”
+
+
+His tie detonated.
+
+
+A perfect red ring snapped outward, vaporizing flesh and bone. His head left his shoulders in a clean arc, hitting the floor with a wet thud.
+
+
+Dylan swore as another wave of gore sprayed him. “Every damn time…”
+
+
+But Evan hardly heard him.
+
+
+Because beneath the shock, something else churned in his gut.
+
+
+The Handler had been relieved.
+
+
+Smiling.
+
+
+Almost triumphant.
+
+
+His half-sentence echoed like a knife turning in Evan’s ribs.
+
+
+What about what?
+What the hell did he know?
+What had he started?
+
+
+Spooks knelt by the corpse, checking the ruined collar.
+“Remote trigger,” he said grimly. “Someone else out there hit the kill-switch. Didn’t want him talking.”
+
+
+Evan stared at the headless body.
+
+
+The danger wasn’t over.
+
+
+It had just become bigger.
+
+
+“Great,” he muttered.
+
+
+Here is the critique and a refined, amplified version that lands harder, preserves your intent, and sets up the perfect horror sting.
+________________
+
+
+⭐ CRITIQUE (Short + Brutal)
+What works:
+* The tone is right — quiet, reflective, unsettling.
+* The medal + beer imagery is strong.
+* Evan doubting his own nature is exactly the right note.
+* The final hum? Perfect, clean horror.
+What needs tightening:
+* Evan’s internal conflict needs sharper articulation (he fears what he’s become).
+* The FBI bit is summarized too quickly — give it just one evocative detail.
+* The handler’s “implication” section should be clearer, scarier, more pointed.
+* Ending needs a sharper punch — the hum should leave a question, not just dread.
+________________
+
+
+⭐ REFINED CHAPTER 18 — EPILOGUE
+(Your meaning preserved, the beats strengthened, the tension sharpened.)
+________________
+
+
+CHAPTER 18 — EPILOGUE
+Evan sat alone in the dim glow of his apartment, slowly rotating in his desk chair.
+An unopened beer waited on the table beside him. Next to it sat a small velvet box containing his commendation medal — polished, heavy, official.
+The FBI had cleared him.
+Praised him.
+Called him a hero.
+But they couldn’t erase the bodies.
+They couldn’t rewind the nightmares.
+And they definitely couldn’t turn him back into whoever he used to be.
+Dylan wanted him to join up.
+Said he was a natural.
+Said they needed people like him.
+Evan wasn’t so sure.
+The fighting…
+The killing…
+The precision that had come so easily…
+It hadn’t felt wrong in the moment.
+That was the part that scared him.
+He cracked open the beer. Foam hissed softly from the seal. The sound mingled with the quiet of the room — until a thought seized him mid-breath.
+The Handler’s last words.
+“Did you?” he had said.
+“And what about—”
+ Then the explosion had cut him off.
+Why had he smiled when he said it?
+Why had he looked so satisfied?
+What had he meant?
+Evan took a slow drink, his pulse ticking in his throat.
+He set the beer down.
+And that was when he heard it.
+A low vibration.
+Barely audible.
+Familiar enough to freeze his blood on cue.
+A hum.
+Not mechanical.
+Not electrical.
+A frequency he had heard dozens of times in the final battlefield.
+The sound a spawn disk made
+just before a body printed.
+Evan’s breath hitched.
+He turned, slowly, toward the far corner of the room.
+Dark.
+Empty.
+Still.
+The hum deepened.
+He rose from the chair.
+The can on his desk vibrated faintly.
+His heart pounded loud enough to drown everything else out — until the hum abruptly cut off, leaving the apartment so silent it felt wrong.
+Evan stood perfectly still.
+Listening.
+Waiting.
+The darkness didn’t answer.
+But somewhere inside it,
+something had changed.
+END

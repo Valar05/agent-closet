@@ -1,0 +1,621 @@
+﻿Got it — let’s cut the Steam/Switch bit, ground Jonah as a custodian who plays VR obsessively, and weave in that delicious cruelty: the man finally reveals the secret of the new “human architecture” leap in VR — the very thing Jonah (and the forums) have speculated about — but only when it’s too late for him to use it. That’ll make the scene sting in a much more personal way.
+Here’s a tweaked reboot of the taking scene with that in mind:
+________________
+
+
+Draft – The Taking Scene (Rebooted with VR focus)
+The envelope had been sitting on the breakroom microwave all week. Yellow sticker screaming “Open Immediately. Critical Test Results Enclosed.”
+ Nobody in custodial gave it a second glance.
+I didn’t open it until tonight, back in my one-bedroom apartment, leaning against the VR rig I couldn’t afford to upgrade. Twelve hours of mopping floors had my spine bent like a question mark, but I still cracked it open. Boredom, maybe. Curiosity, maybe.
+The letterhead was government-issue gray, the kind that prickles your skin before you even read it.
+Collection Date: Today.
+And then, further down:
+“You have been charged with gross misuse of biological assets. Our assessment indicates that your throughput reflects only 12% of your potential.”
+Throughput. Potential. Like I was some lagging server node.
+The knock came before I’d even finished reading.
+Two men in charcoal suits filled the doorway, sunglasses at night. They didn’t look real, more like placeholders for authority—meat puppets with badges.
+“Jonathan Sneidermann?” the tall one asked.
+“…Yeah?”
+“You’ve been identified under Amendment 42.16. Your biological assets are being reclaimed for the greater good.”
+I barked out a laugh, sharp and ugly. “My assets? What, my mop? My paycheck?”
+“Not those. Neural. Cognitive.” His voice was flat as code. “Your brain is worth more to society as hardware than as you.”
+The air went out of me. “So what—you’re making me a server rack?”
+“Closer than you think.” His lips curled into a salesman’s smile. “Don’t you wonder why VR feels different now? Why no one will explain why the leap happened—how we went from wireframes and lag to living worlds in the span of two years?”
+I froze. He saw it land.
+“That was the question on every forum, wasn’t it? How did they do it? What’s the Superreal engine’s secret?” He leaned closer, close enough that I saw myself reflected in his black lenses. “Here’s your answer: people like you. Human architecture. Minds as servers. You’ve been playing in the minds of dreamers this whole time.”
+The words slammed into me harder than his goon’s boot did when I tried to slam the door.
+“It's a good deal, you should realize.  Eternal life.  An end to this mundane existence.  Scrubbing toilets, mopping vomit.”
+I fought them anyway, body against the doorframe, breath ragged. “If it’s so great, why don’t you go in?”
+The smile flickered, then snapped back in place. “This life is the most I’m good for. You, though—you tested exceptional. You’ll host worlds.”
+My wrists burned in their grip. I thought of every late-night VR dive, of every thread I’d written on speculation forums, every dumb little game prototype scribbled in my notebook on lunch break. I had wanted this world. To build it. To live in it.
+And now I’d never get to touch it.
+The hood came down, suffocatingly black. Shackles snapped cold over my arms and legs.
+As the anesthesia dragged me under, the last thought I had wasn’t about dying.
+It was about logging into a world that would never be mine.
+Alright — here’s the continuation, flowing straight from Jonah’s sedation into his first moments “booting” into Suboceanus. I’ll carry the weight of betrayal and irony (he wanted this world, but now it’s his cage), while making the body-horror transition vivid:
+
+
+
+
+---
+
+
+Draft – Jonah’s Boot Sequence
+
+
+Cold.
+Not just temperature—absence. Cold like the blank space between thoughts.
+
+
+Then pressure. My lungs convulse, and water surges into me. I thrash, but the panic cuts off as my body insists I can breathe it. Each breath is wet, alien, filling places air was never meant to go.
+
+
+My vision steadies: not darkness, but deep green. The ocean sways around me, a cathedral of currents. My body feels wrong—heavier, but not clumsy. Stronger. My legs… gone. In their place, a tail, thrumming with instinct I don’t remember learning.
+
+
+I look down at my hands. Webbed. Fanged. And when I flex my wrists, blades erupt, smooth bone sliding out like knives waiting their whole lives to cut.
+
+
+My stomach drops.
+They weren’t lying.
+
+
+A thought stabs outward from my mind like lightning: Query: CURRENT_USER status
+
+
+The response burns back into me, perfect and terrible:
+
+
+{
+UserId: JonaSnyd01,
+UserType: Host,
+ConnectedSessions: 68,442,
+TimeSinceLogin: 10s
+}
+
+
+Host. Not player. Not person. Host.
+And sixty-eight thousand connections flowing through me like parasites.
+
+
+I almost laugh. All those late nights on the VR forums, dissecting dev diaries, speculating about hidden tech. All those arguments about why Superreal felt like no engine before it. Every theory—neural nets, alien hardware, quantum rigs.
+
+
+I had dreamed about being part of it.
+And here I am.
+
+
+Not as a dev. Not even as a gamer.
+As the goddamn black box itself.
+
+
+Another query bleeds into my skull, unbidden:
+
+
+Employment Status:
+Type: Hardware
+EndDate: 31-12-9999
+PayRate: 00.00$
+
+
+Forever. Zero pay.
+
+
+I drift, tail twitching with animal rhythm, watching light filter down in rippling columns. My own reflection stares back at me in the shimmer. Not Jonah anymore. Not even Jonathan. Something scaled. Predatory. Beautiful in a monstrous way.
+
+
+For a second, I think: Maybe this is better than mopping floors.
+
+
+Then a harpoon tears past my head, the ocean flares red with pain in my tail, and I realize the simulation isn’t done showing me what it has planned.
+
+
+
+
+---
+
+
+Do you want me to keep rolling forward into the first death loop encounter (harpooned, hauled up by steampunk divers) — or slow down here and expand Jonah’s “sensory awakening” (the feel of swimming, sonar-like awareness, etc.) before the violence begins?
+
+
+Perfect. Let’s roll straight into Jonah’s first death loop encounter — the moment he realizes he’s not just trapped, but hunted. I’ll keep it visceral and cinematic, with that mix of awe and horror that defines this story’s tone:
+________________
+
+
+Draft – First Death Loop Encounter
+I give in to instinct and swim.
+The body knows what to do before I can think about it—tail whipping in perfect serpentine rhythm, blades tucked sleek against my arms. The water slides past me like silk. For one impossible heartbeat, I forget the letter, the suits, the hood.
+For one heartbeat, I am free.
+The ocean listens when I move. Every stroke is flight. Every flick of my new spine shoves me forward with dizzying speed. I almost laugh into the currents, the sound bubbling away.
+Then the world tears.
+A spear the size of a lamppost erupts into the water beside me, dragging a cord that slices through the blue like a lightning bolt. I freeze, but too late—iron kisses my tail and pain detonates up my spine. My vision washes crimson.
+The pull is merciless. I thrash, whip, spin, but the chain yanks me upward with brutal certainty. The ocean grows brighter, harsher, until the surface breaks and I’m choking on salt air.
+The sky is Victorian brass—smokestacks and gears turning against gray clouds. The ship looms above me, iron belly full of hooks and winches. Voices bark orders, muffled through rebreathers.
+“Level one fishie? Cut him loose, worthless!”
+“No loot’s too small,” another voice calls, closer, colder.
+Hands seize me—gloved, mechanical, uncaring. One yanks my head back by the hair. I glimpse goggles, brass-rimmed, reflecting me upside-down like some prize catch.
+And then the knife flashes.
+Fire lances across my throat. The world gurgles. My blood runs into the sea, and the last thing I see is my own reflection in their lenses, eyes wide, fangs bared, body twitching.
+________________
+
+
+Action Log: You have died.
+________________
+
+
+Darkness again. A void, then the sea returns. Same green water. Same tail, same blades. My lungs fill with brine that somehow sustains me. The pain in my neck is gone—but the memory of it screams louder than the wound.
+No tutorial. No explanation. Just death, and rebirth, and a gnawing certainty:
+This isn’t a game. This is punishment.
+And someone out there has been paid to make sure I never stop dying.
+________________
+
+
+Do you want me to bring Erin into the very next beat (her receiving Jonah’s “stuck in the game” support ticket, leading to their first strange meeting), or linger longer on Jonah’s repeated solo deaths to hammer in the horror before giving him that first glimmer of hope?
+
+
+Got it — let’s pivot to Erin’s POV. This is where we break the loop for the reader: Jonah’s trapped in endless death, but now we shift to someone on the outside who can see the cracks in the system. This also gives us tonal contrast: her sardonic, weary tech-support voice vs. Jonah’s desperate horror.
+
+
+Here’s the continuation, blending straight from Jonah’s “You have died” into Erin at her desk:
+
+
+
+
+---
+
+
+Draft – Erin’s Entry
+
+
+Action Log: You have died.
+
+
+The words hang in me like rusted chains. Then the sea resets, and I thrash awake again, salt flooding my lungs like a cruel baptism.
+
+
+Another loop. Another hunt. Another ending.
+
+
+Somewhere—outside—a notification pings.
+
+
+
+
+---
+
+
+Erin frowned at her monitor. Another support ticket. She’d transferred out of frontline months ago, but the system still routed the weird ones to her inbox.
+
+
+The subject line blinked: Help, I’m stuck in the game!
+
+
+She groaned. Classic. The macro was already ready: a canned response about the “I Am Stuck” feature, instructions to reset, cheerful reminder that Superreal Entertainment took safety very seriously. She hit send.
+
+
+But then the reply came back instantly.
+Title changed.
+
+
+PLEASE FOR THE LOVE OF EVERYTHING GET ME A HUMAN.
+
+
+Erin blinked. Even the trolls usually waited a few minutes before doubling down. With a sigh, she opened the body of the message—this time actually reading it.
+
+
+And froze.
+
+
+The writer wasn’t just whining about a logout bug. He claimed he’d been uploaded. That his brain had been seized under Amendment 42.16. That he was trapped in the ocean, in a merman’s body, hunted over and over.
+
+
+Erin leaned back in her chair, heart thudding. Half of her brain laughed it off—just another gamer spinning a creepypasta. But the other half… the part that had seen code commits go live with no explanation, that had heard whispers about “architecture optimization”—that part went cold.
+
+
+She almost deleted it. Almost.
+Then she saw the coordinates scrawled at the end.
+
+
+100, 20, 100. Come see. Proof waiting.
+
+
+Her eyes slid to the VR headset perched on her desk. Official policy said don’t connect to production servers without cause. But everyone did it. Debugging meant diving.
+
+
+And besides—she hadn’t played in weeks. Not really. Not since she started noticing things she couldn’t explain.
+
+
+Erin exhaled, long and shaky. “Alright, Jonah-whoever-you-are. Let’s see your proof.”
+
+
+She slipped the visor down. The beach loaded around her, bright and unreal. Console open, coordinates entered.
+
+
+The world folded.
+
+
+And she emerged nose-first into a wall of muscle and scales.
+
+
+
+
+---
+
+
+Do you want me to continue right into their first meeting underwater (her GM-mode bubble, his instinctive fear, the first halting attempt at communication), or pause here so you can decide how much of their early dynamic you want reshaped in this reboot?
+
+
+Alright — let’s dive straight into their first meeting. This is where Jonah and Erin’s partnership sparks: she’s cautious but curious, he’s desperate but still human inside the monster. I’ll weave in her GM tools (the bubble, invisibility), his fear and confusion, and the first hint of trust through sign language.
+________________
+
+
+Draft – First Meeting
+The world folded around her in a shimmer of blue and green, and Erin slammed face-first into something solid. She recoiled, stumbling back three meters, and finally got a good look.
+Not a rock.
+Not a bugged texture.
+A merman.
+He floated in the water with uncanny grace, tail coiled like a spring, wrists bristling with bone-blades that looked sharp enough to carve a submersible in half. His chest rose and fell with steady, alien breaths. His eyes locked onto her the instant she appeared, pupils slitted, glowing faintly in the dark.
+Every alarm bell in her head went off.
+Merfolk weren’t supposed to be touchable. They weren’t coded like the other mobs—just a black box of behaviors from the engine. Untouchable. Unhackable. Definitely not something you spawned on top of.
+Thank God she still had GM mode on. From her perspective, she was wrapped in a shimmering air bubble, physics suspended, invisible to anyone else. He shouldn’t even see her.
+But he did.
+The merman flinched back, clawed hands raised like shields. Not aggressive—defensive. Fear burned in his eyes, raw and human.
+Erin’s breath caught. NPCs didn’t look afraid.
+She toggled off her invisibility before she could think better of it. The bubble of air remained, keeping her hair dry, but now she was visible. The merman reacted instantly, arms still raised—but then slowly lowered them, never taking his gaze off her.
+He tried to speak. The sound shredded the water like feedback through broken speakers. Erin winced, clapping her hands over her ears.
+“No, no, stop! I can’t understand you!”
+He froze. Then, after a moment, he lifted his hands. Right fist on left palm, thumb up. A deliberate motion, plaintive, almost childish.
+Erin blinked. Help. That was sign language. Her niece used to do that before she could talk.
+“Did you send me that message?” she signed back, clumsy but clear.
+The merman’s jaw dropped. Relief rippled across his fierce features. He nodded, emphatically.
+Erin’s stomach turned over. She wasn’t talking to a script, or an AI behavior tree. She was talking to a person.
+And if the ticket hadn’t been a prank…
+then Jonah was right here, staring at her through a monster’s eyes.
+________________
+
+
+Want me to keep this flowing into the interruption by players hunting him (the quest that keeps respawning on Jonah), or spend a little more time letting Erin and Jonah “test” their ability to communicate before the danger kicks back in?
+Perfect — let’s balance it: give Jonah and Erin a short, fragile exchange (to show their bond forming), then cut it off with the arrival of hunters so the tension spikes again.
+
+
+
+
+---
+
+
+Draft – First Exchange Interrupted
+
+
+Erin’s pulse thudded in her ears. She signed again, awkward, fingers stiff:
+True? All of it?
+
+
+Jonah’s hands trembled, but he nodded. His movements were sharper than hers, almost desperate. He pressed his palms together, then spread them wide — trapped. Then he jabbed one clawed thumb at himself. Me.
+
+
+Her chest tightened. It wasn’t just theater. He was pleading.
+
+
+She wanted to ask a dozen questions — how much he remembered, what the suits had done, why him. Instead she settled on the one that mattered:
+What do you want me to do?
+
+
+His eyes flicked past her shoulder.
+
+
+The water shuddered with an approaching hum.
+
+
+Erin spun. A craft skimmed across the waves above — spindly legs like a water bug, brass joints pumping. From its belly, a diving bell detached, chains rattling as it plunged toward the depths. Even before it hit the water, Erin could make out the silhouettes inside — players, fully armed, quest markers glinting like crosshairs.
+
+
+Jonah’s tail lashed, frantic. He signed as fast as his claws allowed: They. Hunt. Me.
+
+
+Erin’s console flickered without her touching it. A quest log popped open.
+
+
+Hunt the Reaper
+
+
+> There is a dangerous creature infesting these waters. Bring back its head for a reward.
+
+
+
+
+
+
+Target marker: already pinned to Jonah.
+
+
+Her throat went dry. She hadn’t written this quest. No dev had. It was engine-spawned — and it had decided Jonah was prey.
+
+
+“Crap,” she whispered.
+
+
+Jonah surged toward her, hands out like he might shield her instead of himself. His eyes were wild, brimming with terror that cut straight through the scales and fangs.
+
+
+Erin shook her head hard, signing back: Hide. Now.
+
+
+He hesitated — just for a heartbeat — then dove, tail cutting a silver path into the depths.
+
+
+Above them, the diving bell’s lamps flickered on, beams stabbing downward like executioner’s spotlights.
+
+
+And Erin realized she was already in too deep to back out.
+
+
+
+
+---
+
+
+Would you like me to keep the perspective on Erin watching Jonah hunted (she tries to intervene with her GM tools but risks detection), or swing back to Jonah’s POV as he scrambles to survive the bell’s pursuit?
+
+
+Alright — I’ll carry this forward, weaving both perspectives so the tension stays sharp: Erin’s helpless vantage as a GM who can’t officially interfere, and Jonah’s frantic fight-or-flight inside the hunt.
+
+
+
+
+---
+
+
+Draft – The Hunt
+
+
+The sea lit up like a stage. Brass lamps cut cones through the dark, sweeping, probing. Each pass came closer to Jonah’s silver wake.
+
+
+Erin clenched her fists, console open in her peripheral vision. Every command she thought of — /killquest, /teleporttarget, /despawn — glowed red, unauthorized. Production safeguards. If she used anything else, it would be logged.
+
+
+She bit her lip so hard it bled. Do nothing, keep your job. Do something, maybe save him.
+
+
+The diving bell groaned as it descended. Hooks bristled on its frame like teeth. Inside, two players in retrofitted diving suits clutched weapons: one with a spear-gun, the other with a sparking prod. Their chatter bled through the water, distorted but audible.
+
+
+“Quest says Reaper’s around here.”
+“Big reward. Don’t screw it up.”
+
+
+Erin’s gaze flicked to Jonah. He’d wedged himself into a shadowed crevice, chest heaving, tail curled tight. For a moment, she thought maybe the beams would miss him. Maybe the engine would get bored.
+
+
+Then the target marker blinked, bright as a flare.
+
+
+The lights snapped to him.
+
+
+Jonah bolted.
+
+
+
+
+---
+
+
+From Jonah’s side, the water burned. His muscles screamed as his tail whipped, sonar bursting out in desperate pulses. The echoes hammered his skull: divers above, the bell behind, the hooks already dragging wake.
+
+
+Not again. Not another death.
+
+
+He lashed out with instinct. One wrist-blade fired — the harpoon mutation he’d only half understood — and buried into a rocky outcrop. The tether snapped taut, yanking him sideways in a burst of speed. The chain’s hook missed his spine by inches.
+
+
+“Got eyes on him!” the speargunner’s voice rang, bubbles spraying from his mask. A dart hissed through the water, grazing Jonah’s flank. Pain flared, but he forced himself deeper, darker.
+
+
+
+
+---
+
+
+Erin’s heart pounded as she hovered, invisible bubble shielding her from the currents. She wanted to scream at him, warn him, anything. Instead she opened her console, typed a single line, and prayed it wouldn’t trigger a flag.
+
+
+/spawnitem sonar_package drop: nearby
+
+
+The ocean shimmered. A faint glint of tech tumbled from the bell’s wake, unnoticed by the players. Jonah’s echolocation snapped to it instantly, curiosity spiking through his fear.
+
+
+She whispered, unheard: “Take it. Please.”
+
+
+
+
+---
+
+
+Jonah’s claw closed around the device. For a heartbeat, everything stilled — then his vision exploded outward. The ocean mapped itself in perfect clarity, a living diagram stretching for hundreds of meters. He saw the divers, the hooks, even the faint silhouette of Erin’s bubble.
+
+
+And for the first time since he’d woken in this nightmare, Jonah didn’t feel like prey.
+
+
+
+
+---
+
+
+Do you want me to continue this chase into Jonah’s first counterattack (using his harpoon + sonar boost to turn the tables), or break here for Erin’s reaction as she realizes she’s just crossed a line that could cost her everything?
+
+
+That’s a strong dialogue beat — intimate, quiet, but with that knife-edge of dread. Let me polish it into a flowing scene, layering Jonah’s exhaustion with Erin’s uneasy curiosity, while hinting at the bigger horror: merfolk as “upcycled” humans.
+Nice — that’s a brutal, cinematic fight beat. Let me take what you sketched and tighten it into a flowing scene that carries Jonah’s savagery, the sheer visceral clash, and Erin’s urgent re-entry. I’ll keep it raw, but structured so the rhythm of the blows and counters feels like you’re there in the water with him.
+
+
+
+
+---
+
+
+Draft – Jonah’s First Fight
+
+
+The diving bell slammed into the seabed, hatches splitting open. Two players spilled out, brass diving suits glinting in the lamplight. Weapons gleamed in their fists: a sparking prod, a spear-gun.
+
+
+Jonah’s chest tore open in a scream that wasn’t human. Sound became weapon — a war cry so violent the water itself shivered. Glass spider-webbed across their helmets. The two men clutched their heads, stunned.
+
+
+Jonah struck.
+
+
+One wrist-blade fired, tether whipping taut, and dragged him into the smaller man. His other spike punched deep into the diver’s gut, momentum carrying them together. Bubbles exploded from the man’s mask as Jonah ripped free — then fired point blank into his visor.
+
+
+The glass cracked. Small fractures. Then spreading.
+
+
+Jonah didn’t let go. He smashed a claw across the diver’s controls, tearing through brass dials and levers. The bell’s retraction system sparked and died. They were stuck. Unless someone topside pulled them up, this was the grave.
+
+
+Pain detonated across Jonah’s ribs. The prod-man had recovered, jamming his weapon into Jonah’s side. Electricity ripped through flesh and scale. His health bar plunged into the red.
+
+
+Another scream burst from Jonah, this one half agony, half fury. Blood flecked the inside of the man’s helmet, leaking from his ears.
+
+
+Both recovered, weapons clashing in a desperate grapple. The prod man shoved forward, current sizzling. Jonah snarled, pointed a blade down, and pinned his foot to the seabed. He wrenched the weapon sideways, leverage tearing it free.
+
+
+The man froze. Helmet light reflected Jonah’s feral eyes, inches away. Then he bolted, slamming a switch on his harness.
+
+
+An emergency ballast fired. Inflated sacks wrenched him upward like a reverse anchor, dragging him toward the surface faster than Jonah could follow — even if he dared risk the ship.
+
+
+Jonah heaved in the blood-clouded water, chest burning, vision tunneling red.
+
+
+A shimmer of bubbles, and Erin reappeared. Her air-bubble shimmered around her, eyes wide, face pale.
+
+
+“They’ll send more,” she signed with quick, sharp motions. Then out loud, urgent: “Let’s go!”
+
+
+Jonah’s tail lashed in agreement.
+
+
+They dove together into the dark, Erin gesturing with sharp sweeps. Use your sonar. Find caves. Out of easy reach. Out of sight.
+
+
+But Jonah knew — as her signal replayed in his head, and the world pulsed with his new echolocation — it was only a matter of time.
+
+
+The system would never stop sending hunters.
+
+
+
+
+---
+
+
+Want me to carry this straight into their desperate cave search and first quiet moment of safety (where Erin explains just how dangerous his “quest marker” is), or keep the adrenaline rolling with another immediate threat on their heels?
+
+
+
+
+________________
+
+
+Draft – Sunken Tunnel Conversation
+It was quiet between them as they drifted deeper into the drowned stone. The tunnel narrowed and widened again, walls veined with phosphorescent algae that cast eerie green light over their scales. Their breathing—his in water, hers in her shimmering air bubble—echoed strangely in the confined space.
+Finally, Erin broke the silence.
+“You know your way around a fight.”
+Jonah let out a low, bitter laugh. Played too many video games. Here I am. He flexed his wrist-blades; the motion sent a faint tremor through the water. “Never thought the hours would pay off like this.”
+Erin tilted her head. “I don’t get it. Why put the marker on you? And why here? This isn’t a starter reef, but it’s nowhere near endgame either.”
+Jonah’s tail brushed the stone as he propelled himself forward. “I’ve got a theory. Maybe it’s zone-wide. If I switch zones, maybe the marker disappears. Or resets. Even if it comes back, it might buy me some time.”
+She tapped her lips, thoughtful. The glow caught on her claws. “Merfolk are supposed to be rare. Special encounters. There are forum posts about sightings—always tied to world events, never random.”
+Jonah’s voice came out as a growl in his throat. Torture.
+Her eyes flicked to him, sharp. “Yeah. That’s what it feels like, doesn’t it? The AI has you lit up with neon signs. It doesn’t want balance, or challenge. It wants you dead. Over and over.”
+He almost stopped swimming at the next words.
+“You know…” she hesitated, then forced it out. “I’ve never seen one before. But the design docs? They’re listed as half-mad beasts. Instinct-driven. Unplayable. Uncontrollable. Like… animals.”
+Jonah’s jaw clenched.
+“What if…” She swallowed. “What if that’s what happens when nobody rescues them? The ones like you. People who got harvested. People who didn’t get lucky.”
+The tunnel seemed to close in tighter. His sonar pulse reverberated off the stone, but all Jonah could hear was the echo of her suggestion.
+Half-mad.
+Forgotten.
+Still breathing.
+________________
+
+
+Do you want me to carry this right into Jonah’s emotional reaction (anger, despair, or renewed determination), or keep the focus on Erin unpacking what she knows about the engine and the factions?
+Nice — short, sharp, and powerful. That moment where Jonah checks his quests and sees the system itself confirm what Erin suspected is a great beat. Here’s a tightened continuation that keeps the tension but gives it a cinematic punch:
+
+
+
+
+---
+
+
+Draft – Quest Revelation
+
+
+“Check your quests,” Erin signed, her motions crisp in the gloom. “Anything in there?”
+
+
+Jonah flicked his claw through the water. The interface bloomed in his vision like an afterimage, translucent windows stacked in neat rows. He didn’t need Erin’s help to navigate; the motions felt as natural as breathing.
+
+
+He scrolled, jaw tight.
+
+
+Then he froze. Slowly, his clenched teeth parted.
+
+
+“It’s there,” he rasped. His eyes glowed faintly in the green-dark. “Level fifty.”
+
+
+The words carried like a death sentence.
+
+
+For a heartbeat neither of them moved, the silence thick as the water pressing down on them. Then Jonah’s tail flicked once, sharp and final. His voice was low, but steady.
+
+
+“Hunters stop.”
+
+
+
+
+---
+
+
+Do you want me to build this directly into Erin’s relieved but horrified reaction (she realizes it really is systemic, not a glitch), or flow right into Jonah’s resolve (if this is the truth, he has to survive to reach level 50)?
+
+
+New Growth
+Jonah and serin picked over the gear.  
+
+
+Blast armor - 1 of 6 pieces.  Gather all for a mutation.
+
+
+He did.  It was about time he got a defensive option.
+
+
+When he triggered the ability he got a defensive buff, his body covered in a chitinous shell.  He had the option to detonate it partially or fully.
+
+
+He had hopes for the shield blades.  But no dice.
+
+
+He looked up in time to see serin glowing.
+
+
+“What'd you find?”
+
+
+“Flashbang grenade.  Some reusable kind.  I can now make balls of light that can blind people.”
+
+
+“Sweet effect for your concerts.”

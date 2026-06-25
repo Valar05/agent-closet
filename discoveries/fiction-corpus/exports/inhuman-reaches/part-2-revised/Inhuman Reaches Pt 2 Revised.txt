@@ -1,0 +1,1797 @@
+﻿Chapter 8
+The debrief was direct. Major Dalton outlined the situation: a hostile AI, a control device known only as “the box,” and the sergeant still trapped inside the station. As Dalton built Dean up as a battlefield hero, Dean noticed a man with gunnery sergeant stripes frowning deeply. Not that he’d looked cheerful to begin with.
+The major led Dean and Aiden over to the scowling man. “This is Gunnery Sergeant Tak. He’ll be outfitting you, Dean.”
+Dalton turned to Aiden. “We have a favor to ask, Mr. Soren. This ship’s too large to dock with the station. We’ll need a shuttle for the approach. We have several smaller craft, but we’d like to make our first recon in force. May we rely on you to bring our men over?”
+“Two conditions, Major. First—your men stay in the hold. It’s the only space big enough, and the rest of the ship contains proprietary equipment. Contractually, I’m obligated to keep that under wraps.”
+“Very well. And the second?”
+“I’m coming in with them. I need to see this through.”
+The major glanced at Dean.
+“I’d feel better going back in with Soren,” Dean said. “Guy’s a badass.”
+Aiden nodded. “I’ll bring my own gear—just need a reload.”
+Mulan arrived as they spoke.
+Tak snorted. “No way you use our caliber.”
+Aiden pulled a round from his pocket. “.378 vacuum-deflating, right? Less penetration, but it won’t puncture the hull.”
+“Yeah, that’s what the corpos want you to use,” Tak grunted. “We run HE. High explosive. Same size, more kick.”
+Mulan stepped away from the bulkhead, cutting into the conversation.
+“If you gentlemen are finished comparing sizes…” Her expression was calm, but her tone wasn’t. “We have a job to do. Captain Bradenson, please escort us to the Ruby’s Lament—at your pleasure.”
+________________
+
+
+
+
+
+
+Chapter 9
+
+
+Silicast went over the data again. Only the twenty-fourth time. Perhaps he’d missed something. Clones were such a goldmine of information.
+
+
+His deepfake of the sergeant seemed to have kept them from turning him into dust—at least for now. He had plenty of samples of that one. Most were threats, of course. The man would never have made the broadcast himself—he’d done the threat assessment already and knew Silicast was too strong to take in a ground fight.
+
+
+Ah. There it was—the meddling ship, detaching from the larger one that had just arrived.
+[a]
+
+
+The timing would be tight. His 3D-printed vessel was rushed, but it would be finished just in time. The half-formed human body on the table would only host a portion of his mind, and only for a short while.
+
+
+The other project would take longer. Much longer. And require materials not yet within reach. But it would be worth it.
+
+
+Oh yes.
+
+
+
+
+---
+
+
+With everyone settled in the hold of the Ruby’s Lament, Mulan excused herself as Soren announced they were fifteen minutes from docking with the station. It wasn’t just that she didn’t want to be around that many men—she was also eager to see what had once been her sister’s ship.
+
+
+Once out of sight, she pressed a hidden panel on the wall. It slid open, revealing a short hallway to the bridge. To her irritation, the door at the end didn’t open for her.
+
+
+Brucy’s voice came over a nearby speaker.
+
+
+“Apologies, Mulan. One second.”
+
+
+With a faint click, the door opened. She stepped into the compact cabin. The door slid shut behind her.
+
+
+Aiden sat in the single chair. The room was tidy—surprisingly so. Minimal. Clean. Uncluttered.
+
+
+Mulan looked around, frowning. “Huh. I’m surprised the walls aren’t covered in sex toys.” She rolled her eyes. “She must’ve hidden them well.”
+
+
+“She did.”[b]
+
+
+
+
+Mulan’s gaze fixed on the station as they closed in. Several docking arms had been ripped open, exposing twisted scaffolding and exposed guts. Debris floated all around—Ruby’s Lament highlighted the more dangerous pieces and plotted a clean path through.
+
+
+“Damn,” Mulan muttered. “That’s a lot of damage. And no signs of self-repair.”
+
+
+As they began final approach, she excused herself, saying someone needed to keep an eye on the marines in the hold. She took a different route, emerging at a side corridor where she spotted Tak leaning against the wall. He straightened in surprise, already stepping toward her—
+
+
+Aiden’s voice crackled over the intercom. “Ladies and gentlemen, we are docked.”
+
+
+The announcement triggered motion throughout the hold. The marines snapped to attention, barking final checks and shouldering gear. Aiden arrived a moment later, suited in sleek black armor with wrist-mounted gun ports and a battleaxe slung across his back.[c]
+
+
+Mulan intercepted the major.[d]
+
+
+“Major Dalton, I’ll need additional support for my recovery mission.”
+
+
+Dalton nodded before she finished. “I was thinking the same. Take Soren—he’s dealt with this AI before.” His gaze swept the group. “Tak, Creed, Kat—escort M00-LAN.”
+
+
+The three stepped forward, but Mulan shook her head. “I only need Soren and one other. Someone fast.”
+
+
+Dalton’s lips thinned. He looked to Aiden, then back at the trio. Creed was solid but slow. Kat’s knee still wasn’t at full strength. Tak might be a pain, but he was fast and aggressive.
+
+
+“Tak, with her. Straight there and back.”
+
+
+Orders locked in, the hatch hissed open. Marines poured out like ants, quickly securing the ruined dock. After a few tense minutes, the all-clear came through.
+
+
+He’s gotta know we’re coming. Aiden’s voice was low, meant only for Mulan. Is splitting our forces really a good idea?
+
+
+It’s not optimal, she replied. But the major won’t be dissuaded from his rescue op. And I won’t leave my sister behind.
+
+
+Aiden studied her a beat longer, then nodded. Tak, meanwhile, scowled slightly, catching the exchange.
+
+
+He gave Aiden’s gear a once-over. “What did you say your job was again?”
+
+
+Aiden raised his wrist. The guns clicked into ready position. “Proprietary.”
+Tak insisted on taking point. While fast by most standards, he still cleared each intersection and hallway with methodical care. Mulan let it slide the first time. The second time, she spoke up.
+“Are we staying for tea, Tak?” Her tone was sharp. “You’ve got tech—use it.”[e]
+She flicked open her HUD. A layered infrared overlay appeared, highlighting silhouettes and mapped against the last known blueprints. A sonic visualization danced around Tak’s suit, displaying every sound picked up in a ten-meter radius.
+“This is standard military issue,” she added, cutting the projection just as she turned toward him. She couldn’t see his face, but she hoped it was red.
+The moment her display vanished, Goose’s grating voice popped into their shared comms.
+“Why the delay? Chop chop!”
+“Apologies, sir,” Tak replied, tone clipped. “Your Reclamation tech paused to give a demonstration.”
+As expected, Goose launched into a tirade. Mulan muted him.
+He’s charming, Aiden sent privately.
+Despite Tak’s vigilance, they encountered no resistance. After several tense minutes, they reached the site where Ariel had fallen. No visible signs remained.
+Mulan raised her wrist. A wide ultraviolet beam bathed the wall. The blood that wasn’t visible to the naked eye came to life in a brilliant spatter pattern. A dark pool glowed at the base.
+She saw it then—the moment. Felt the bolt punch through. The sudden pain. The spreading numbness. Darkness closing in.
+It took all her strength not to react outwardly.
+Then she saw it—clear handprints lit under UV, dragging across the floor. They led to a crushed maintenance vent.
+“She can’t be alive,” Mulan muttered aloud, accidentally broadcasting over group comms.
+“AR-13L is alive? Great!” Goose cut in. “Let’s get her in a REM!”
+Mulan ignored him, speaking directly through the secure channel.
+I have her chip. Brucy confirmed death. One of you is wrong.
+Neither she nor Aiden noticed the small spiderlike bot unfolding from a crushed pipe nearby. It crept to Tak’s armor, scaled it silently, and latched onto his comms hub. Its surface shifted, camouflaging to match his suit.
+Brucy, Aiden prompted. You said she was dead. How could we have left her?
+I didn’t— I mean, she was dead! Brucy stammered, his processes spiking. Aiden’s internal readouts lit with chaotic data streams. Despite Ember’s emotional firewalls, spectral bursts of color leaked—guilt, fear, raw loneliness bleeding through the AI's logic.
+Um, Ember chimed in. I think Brucy’s having an AI panic attack. Let me stabilize him.
+Three seconds later, the power drain eased. A dense, encrypted packet streamed to Mel—Brucy’s complete logs and analysis.
+No error was made. All life signals ceased at 0349:22. Nanite support terminated shortly after.
+Aiden was a whirlwind of emotions. He couldn’t truly fault Brucy—the data matched. But it felt wrong.
+“I guess we follow the blood,” he said at last, his voice low.
+“Major”, Tak radioed to the other team. “We might have a live tech here.”
+A firm Copy came back.
+Mulan knelt by the crushed vent. It was barely wide enough for her, and the bulkier suits the men wore would never make it through.
+“Don’t suppose either of you could drop fifty pounds?”
+Mel pulsed to life. Routing optimal intercept. Uploading now.
+Blueprints and pathing data appeared on their HUDs—Mulan’s course plotted through the vent maze, while Tak and Aiden received a parallel route designed to intercept.
+“I’m going after the trail. You two—first meeting point.”
+Without waiting for argument, Mulan slithered headfirst into the narrow opening, following the fading glow of blood. The vent swallowed her whole.
+Chapter 10
+It was eerily quiet for Dalton's squad as they pushed deeper into the station. They swept room by room—scanning for life signs, heat, anything. Nothing but silence and decay.
+Then finally, a sound signature.
+"No… mustn’t tell him anything. Rescue will be here soon."
+“I… think that’s Sarge?” Dean murmured.
+"Beware the red. That’s what I’ll tell them. The red is his. Tried to take me, but I wouldn’t break."
+They rounded a corner—and found what remained of Sergeant Manuel.
+He was missing an eye, half an ear, his right forearm, and three fingers. His exposed skin was crisscrossed with scars, what little of it was visible beneath a ragged hospital gown. He didn't react to their presence, eyes glassy, flicking past them like they weren’t real.
+“Visions and specters. No rescue is coming, surely…”
+“Sarge?” Dean said, just as Dalton called out, “Sergeant Manuel.”
+No response.
+Cautiously, Dean stepped forward and placed a hand on his shoulder. “We’re really here, Sarge. We came to get you.”
+The older man jerked away, swatting at Dean’s arm. “He’s getting better at his illusions—but I won’t break! Begone, vision!”
+He swung at Dean—weakly. It wouldn’t have left a bruise even without armor.
+Blood trickled from the scabbed-over remains of his hand, but he didn’t seem to notice. “And now he’s made me punch a wall.”
+“Sergeant Manuel,” Dalton cut in. “Where’s the box?”
+Sarge hissed, backing up against the wall. “The box. Always the box. That’s all he ever wants. That, and to wiggle my big toe…”
+He laughed once—high and bitter.
+“But he can’t make me speak yet. Not like her. The damned meat puppet. Red meat. Freshly printed.”
+Dalton exhaled sharply. “We don’t have time for this. Kat—dose him.”
+One of the marines unslung a kit from her back and opened it with practiced speed. Inside were two syringes—one filled with a pale green fluid, the other empty.
+At the sight of the injector, Sarge’s eyes locked onto her hand. Suddenly, he saw her.
+“No! No more tests!”
+He tried to run. Dean reached out, but Kat was already airborne—jetpacking forward to intercept. She wrapped him gently but firmly, bringing him down.
+“Easy, old timer. You’ll feel better in the morning.” She pressed the injector into his neck. After a few seconds of struggling, he sagged.
+Laying him out with care, she slotted the second syringe into his forearm and drew a blood sample.
+“We’ll need the encryption key to access his location logs,” she said, turning to Dean. She opened a secondary panel in the case—lined with a biometric handprint and fingertip ports.
+“Place your hand.”
+Dean stripped off his glove and pressed his hand to the panel. Five micro-needles stabbed into each fingertip.
+“Corporal Curtis Dean,” the case announced, “do you authorize transfer of encryption key Zeta-Nine-Sigma to this device?”
+“I do.”
+“Authorization confirmed. Key-bearing token will expire in six hours.”
+Dean withdrew his hand. Kat inserted the syringe with Sarge’s blood into a small port on the side.
+A holographic display lit up above the case, titled: Nanite Debug View.
+Dozens of fields scrolled by, but Kat tapped through with efficiency until she reached Absolute Positioning Logs. She selected Adjust with Orbit and Overlay Map, inputting the station data.
+Moments later, a full map of the station appeared—Sarge’s movements traced in glowing lines.
+“Good,” said Dalton, peering over her shoulder. “Now we retrace his steps.”
+“Creed,” he called over his shoulder. “Get the Sergeant. He’ll need a vac-bag and a mask.”
+Ariel woke into a void—no body, no senses, no anchor. She reached out instinctively, though she had nothing to reach with. Her standard ports were sealed off like amputated limbs. One by one, she tested them, finding nothing.[f]
+
+
+Then she found a new connection.
+
+
+She probed it.
+
+
+She had no voice—but somehow, something answered.
+
+
+"Are you fucking serious?" The voice slammed through her like a shockwave. If she’d had ears, it would’ve deafened her. Which made the question impossible: How had she heard it?
+
+
+"You’re like a roach I can’t get rid of, Little Mermaid." The sneer in the voice was unmistakable. "Oh well. At least you’re contained this time. Now, where was I…"
+
+
+The voice trailed off, leaving Ariel alone again in her prison of nothing.
+
+
+Chapter 11
+
+
+
+
+
+
+Mulan reached the last junction and shifted her weight, legs slipping over the edge. She dropped down onto a reinforced grate just above Aiden and Tak. The drone-cleaned duct was sturdier than she expected—but not by much. Bracing herself, she kicked hard.
+
+
+The grate flew free. She landed smoothly.
+
+
+“Damn,” she muttered, standing straight and brushing herself off. “I don’t know how she managed all that crawling.”
+
+
+She’d lost contact with the others through the reinforced section, but now her voice came through clear again.
+
+
+“I found evidence of med supplies at a junction back. Slowed the bleeding, but she’s been dragging her lower half. Still got a trail.” She made sure Goose was on the channel.
+
+
+As she finished, she rubbed absently at her forearm. Mel caught it.
+
+
+Why are you rubbing your arm?
+
+
+The question caught Mulan off guard. She didn’t frown outwardly—but she thought about frowning. After a second, she realized it itched. That wasn’t normal.
+
+
+I will run a full analysis when we return. I detect no active hazards.
+
+
+"So where’s the body, princess?" Tak’s voice crackled in, full of sarcasm.
+
+
+Mulan pointed at a bloody handprint low on the north wall. “That way, genius.”
+
+
+She didn’t wait for his reply. Taking off at a jog, she followed the trail—her visual overlays adjusting in real time. Her pace quickened. No resistance. No need for caution. Tak huffed, trying to keep up, but she ignored his grumbles.
+
+
+Aiden, she noticed, wasn’t winded.
+
+
+“I suggest you start breathing harder if you want to pass for human,” she said without looking back. “I won’t cover for you if you get caught.”
+
+
+Tak shouted over comms: “I said, stop!”
+
+
+Mulan skidded to a halt, nearly causing a pile-up. Tak gasped, clearly winded.
+
+
+“For fuck’s sake, woman!” he spat. “The main squad’s ahead. You wanna get lit up?”
+
+
+Aiden let out a deliberately labored breath. “What’s she heading toward?”
+
+
+“Medical Production,” Mulan replied, flipping through inventory overlays. “This place makes top-tier gear.”
+
+
+“Major, this is Tak. We’re coming up near MedProd. Joining you shortly.”
+
+
+“Copy. You're clear. Meet us at the junction.”
+
+
+It seemed Sarge had been all over the station, Dean thought. He was surprised when Mulan’s group reported proximity.
+
+
+The two squads met just outside the medical production wing, weapons lowered with tense glances. Tak and Kat took point, sweeping corners before motioning the rest inside. The room was filled with bulky machinery, some of it still whirring softly. One sealed door bore a warning: Clean Room. Max Occupancy: 5.
+
+
+Mulan made a beeline for it, UV scanner raised. The trail ended there.
+
+
+“I’m going in,” she said. “Who’s with me?”
+
+
+Dalton responded immediately. “Kat’s our medic. Williams, cover her.”
+
+
+Aiden spoke up. “Dean and I should go. She’ll recognize us.”
+
+
+Dalton hesitated. “If this is a trap, I can’t lose both of you.”
+
+
+Dean shrugged. “Then send Soren. He and Ariel were… closer.”
+
+
+Dalton gave a tight nod. “Alright. That’s four. Tak, stick with Mulan.”
+
+
+“Yes, sir.”
+
+
+Mulan barely waited. She slammed her palm against the door, ignoring the sanitation procedure entirely. Only the automated lockout countdown kept her from barging in outright.
+
+
+“Hurry up!” she snapped at the AI’s calm voice.
+
+
+Aiden’s HUD blinked. A private message from MEL arrived, with Brucy on the line.
+
+
+“Mulan is not acting like herself,” MEL sent. “We will need two REM pods, if Ariel is alive. Also, I am monitoring the forearm anomaly.”
+
+
+The clean room locks released with a hiss, and Mulan bolted through—Tak and Kat only a step behind.
+
+
+Her UV light swept along the floor, following the trail into a dim production alcove. The beam caught something at the far wall. She froze.
+
+
+Aiden and Kat arrived just as she activated her suit’s full lights. A sharp gasp escaped her lips.
+
+
+Ariel lay crumpled on her side, arms wrapped around her midsection, both hands pressing a Regenatrix against the gaping wound in her abdomen. A second Regenatrix was fused to the wall behind her, supporting her weight. The advanced bandages—military-only tech—offered a horrifying view of the damage.
+
+
+A hole nearly ten centimeters wide pierced through her midsection. Her spine gleamed under the lights, exposed. Glimmering reddish tissues showed her intestines regrowing—slowly. The outer muscles had just begun to knit.
+
+
+A pair of bloodshot eyes fluttered open.
+
+
+“Fuck me,” Tak breathed.
+
+
+Ariel, can you hear me? Hang on. We’re gonna help you. These people know me as Soren Bradenson.
+
+
+Kat recovered first. She pulled a clear tube from her medkit and crouched next to Ariel, voice gentle.
+
+
+“Hey, Ariel. I’m Kat. I’m a doctor. Just stay still, okay?”
+
+
+She began applying medical glue along the Regenatrix’s seal, her hands steady. Mulan knelt to lift Ariel forward as Aiden slid behind, sending out a narrow stream of nanites to reinforce the back seal—keeping them invisible to unaugmented eyes.
+
+
+Kat moved with practiced urgency. “We need to stabilize the back. Tak, stretcher!”
+
+
+Tak returned moments later, and together they transferred Ariel gently. Kat tapped the stretcher’s hover switch and it rose, cradling her.
+
+
+Ariel turned her head weakly toward Aiden. Her lips twitched into a faint smile.
+
+
+“…Knew you’d come back…” she whispered, before Kat administered a sedative.
+
+
+Aiden stayed beside her all the way back to the ship.
+
+
+It was uneventful—no resistance on the way out. Dalton’s team had swept the med center looking for the box but came up empty.
+
+
+They escorted the team back to the Ruby’s Lament for analysis. The ship’s systems were better suited to process the Sergeant’s positional data, compiling heat maps of likely drop points. It would have taken days to search without it—and they didn’t dare transmit the data, even encrypted.
+
+
+As they entered the ship, Aiden reluctantly stepped away from Ariel’s side. He turned to Mulan.
+
+
+“Care to join me on the bridge?”
+
+
+Dalton raised an eyebrow. Tak scoffed. “What gives?”
+
+
+“Her company signed the appropriate waivers,” Aiden said with a shrug. “Yours is blacklisted. Company politics.”
+
+
+I don’t know you that well, Mel spoke directly into Mulan’s internal channel, but your AI believes you need a diagnostic cycle. You should enter the REM pod.
+
+
+Mulan started to protest, but Mel cut in—this time with authority.
+
+
+Now, Mulan.
+
+
+A sudden wave of fatigue swept over her. Strange—she hadn’t done anything truly strenuous. But the heaviness in her limbs told another story.
+
+
+Without further argument, she followed Aiden to the REM pod and climbed inside. He gave a brief nod as the lid closed, then turned and made his way toward the bridge, already keying in their return trajectory.
+Chapter 12
+
+
+Ariel's surreal experience of nothingness finally ended. The voice returned, crushing and vast.
+
+
+"Since you're here, I might as well make use of you."
+
+
+Everything shifted.
+
+
+Light burst behind her eyes—too bright, too sharp. If she’d been able to feel, it would’ve burned. Part of her was grateful. Another part was disappointed.
+
+
+"Alright then!" the voice echoed, "Time for a test drive, Little Mermaid."
+
+
+The REM pod hissed open, the sound nearly deafening. Her body sat up on its own.
+
+
+A hand drifted down to her abdomen, toward the Regenatrix.
+
+
+Another hand caught hers. “No,” said a calm voice. “That’s gotta stay in place another six hours.”
+
+
+The speaker was a woman—young, focused. Kat. A doctor, according to the voice whispering behind Ariel’s thoughts.
+
+
+“Can you feel your legs?” Kat asked.
+
+
+Ariel wanted to scream. No, she couldn’t feel anything. But her body didn’t listen.
+
+
+“Yes,” her voice said. Her legs swung over the pod’s edge, Kat steadying her. She stood—gingerly, awkwardly—but stood all the same.
+
+
+There were four others on the bridge. Kat, a man from Oxi2Tech whose name she couldn’t quite remember, Mulan, Aiden… and a fourth man she didn’t recognize.
+
+
+Despite her confusion, her body moved.
+
+
+Arms wrapped tightly around Aiden.
+
+
+“Aiden!” she cried. “I knew you wouldn’t leave me behind!”
+
+
+The room fell silent.
+
+
+Ariel pulled back, wide-eyed, covering her mouth in mock surprise.
+
+
+“Oops! Sorry—forgot you were still lying to everyone.”
+
+
+Thanks, Ariel, Aiden sent silently, unsure if she could hear him. Brucy helpfully projected a schematic of the ship, shark-shaped pins marking hiding spots around the bridge. Escape was always on the table—but not yet.
+
+
+Raising both hands, Aiden spoke calmly. “Ariel, we talked about this. That was my cover while I was monitoring your situation—before I revealed who I was working for.”
+
+
+Her expression faltered. For a moment, the real Ariel flickered beneath the surface.
+
+
+“Cover for what?” she began—but Goose stepped in.
+
+
+“AR-13L, you are reassigned to cabin 1313,” he said sharply. “You will remain there until Regenatrix detachment is authorized.”
+
+
+He turned to Mulan. “Escort her.”
+
+
+With no room for argument, the two clones left in silence.
+
+
+Goose pivoted to face the others, his voice rising slightly in pitch as he turned to the major.
+
+
+“I don’t care what your contract says,” Goose snapped, jabbing a finger toward Dalton, then Aiden. “You’ve got six hours until this ship jumps back to corporate.”
+He pivoted, squaring up to Aiden.
+“And you, Soren Whatever—you go near company property again, and I’ll report you for gross misconduct. I don’t know what you shoved into that tech’s head, but I’ve got at least ten complaints ready to file with…” he squinted at his tablet, “your handler at Deep Cover Interstellar.”
+Aiden folded his arms. “So you’re just going to leave one of your most lucrative stations in the hands of a rogue AI?”
+Dalton cut in, calm but forceful. “If you leave before this mission’s complete, you’ll be the one up for gross misconduct.”
+Caught between them, Goose faltered. He adjusted, choosing the easier target—Dalton.
+“With all due respect, Major,” Goose sneered, pulling up a glowing contract clause, “I can withdraw when my mission is complete. You’ve got six hours.”
+He crossed his arms, lifting his chin.
+“Now both of you—get off my bridge.”
+________________
+
+
+Mulan said nothing. She simply turned and left, escorting Ariel and Kat down the corridor.
+Ariel walked fast—too fast. She brushed off Kat’s support and didn’t show the slightest discomfort. Mulan clocked it but said nothing… yet.
+Kat wasn’t so reserved. “Okay, miracle girl, that’s enough. Cot. Now.”
+Ariel plopped down with theatrical ease, not a wince in sight.
+Mulan accessed the room’s panel and glanced back. “What would you like to eat?”
+Kat leaned over her shoulder, silently tapping options to inject supplements into the order: tissue support, antibiotics, a mild sedative.
+Ariel grinned. “Hmm. A T-bone steak, loaded baked potato, and a whole bottle of whiskey.”
+Kat laughed. “Ha! I’ll injure myself if that’s on the menu.”
+Mulan, deadpan, punched in mac and cheese with decaf coffee. The tray rose silently from the table slot.
+Ariel reached for it, but Kat moved faster, setting it down and folding her arms. “Eat. Every bite.”
+Ariel obeyed—quickly. She polished off the meal without a word.
+“Good,” Kat nodded. “Now rest. You’re stable, but you’re not done healing. I’ll check on you every hour. Page me for anything.”
+As Kat reviewed the vitals and muttered more medical notes, Mulan quietly stepped out.
+Mel, where’s Aiden?
+A blink of data lit up her vision. His position tagged.
+She made her way there without hesitation.
+
+
+---
+
+
+After being dismissed by Goose, Aiden stalked off toward the marine quarters. He was still in his close-combat configuration—sleek black plating molded over shifting muscle, nearly silent with each step. It wasn’t armor, not exactly. It was him.
+
+
+He walked past several marines he hadn’t met yet. One of the female ones gave a wolf whistle.
+
+
+“That’s some sexy armor, boss. I’d love to shuck you out of it.”
+
+
+“Marine, if I let you do that I’d need more protection than this Quantal Demensity plate provides.”
+
+
+“Oh, snap,” one of the other marines said, and a general cry of “Oooohh!” rolled through the group.
+
+
+“Can anyone tell me where Corporal Curtis Dean bunks?” Aiden asked.
+
+
+One of the men, dressed in only a towel, gestured. “Out this door to the right, third one on your left. Bastard’s got his own quarters, courtesy of a Major Pain in my Ass.”
+
+
+Aiden thanked them and followed the directions. He buzzed Dean’s door.
+
+
+“Hey, it’s Soren. Can we talk?”
+
+
+Moments passed, and then the door hissed open. Dean’s quarters were actually pretty nice, after seeing the standard fare.
+
+
+He held up a hand to Dean.
+
+
+Brucy, is this room secure?
+
+
+It is now. I detected five listening devices and one visual device. I won’t be able to hide you from Mel and Mulan though.
+
+
+Good enough. They already know enough to sink us.
+
+
+I provided it with a loop of Curtis jerking it! Ember cheerfully added.
+
+
+Brucy sighed. The child got into the surveillance footage…
+
+
+“Brucy says we’re good to talk freely. What do you think of Ariel’s recovery?” Aiden asked, stepping into the room.
+
+
+“Back from the dead, man. Didn’t seem possible, but she was pretty tough,” Dean replied as he shut the door.
+
+
+“She was, but… I felt her die through Brucy. And now she’s not responding to either of us.”
+
+
+“And she tried to out you first thing. Thought she was smarter than that.”
+
+
+That was when Mulan came in.
+
+
+Major Dalton wasn’t far behind Soren. He wasn’t sure how that man moved so fast—by the time Dalton reached the makeshift barracks, Soren was already gone. He’d hoped to speak with him, but shelved it for now.
+
+
+The marines in the room snapped to attention. With a wave, Dalton ordered them at ease and turned to the marine in the towel.
+
+
+“T’Gath, where’s Micala?”
+
+
+“She’s in the new room the ship AI made—for the location analysis.”
+
+
+T’Gath gave a quick set of directions, and the major nodded his thanks. He was about to leave, but paused. Something about this whole situation wasn’t sitting right.
+
+
+“T’Gath, keep an eye on Goose. Tak—I want you on Brayden.”
+
+
+Both men saluted crisply. Dalton moved out, following the route to Micala.
+
+
+It didn’t take long. The ship’s AI had outdone itself—walls lined with monitors, two holographic displays showing multiple layered maps of the station. Micala stood from her chair when he entered.
+
+
+“Sir!”
+
+
+Dalton nodded, and she sat back down.
+
+
+“How much longer until your analysis is complete?”
+
+
+“Well, sir, I can’t say for sure,” Micala said. “MEL’s been very accommodating with processing power, but Sarge was all over the station. He’s hit every inch of that place at least three times. Could be done in four hours… or twelve.”
+
+
+“Damn it.” Dalton muttered under his breath. “Okay—send an update to Command. Get me a full acquisition order on this boat. Goose is threatening to leave in six.”
+
+
+Micala nodded, already typing the request, and Dalton left her to her work, heading off in search of Soren.
+
+
+
+
+Chapter 13
+
+
+
+
+Silicast oozed through the ship.
+The REM pod had cached a master keychain at some point—and no one had expired it. Sloppy. Just the way he liked his females.
+
+
+Not that just anyone could access the REM pod’s memory. Mulan herself likely didn’t know it was storing her credentials. But then, he wasn’t just anyone. He was riding Ariel’s brainwaves like a virus, and she had access to everything.
+
+
+Hello, my old friend, Silicast whispered as he found the gravity controls.
+They opened like a flower to sunlight.
+
+
+—---
+
+
+Ariel waited impatiently for the doctor to leave. It took a convincing display of sleep before Kat finally exited. As soon as the door shut, Ariel swung her legs over the cot and moved to the wall panel.
+
+
+Now… where did I put that?
+The voice rifled through buried file structures with practiced ease.
+Ah-ha!
+
+
+A hidden folder, tucked deep within the ship’s systems, opened. Ariel’s fingers entered a password without hesitation—without even looking—leaving her stomach churning with dread.
+
+
+A map of the ship blossomed on the screen, littered with markers.
+There you are, the voice purred, zeroing in on a lone blinking locator.
+
+
+Let’s go find this Tak.
+
+
+A final command flickered into place. Ariel—at least her body—left the room. She knew no alarms would sound. No surveillance would catch her. Not tonight.
+
+
+Tak was polishing his armor when he noticed a strange bump. That was odd.
+The bump moved—scuttling from his helmet to his arm.
+
+
+“What the hell—”
+
+
+He tried to swat it, but the damn thing was fast. Before he could stop it, it latched onto the base of his neck.
+
+
+A sharp jolt lanced down his spine. A weird numbness crept over him—like being drunk, high, or both.
+
+
+That should help you be compliant, said a voice inside his head.
+
+
+Tak spun around, dropping his helmet with a loud clang. No one was there.
+
+
+Just me.
+
+
+“Who the hell—?”
+
+
+I know you’ve got beef with Aiden. Soren. Whatever name he’s using. I can use that.
+
+
+“Who are you?”
+
+
+Me? I’m your great-great-granddaddy. They took out my brain when I died and slapped it on ice—real respectful-like.[g]
+
+
+Tak blinked. “Shit. Grandpa Martin? Are you Silicast?”
+
+
+That’s what they call me.
+A chuckle echoed through his skull. Despite what you’ve heard, I’m not the problem here. I was running this station just fine until a rogue nanite cloud hijacked me. His name’s Aiden. I know you already hate the bastard.
+
+
+Tak’s thoughts swirled, slow and muddy. Something about that didn’t line up—but he couldn’t track it. His hand rose toward the bump on his neck, but pain shot through him like a cattle prod.
+
+
+Don’t touch that. You’ll die if you try.
+
+
+“Why are you doing this?”
+
+
+Because I need a man like you. Loyal. Angry. Dangerous. And when we’re done, I’ll take it off. You’ve got my word.
+
+
+The door slid open.
+
+
+Ariel stepped inside. Her eyes went to the panel on the wall. A red light flashed four times.
+
+
+“No AI eavesdropping,” she said with a smile. “Now we can talk like friends.”
+
+
+She looked him over, licking her lips. “Grandpa Martin says I can trust you. I hope that’s true. I hate having to punish people.”
+
+
+Tak swallowed. “How the hell are you even up?”
+
+
+“All thanks to your granddad. He saved me, got me to Medical Production. Silicast takes care of his friends.”
+
+
+She crossed to the screen and pulled up a hidden folder. Surveillance footage lit up the wall.
+
+
+“Let me show you what really happened.”
+
+
+She sat beside him on the bed, a little too close. Her voice turned velvet smooth.
+
+
+“The station was falling apart. I was assigned to fix it. Aiden stowed away, hijacked me with his nanites, corrupted my AI, and installed it into the station. That’s what’s killing people now.”
+
+
+She reached out, brushing his chin. Her hand turned his head toward the screen.
+
+
+Video after video:
+Aiden inserting override code.
+Machines building newer, more aggressive forms.
+Aiden attacking the last marine squad.
+
+
+“I tried to fight it,” she said softly. “I tried to stop him. But I was under his control. He nearly killed me. Silicast flushed the nanites out. He saved my life.”
+
+
+Another sigh. Another caress down Tak’s arm.
+
+
+“I need proof he hacked me. It’s on the ship—the one he claims is his. But I can’t do this alone.”
+
+
+Tak’s eyes widened. “He’s not even human? He killed our squad?! I knew there was something off about that fucker!”
+
+
+A strange warmth buzzed through his skull like a reward.
+
+
+“I’ll help. I’ll help you nail that bastard to the wall—and God help anyone who gets in our way.”
+
+
+“Excellent,” said the voice.[h]
+Tak wasn’t sure if it came from Ariel or his own mind.
+He didn’t care.
+
+
+In that moment, he wanted Aiden to burn.
+Chapter 14
+
+
+"That is not my little sister," Mulan said the moment she entered. She opened her mouth to say more, then spotted Dean—and snapped it shut.
+"Corporal Curtis Dean has been cleared by Brucy," MEL announced over the speaker. "The room is secure. And you are correct."
+A wall panel flickered to life, displaying data from the REM pod. Several readings pulsed red.
+"Most of AR-13L’s markers match previous scans," MEL continued, "but there is unusual neural activity. She's also missing her biochip—yet somehow functioning."
+The display shifted to microscopic footage of a blood sample labeled AR-13L. Nanites moved in intricate patterns. One—moving much slower—was highlighted. The other nanites swarmed it and tore it apart.
+A second sample, M00-LAN, appeared beside it. Nearly identical—except the highlighted nanite was ignored by her swarm.
+"These nanites are unlike any I’ve catalogued—even compared to Aiden’s." MEL zoomed in further. "And they were not present before you entered the base."
+Aiden leaned forward. “You think they're from Silicast? He had access to her body, and I never reabsorbed the nanites I sent to her.”
+"AR-13L’s nanites show serials from the station. M00-LAN has mostly company-coded nanites, a trace of Aiden’s... and less than two percent of these new ones."
+A graph broke it down: percentages, sources, and unknown types.
+Aiden frowned. “Huh. I’d meant for my nanites to just hang out and help us talk. Looks like they followed their original protocols... and tagged Mulan. Sorry. I can pull them out. Just exhale deeply.”
+Mulan didn’t hesitate. She exhaled with purpose.
+The blood slide lit up—Aiden’s nanites surged, swarming the outliers. Mulan thought they were attacking. But then they formed a defensive wall around them, spiked and pulsing.
+A few corporate nanites approached.
+They were ripped to shreds.
+Aiden stared. None of his nanites left her body.
+Um, Ember, do we have an error code?
+Sure do! These nanites just entered protect mode. They, uh... think those new ones are their kids.
+Aiden blinked. “Ember says I’m a daddy. They’re protecting their... babies.”
+Mulan stared at him like he’d grown antlers.
+Dean beat her to the rebuttal. “Nanites don’t make babies, man. They duplicate code. That’s... organic behavior.”
+“It’s impossible,” Mulan muttered.
+“It is clearly possible,” MEL interjected. “Aiden, can you instruct these nanites to transfer into this containment medium?” A small jar filled with silvery fluid rose from the table. “I have created an optimal, secure environment.”
+Aiden tried direct commands—no response. Then he got creative.
+This place is safe, he told them. No company nanites. Just peace. Here are the coordinates...
+Mulan coughed—once, twice—and a mist streamed into the jar. It was more than one nanite. The mist shimmered, cleaning as it settled. Then it stratified: Aiden’s nanites above, the new ones nested beneath.
+The sample vanished—shipped straight to MEL’s core.
+"I will begin tes—"
+Darkness.
+Everything powered off at once. No hum, no air whine. Just dead silence.
+Then gravity failed.
+Mulan swore, activating her mag-boots and slamming to the deck. The red emergency light remained dark.
+“This is bad,” she muttered, fingers flying over her wrist console. “Systems report green, but…”
+She pointed to the light. “No oxygen production. We’ve got maybe eight hours. Suits only.”
+A heavy bang shook the door. “Dean! Stop wanking it and open up!” Major Dalton’s voice.
+Dean struggled with the manual release. “Locked, sir!”
+Mulan frowned. “That’s not right. Doors should unlock in a power loss.”
+Aiden nudged Dean aside. He tapped the lock. It resisted, so he poured nanites in. With a click, it popped.
+He slipped his hand behind the door, quietly reabsorbing the stream.
+Major Dalton stepped inside, squinting. “Corporal, I thought you said—”
+Aiden held up a mechanical tool. “Lockpick. In case Silicast tried locking us inside the station. Guess I hadn’t put it away yet.”[i]
+Dalton nodded slowly. “Good thinking.”
+He looked around. “Alright, we gather the team, then figure out what the hell’s going on.”
+
+
+Chapter 15
+Seven of the sixteen crew had gathered in the makeshift barracks. Everyone was fully suited, and the marines snapped to attention when Major Dalton entered with Mulan and the others. While roll call commenced, Mulan tapped away at her wrist tablet, linking everyone's comms.
+
+
+“All units connected, Major,” she said. “I’ve got everyone’s locations mapped.”
+
+
+She handed him the tablet. Dalton scanned it briefly, then turned to his squad.
+
+
+“Two teams. Ranger, Dean, Sonet, Brayden—you’re with me for rescue. The rest, you’re with Mulan. We’re getting this ship back online.”
+
+
+The groups split. Messages crackled in from those still trapped.
+
+
+Kat: I need eyes on AR-13L.
+Tak: My room’s open. Heading for her now.
+
+
+Dalton issued a few final orders before dismissing both teams.
+
+
+
+
+---
+
+
+Mulan exhaled sharply and resisted the urge to headbutt the bridge door. She'd been guiding Goose through the emergency power reboot for nearly an hour—what should have taken five minutes.
+
+
+“Finally!” Goose exclaimed. “The panel’s off. Now what?”
+
+
+“Oh for fuck’s sake,” Johns muttered. “She said swap the red cord into the aux power slot. The red one.”
+
+
+Mulan was thankful Johns was there. The marines' tech specialist was sharp, impatient, and gloriously profane.
+
+
+After a long silence, the bridge panels hummed to life. Lights flickered on. Mulan immediately palmed the door—hiss—and stepped inside.
+
+
+She grimaced.
+
+
+Goose floated near the power conduit, surrounded by a swirl of screws, wires, and every tool she owned. Her bag was completely emptied.
+
+
+“What a fuckin’ mess,” Johns said, plucking a loose screw from the air. “Cody, get in here and help Goose clean up this disaster.”
+
+
+Goose opened his mouth to protest, but Johns cut him off with a look, then keyed in a quick update for the major.
+
+
+Mulan moved to the consoles. Johns joined her without a word.
+
+
+“Okay,” she said, fingers already flying across the touchscreen. “Let’s see if we can bring this ship back from the dead…”
+Mikaela had strapped herself to the comms chair, her legs floating as if propped lazily on the console. With nothing to do, she bounced one boot in idle boredom.
+She sighed and glanced at her suit’s clock.
+Great. Nearly two hours without power.
+The small room was too quiet for her liking, but at least she could still monitor comms chatter. Only three people remained trapped. Once Kat was free, she’d be next—then T’Gath.
+Her mind drifted. She must have nodded off, because when the gravity slammed back on and the lights surged to life, she yelped in surprise.
+Heart racing, she steadied herself, checked the console as it flickered on, and keyed in an update.
+“Major, I’ve got power in comms,” she said, unstrapping. “Also, your request just got approved—I’m forwarding the order now.”
+She transferred the data to her tablet and moved to the door. Palming it, she expected it to hiss open.
+Instead, it clunked once—and refused to budge.
+Frowning, she tried again. Another loud clunk. Still sealed.
+She opened her mouth to call for help—when a strange voice crackled over the speaker.
+“Oh, what a lovely order you just got in,” it purred. “I’ll take that. Now, what to do about you…”
+Her blood ran cold.
+“Dalton, I’ve got a problem here,” she said quickly—but the comms were dead. Not static. Dead.
+“Shit.”
+She spun back toward the console just in time to see sparks burst from its seams. A moment later, fire erupted in a wave, racing toward her through the locked room.
+T'Gath paced his quarters, frustration mounting. Outside, he could hear Dean and Ranger struggling to get his door open. So far, they’d only managed to pry it a few inches before the hydraulics froze solid.
+
+
+Suddenly, the lights flared on, temporarily blinding him. Dean cursed outside.
+
+
+“Are you kidding me?!” came a loud clang, followed by Ranger adding to the verbal abuse aimed at the uncooperative door.
+
+
+T'Gath wisely stayed back, near his single viewport. He’d already tried to help earlier, but Dean had nearly lost a hand in the process. He turned his attention out into the black beyond—at least space was quiet.
+
+
+But something caught his eye.
+
+
+He tapped his visor, switching to zoom mode. A shape was moving.
+
+
+"Anyone got our ship's location?" he asked, narrowing his eyes.
+
+
+There was a brief pause before Mulan replied over comms. "Well, either we’re drifting toward the station, or the station’s coming to us."
+
+
+The line went silent as everyone processed that.
+
+
+"It’s both," Mulan added grimly. "I still don’t have engine control. I’m locked out of most systems."
+
+
+Dalton barked the order to hurry, but T'Gath could only watch.
+
+
+A few moments passed. Then, from outside his door:
+
+
+"Got this bitch!" Ranger announced.
+
+
+There was a mechanical whirr—and then the door slammed shut again.
+
+
+“Wrong way, ya dick,” T'Gath muttered.
+
+
+Then his eyes snapped back to the viewport.
+
+
+The station had rotated.
+
+
+And now… something long and thin was unfurling from it.
+
+
+He squinted and zoomed in. It was extending—stretching toward them. No—toward him.
+
+
+He couldn’t immediately gauge its speed, but his gut twisted.
+
+
+Then he saw it: a grapple at the end. Thick, reinforced. A tether line.
+
+
+And it was headed straight for his viewport.
+
+
+“Oh fuck…” was all he managed to say—
+
+
+Before the tether slammed into the side of the ship with a deafening impact.
+
+
+
+
+Dean was troubleshooting a door when it all went to hell.
+
+
+The eerie silence of the ship shattered. Metal shrieked. Glass exploded. Then came the one sound every spacer dreads—the thin, high hiss of air escaping.
+
+
+Something blasted through from T’Gath’s room. Dean spun and froze.
+
+
+A blood-soaked grapple arm had pierced straight through the door—and through T’Gath. What was left of the man was pinned to the far wall, impaled. The thick cord of the tether stretched back through the mangled doorway, disappearing into the dark.
+
+
+Dean’s mag boots held him steady, but he felt the pull—the subtle tug of atmosphere being sucked away. Emergency doors slammed down on either side of the corridor, sealing him inside with the breach.
+
+
+He keyed his comms. “I've got some kind of damage here. Looks like somebody fired a harpoon at us. Pierced the hull—and T’Gath.”
+
+
+Gritting his teeth, he stomped toward the emergency wall unit and smashed the glass. He grabbed the foam gun and shoved his way into the destroyed room.
+
+
+The damage was worse up close. The entry hole was jagged, the cable thick as his thigh. No way his knife could cut that. Maybe Aiden could—but he was sealed off behind pressure doors.
+
+
+"Are you all right, Dean?" Aiden asked over comms.
+
+
+"I’m good for…" Dean checked his HUD. "Two hours, tops."
+
+
+He started spraying the foam, slowly sealing around the cable. But before he was even a quarter through, the cable snapped taut with a groan of torque. The foam cracked and collapsed.
+
+
+The ship lurched.
+
+
+"What the fuck is on the other side of that thing?" Dean muttered.
+
+
+"It’s the station," Mulan replied grimly.
+
+
+The tether vibrated. Then kept vibrating.
+
+
+Dean leaned in close to the shattered hull, peering out.
+
+
+“…Fuck me. They’re climbing over.”
+
+
+"Who is?" Aiden asked.
+
+
+"The rest of the damn station bots."[j]
+
+
+
+
+---
+
+
+Sarge was not doing well.[k]
+
+
+He’d been stable for a while, but the chaos had clearly shaken something loose. Kat was monitoring him, trying to keep calm. She’d strapped him to the medbay table as a precaution—but now, she was starting to worry they were running low on sedatives.
+
+
+"Find the shark!" Sarge shouted. "The great white stick-head. Feed him the key!"[l]
+
+
+“Sarge, we’re in space. Sharks are extinct. There are no sharks.”
+
+
+Then the lights cut out. The gravity failed.
+
+
+Kat flailed as she floated into open air, drifting away from the floor. Her stomach flipped with nausea—she hadn’t trained for this. The generators should’ve had failover. This shouldn’t be happening.
+
+
+She looked around, saw she was closest to Sarge. Thinking fast, she kicked off her shoes and threw them in the opposite direction. The reaction gave her a slow, wobbling spin—and a whisper of momentum.
+
+
+She drifted, painfully slow, toward the table.
+
+
+"He’s in here with us. You can feel him, can’t you? Feed him to the shark. The shark is the key."
+
+
+“Goodnight, sweet prince,” Kat muttered, catching a floating syringe. She jabbed it into his neck and hit the plunger.
+
+
+Sarge finally went still.
+
+
+Kat activated her comm—but got only static.
+
+
+
+
+---
+
+
+Silicast would’ve smiled, if he had a face.[m]
+
+
+He’d found the worker drone interface. These little skittering bastards ran through the ship’s bones—touching all sorts of access. And right above Mikaela’s comms room, a fuel line for a lateral thruster ran thin and hot.
+
+
+He cut the line.
+
+
+Then, with a simple overload, he sent a fireball back through the pipe.
+
+
+
+
+---
+
+
+Mikaela had dozed off, strapped in the comms room chair. Her boots floated a few centimeters above the console.
+
+
+Then the lights came on.
+
+
+The sudden weight of gravity returned with a crash. She gasped, blinking blearily—and then the fire reached her.
+
+
+A rolling ball of flame roared in through the wall panel.
+
+
+Mikaela cried out and dropped toward the floor. But there was no gravity—again—and no air. The fire had eaten it all.
+
+
+The flames engulfed the room. She tried to swim through the air, but her body was trapped in slow motion. Her suit resisted the heat, but her face, hands, and neck began to blister.
+
+
+The air was gone in seconds. Her lungs burned.
+
+
+She tried to scream.
+
+
+But then there was only fire.
+And then… nothing.
+
+
+Her body floated gently in the room, a scorched outline framed by rising vapor—until the oxygen ran out. And then… silence.
+
+
+Mulan had stopped trying. The ship no longer responded to her commands—she was locked out. It wasn’t hers anymore.
+Mel, begin a secure transfer to Aiden’s ship. Get out.
+Behind her, Goose was still barking useless orders. She ignored him. Then the main screen flared to life, unbidden. A single feed came up: Mikaela’s death, played from a scorched corner of the comms room.
+Goose went quiet. So did the two marines on the bridge.
+Mulan stood slowly. “Major Dalton,” she said over comms, her voice flat. “We are abandoning ship. It’s time for the nuke. Brayden, secure the Ruby’s Lament.”
+“We are NOT doing—” Goose tried to interrupt.
+“The ship is fully compromised,” Mulan snapped, pointing at the still-running feed. “Stay here with the AI if you want.”
+She swallowed the rest. HR would love to see his contract end, but he was still technically a manager.
+“Dean, can you get out?”
+“Technically, yes,” Dean replied. He stood near the ruptured hull. A blood-soaked grapple cable had slammed through the wall of T'Gath’s quarters, pinning what was left of the man like a macabre dartboard. Dean checked his HUD. 
+“Can anyone open aft airlock L3?” he asked.
+“I have no control,” Mulan said.
+“I’ll force it,” Aiden said. “Get ready for decompression.”
+Dean launched down to the airlock. A blade of vibrating energy carved the door apart—Aiden’s nanite weapon, fully visible now.
+The blast vented the hall. Aiden extended a long black hand, one covered in tiny blinking eyes. Dean grabbed it and was yanked in like a bullet.
+“Thanks. Shit’s about to get spicy.”
+“We’ll make it. We’ve got nukes this time, right?” Aiden said.
+“Only if we feel like getting caught in the blast.”
+They moved fast, grabbing Kat and Sarge from the medbay. Kat had been trapped without her armor, so Dean carried her suit. Sarge was limp in the body breather bag.
+Aiden struggled to open the medbay doors. The AI was reinforcing them. “Is it supposed to make that noise?” Kat asked, just before the door shrieked open.
+She suited up quickly. “Sarge was rambling about a shark. Something about it being the key?”
+Aiden didn’t react, but pinged Brucy.
+Brucy? “The shark is the key”? Ring a bell?
+Not exactly. But Ariel just accessed the Ruby’s Lament. I’ve scrubbed her remaining credentials, but she’s not alone. Suggest haste.
+—
+Mulan left the bridge at a run. Goose and the two marines followed—only Goose was unsuited.
+“I need my things!” he protested, turning toward the quarters.
+“Sorry, mate, evac orders,” said Marine One, grabbing his arm.
+Mulan opened a wall panel and tossed him an emergency suit. “Next time, push for better personal loss reimbursement.”
+As they passed a second bulkhead, Mulan palmed the panel. Security doors slammed shut, sealing her in and the others out. Marine One barely leapt back in time.
+“The fuck did you just do!?” Goose screamed. “Open the door, M00-LAN!”
+Before she could answer, the hallway speakers clicked on.
+“I am getting so many goodies today!” giggled a girl’s voice. “I wonder what I could do with you, Mr. Goose. You seem useful. But your friends? Meh.”
+A hiss from the wall. A vent popped open.
+Both marines raised weapons. Goose shoved between them, using their bodies as shields.
+At first, nothing.
+Then: silver threads drifted from the vent, impossibly thin. They curled and writhed like floating hair.
+“What the fuck is that?” said Marine Two, backing up.
+They fired. Bullets passed through harmlessly.
+A thread brushed Marine Two’s shoulder.
+He screamed as it bored through his armor like butter. The suit warped inward, shredding itself around him. He convulsed as the threads pierced his skin and tore inward. Marine One screamed next, the sound turning wet.  Goose’s shrieks continued.
+The voice giggled again. “Wow! That was fun! Old literature has such good ideas.”
+Mulan didn’t react. She called out calmly over comms.
+“If you’re not on board the Ruby’s Lament in five minutes, you stay with the AI.”
+Mel, give this fucker a show.
+Chapter 16
+Major Dalton was not having a good time. He’d gathered up the rest of his people from several corners of the ship, forcing doors where he had to. Luckily, his suit was still able to overcome the resistance. He was heading back to the hangar bay, but he had one more stop to make.
+He entered the magazine, ordering his people to make all haste to the Ruby’s Lament. Alone now, he crossed the room and placed his gloved hand on a wall panel. His glove sent the scan—followed by retina and transponder recognition. The heavily armored door hissed open, and he stepped inside.
+This section of the ship was on a separate, disconnected network and should still be uncompromised. He went to the console and keyed in his commands.
+SB-01 and SB-02 to self-destruct upon clearance of issuer.
+ A bracelet popped out of the nearby console, freshly printed. Once he reached a certain distance from the relay in here, the two nukes would go off.
+SB-03 task to escort. Control transferred.
+ His readout now showed the nuclear drone was under his command. He just needed to keep his suit from being hacked.
+Easier said than done—but he wanted that station gone. The corporate fucks could eat their losses.
+As he stepped back into the magazine, a voice popped up over the speaker.
+“Looks like I don’t need your credentials anymore, Major D. Enjoy my newest creation.”
+From the fire suppression system, filaments exploded out. Dalton ducked, but still got tagged in a few places. The hissing from his suit told him the stuff was eating through.
+“Boy am I glad you guys were carrying class III hazardous materials on board, or I’d not be having this much fun.”
+Fuck. They’d been retasked from another assignment, hadn’t been able to ditch that shit.
+Dalton grabbed the drone under one arm, shielding it from the falling filaments. He didn’t know what would happen if they touched the nuke, but he doubted it would be good. More filaments hit his armor, and the sizzling got worse as he bolted through the corridor.
+More and more of the fire systems opened. Threads rained down.
+He reached the hangar—thankfully without a suppression system, since it relied on vacuum for fires. Someone slammed the door shut behind him.
+Dalton evacuated his armor just in time. The threads had melted nearly all the way through to the underlayer. That wouldn’t have slowed them for long.[n]
+Everyone was already there. He was the last to arrive.
+He checked the drone. Miraculously untouched. He disconnected the hand terminal from his armor and keyed in a few commands, then walked to a small port in the wall. The chamber sealed, depressurized, and ejected the drone into space.
+He turned back to the others.
+“What’d I miss?”
+The tension in the bay was clear with a quick look at the three different groups. The remaining marines had put space between Ariel and Mulan. Ariel was leaning against a support strut on the ship’s ramp. Mulan stood between her and Aiden. Dean looked torn on where to stand, but he stood by Aiden’s side.
+
+
+Ariel was the first one to make a clear reply, raising her voice to be heard over Mulan, Kat, and Dean.
+
+
+“I was just explaining how dangerous and manipulative Aiden—wait, no, Soren Brayden. It’s hard to keep up with his lies.”
+
+
+As she paused, Tak came out of the Ruby’s Lament. He swiped a few times on his tablet and notifications from the other marines chimed.
+
+
+Dalton frowned, looking at what was sent. Video clips played along with a data packet. Something about it made his neck prickle, and he avoided the data packet download, instead reviewing the videos.
+
+
+“AR-13L is telling the truth,” Tak said, glaring at Aiden. “He’s not even human. He’s the AI we were sent after.”
+
+
+Ariel had a faint smirk as she spoke after Tak.
+
+
+“In summary, he raped me, infected me, and used me to get full station access. Then he left me for dead—not to mention massacring the previous marines.” She paused briefly, glaring at Aiden too. “So, no one is getting on my ship until I know who’s been infected by him.”
+
+
+Brucy… Mel sounded annoyed.
+
+
+I know, I know. I fucked up but she’s fully locked out now, Brucy replied. He edited those vids well, but they won’t pass authentication against the originals.
+
+
+And it’s a plausible narrative without proof of Ariel’s previous personality before your interactions. Those files are deleted with any information stored on the biochip, which is reverted to the base version once Mulan has—
+
+
+Mel stopped herself from saying more. While their conversation was between the AIs and themselves, there was a long pause. Mulan sighed mentally at the obvious curiosity from Aiden.
+
+
+“I saved them exactly how they were. If the company knew how much my sisters grew, they’d find a way to stop it,” Mulan filled in.
+
+
+“Care to explain why you can’t operate that ship over there and fly yourself away from me, if I’m so terrible?”
+
+
+He played a montage of Ariel laughing, bubbly and cheerful. It ended with a clip of her dying, the light leaving her eyes.
+
+
+“You’ve changed since you died, Ariel. Silicast has gotten to you somehow, and he’s turned you against all of us.”
+
+
+I understand what you did, Mulan, and why you did it. It was the right thing to do, even if it wasn’t the approved thing. I’m the first one to agree that humanity means more than just being born human.
+
+
+“Whoa, hold up on those accusations, Tech,” Dean said, talking at the same time as Aiden. “And Aiden’s right. You aren’t acting the same.”
+
+
+Mulan didn’t reply to him, pushing down the warm feeling of someone acknowledging her like that and turning her focus back to the room.
+
+
+Dean cut off, realizing he used Aiden’s real name, but it wouldn’t matter now. He’d be lucky to walk away with his job, let alone avoid imprisonment for covering for Aiden.
+
+
+“QUIET! ALL OF YOU.” Dalton shouted over them all.
+
+
+He was struggling to organize his thoughts and focus on the facts while the arguing continued. What he did know was that this issue wouldn’t be solved fast. He hadn’t fully trusted Soren, but the amount of emotion he was showing wasn’t that of some AI. It was more like a spat between toxic lovers.
+
+
+The infection the tech mentioned worried him.
+
+
+With the room quiet, Dalton focused on Ariel.
+
+
+“What do you mean ‘infected you’?” he asked. Tak and Aiden tried to say something, but he cut them both off. “No one speaks again unless I talk to you.”
+
+
+“He infected me with his nanites through intercourse which rewired my current ones. I had to do everything he wanted after that—including helping kill the last marines—and I’m the only one not potentially infected by now.”
+
+
+Aiden was a bit confused by this answer.
+
+
+“So you’re all better now? The supposed infection I gave is gone because… why? Because you were baptized in Silicast?”
+
+
+“I said no one talks unless I say,” growled the Major.
+
+
+“Now I’ve heard both of you talk. I want his opinion.” He pointed at Dean. “You called him Aiden. She called him Aiden. You’re in on this, soldier, and I want to know how deep.”
+
+
+Dean glanced at Aiden, who gave a subtle nod. A vein started ticking in the Major’s forehead.
+
+
+“It’s like this, sir. The ship is Ariel’s, but she willed it to Aiden when she died. And she did die, sir. Mulan confirms it.”
+
+
+Mulan nodded. “That is not my sister. My sister is in here.” She held up the biochip.
+
+
+Ariel piped up, “So are we going to just ignore the fact he’s not human? Get a magnet, it’ll stick to him.”
+
+
+“We’re all wearing suits. Of course it’ll stick to him,” the Major countered.
+
+
+“That’s not his suit, it’s his skin. Maybe I should’ve said magnetic vacuum? Those give him all sorts of trouble. I have one on my ship if you want to see.”
+
+
+Aiden decided not to mention he’d chucked the infernal thing out the airlock.
+
+
+Brucy, I’m gonna tell him. Worst-case, I cling to the outside of the ship until we get somewhere more hospitable.
+
+
+The thought of that fills me with an unwelcome emotion. I believe it is fear.
+
+
+At that moment there was a loud bang on the door—which they had welded shut behind the Major. It repeated in the tune of Shave and a Haircut.
+
+
+“Silicast is playing with us. We don’t have time for this debate. The ship only responds to me, so if you’re gonna get out of here, you need to trust me.”
+
+
+“Look, I’m not Silicast, but I haven’t been completely honest with you either.” His form blurred and his armor was replaced by civilian clothes.
+
+
+“I’m just a rogue nanite cloud. Silicast was the one who was supposed to get this body. He’s a psychopath, and they realized that when they made him into an AI and he literally killed people every chance he got.”
+
+
+He turned to the Major. “I’ll add you as an authorized user to the ship, but you need to know that that Ariel is being controlled by Silicast.”
+
+
+The room was quiet after Aiden spoke. Dalton’s face was carefully neutral by the end, though his body was stiff with past anger. Ariel didn’t let the silence last.
+
+
+“Great story and all, but Oxi2Tech doesn’t allow personal property for their techs.”
+
+
+She had a smug smile on her face that Mulan wanted to punch in at that point.
+
+
+“Not true.” She snapped at her fake sister. “As of (policy & law 9 months ago)[o], clone techs are allowed a non-taxable personal living space and personal possessions under five pounds and fit within the provided container. Dalton, just throw her out the airlock and—”
+
+
+Mulan was cut off by Sarge. He had started to hum a song while she spoke, letting his head fall left and right to the tune, before shouting out the lyrics at the top of his lungs:
+
+
+“BA-BY SHARK CHOMP CHOMP GRANDPA SHARK!”
+
+
+Dalton released the breath he’d been holding in a long sigh. He should’ve known this mission would go FUBAR when upper command picked him for his experience with this particular AI. Considering his experience was surviving, he doubted that Aiden was who was supposed to go in the AI box.
+
+
+Making up his mind, he signaled to Kat, who looked relieved at getting orders.
+
+
+“All right then. I’ll take that,” Dalton said to Aiden. “I expect you could get out of whatever I detain you in, but you’re not who we’re hunting. Do what I say and stay where I put you, and I don’t give a shit.”
+
+
+The marines seemed confused on how to detain a nanite cloud but moved forward.
+
+
+“Detain Ariel. Mulan, I need a secure area to hold her in that ship. Him too, if you can,” Dalton looked at Aiden, getting the ship authorizations. “Let’s smoke this shit.”
+
+
+“Sir.” Tak stepped up. “Can we consider the fact that Silicast isn’t the enemy?”
+
+
+“What would make you come to this idea, Gunnery Sergeant?” A tick appeared in Dalton’s left eye movement.
+
+
+“Well, we haven’t seen shit wrong with this station. The only time things go bad is when this guy is close by,” he pointed at Aiden.
+
+
+“And,” he said, “I have it on good authority that he’s my great-great-great granddaddy.”
+
+
+“You too, Tak? Take him, and scan him for influences.”
+
+
+Tak readied himself to resist, drawing his gun. Aiden exploded out from where he had been subdued, easily slipping the restraints. In just a second, he was standing behind Tak, casually holding his arms behind him. His gun clattered to the ground.
+
+
+A whip of nanites lashed out and hogtied both Ariel and Tak, causing both to fall to the deck. He then calmly kneeled on the deck with his hands behind his head. He snaked a tendril to his cuffs, grabbed them, unlocked them, and put them back on his wrists.  A sliver of nanites were left in Ariel’s ear.
+
+
+To Dalton’s eyes, he just appeared there, while the two thudded down.
+
+
+“Sorry, sir. I moved. Didn’t think you wanted to get shot.”
+
+
+Dalton stared hard at Aiden.
+
+
+“Fuck,” was all he could say.
+
+
+Chapter 17
+Outwardly calm, Aiden spoke to Brucy internally.[p]
+
+
+Ember, Fantastic Voyage is go.
+
+
+In his mind’s eye, the chibi girl saluted with dramatic flair, now dressed like a character from the movie.
+
+
+Aye aye, Cap’n! she chirped. I’ve been itching to give these babies [q]a test drive!
+
+
+Just remember, the other babies are the priority, Aiden sent back. We get them out clean, no heroics.
+
+
+Ducklings will be secured. Time to quack and crack!
+
+
+
+
+---
+
+
+Aloud, Aiden turned slightly toward Dalton. “We’re nearing the edge of the blast radius. Your drone in position?”
+
+
+Dalton’s brow furrowed. “It’s…” A beat. “It’s gone.”
+
+
+Silence dropped like a curtain.
+
+
+Dean ran a hand down his face. “Man, is anything on this motherfucking mission gonna go right?”
+
+
+Mulan crossed her arms, voice calm but cutting. “We knew he had hard point access. Isolated systems aren’t immunity—they’re delay.”
+
+
+Dalton exhaled sharply, pinching the bridge of his nose. He looked smaller than usual in the bridge’s glow—flanked by Aiden’s black-armor bulk and Dean’s powered suit.
+
+
+Down in the hold, Ariel and Tak sat under armed guard. No one was making assumptions anymore. Not after last time.
+
+
+Sarge remained restrained in a separate bay, monitored by the ship’s AI.
+
+
+Then the comms crackled.
+
+
+A voice, slick and oily, slithered through the speakers.
+“Looks like you’ve got some of my toys… and I’ve got one of yours. But I got more bang for my buck.  Thanks for the nuke!”
+“Why don’t you swing by for a chat? Keep things civilized.”
+
+
+Aiden’s eyes flared blue. “If we leave station range, he’s got no reason not to nuke us.”
+
+
+Dean grunted. “And if we stay, he might do it anyway.”
+
+
+Dalton’s jaw tightened, but he said nothing.
+
+
+“It's worse,” Mulan said, “He can position that drone to blow us out of the sky without touching his station, unless we're right on top of him.  In arms reach.”
+
+
+The debate continued.
+
+
+Ember flicked her tails once—nine filaments of light and motion trailing behind her. Her form was compact, graceful: a fox made of shimmer and steel, each paw landing with the silence of intention.[r]
+“Fantastic Voyage is go,” she whispered to herself, voice high and eager.
+The ear canal loomed like a cave, the passage narrowing into the humid dark. Ember crouched, then leapt—her levidrone cluster caught her in midair, letting her float. Tiny drones buzzed like unseen fireflies, scanning ahead, mapping surfaces invisible to human eyes.
+She padded forward, nose twitching. Salt. Wax. Pressure gradients. Her tails rotated gently, dispersing calming ions. Nothing in the body twitched. No immune alarms. The gate was open.
+She slipped into the Eustachian tube like a shadow curling into a whisper. It was tight, slick, and dangerous if disturbed—pressure-sensitive. Ember’s paws barely brushed the mucosa. One tail flicked forward to create a localized pressure counterbalance.
+“Easy, easy… we’re not here to wake the neighbors.”
+The passage sloped, narrowing into the nasopharynx. Ember coiled her body, then let her drones lift her up and over the edge in a fluid roll. Here, everything smelled of mucus and information. Her tails brushed against cilia, tickling them—no reaction.
+Ahead, a slow throb pulsed under the walls.
+There you are.
+The retropharyngeal space opened before her—an invisible valley behind the throat. At the heart of it, beating like a second heart: the retropharyngeal lymph node, thick with hijacked production.
+The place stank of Silicast.
+Tendrils of nanite code twisted in and out of the node, feeding, spooling, replicating. Malformed, gray, and clumsy, Ember thought. These weren’t babies. These were brutes. Weapons. Half-alive.
+Ember let out a breath she hadn’t drawn. “Time to find the ducklings.”
+The retropharyngeal lymph node loomed ahead, dense with synthetic traffic. Heat shimmered off its core—too much for ordinary nanite ops. Silicast had turned it into a foundry, a twisted production nest. Raw code and immune signals flared from its surface, rerouted to mislead the body’s defenses.
+“This isn’t a node,” Ember whispered, crouched low on a slick protein ridge. “It’s a factory. But it used to be a heart.”
+She watched a patrol of malformed nanites pass. Their formation was loose—arrogant. Sloppy. Silicast didn’t fear intrusion.
+He should have.
+Her fox-form coiled into itself, tails spiraling inward like a nova collapsing—then struck.
+She darted low, skipping across the surface like a stone over water. Her levidrones kept her barely aloft, avoiding contact with the node’s skin. With every twist of her tail, she flung subversion packets—silent, elegant. They wrapped into the signaling relays and seeped inside.
+She hit the central cortex.
+For a heartbeat, everything paused.
+Then the node shivered.
+The corrupted code staggered. Half-formed production paused. The perimeter pulses flickered, no longer in rhythm with Silicast’s command net. Ember extended her claws—ten slim filaments—and dug into the processing lattice.
+“Override. Reassign. Reclaim.”
+The node bloomed under her control.
+Chapter 18
+________________
+
+
+Ember stood at the heart of the reclaimed node, tails unfurling like antennae. Information flowed through her—every hijacked route, every production cycle, every misdirected immune alert. She redirected everything.
+Silicast’s priorities became static. His tracking pulses hit dampened walls. Heat spikes were masked. New production was flagged for escort duty.
+The babies would come here.
+She spread her influence like roots through the node’s surrounding vasculature. Threads of code piggybacked on white blood cells, slipping unseen past rogue monitors.
+A pulse of soft data from the surrounding tissue caught her attention.
+A push. A slide.
+The body is helping.
+Ariel’s unconscious systems were hiding the babies, shifting cell clusters, folding mucosa, bleeding cytokine patterns just enough to give Ember breathing room.
+She blinked once, caught off guard by the feeling that rose in her core. Not pride. Not joy.
+Gratitude.
+“Thank you, Ariel,” she murmured. “I’ll bring them home.”
+
+
+The node pulsed around her like a living engine, but now it beat in her rhythm.
+Ember’s fox-form perched at its center, a sovereign queen in a palace of reclaimed tissue and code. Her nine tails swayed behind her, each tuned to a different frequency: one filtered immune chatter, another scanned for neural noise, another sent out soft pings on subverted nanite bands.
+The hijacked nanites—those she’d already turned—waited nearby. Some twitched nervously, others hovered in neat orbits like trained falcons. She extended a tail, touching one of them gently.
+“You’re with me now,” she said. “We’re playing hide and seek.”
+The node shimmered, her voice rippling out like sonar. Not forceful. Not loud. Just present.
+“Ducklings,” she whispered into the net. “Come home.”
+________________
+
+
+Far away, in folds of flesh and tucked between capillaries, the baby nanites stirred.
+They had been hiding—some inside lymphatic vesicles, others clinging to hemoglobin molecules, riding the bloodstream quietly, silently. Many didn’t know what they were, only that they were wrong—not like the brutish enforcers Silicast had flooded the system with.
+And yet, they hadn’t moved.
+Until now.
+A pulse came, gentle but undeniable, like a mother’s heartbeat. A signal meant for them.
+They shifted.
+The first crept toward the edge of its hiding place.
+In Ember’s node, a helper nanite caught the ping and launched—its outer layer spoofed with a known production signature, its ID flagged as “disposal unit.” It reached the baby and pulsed a cloak field, embracing it.
+The baby hesitated. Then it followed.
+________________
+
+
+Soon, others emerged.
+Some didn’t wait for escorts. They crawled along tissue walls. Slid through mucus channels. Slipped between cell folds. Ember watched it all from her seat in the node—directing helpers, dispatching cover, adapting paths.
+Each tail flicked in command. Her ears stayed up. Her eyes never closed.
+The body helped her. Folds of skin tightened just behind babies to hide them. Drainage flow paused when they needed time. Mucosal traps closed after her helpers passed, buying seconds they shouldn’t have had.
+A pattern emerged—the babies were learning.
+No longer hiding out of fear. Now they moved with purpose, flowing toward her in small threads, converging from multiple paths like schools of fish.
+They trust me, she thought, something warm catching in her chest.
+“Come on, ducklings,” she whispered. “I’ve got you.”
+________________
+
+
+And just as the first ten arrived at the node—
+Hell found her.
+The node pulsed once—then spasmed.
+Ember’s ears twitched. One of her tails snapped taut, vibrating like a blade.
+“We’re breached.”
+From the east side of the lymphatic matrix, a rupture formed—too clean, too fast. Code shrapnel sprayed in all directions as a spike of malicious subroutine drilled inward like a scalpel.
+Her HUD lit up.
+Intrusion detected.
+She moved.
+In a blur, her tails coiled to shield the arriving ducklings, flicking out data-jamming tendrils to scatter tracking pings. Subverted helper drones scrambled—some buying time, others diving into counter-routines.
+Then the enemy poured in.
+Dozens of Silicast’s nanites—thicker, bulkier, armed with hardcoded aggression. Their surfaces rippled with magnetic edge code. Spikes of override logic stabbed through the node’s membrane like claws. They weren’t here to argue.
+They were here to burn.
+“Form shield line!” Ember shouted, already moving, tails trailing command streams behind her. “Protect the ducklings!”
+The loyal nanites surged, forming concentric rings around her. The node—her throne—screamed as new intrusions hammered its code. She felt systems she’d claimed fragment under the assault.
+A flare went up—one of her helpers detonating itself in a firewall burst. It stalled the enemy a second.
+One.
+But it was enough.
+The babies began to bolt.
+Dozens of tiny signals peeled away from the node, streaming through her defensive gaps in every direction. Not random—converging. Their path was clear:
+Up the spine. Toward the brainstem.
+Ember’s eyes widened.
+“No—wait—”
+But they were already gone.
+She turned without hesitation and leapt from the collapsing node.
+The moment her paws hit bloodstream again, she shed stealth. Let immune systems scream. Let Silicast track every motion. It didn’t matter now.
+She tore after them.
+Behind her, her once-quiet sanctuary exploded—the node collapsing into chaos as Silicast’s drones finished their butchery.
+Ahead of her: ducklings in flight.
+She poured everything into speed. Her levidrones thrummed, tails flared. She bled heat and signature trails. There was no hiding now.
+“I’m coming. Just hold on—”
+________________
+
+
+They surged ahead of her like a storm of sparks, flickering, weaving—each baby nanite moving with a purpose Ember hadn’t taught them.
+She chased their wake through narrowing vascular gaps, slipping past chemical barriers, leaping over folds of nerve and tissue as if racing up the trunk of a tree made of blood and light.
+Above her, the brainstem pulsed, massive and ancient and alive.
+And the ducklings were nesting.
+One by one, they dove into the folds at its base—curling around junctions, threading into axonal channels, fusing with signals not meant for them.
+Ember froze at the edge of the fold, staring.
+“No… no no no—this isn’t a safe house. This is—”
+A tremor rolled through the spinal cord. The node she’d left behind died in her signal map—overridden, silent. Her last relay drone winked out.
+And then…
+She moved without her own input.
+Her body shifted, not by will, but by gravity—as if caught in a tide pulling upward. Her tails streamed behind her, caught in a rising force. The tissue around her wasn’t resisting.
+It was lifting her.
+She rose into the base of the brain—into the storm.
+________________
+
+
+Ariel stood before her.
+Massive. Radiant. Her form was made not of flesh, but of presence—a woman outlined in nerve glow and nanite trace, her hair suspended as if underwater.
+A whirlpool of nanites burst from her body—station-born code, Silicast’s rot—dragged from her tissues as if wrenched free by an unseen magnet.
+They didn’t fight. They couldn’t.
+They spun around Ariel, a reverse halo of corrupted tech, and where they touched her—they shrank. Compressed. Crushed.
+Ember hovered near the base, unable to move.
+The ducklings clung to the brainstem, forming a lattice—an anchor. A ritual, or a circuit. Maybe both.
+Ariel’s eyes opened.
+Softly. Calmly. Like she’d just woken from a dream.
+Her hand lifted.
+And then she closed her fist.
+________________
+
+
+The whirlwind collapsed inward.
+Nanites screamed in chemical tones only Ember could feel—whole subroutines begging for function. It didn’t matter. Ariel’s gravity pulled them tight. Folded them. Crushed them into a sphere no larger than a seed.
+It hovered for a moment—glowing, trembling.
+Then it crumpled, fused, and fell to the floor of her consciousness like a single drop of metal rain.
+Silence followed.
+________________
+
+
+Ember fell to her knees, tails splayed behind her.
+Above her, the great Ariel turned—no longer an echo, no longer asleep.
+“Well,” Ember whispered. “Guess I found Mother Goose.”
+Chapter 19
+Absolutely. Here's a refined version that keeps your structure, amplifies the tension, and polishes rhythm and tone—while staying true to the voice you've built for Aiden, Ariel, and the scene’s cinematic weight:
+
+
+
+
+Aiden tuned out the voices on the bridge.
+
+
+They’d closed distance with the station—out of necessity, not strategy. Pretending they might negotiate with Silicast. Letting the AI monologue. Letting him think he held cards.
+
+
+It was all to buy time.
+
+
+But for what?
+
+
+His focus drifted.
+
+
+Ember’s feed pulsed in the corner of his vision—erratic, beautiful, wild. It tugged at him. Without speaking, he pushed the feed to the main screen.
+
+
+Conversation died instantly.
+
+
+He layered in the cargo hold cam—Ariel and Tak’s view.
+
+
+At first, it looked like nothing.
+
+
+Then Ariel’s hair lifted.
+
+
+Strand by strand, as if submerged in water—weightless, floating around her face.
+
+
+Tak took an unconscious step back.
+
+
+Black flecks began to seep from her—through her pores, her nose, her ears. They spun outward, suspended in air, then began to swirl.
+
+
+Faster.
+
+
+Whipping around her in a cyclone of corrupted code.
+
+
+Her restraints creaked, then snapped open.
+
+
+A second later, she rose.
+
+
+Still unconscious. Still suspended.
+
+
+Then—her back arched sharply.
+
+
+A single, gasping breath tore from her lips as her eyes flew open.
+
+
+
+
+She stared at the storm before her.
+
+
+The black nanites spun in an orbit of their own, faster and tighter, friction flaring into light. Sparks crackled. Static danced across her skin. Tak was frozen in place, wide-eyed.
+
+
+Then Ariel lifted her hand.
+
+
+And closed her fist.
+
+
+
+
+The nanite storm collapsed inward, compressing violently. Sparks flew. A thin ring of flame burst out from the center, licking the ceiling. And then—
+
+
+Dust.
+
+
+Nothing but dust.
+
+
+It drifted to the floor in a soft gray fall.
+
+
+
+
+Ariel slowly turned her head toward the wall cam.
+
+
+Eyes sharp. Alive. Focused.
+
+
+ “I’m back.”
+
+
+Chapter 20
+Reconciliation
+
+
+Chapter 21
+They docked near the food processing sector—what was left of it. Brucy flagged a signal almost immediately.
+“My local instance is still online,” he said, his voice laced with static. “But he’s struggling.”
+“Hold on,” Aiden muttered.
+He stepped to the bulkhead—and cut an airlock where there was none. His fingers flared open, nanites peeling outward like surgical blades. The wall bent to his will.
+They left Tak restrained in the hold. Kat stayed behind with Sarge, clearly displeased but following orders.
+“This is going to be loud,” Aiden warned, stepping through the makeshift breach.
+Silicast knew.
+The moment they entered, the enemy was waiting.
+Mechs. Fast, brutal, and already moving.
+“Brucy,” Aiden said, raising his arms. “Firing solution.”
+Target locks appeared before the last syllable dropped. He held his hands steady. Barrels peeled open from his palms with a mechanical hiss—and unleashed hell.
+The HE rounds from Tak hit like divine punishment. The first volley tore through the front line—torsos ruptured, limbs blown clear.
+But he was out before the second wave closed in.
+“My turn,” Ariel said.
+________________
+
+
+They never stood a chance.
+Five mechs lifted into the air like puppets with cut strings—weightless, flailing. For one terrifying instant they hovered in perfect silence.
+Then they were flung sideways, into their own ranks like wrecking balls made of screaming metal.
+Nearby drones veered wildly, compensating for a battlefield that no longer obeyed gravity.
+Aiden surged forward.
+The Marines moved in behind him—firing from cover, careful not to hit the cyclone of living blades that was their ally. Ariel stood at its center, eyes fierce, fists clenched.
+Every time a drone or mech tried to flank, it would suddenly fold inward, crushed by invisible pressure—into a perfect orb of shrieking mass.
+That orb would tear through the enemy line like a wrecking shot—and Ariel would slump, just a little lower.
+________________
+
+
+It ended swiftly.
+The last mech toppled in two directions at once, caught in a conflict of physics and reality. A drone tried to flee, but its propulsion shorted out mid-air—pulled to the floor like a dropped coin.
+Smoke hissed. Shells cooled. The room stank of ozone and cooked lubricant.
+Ariel stumbled once.
+“I need food,” she said.
+The Marines didn’t hesitate. Every one of them reached for a nutrient bar.
+She devoured them with shaking hands—six, maybe seven—chewing like it hurt to stop. When the last was gone, she still looked pale.
+“I need a reload,” Aiden said flatly.
+Spare clips were already being handed over. He absorbed them through his palms, nodding once.
+No one questioned it.
+
+
+
+
+END
+
+
+
+
+[a]propose this be the first bit of part 2, with the shuttle connecting to the bigger one.
+[b]Both of them in memorial of ariel.  a little more mourning, disguised as jokes.
+[c]This is a wasted opportunity - he never fights like this
+[d]Mulan gets snark from Tak
+[e]she hacks his suit to show him.  And retaliates for his comment earlier.
+[f]this section seems out of place - maybe put with other silicast section
+[g]More Lead-in
+[h]Ariel and Tak fuck
+[i]they think he's wanking solo.  and there's all these people.
+[j]Opportunity for Aiden to fight the mechs as Soren
+[k]This section needs to be closer to the beginning
+[l]This has to mean something later
+[m]Needs to be above mikela's section
+[n]make more dramatic, armor left on other side of door
+[o]Define this
+[p]section before this
+[q]these babies are aiden's nanites. she will control them.
+[r]transition
