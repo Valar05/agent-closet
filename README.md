@@ -83,4 +83,6 @@ The Drive corpus workflow lives in `procedures/drive-corpus-sync.md`.
 
 Use `tools/configure-drive-remote.sh` once to create the read-only rclone remote, then use `tools/refresh-drive-corpus.sh` as the single refresh command.
 
+This is the shared Drive support corpus, not the fiction manuscript corpus.
+
 Exported Drive material is stored under `discoveries/drive-corpus/` so repository workflows can read it locally without touching the original Drive documents.

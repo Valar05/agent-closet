@@ -11,9 +11,10 @@ This directory preserves manuscript-specific observations before they are promot
 Repository hierarchy:
 
 1. Scene evidence
-2. Book observation artifact
-3. Corpus observation ledger
-4. Doctrine / theory promotion
+2. Fiction source map
+3. Book observation artifact
+4. Corpus observation ledger
+5. Doctrine / theory promotion
 
 Chat discoveries are not durable until captured here or in another repository artifact.
 
@@ -22,6 +23,8 @@ Chat discoveries are not durable until captured here or in another repository ar
 Observations require durable artifacts.
 
 The corpus ledger answers: **What patterns recur across the corpus?**
+
+The source map answers: **Which manuscript source should I mine next, and where should its local export land?**
 
 Book observation files answer: **Where did the evidence come from?**
 
@@ -59,6 +62,8 @@ Do not promote from chat memory. Promote from artifacts.
 
 When a new manuscript is mined:
 
-1. Add or update its book observation file here.
-2. Cross-link observations to `corpus/fiction/fiction-observation-ledger.md`.
-3. Only then consider corpus-level promotion.
+1. Read `corpus/fiction/fiction-manifest.md`.
+2. Check `corpus/fiction/fiction-source-map.md` for export and evidence routing.
+3. Add or update its book observation file here.
+4. Cross-link observations to `corpus/fiction/fiction-observation-ledger.md`.
+5. Only then consider corpus-level promotion.

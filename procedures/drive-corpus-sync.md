@@ -7,17 +7,22 @@ Related doctrine: Capture Save Promote, Location-Aware Continuity, Artifact-Mine
 
 ## Purpose
 
-Make the Google Drive fiction corpus and supporting documents available to repository workflows through a reproducible local synchronization process.
+Make the Google Drive support corpus and supporting documents available to repository workflows through a reproducible local synchronization process.
 
 Repository truth remains the repository.
 Drive is source material.
+
+Shared Drive Corpus != Fiction Manuscript Corpus.
+This procedure only syncs the shared Drive support corpus under `Corpus/`.
+Fiction manuscripts are routed by `corpus/fiction/fiction-manifest.md` and `corpus/fiction/fiction-source-map.md`.
 
 ## Storage Rule
 
 Exported Drive material lives under `discoveries/drive-corpus/`.
 
-Do not edit the exported manuscripts in place unless you are correcting repository-side evidence handling.
+Do not edit the exported support documents in place unless you are correcting repository-side evidence handling.
 Do not overwrite unrelated repository artifacts.
+Do not route fiction manuscripts through this export tree.
 
 ## Install
 
@@ -117,6 +122,7 @@ The second run should only transfer changed files.
 - Markdown export depends on local conversion support.
 - The corpus root defaults to `Corpus/`; override it only if the Drive layout changes.
 - Shared drives may require `root_folder_id` or `team_drive` at remote creation time.
+- Fiction manuscripts require a separate export pass if the repo needs local manuscript ore.
 
 ## Acceptance Criteria
 

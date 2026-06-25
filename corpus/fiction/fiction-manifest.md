@@ -20,6 +20,10 @@ Further mining must begin from this manifest instead of memory or selected sampl
 - Prefer Google Docs over exported DOCX/PDF/TXT when both exist.
 - Preserve duplicates as alternates until canonical status is verified.
 
+## Routing Bridge
+
+If you need to connect canonical fiction sources to local exports or book-local evidence, read `corpus/fiction/fiction-source-map.md` after this manifest.
+
 ## Priority A — Primary Fiction Works
 
 ### Omnitread
