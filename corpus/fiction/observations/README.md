@@ -25,7 +25,9 @@ The corpus ledger answers: **What patterns recur across the corpus?**
 
 Book observation files answer: **Where did the evidence come from?**
 
-## Current Book Observation Artifacts
+## Book Observation Artifacts
+
+### Full or Substantial Observation Passes
 
 - `revelation.md`
 - `omnitread.md`
@@ -33,9 +35,9 @@ Book observation files answer: **Where did the evidence come from?**
 - `veil-of-liquid-stars.md`
 - `the-harroway-connection.md`
 
-## Pending Book Observation Artifacts
+### Partial / Pending Direct Mining
 
-Create these after direct manuscript mining or version reconciliation:
+These files exist to prevent memory holes and to preserve known cross-corpus hooks. Expand them after direct manuscript mining or version reconciliation.
 
 - `jumpy-bug.md`
 - `holding-vigil.md`
@@ -50,3 +52,13 @@ Create these after direct manuscript mining or version reconciliation:
 - **Repeated:** corroborates an existing pattern across multiple works.
 - **Needs corroboration:** promising but not ready for promotion.
 - **Promotion candidate:** strong enough to collect cross-book evidence.
+
+## Operating Doctrine
+
+Do not promote from chat memory. Promote from artifacts.
+
+When a new manuscript is mined:
+
+1. Add or update its book observation file here.
+2. Cross-link observations to `corpus/fiction/fiction-observation-ledger.md`.
+3. Only then consider corpus-level promotion.
