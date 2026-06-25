@@ -144,6 +144,37 @@ Doctrine selection rules:
 - select based on observable output, not thematic resemblance
 - prefer doctrines whose pass condition can be tested directly
 
+### Doctrine Combination Policy
+
+Use a second doctrine only when it adds a distinct observable requirement that the primary doctrine cannot force by itself.
+
+A second doctrine is justified when all of these are true:
+
+- the scene has two real pressure layers that matter now
+- the primary doctrine covers only one layer or one phase of the scene
+- the second doctrine controls a different visible behavior, not a synonym of the first
+- each doctrine can still be judged separately by its own test harness pass condition
+- removing the second doctrine would leave a real gap in the scene's state transition
+
+Prefer pairs that split the scene cleanly across layers or phases:
+
+- repair + recovery transition
+- routing + recognition
+- systems by contact + expanded choice space
+- comfort temptation + institutional coercion
+- persistence + consequence repair
+
+Do not combine doctrines when they only restate the same action in different words.
+
+Anti-soup rules:
+
+- default to one doctrine
+- two doctrines is the normal maximum
+- three doctrines is allowed only when the scene has three clearly separable observable layers and the harness can still judge them individually
+- if a doctrine only adds tone, drop it
+- if a doctrine only repeats the primary doctrine's behavior, drop it
+- if the scene feels more complete because of wording rather than because of a new observable requirement, drop it
+
 Default mapping:
 
 - routing and responsibility -> `Route Responsibility Through a Person`
