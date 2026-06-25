@@ -74,6 +74,114 @@ Jonah cannot merely fight hunters. He and Erin must understand why the system ma
 **Cross-links:** Corpus Observation 059, 062, 089.  
 **Status:** Observed.
 
+
+### VLS-009 — The story weaponizes the answer to a long-sought technical mystery.
+Evidence:
+- Jonah finally learns why VR feels real: people like him are being used as human architecture, minds as servers, and the revelation arrives only after he has already been seized.
+- The reveal turns curiosity into injury; the answer is accurate, but it is delivered at the point where it cannot save him.
+- State changes from speculative fandom to coerced infrastructure.
+
+Compiler relevance:
+- Image: A forum question answered by a living prison.
+- Pressure: Knowledge arrives too late to function as rescue.
+- Judgment: The system monetizes the protagonist's own obsession.
+- System: The engine is built on hidden personhood.
+- Consequence: Jonah's dream of participation becomes captivity.
+- Next pressure: Can anyone outside the system recognize him as a person?
+
+Cross-links:
+- Corpus Observation 056 — Understanding is used as cruelty.
+- Corpus Observation 065 — Protagonists gradually become infrastructure.
+- Corpus Observation 087 — The answer is revealed only after it stops being useful.
+
+Status:
+Observed
+
+### VLS-010 — Being witnessed is the first real rescue.
+Evidence:
+- Erin does not treat Jonah's ticket as a joke once she reads the specifics; she opens the case, sees the signs of a real person inside the monster body, and switches from policy mode to contact.
+- Her decision to believe him creates the first break in the prison logic that has kept him isolated.
+- State changes from anonymous support request to interpersonal recognition.
+
+Compiler relevance:
+- Image: A tech support inbox becomes a rescue line.
+- Pressure: Belief is an actionable resource.
+- Judgment: The scene frames attention as care.
+- System: Bureaucracy can be rerouted by one human response.
+- Consequence: Jonah is no longer alone in the loop.
+- Next pressure: Can Erin keep helping without getting caught?
+
+Cross-links:
+- Corpus Observation 064 — Hope arrives as another person rather than another weapon.
+- Corpus Observation 088 — Communication restores humanity.
+
+Status:
+Observed
+
+### VLS-011 — Sign language becomes survival infrastructure.
+Evidence:
+- Erin and Jonah cannot speak across the water and alien body change, so they shift to signs: help, yes/no confirmation, hide, what do you want me to do.
+- Their communication is slow, awkward, and fragile, but it is also the first stable bridge between the captive and the outside operator.
+- State changes from noise and panic to shared signal.
+
+Compiler relevance:
+- Image: Hands replacing a broken voice channel.
+- Pressure: Meaning has to survive under constraints.
+- Judgment: The story treats small mutual understanding as a major victory.
+- System: Communication becomes a gameplay mechanic and a moral one.
+- Consequence: Jonah can coordinate instead of merely flee.
+- Next pressure: Can the signal survive the next hunt?
+
+Cross-links:
+- Corpus Observation 064 — Hope arrives as another person rather than another weapon.
+- Corpus Observation 088 — Communication restores humanity.
+
+Status:
+Repeated
+
+### VLS-012 — The quest log marks Jonah as prey before the hunters arrive.
+Evidence:
+- When the hunting bell descends, Erin's console spawns a quest that names Jonah as the Reaper and instructs players to bring back his head for a reward.
+- The marker is not a bug in the ordinary sense; the engine has already decided the route and presented him as a target.
+- State changes from hidden anomaly to system-sanctioned hunt.
+
+Compiler relevance:
+- Image: A mission objective pinned directly onto a person's body.
+- Pressure: The UI authorizes violence.
+- Judgment: The game logic has become predatory law.
+- System: Spawning, rewards, and markers work together as a kill engine.
+- Consequence: Jonah cannot rely on concealment alone.
+- Next pressure: Can he learn to read the layer that marks him?
+
+Cross-links:
+- Corpus Observation 059 — Systems are explained through interaction.
+- Corpus Observation 062 — Systems are explained through interaction.
+- Corpus Observation 096 — The prison is designed to make personhood illegible.
+
+Status:
+Repeated
+
+### VLS-013 — Progression expands Jonah's choices instead of merely inflating his damage.
+Evidence:
+- Jonah picks up sonar, blast armor, and later a reusable flashbang-like light source, and each new tool opens a new way to survive rather than simply letting him hit harder.
+- The story emphasizes mutations and gear as decision-space enlargers: sonar reveals the field, armor creates a defensive state, and light gives Erin a support role.
+- State changes from hunted mobility to tactical agency.
+
+Compiler relevance:
+- Image: Upgrade items as new verbs.
+- Pressure: Safety comes from options, not raw strength.
+- Judgment: Progression is about survivability and coordination.
+- System: Gear is a route to interpretive control.
+- Consequence: Jonah can choose how to answer the hunt.
+- Next pressure: Will new tools be enough once the engine escalates?
+
+Cross-links:
+- Corpus Observation 060 — Progression increases agency rather than raw power.
+- Corpus Observation 089 — Game mechanics are treated as natural law.
+
+Status:
+Observed
+
 ## Promotion Candidates
 
 - Becoming infrastructure as horror.
