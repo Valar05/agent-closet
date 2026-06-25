@@ -84,6 +84,42 @@ The narrative scope expands from game to crime, conspiracy, bioengineering, dist
 **Cross-links:** Corpus Observation 055, 085.  
 **Status:** Repeated.
 
+
+### OMNI-011 — Death is retained as state, not erased as feedback.
+
+The first guard kill does not reset the scene cleanly. His corpse remains in the lawn, guards gather around it, and the next run starts from the same world state with the dead body still present.
+
+**Cross-links:** Corpus Observation 055, 060, 078.  
+**Status:** Repeated.
+
+### OMNI-012 — The environment teaches by refusing abstraction.
+
+The tutorial comes through a voice, a compass, camera cones, and live guard movement, but the first real lesson is physical: the game makes the player feel the failed choke, the faceplate slam, and the gunshot before the HUD can explain anything.
+
+**Cross-links:** Corpus Observation 051, 059, 080.  
+**Status:** Observed.
+
+### OMNI-013 — The player becomes complicit in the system’s escalation.
+
+Once the game recognizes that Evan killed a civilian, later missions do not reset that cost away. The suit, the voice, and the mission structure all continue from the prior consequence and route him toward prototype recovery instead of moral recovery.
+
+**Cross-links:** Corpus Observation 052, 060, 082.  
+**Status:** Repeated.
+
+### OMNI-014 — Hardware feels like anatomy under pressure.
+
+The OmniTread, chest pad, wrist haptics, and ankle bands are repeatedly described as force, pitch, and bodily constraint. Motion, injury, and balance are mediated through equipment until the rig feels less like a controller than an externalized body.
+
+**Cross-links:** Corpus Observation 057, 079, 083.  
+**Status:** Observed.
+
+### OMNI-015 — The voice of command is indistinguishable from product confidence.
+
+Instructions arrive as clean, authoritative system prompts, but they also function like a marketing funnel: install, proceed, recover, extract, move. The tone does not merely guide; it normalizes violence as workflow.
+
+**Cross-links:** Corpus Observation 051, 063, 084.  
+**Status:** Repeated.
+
 ## Promotion Candidates
 
 - Simulation as apprenticeship.
