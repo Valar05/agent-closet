@@ -29,7 +29,7 @@ Read in this order:
 | `shared/index/` | Retrieval layer. | Finding what exists and what to read next. |
 | `procedures/` | Step-by-step operating procedures. | Running a repeatable workflow. |
 | `templates/` | Reusable file shapes. | Creating new entries consistently. |
-| `glue/` | Interface and workflow connection layers. | Fixing translation problems between tools, agents, or artifacts. |
+| `glue/` | Interface and workflow connection layers. Start with `glue/README.md` and `glue/ai-substrate-contract.md`. | Fixing translation problems between tools, agents, or artifacts. |
 | `corpus/fiction/` | Fiction manifest, source map, scene evidence, observation ledger, and book-local observations. | Mining fiction, supporting writing skills, or validating corpus-wide claims. |
 | `simulations/` | Simulation reports and life-simulation engines. | Designing consequence memory, pressure clocks, and world-state feedback loops. |
 | `scratch/` | Ore, dumps, fragments, and proof notes. | Capturing before refining. |
