@@ -23,13 +23,29 @@ Read in this order:
 | `agents/` | Role-specific identity, doctrine, loops, examples, and failure modes. | Creating, routing, or orienting an agent. |
 | `shared/` | Cross-agent doctrine, protocols, theories, skills, glossary, and indexes. | Establishing defaults or reusable judgment. |
 | `shared/doctrine/` | Promoted doctrine with provenance and acceptance criteria. | Preserving judgment that should change behavior. |
-| `shared/skills/` | Reusable behaviors and applied procedures. | Teaching agents how to perform a recurring move. |
+| `shared/skills/` | Shared reusable behaviors and applied procedures. | Teaching agents how to perform a recurring move that has already been routed into shared infrastructure. |
+| `skills/` | Active skill seeds and specialized applied skills awaiting consolidation. | Using or refining newer capabilities such as Scene Compiler, World Pressure Engine, or Kinetic Compression. |
 | `shared/theory/` | Higher-level explanatory models. | Connecting doctrine to research, design theory, or learning models. |
 | `shared/index/` | Retrieval layer. | Finding what exists and what to read next. |
 | `procedures/` | Step-by-step operating procedures. | Running a repeatable workflow. |
 | `templates/` | Reusable file shapes. | Creating new entries consistently. |
 | `glue/` | Interface and workflow connection layers. | Fixing translation problems between tools, agents, or artifacts. |
+| `corpus/fiction/` | Fiction corpus map, scene evidence, observation ledger, and book-local observations. | Mining fiction, supporting writing skills, or validating corpus-wide claims. |
+| `simulations/` | Simulation reports and life-simulation engines. | Designing consequence memory, pressure clocks, and world-state feedback loops. |
 | `scratch/` | Ore, dumps, fragments, and proof notes. | Capturing before refining. |
+
+## Writing / Fiction Generation Path
+
+When the task involves Drew's fiction, narrative judgment, scene generation, or manuscript mining, read in this order:
+
+1. `corpus/fiction/fiction-manifest.md` - canonical corpus scope and evidence gate.
+2. `corpus/fiction/observations/README.md` - book-local evidence rules.
+3. `skills/scene-compiler.md` - conductor skill for image -> pressure -> judgment -> system -> consequence -> next pressure.
+4. `skills/world-pressure-engine.md` - pressure selection and clock validation.
+5. `skills/kinetic-compression.md` - action/contact/state-change rendering.
+6. `shared/skills/perspective-graphing.md` - observer lenses and interpretation conflicts.
+7. `shared/theory/simulation-as-learning-infrastructure.md` - consequence simulation, feedback loops, and survivable disagreement.
+8. `corpus/fiction/fiction-observation-ledger.md` plus the relevant book-local observation file before promoting any claim.
 
 ## Current Bottleneck
 
@@ -42,6 +58,7 @@ Primary defects to reduce:
 - cross-links are incomplete
 - scratch can hide promotable ore
 - related concepts appear in multiple places without a graph
+- top-level `skills/` and `shared/skills/` are both active; routing is now explicit, but consolidation remains open
 
 ## Retrieval Rule
 
