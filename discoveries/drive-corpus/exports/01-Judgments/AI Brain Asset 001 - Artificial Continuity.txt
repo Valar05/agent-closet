@@ -1,0 +1,52 @@
+﻿Doctrine Asset: Artificial Continuity
+Status: Promoted first pass
+Domain: AI Brain, agent systems, project archaeology, personal knowledge management
+Source Trace: Continuity Revolution Bootstrap Prompt; AI Brain Strategy Update; Artificial Continuity Source Matrix.
+
+
+Problem:
+Useful reasoning disappears between sessions, agents, projects, and people. Work gets repeated because lessons survive as vague memory instead of reusable assets.
+
+
+Discovery:
+Intelligence solves a problem once. Continuity prevents that solution from disappearing.
+
+
+Judgment:
+Artificial Continuity means preserving, retrieving, transforming, and reapplying useful judgment across humans, agents, projects, and time.
+
+
+Evidence:
+Repeated AI Brain work produced the same pattern: project artifacts are less valuable than the judgments extracted from them. Existing Drive assets already include source matrices, skill clusters, command vocabulary, ingestion reports, and simulation models.
+
+
+Prediction:
+Agents that retrieve promoted continuity assets before raw project files will produce better recommendations with less repeated work.
+
+
+Cost of Loss:
+High. Losing this doctrine turns the AI Brain back into document hoarding and forces future agents to rebuild the model from scattered artifacts.
+
+
+Use When:
+- Organizing Drive knowledge.
+- Designing agent memory.
+- Promoting lessons from projects.
+- Building WWDD, Holocron, Quartermaster, Home Center, or Command Center.
+
+
+Do Not Use When:
+- The task only needs a temporary note.
+- The source has no durable lesson.
+- The asset cannot yet be separated from raw evidence.
+
+
+Related Assets:
+- AI Brain Strategy Update
+- 01 - Artificial Continuity Source Matrix
+- Skill Cluster - AI Orchestration
+- Home Center - Document Index
+
+
+Agent Instructions:
+Search promoted continuity assets before raw archives. When a useful lesson appears twice, consider promotion. When it appears three times, create or update a continuity asset.

@@ -1,0 +1,169 @@
+﻿ARTIFICIAL CONTINUITY SOURCE MATRIX
+
+
+Purpose: Cross-reference public research anchors against the Artificial Continuity theory.
+
+
+Legend:
+- Claim: what the source supports.
+- Continuity Relevance: how it maps into Artificial Continuity.
+- Agent Relevance: how it applies to AI agents.
+- Human Relevance: how it applies to people, teams, families, institutions, and civilization.
+
+
+1. Clark & Chalmers — The Extended Mind (1998)
+Source: https://en.wikipedia.org/wiki/Extended_mind_thesis
+Primary idea: Cognition can extend into external artifacts when those artifacts function as part of the cognitive process.
+Claim supported: External tools can become part of practical cognition.
+Continuity relevance: Durable notes, documents, search indexes, and agent memory are not merely storage; when coupled to action, they are cognitive infrastructure.
+Agent relevance: External memory and retrieval can be part of an agent's effective cognition.
+Human relevance: Notebooks, Drive, calendars, and markdown files can become part of a person's operational mind.
+
+
+2. Hutchins — Distributed Cognition / Cognition in the Wild
+Source: https://en.wikipedia.org/wiki/Distributed_cognition
+Primary idea: Cognition can be distributed across people, artifacts, representations, and practices.
+Claim supported: The cognitive unit of analysis can be a system, not just an individual brain.
+Continuity relevance: Command Center + Drive + agents + humans can be understood as a distributed cognitive system.
+Agent relevance: Multi-agent systems need shared representations, handoff structures, and process traces.
+Human relevance: Teams, families, ships, workplaces, and projects think through coordinated artifacts and roles.
+
+
+3. Halbwachs — Collective Memory
+Source: https://en.wikipedia.org/wiki/Collective_memory
+Primary idea: Groups preserve and reconstruct shared memory through social frameworks.
+Claim supported: Memory is socially structured, not merely individual storage.
+Continuity relevance: Doctrine is a social-technical framework for deciding what memories mean.
+Agent relevance: Agents need memory frameworks, not raw logs.
+Human relevance: Families, teams, religions, nations, fandoms, and projects maintain identity through shared memory.
+
+
+4. Wegner — Transactive Memory
+Source: https://en.wikipedia.org/wiki/Transactive_memory
+Primary idea: Groups remember by distributing knowledge across people and by knowing who knows what.
+Claim supported: A group memory system includes encoding, storage, retrieval, and meta-knowledge about expertise.
+Continuity relevance: Artificial Continuity needs 'where does this knowledge live?' and 'when should it be retrieved?'
+Agent relevance: Agent ecosystems need routing: which agent, file, tool, or corpus holds the relevant judgment?
+Human relevance: Couples, families, teams, and organizations become smarter when they know where knowledge lives.
+
+
+5. Walsh & Ungson — Organizational Memory
+Source: https://en.wikipedia.org/wiki/Organizational_memory
+Primary idea: Organizations retain knowledge in archives, individuals, processes, and records, but memory only matters if it can be accessed and used.
+Claim supported: Institutional memory requires acquisition, retention, maintenance, search, retrieval, and use.
+Continuity relevance: Artificial Continuity treats use as mandatory. Unused memory is storage rot.
+Agent relevance: Agent memory should be judged by whether it improves later action, not whether it exists.
+Human relevance: Teams lose competence when employees leave and undocumented tacit knowledge disappears.
+
+
+6. Nonaka & Takeuchi — SECI Knowledge Creation
+Source: https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions
+Primary idea: Knowledge moves between tacit and explicit forms through socialization, externalization, combination, and internalization.
+Claim supported: Knowledge creation is transformational, not merely archival.
+Continuity relevance: Artificial Continuity is a transformation pipeline: chat -> doctrine -> workflow -> behavior.
+Agent relevance: Agents can help externalize tacit knowledge and combine fragments into doctrine.
+Human relevance: Teams preserve craft by making tacit knowledge explicit and then re-internalizing it through practice.
+
+
+7. Tomasello / Cumulative Culture / Ratchet Effect
+Source: https://en.wikipedia.org/wiki/Ratchet_effect
+Primary idea: Human culture accumulates because innovations are preserved and improved rather than rediscovered from scratch.
+Claim supported: Continuity enables cumulative improvement.
+Continuity relevance: Artificial Continuity is a designed ratchet for personal, household, project, and agent workflows.
+Agent relevance: Agents can maintain skill libraries, doctrine libraries, and reusable procedures.
+Human relevance: Civilization compounds when discoveries persist across generations.
+
+
+8. Dalmaijer — Cumulative Culture in Artificial Navigators
+Source: https://arxiv.org/abs/2206.06281
+Primary idea: Cumulative culture can emerge in artificial agents with social proximity and route memory.
+Claim supported: Cumulative improvement can arise from memory-guided social systems without requiring mystical cognition.
+Continuity relevance: Continuity can be engineered as a system property.
+Agent relevance: Memory plus social routing can produce accumulated capability in agent populations.
+Human relevance: Even simple shared memory systems can preserve and improve routes through problem spaces.
+
+
+9. Lewis et al. — Retrieval-Augmented Generation
+Source: https://arxiv.org/abs/2005.11401
+Primary idea: Language models can combine parametric memory with explicit non-parametric memory, improving specificity and factuality while enabling source grounding.
+Claim supported: External retrievable memory can improve AI outputs and updateability.
+Continuity relevance: Retrieval is one technical substrate for Artificial Continuity.
+Agent relevance: RAG is necessary but insufficient; continuity also needs provenance, governance, and action feedback.
+Human relevance: Searchable archives make knowledge usable across time.
+
+
+10. Park et al. — Generative Agents
+Source: https://arxiv.org/abs/2304.03442
+Primary idea: Agents can store experiences, synthesize reflections, retrieve memories, and plan behavior.
+Claim supported: Memory -> reflection -> planning can produce believable agent behavior.
+Continuity relevance: Reflection is compression. Planning is reapplication.
+Agent relevance: Agent continuity needs observation, memory, reflection, retrieval, and planning.
+Human relevance: People do the same loop informally through journaling, reflection, habit, and planning.
+
+
+11. Zhang et al. — Trustworthy Memory Search for Personal AI Agents / MemGate
+Source: https://arxiv.org/abs/2606.06054
+Primary idea: Long-term memory is a trust boundary; semantic similarity alone can retrieve harmful or contextually inappropriate memories.
+Claim supported: Agent memory is not passive. It can reshape task interpretation and action.
+Continuity relevance: Governance is required. Continuity without gates becomes contamination.
+Agent relevance: Personal agents need task-conditioned memory admission, not raw similarity retrieval.
+Human relevance: Humans also suffer from inappropriate memory admission: old wounds, stale assumptions, irrelevant habits.
+
+
+12. Kim et al. — MemRefine
+Source: https://arxiv.org/abs/2606.13177
+Primary idea: Long-term memory stores grow without bound, creating redundancy and retrieval degradation; compression and preservation decisions matter.
+Claim supported: Memory maintenance is an active process.
+Continuity relevance: Compression is not optional; it is how continuity avoids drowning in its own archive.
+Agent relevance: Agents need merge/delete/preserve decisions under budget.
+Human relevance: Human notes also become useless when everything is saved and nothing is structured.
+
+
+13. Wang et al. — Evidence Tracing and Execution Provenance in LLM Agents
+Source: https://arxiv.org/abs/2606.04990
+Primary idea: Agent behavior becomes hard to verify when tools, memory, retrieval, and actions interact; evidence tracing and execution provenance connect claims to evidence and actions.
+Claim supported: Provenance is required for trust.
+Continuity relevance: Doctrine must preserve evidence and process, not merely conclusions.
+Agent relevance: Agents need auditable memory influence.
+Human relevance: Teams need to know why decisions were made, not only what was decided.
+
+
+14. Uchihira — GenAI SECI Model
+Source: https://arxiv.org/abs/2603.21866
+Primary idea: Generative AI can support tacit knowledge management and extend SECI-like knowledge workflows.
+Claim supported: AI can help manage the tacit/explicit boundary.
+Continuity relevance: Artificial Continuity uses AI to capture fragments, externalize tacit knowledge, and recombine them.
+Agent relevance: Agents can become externalization/compression partners.
+Human relevance: Human craft can be converted into reusable documents, prompts, workflows, and training artifacts.
+
+
+CROSS-REFERENCE TABLE
+
+
+Extended Mind -> External artifacts can participate in cognition.
+Distributed Cognition -> Cognition can be system-level.
+Collective Memory -> Memory is socially framed.
+Transactive Memory -> Groups retrieve through knowing who/where knowledge lives.
+Organizational Memory -> Institutions need accessible memory to learn.
+SECI -> Knowledge transforms between tacit and explicit forms.
+Cumulative Culture -> Continuity compounds across time.
+RAG -> External memory can ground AI outputs.
+Generative Agents -> Memory/reflection/planning enables agent behavior.
+MemGate / Memory Safety -> Memory requires admission gates.
+MemRefine -> Memory requires compression and maintenance.
+Evidence Provenance -> Continuity requires audit trails.
+
+
+SYNTHESIS
+Artificial Continuity is not invented from nothing. It is a synthesis of several mature lines of thought:
+- cognition extends into artifacts
+- cognition distributes across systems
+- groups preserve memory through frameworks
+- organizations need retrievable memory
+- culture accumulates through ratcheting
+- AI agents can retrieve, reflect, and act from memory
+- unsafe memory can corrupt behavior
+
+
+The novel contribution is packaging these into a practical doctrine for human-agent systems:
+Preserve reusable judgment with provenance, retrieval, governance, and action feedback.

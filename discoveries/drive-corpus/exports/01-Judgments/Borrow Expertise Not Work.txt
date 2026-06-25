@@ -1,0 +1,36 @@
+﻿Borrow Expertise Not Work
+
+
+Core Discovery
+Drew repeatedly succeeds by borrowing expertise from finished systems instead of starting from a blank state.
+
+
+Examples
+- Animation: phone recording -> pose matching -> Rigify. Borrow motion from reality.
+- Accessibility: borrow Google's speech recognition, solve the interface problem.
+- Marrow Runner: borrow Pac-Man structure, replace theme.
+- Armor Command: borrow Missile Command structure, add progression.
+- Long Haul: borrow Galaga spacing, insert driving controller.
+- Level design: borrow decades of Quake, Doom, Hexen, and prior project knowledge.
+
+
+Doctrine
+Do not learn an entire discipline before building.
+Find the nearest thing that already works.
+Extract the useful defaults.
+Preserve the working parts.
+Replace only what must change.
+Iterate from a known-good state.
+
+
+Named Pattern
+Borrow Expertise, Not Work.
+
+
+Companion Pattern
+Don't Become One With The Floor.
+The floor is the blank state: empty repo, empty scene, empty architecture, empty plan. Momentum dies there.
+
+
+Holocron Note
+Quartermaster assessment: this pattern appears repeatedly across shipped projects and is one of the strongest predictors of successful execution. Future agents should prefer borrowing proven expertise over greenfield invention whenever possible.

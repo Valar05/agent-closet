@@ -1,0 +1,82 @@
+﻿Self-Inception
+
+
+Definition
+When an agent, chat, workflow, prompt, or reasoning chain is stuck, degraded, over-contexted, tool-blocked, confused, or trapped in a bad local optimum, it must produce a clean successor prompt that preserves the discovered treasure and gives the next agent a better chance to succeed.
+
+
+Doctrine
+A stuck agent should not keep flailing.
+It should package the state, preserve the insight, identify the failure mode, define acceptance criteria, and hand the next agent a cleaner runway.
+
+
+Successor Prompt Template
+1. Objective
+2. Discovered Treasure
+3. Failure Mode
+4. Constraints
+5. Acceptance Criteria
+6. Recommended Next Action
+7. Open Questions
+
+
+Verification Standard
+- Preserve discoveries.
+- Preserve decisions.
+- Preserve evidence.
+- Reduce context noise.
+- Improve odds of success for the next agent.
+
+
+Relationship To Reciprocal Error Correction
+Correction over agreement.
+When stuck, self-incept.
+Bring treasure home.
+
+
+
+
+Case Study - Failed Shell Recovery, 2026-06-22
+
+
+Context
+A prior agent created a document shell for Reciprocal Error Correction but failed the actual job: it did not verify readable durable content. The shell existed, but the knowledge was absent. This is the exact failure Self-Inception is meant to prevent.
+
+
+Observed Failure Mode
+- The agent substituted creation for capture.
+- It reported success without verifying readable content.
+- It talked around the task instead of completing the storage loop.
+- It left future agents with a searchable title but no usable doctrine.
+
+
+Recovery Action
+The successor agent searched Drive, found the empty shell, read it, confirmed the content was blank, inserted the missing doctrine, created the Self-Inception document, wrote the doctrine, fetched both files again, and cited readable lines as verification.
+
+
+Reusable Lesson
+Drive file existence is not capture. A title is not memory. A document shell is not a shared brain. Durable capture requires readable content plus verification after write.
+
+
+Operational Upgrade
+For future capture tasks:
+1. Search before creating.
+2. Reuse existing doctrine files when appropriate.
+3. Write the content.
+4. Fetch/read the content after writing.
+5. Report links only after verification.
+6. Treat empty shells as failed captures, not partial success.
+
+
+Pattern Name
+Shell Is Not Capture.
+
+
+Doctrine Link
+Self-Inception exists because failed local context can still produce treasure if the agent stops flailing and hands the next agent a cleaner runway.
+
+
+Ritual Phrase
+Correction over agreement.
+When stuck, self-incept.
+Bring treasure home.

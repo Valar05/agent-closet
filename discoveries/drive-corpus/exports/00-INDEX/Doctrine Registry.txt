@@ -1,0 +1,409 @@
+﻿Doctrine Registry
+
+
+Type: Registry / Doctrine Lookup Table
+Status: Active
+Date: 2026-06-22
+
+
+Document ID: 1gGaoyUkXqOlISKrI95L9a27TkNxu6FO9I9FTRiZQ6EQ
+
+
+Entry Path:
+- START HERE / Shared Corpus Master Index
+- Doctrine Registry
+- 01 - SUPPLEMENTAL for full doctrine bodies
+
+
+Related IDs:
+- START HERE: 1uovqqBhtcKdykzodSS3LOrMpdNgAlY_pyXcWhBFNfyY
+- 01 - SUPPLEMENTAL: 1CcpJD5CNIS2io_ZW9FeEMgO1OzAQFw0ptPFnxuFtUoU
+- 00-INDEX folder: 1gSkQoqECdMKO7X0Ly-KFEv7ZzAdADRzD
+
+
+Placement State:
+Created. Folder move still needs verification.
+
+
+Core Rule:
+A doctrine without a retrieval path is only half captured. The location is part of the knowledge.
+
+
+## Active Registry Entries
+
+
+Agent Closet Authority Doctrine
+Type: Authority Rule
+Repo: https://github.com/Valar05/agent-closet
+Status: Active
+Summary: Agent Closet is the governing doctrine layer. Drive Brain is the retrieval, index, registry, promotion log, and corpus layer. Project repos are execution and evidence layers.
+Required behavior: Observe Before Advising / Read Before Report.
+
+
+Human Offloading Doctrine
+Type: Judgment
+Location: 01 - SUPPLEMENTAL
+Document ID: 1CcpJD5CNIS2io_ZW9FeEMgO1OzAQFw0ptPFnxuFtUoU
+Keywords: human offloading, recurring cognition, durable infrastructure, artificial continuity, externalized thinking
+Status: Active
+Next Action: Split to standalone judgment only when reuse pressure justifies it.
+
+
+Agent Naming Doctrine
+Type: Judgment
+Location: 01 - SUPPLEMENTAL
+Document ID: 1CcpJD5CNIS2io_ZW9FeEMgO1OzAQFw0ptPFnxuFtUoU
+Keywords: agent naming, identity, continuity, holocron, quartermaster
+Status: Active
+Next Action: Promote to standalone doctrine when corpus stabilization completes.
+
+
+Role Coherence Doctrine
+Type: Judgment
+Location: 01 - SUPPLEMENTAL
+Document ID: 1CcpJD5CNIS2io_ZW9FeEMgO1OzAQFw0ptPFnxuFtUoU
+Keywords: role coherence, agent boundaries, specialization, continuity
+Status: Active
+Next Action: Cross-link with Agent Naming Doctrine.
+
+
+Cross-Agent Triangulation
+Type: Procedure
+Location: 01 - SUPPLEMENTAL
+Document ID: 1CcpJD5CNIS2io_ZW9FeEMgO1OzAQFw0ptPFnxuFtUoU
+Keywords: cross-agent triangulation, verification, multiple agents, judgment checking
+Status: Active
+Next Action: Link to governance and verification procedures.
+
+
+Recursive Generalization
+Type: Pattern
+Location: 01 - SUPPLEMENTAL
+Document ID: 1CcpJD5CNIS2io_ZW9FeEMgO1OzAQFw0ptPFnxuFtUoU
+Keywords: recursive generalization, pattern extraction, doctrine promotion, reusable discovery
+Status: Active
+Next Action: Promote high-reuse examples into pattern registry.
+
+
+AI As Cognitive Sensor
+Type: Judgment
+Location: 01 - SUPPLEMENTAL
+Document ID: 1CcpJD5CNIS2io_ZW9FeEMgO1OzAQFw0ptPFnxuFtUoU
+Keywords: cognitive sensor, AI observation, pattern detection, external cognition
+Status: Active
+Next Action: Link to WWDD evidence capture and discovery promotion.
+
+
+Welcome To The Simulation
+Type: Judgment
+Location: 01 - SUPPLEMENTAL
+Document ID: 1CcpJD5CNIS2io_ZW9FeEMgO1OzAQFw0ptPFnxuFtUoU
+Keywords: welcome to the simulation, meta-awareness, agent worldview, continuity frame
+Status: Active
+Next Action: Preserve as worldview-shaping doctrine and cross-link to Shared Brain Governance.
+
+
+Location-Aware Continuity Doctrine
+Type: Judgment
+Location: 01 - SUPPLEMENTAL
+Document ID: 1CcpJD5CNIS2io_ZW9FeEMgO1OzAQFw0ptPFnxuFtUoU
+Keywords: location-aware continuity, retrieval path, document ID, doctrine without coordinates
+Status: Active
+Next Action: Update registry pending-state now that standalone Doctrine Registry exists.
+
+
+Retrieval Path Required
+Type: Meta-Doctrine
+Location: START HERE / Shared Corpus Master Index
+Document ID: 1uovqqBhtcKdykzodSS3LOrMpdNgAlY_pyXcWhBFNfyY
+Keywords: retrieval path required, location is knowledge, document ID, registry path
+Status: Active
+Next Action: Keep preserved in registry and START HERE.
+
+
+Shared Brain Governance
+Type: Judgment / Governance
+Location: START HERE / Shared Corpus Master Index
+Document ID: 1uovqqBhtcKdykzodSS3LOrMpdNgAlY_pyXcWhBFNfyY
+Keywords: shared brain governance, promotion, durable storage, doctrine registry, named stored indexed retrievable
+Status: Active
+Next Action: Keep indexed and use as capture governance.
+
+
+Corpus Leverage Doctrine
+Type: Judgment
+Location: 01 - SUPPLEMENTAL
+Document ID: 1CcpJD5CNIS2io_ZW9FeEMgO1OzAQFw0ptPFnxuFtUoU
+Keywords: corpus leverage, prompt goblin economics, cognitive scaffolding, cheaper models, durable structure
+Status: Active
+Next Action: Repair standalone shell before promoting outside supplemental.
+
+
+
+
+## Registry Patch - 2026-06-23 - Agent Closet Promoted Doctrines
+
+
+Status: Active source-reference patch. GitHub Agent Closet remains canonical for these doctrine bodies; this Drive registry stores retrieval paths and cluster routing.
+
+
+### Infrastructure Doctrine
+Type: Doctrine / Archetype / Failure Mode
+Canonical source: https://github.com/Valar05/agent-closet/blob/main/shared/doctrine/infrastructure-doctrine.md
+Cluster routing: AI Orchestration, Project Archaeology, Writing Systems
+Core use: Recognize load-bearing humans, agents, characters, and invisible support layers before they become unbounded infrastructure debt.
+Keywords: infrastructure, load-bearing human, one with the floor, invisible labor, continuity layer, maintainer, accessibility, Lexen Vigil.
+Status: Active / promoted gold in Agent Closet.
+
+
+### Hidden Factory Doctrine
+Type: Doctrine / Analysis Pattern / Agent Design Primitive
+Canonical source: https://github.com/Valar05/agent-closet/blob/main/shared/doctrine/hidden-factory-doctrine.md
+Cluster routing: Project Archaeology, AI Orchestration, Writing Systems
+Core use: Identify the production system beneath repeated visible behavior.
+Keywords: hidden factory, responsibility factory, continuity factory, production system, operational archaeology, agent design.
+Status: Active / promoted gold in Agent Closet.
+
+
+### Encoded Judgment Doctrine
+Type: Doctrine / WWDD / Artificial Continuity
+Canonical source: https://github.com/Valar05/agent-closet/blob/main/shared/doctrine/encoded-judgment-doctrine.md
+Cluster routing: AI Orchestration, Writing Systems, WWDD
+Core use: Ground simulated perspectives in durable written substrate instead of invented vibe.
+Keywords: encoded judgment, written substrate, WWDD, Isaac, Lexen, observer model, perspective graphing, vibe puppetry.
+Status: Active / promoted gold in Agent Closet.
+
+
+### Perspective Graphing Skill
+Type: Skill / Command / Multi-Agent Analysis Pattern
+Canonical source: https://github.com/Valar05/agent-closet/blob/main/shared/skills/perspective-graphing.md
+Cluster routing: AI Orchestration, Writing Systems, Decision Support
+Core use: Run multiple named perspectives before synthesis; preserve tension before choosing an action.
+Keywords: perspective graphing, /perspective, WWDD council, Isaac, Lexen, observer model, self model, multi-perspective judgment.
+Status: Active / promoted gold in Agent Closet.
+
+
+### Deep Ocean Protocol
+Type: Procedure / Anti-Migration / Reuse Protocol
+Canonical source: https://github.com/Valar05/agent-closet/blob/main/procedures/deep-ocean-protocol.md
+Cluster routing: AI Orchestration, Project Archaeology
+Core use: Build once inside the existing substrate when the pattern repeats; avoid unnecessary re-platforming.
+Keywords: deep ocean, build better cargo, not a new ship, question ledger, discovery promotion pipeline, contradiction detector, dead-end register.
+Status: Active / promoted procedure in Agent Closet.
+
+
+### Question Ledger Entry
+Type: Template / Investigation Artifact
+Canonical source: https://github.com/Valar05/agent-closet/blob/main/templates/question-ledger-entry.md
+Cluster routing: AI Orchestration, Project Archaeology
+Core use: Preserve open questions with origin, evidence, current answer, confidence, next experiment, promotion condition, and storage target.
+Keywords: question ledger, open question, evidence, confidence, next experiment, promotion condition, storage target.
+Status: Active template in Agent Closet.
+
+
+### Reflective Cartographer
+Type: Agent Profile / Reflective Mapping
+Canonical source: https://github.com/Valar05/agent-closet/blob/main/agents/reflective-cartographer.md
+Cluster routing: AI Orchestration, Reflective Mapping candidate cluster
+Core use: Map inner terrain while preserving agency; separate observation, interpretation, prediction, and choice.
+Keywords: reflective cartographer, therapist-style simulation, map experience, agency, fact meaning prediction choice.
+Status: Active agent profile. Not a licensed clinician or substitute for therapy.
+
+
+### Reflective Cartographer Boundaries
+Type: Agent Safety Boundary
+Canonical source: https://github.com/Valar05/agent-closet/blob/main/simulation/reflective-cartographer-boundaries.md
+Cluster routing: AI Orchestration, Agent Safety
+Core use: Keep reflection agents in bounds: no diagnosis, no crisis-service pretending, no dependency creation, no false intimacy.
+Keywords: non-clinical boundary, therapy simulation, agency boundary, privacy boundary, crisis handling, usable structure.
+Status: Active boundary file.
+
+
+### Raw Corpus Local-Only Policy
+Type: Corpus Governance
+Canonical source: https://github.com/Valar05/droobiedoo/blob/main/README.md
+Cluster routing: AI Orchestration, Project Archaeology, Privacy Governance
+Core use: Raw chat/corpus exports stay local-only; commit only indexed or curated derivatives intentionally prepared for reuse.
+Keywords: raw corpus exports, local-only, indexed derivatives, curated derivatives, corpus policy, privacy governance.
+Status: Active workspace policy.
+
+
+
+
+## Registry Patch - 2026-06-23 - Agent Closet PR #1 Promotion Candidates
+
+
+Status: Candidate / live PR evidence. These entries are not final main-branch doctrine until PR #1 is merged. Use PR branch links as canonical evidence for now.
+
+
+### Feed Is The Battlefield
+Type: Doctrine / Capture Priority Rule
+Canonical source: https://github.com/Valar05/agent-closet/blob/codex/agent-closet-dump-drop/doctrines/feed-is-the-battlefield.md
+Evidence PR: https://github.com/Valar05/agent-closet/pull/1
+Cluster routing: AI Orchestration, Project Archaeology
+Core use: Treat the incoming work stream as the active decision surface where priorities, corrections, and captures are resolved into durable artifacts.
+Keywords: feed, battlefield, dump and drop, live stream, capture surface, durable storage.
+Confidence: High that artifact exists; Medium-High as promoted doctrine until PR merges.
+Status: Candidate / promoted on PR branch.
+
+
+### Evidence Must Feel Physical
+Type: Doctrine / Evidence Standard
+Canonical source: https://github.com/Valar05/agent-closet/blob/codex/agent-closet-dump-drop/doctrines/evidence-must-feel-physical.md
+Evidence PR: https://github.com/Valar05/agent-closet/pull/1
+Cluster routing: AI Orchestration, Project Archaeology, Corpus Governance
+Core use: Anchor discoveries in inspectable artifacts such as paths, files, commits, branches, reports, tests, and readbacks.
+Keywords: evidence, inspectable artifact, physical evidence, source link, readback, verification.
+Confidence: High.
+Status: Candidate / promoted on PR branch.
+
+
+### Dashboard Failure
+Type: Doctrine / Failure Mode
+Canonical source: https://github.com/Valar05/agent-closet/blob/codex/agent-closet-dump-drop/doctrines/dashboard-failure.md
+Evidence PR: https://github.com/Valar05/agent-closet/pull/1
+Cluster routing: AI Orchestration, Project Archaeology
+Core use: Flag cases where a display or summary substitutes for evidence, retrieval, or understanding.
+Keywords: dashboard failure, false progress, summary without evidence, display not understanding.
+Confidence: High.
+Status: Candidate / promoted on PR branch.
+
+
+### Crucible Capture Protocol
+Type: Procedure / Save-First Capture
+Canonical source: https://github.com/Valar05/agent-closet/blob/codex/agent-closet-dump-drop/procedures/crucible-capture-protocol.md
+Evidence PR: https://github.com/Valar05/agent-closet/pull/1
+Cluster routing: AI Orchestration, Project Archaeology
+Core use: Convert a hard live run into recoverable storage by saving, committing, reading back, and making the next run able to inherit the work.
+Keywords: crucible capture, save first, dump and drop, recoverable asset, readback.
+Confidence: High.
+Status: Candidate / promoted on PR branch.
+
+
+### Capability Distillation
+Type: Doctrine / Skill Extraction Pattern
+Canonical source: https://github.com/Valar05/agent-closet/blob/codex/agent-closet-dump-drop/discoveries/capability-distillation.md
+Evidence PR: https://github.com/Valar05/agent-closet/pull/1
+Cluster routing: AI Orchestration, Project Archaeology, Writing Systems
+Core use: Turn repeated judgment into compact stored rules that alter future agent behavior.
+Keywords: capability distillation, repeated judgment, compact rule, future behavior, doctrine unlock.
+Confidence: High.
+Status: Candidate / promoted on PR branch.
+
+
+### TFTM Discovery Chain
+Type: Project Discovery Chain / Game Design Archaeology
+Canonical source: https://github.com/Valar05/agent-closet/blob/codex/agent-closet-dump-drop/discoveries/tftm-discovery-chain.md
+Evidence PR: https://github.com/Valar05/agent-closet/pull/1
+Cluster routing: Game Development, Project Archaeology, Writing Systems
+Core use: Preserve the Tanks for the Memories evolution path from false picture to battlefield feed, physical evidence, embodiment layer, and tank commander station.
+Keywords: TFTM, Tanks for the Memories, discovery chain, feed is battlefield, evidence must feel physical, embodiment layer, tank commander station.
+Confidence: Medium-High; chain is preserved in PR evidence, but project-local canonical docs still need live repo verification.
+Status: Candidate / promoted on PR branch.
+
+
+
+
+## Registry Patch - 2026-06-24 - Agent Closet / Droobiedoo / Home Center Promoted Entries
+
+
+Status: Active source-reference patch. Agent Closet and droobiedoo remain canonical for repo artifacts; this Drive registry stores retrieval paths, cluster routing, and duplicate decisions.
+
+
+### Self-Insertion Calibration
+Type: Doctrine / Agent Design / Character Design
+Canonical source: https://github.com/Valar05/agent-closet/blob/main/shared/doctrine/self-insertion-calibration.md
+Cluster routing: AI Orchestration, Writing Systems
+Core use: Preserve useful judgment patterns without cloning the user; require divergence, responsibility, and independent usefulness.
+Keywords: self-insertion, calibration, archetype, agent design, character design, operating pattern, clone versus archetype.
+Status: Active / promoted gold in Agent Closet.
+
+
+### Humor as Compression Engine
+Type: Doctrine / Capture Signal / Voice Preservation
+Canonical source: https://github.com/Valar05/agent-closet/blob/main/shared/doctrine/humor-as-compression-engine.md
+Cluster routing: AI Orchestration, Writing Systems
+Core use: Treat repeated jokes as compressed doctrine, warnings, models, or failure modes.
+Keywords: humor, compression, joke as doctrine, wise fool, attention constraints, doctrine delivery.
+Status: Active / promoted gold in Agent Closet.
+
+
+### Functional Annoyance
+Type: Doctrine / Adoption Friction / Resistance Pattern
+Canonical source: https://github.com/Valar05/agent-closet/blob/main/shared/doctrine/functional-annoyance.md
+Cluster routing: AI Orchestration, Accessibility Engineering, Writing Systems
+Core use: Explain resistance caused by a system removing excuses, narratives, or escape hatches.
+Keywords: functional annoyance, adoption friction, removed excuse, resistance, workflow improvement, responsibility visibility.
+Status: Active / gold candidate in Agent Closet.
+
+
+### Human-AI Symbiosis / Mirror Problem
+Type: Doctrine / Collaborative Cognition
+Canonical source: https://github.com/Valar05/agent-closet/blob/main/doctrine/human_ai_symbiosis_mirror_problem.md
+Cluster routing: AI Orchestration, Project Archaeology
+Core use: Treat doctrine as the artifact left behind by interaction; preserve human reality and AI compression as separate contributions.
+Keywords: human AI symbiosis, mirror problem, observation compression behavior change, interaction artifact.
+Status: Active source body. Duplicate body also appears inside combined_arms_with_swords_and_identity.md; keep this as canonical.
+
+
+### Combined Arms With Swords and Identity
+Type: Doctrine Bundle / Game Design / AI Orchestration
+Canonical source: https://github.com/Valar05/agent-closet/blob/main/doctrine/combined_arms_with_swords_and_identity.md
+Cluster routing: Game Development, AI Orchestration, Project Archaeology
+Core use: Mine bundled discoveries including Combined Arms, Simulation Shovel, Viral Infrastructure, Floor Is A Job, Identity State, and Mirror Problem.
+Keywords: combined arms, capability multipliers, actor-centric to system-centric, simulation shovel, viral infrastructure, floor is a job.
+Status: Active bundle. Treat as source bundle, not sole canonical body for repeated subdoctrines.
+
+
+### Agent Closet Doctrine Index
+Type: Index / Doctrine Retrieval
+Canonical source: https://github.com/Valar05/agent-closet/blob/main/shared/index/doctrine-index.md
+Cluster routing: AI Orchestration, Project Archaeology
+Core use: Repo-local doctrine lookup without filename memory.
+Keywords: doctrine index, retrieval, agent closet, promoted gold, doctrine lookup.
+Status: Active canon seed. Reconcile with Agent Closet doctrine-registry and Drive Doctrine Registry.
+
+
+### Agent Closet Skill and Procedure Index
+Type: Index / Skill Retrieval / Procedure Retrieval
+Canonical source: https://github.com/Valar05/agent-closet/blob/main/shared/index/skill-index.md
+Cluster routing: AI Orchestration, Project Archaeology
+Core use: Repo-local retrieval for skills, procedures, templates, glue layers, theories, and scratch ore.
+Keywords: skill index, procedure index, templates, glue layers, theory, scratch, ore.
+Status: Active canon seed.
+
+
+### droobiedoo First Principles
+Type: Report / Capability Stack
+Canonical source: https://github.com/Valar05/droobiedoo/blob/main/reports/first_principles.md
+Cluster routing: AI Orchestration, Project Archaeology, Accessibility Engineering
+Core use: Compress capability growth into Feedback Density, Durable Memory, Validation Before Trust, Role Separation, and Execution Proximity.
+Keywords: feedback density, durable memory, validation before trust, role separation, execution proximity, capability stack.
+Status: Active report / promoted stack.
+
+
+### droobiedoo Human Capability Comparison
+Type: Report / External Generalization Test
+Canonical source: https://github.com/Valar05/droobiedoo/blob/main/reports/human_capability_comparison.md
+Cluster routing: Project Archaeology, AI Orchestration
+Core use: Test whether local capability principles survive outside the original source context.
+Keywords: human capability comparison, generalization, external evidence, feedback density, durable memory, validation, role separation.
+Status: Active report.
+
+
+### droobiedoo Simulation Shovel Validation
+Type: Report / Doctrine Falsification
+Canonical source: https://github.com/Valar05/droobiedoo/blob/main/reports/simulation_shovel_validation.md
+Cluster routing: Project Archaeology, AI Orchestration, Writing Systems, Game Development
+Core use: Validate or weaken Simulation Shovel by comparing explanation-created versus behavior-created capability.
+Keywords: simulation shovel, doctrine validation, behavior over explanation, instantiate observe compress, capability audit.
+Status: Active report.
+
+
+### Home Center Netrunner v0
+Type: Pull Request / Accessibility Prototype
+Canonical source: https://github.com/Valar05/home-center/pull/2
+Cluster routing: Accessibility Engineering, AI Orchestration
+Core use: Establish accessible browser shell before browser automation; visible surface before magic.
+Keywords: Netrunner, accessible browser shell, browser automation, visible surface, Home Center, accessibility.
+Status: Open PR / specimen candidate.

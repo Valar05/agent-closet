@@ -20,6 +20,7 @@ Purpose: Make reusable behaviors, procedures, templates, and theory easier to fi
 |---|---|---|
 | Capture Save Promote | `procedures/capture-save-promote.md` | Turning chat discoveries into durable repo assets. |
 | Deep Ocean Protocol | `procedures/deep-ocean-protocol.md` | Improving cargo/structure before scaling the vessel. |
+| Drive Corpus Sync | `procedures/drive-corpus-sync.md` | Syncing Google Drive fiction corpus exports into repository-readable local evidence. |
 
 ## Templates
 

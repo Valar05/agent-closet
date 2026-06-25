@@ -64,6 +64,7 @@ The rule is simple: dump first, then mine the useful parts into shared doctrine 
 - `shared/doctrines.md`: shared defaults and promoted doctrines.
 - `shared/recursive-sense-synthesis.md`: the continuity framework note.
 - `discoveries/`: promoted discovery notes and origin records.
+- `discoveries/drive-corpus/`: exported Drive source evidence, manifest, and sync notes.
 - `doctrines/`: focused doctrine pages that have already earned storage.
 - `scratch/ore-worth-promoting.md`: intake queue for rough ore and promotion candidates.
 
@@ -75,3 +76,11 @@ The rule is simple: dump first, then mine the useful parts into shared doctrine 
 - volatile chatter that should live in a session note instead
 
 Manifesto comes later. Merge request comes first.
+
+## Google Drive Corpus
+
+The Drive corpus workflow lives in `procedures/drive-corpus-sync.md`.
+
+Use `tools/configure-drive-remote.sh` once to create the read-only rclone remote, then use `tools/refresh-drive-corpus.sh` as the single refresh command.
+
+Exported Drive material is stored under `discoveries/drive-corpus/` so repository workflows can read it locally without touching the original Drive documents.

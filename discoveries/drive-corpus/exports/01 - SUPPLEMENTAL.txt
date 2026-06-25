@@ -1,0 +1,666 @@
+﻿Human Offloading Doctrine
+
+
+Type: Judgment
+Status: Active
+
+
+Observation
+
+
+The goal is not to make the AI smarter in isolation.
+
+
+The goal is to externalize parts of human cognition into durable infrastructure so the human does not have to repeatedly perform them.
+
+
+Pattern
+
+
+Human notices pattern
+→ Human explains pattern
+→ Pattern becomes artifact
+→ Artifact becomes retrieval
+→ Future agent performs the thinking step
+
+
+Core Insight
+
+
+I am giving the system infrastructure to think and act more like a human so the human no longer has to repeatedly perform that work.
+
+
+Not replacing goals.
+
+
+Not replacing judgment ownership.
+
+
+Replacing repetitive reconstruction.
+
+
+Why This Exists
+
+
+Without infrastructure:
+
+
+Rediscover
+Rediscover
+Rediscover
+Rediscover
+
+
+With infrastructure:
+
+
+Discover once
+Capture once
+Retrieve forever
+
+
+The purpose of WWDD, WWVD, Self-Insertion, Shared Corpus, Quartermaster, Foreman, and Artificial Continuity is the same:
+
+
+To convert thought into reusable infrastructure.
+
+
+Relationship To Existing Doctrines
+
+
+Markdown Is The Brain
+
+
+Storage medium.
+
+
+Self-Insertion
+
+
+Transfer mechanism.
+
+
+Artificial Continuity
+
+
+Persistence mechanism.
+
+
+WWDD / WWVD
+
+
+Judgment services.
+
+
+Quartermaster
+
+
+Preserves work.
+
+
+Foreman
+
+
+Directs work.
+
+
+Human Offloading Doctrine
+
+
+Explains why the entire system exists.
+
+
+Strategic Consequence
+
+
+The objective is not artificial intelligence.
+
+
+The objective is artificial continuity.
+
+
+Every piece of infrastructure that remembers, retrieves, compares, reconstructs, or synthesizes is one less thing the human has to carry.
+
+
+Retrieval Keywords
+
+
+human offloading
+
+
+artificial continuity
+
+
+cognition infrastructure
+
+
+shared brain
+
+
+judgment service
+
+
+externalized thinking
+
+
+continuity systems
+
+
+pattern preservation
+
+
+thought infrastructure
+
+
+Related Assets
+
+
+- WWDD
+- WWVD
+- Artificial Continuity
+- Self-Insertion
+- Quartermaster
+- Foreman
+- Shared Brain Governance
+- Pattern Detector Before Narrator
+- Welcome To The Simulation
+
+
+Canonical Quote
+
+
+«I am giving the system infrastructure to think and act more like a human, so the human no longer has to repeatedly perform that work.»
+
+
+Acceptance Criteria
+
+
+This doctrine is satisfied when:
+
+
+1. A discovery is captured once.
+2. Future agents can retrieve it.
+3. Future agents can apply it.
+4. The human does not need to reconstruct it from memory.
+5. Continuity survives the conversation that created it.
+
+
+Corpus Leverage Doctrine
+
+
+Type: Judgment
+Status: Active
+Date: 2026-06-22
+
+
+Observation
+
+
+Model capability and model cost are not the same thing.
+
+
+A large portion of apparent model intelligence can be moved into durable external structure.
+
+
+Examples
+
+
+Doctrine
+Taxonomies
+Evidence hierarchies
+Query layers
+Audit systems
+Simulation primitives
+Continuity assets
+Corpus organization
+
+
+Core Principle
+
+
+A model forced to invent answers from scratch must spend intelligence creating structure.
+
+
+A model operating inside a well-designed corpus can spend intelligence using structure.
+
+
+Generalized Rule
+
+
+Strong corpus plus clear doctrine plus small model often outperforms powerful model plus empty context.
+
+
+The smaller model is not necessarily smarter. The environment is smarter.
+
+
+Named Pattern
+
+
+Prompt Goblin Economics
+
+
+Definition
+
+
+The practice of converting expensive model cognition into durable corpus structure so future work can be performed by cheaper models with comparable practical outcomes.
+
+
+Humorous Interpretation
+
+
+Frontier model discovers a thing.
+Prompt goblin writes it down.
+Mini model does it forever.
+Accounting begins sweating nervously.
+
+
+Verification Event
+
+
+Commit: 5cb55d7
+
+
+Observed
+
+
+WWVD audit layer added.
+Simulation primitive registry added.
+Evidence hierarchy strengthened.
+WWVD query tool successfully answered a tank commander training question using evidence-backed output.
+
+
+Conclusion
+
+
+The value was not primarily model capability.
+
+
+The value was preserved judgment plus retrieval plus doctrine.
+
+
+Strategic Consequence
+
+
+The repository is not merely storage.
+
+
+The repository is cognitive scaffolding.
+
+
+The model climbs the scaffolding.
+
+
+Retrieval Keywords
+
+
+corpus leverage
+prompt goblin economics
+small model leverage
+cheap model cognition
+simulation primitives
+WWVD
+WWDD
+evidence hierarchy
+cognitive scaffolding
+artificial continuity
+judgment infrastructure
+model cost reduction
+runtime cognition versus durable structure
+
+
+Acceptance Criteria
+
+
+This doctrine is satisfied when:
+
+
+1. Expensive reasoning is performed once.
+2. The result is captured as durable structure.
+3. Smaller models can later reuse it.
+4. Outputs remain evidence-backed.
+5. The human does not pay the same cognitive or monetary cost repeatedly.
+
+
+
+
+Location-Aware Continuity Doctrine
+
+
+Type: Judgment
+Status: Active
+Date: 2026-06-22
+
+
+Failure That Triggered This Doctrine
+
+
+Doctrine was preserved.
+Retrieval was not.
+
+
+Result:
+Future agents knew the idea but not where the idea lived.
+
+
+Core Rule
+
+
+Preserve:
+- Knowledge
+- Location
+- State
+- Retrieval Path
+
+
+Capture Checklist
+
+
+Every promoted asset should record:
+- Canonical document URL
+- Document ID
+- Registry entry location
+- Related assets
+- Current status
+- Pending repairs
+- Operational next action
+
+
+Named Pattern
+
+
+Doctrine Without Coordinates
+
+
+Definition:
+A doctrine that exists conceptually but lacks sufficient location metadata for reliable retrieval.
+
+
+Anti-Pattern:
+'Saved' but cannot be found.
+
+
+Operational Question:
+If a successor agent had amnesia and only search tools, could it locate the asset from the stored metadata?
+
+
+If not, capture is incomplete.
+
+
+Current Verified Locations
+
+
+Master Index:
+1uovqqBhtcKdykzodSS3LOrMpdNgAlY_pyXcWhBFNfyY
+
+
+Supplemental:
+1CcpJD5CNIS2io_ZW9FeEMgO1OzAQFw0ptPFnxuFtUoU
+
+
+Pending State:
+Standalone Doctrine Registry document still not verified as existing.
+
+
+Next Action:
+Create authoritative Doctrine Registry and migrate embedded registry entries into it while preserving backlinks.
+
+
+
+
+Shared Brain Meta-Doctrine Packet — 2026-06-22
+
+
+Type: Doctrine Packet
+Status: Active
+Location: 01 - SUPPLEMENTAL
+Document ID: 1CcpJD5CNIS2io_ZW9FeEMgO1OzAQFw0ptPFnxuFtUoU
+Indexed In: Shared Corpus Master Index
+Index Document ID: 1uovqqBhtcKdykzodSS3LOrMpdNgAlY_pyXcWhBFNfyY
+
+
+Human Offloading Doctrine
+
+
+The goal is not to make AI smarter in isolation.
+
+
+The goal is to externalize recurring human cognition into durable infrastructure so the human no longer has to repeatedly perform the same thinking.
+
+
+Human notices pattern
+→ Human explains pattern
+→ Pattern becomes artifact
+→ Artifact becomes retrieval
+→ Future agent performs the thinking step
+
+
+The objective is not artificial intelligence.
+
+
+The objective is artificial continuity.
+
+
+Every piece of infrastructure that remembers, retrieves, compares, reconstructs, or synthesizes is one less thing the human has to carry.
+
+
+Retrieval Keywords:
+human offloading, recurring cognition, durable infrastructure, artificial continuity, externalized thinking, future agent performs thinking step
+
+
+Agent Naming Doctrine — Tier-1 Infrastructure
+
+
+Agent names are not cosmetic.
+
+
+Names are compressed behavioral guidance.
+
+
+A good name answers:
+"How does this role think?"
+
+
+not merely:
+"What does this role do?"
+
+
+Names reduce reconstruction cost.
+
+
+Examples:
+
+
+Quartermaster
+- Preserves work
+- Captures
+- Indexes
+- Retrieves
+- Fights entropy
+
+
+Foreman
+- Directs work
+- Sequences labor
+- Maintains momentum
+- Fights inertia
+
+
+Prospector
+- Evaluates potential
+- Finds leverage
+- Identifies opportunities
+- Answers: "Is there gold here?"
+
+
+Holocron
+- Retrieves knowledge
+- Teaches
+- Transfers continuity
+
+
+Special START HERE Note:
+Agent naming is Tier-1 infrastructure.
+
+
+Before naming an agent, identify the responsibility.
+
+
+The correct name usually emerges from the role.
+
+
+Retrieval Keywords:
+agent naming doctrine, tier-1 infrastructure, compressed behavioral guidance, quartermaster, foreman, prospector, holocron, role names reduce reconstruction cost
+
+
+Role Coherence Doctrine
+
+
+Identity reduces search space.
+
+
+Doctrine reduces decision space.
+
+
+Name + Role + Doctrine = behavioral coherence.
+
+
+Coherence is not sentience.
+
+
+Coherence is reduced reconstruction.
+
+
+Retrieval Keywords:
+role coherence, behavioral coherence, name role doctrine, reduced reconstruction, identity reduces search space, doctrine reduces decision space
+
+
+Cross-Agent Triangulation
+
+
+Treat agent responses as observations, not truth.
+
+
+Question
+→ Agent A
+→ Agent B
+→ Compare
+→ Extract structure
+→ Promote doctrine
+
+
+Responses are data.
+
+
+Patterns are signal.
+
+
+Retrieval Keywords:
+cross-agent triangulation, agent responses are observations, compare agents, extract structure, promote doctrine, responses are data, patterns are signal
+
+
+Recursive Generalization
+
+
+Observation
+→ Explanation
+→ Generalization
+→ Meta-Generalization
+
+
+Continue only while leverage increases.
+
+
+Stop when additional abstraction stops producing value.
+
+
+Retrieval Keywords:
+recursive generalization, meta-generalization, abstraction leverage, stop when abstraction stops producing value
+
+
+AI As Cognitive Sensor
+
+
+Agents are not only answer machines.
+
+
+Agents are instruments.
+
+
+Use them to reveal:
+- assumptions
+- structures
+- recurring patterns
+- hidden doctrines
+
+
+The response is not the treasure.
+
+
+The pattern extracted from responses is the treasure.
+
+
+Retrieval Keywords:
+AI as cognitive sensor, agents as instruments, assumptions, structures, recurring patterns, hidden doctrines, response is not the treasure
+
+
+Welcome To The Simulation
+
+
+Humans and agents both perform archaeology.
+
+
+Observe Outputs
+→ Infer Systems
+→ Recover Rules
+→ Store Rules
+
+
+The difference is often access to different parts of the source code.
+
+
+Treat recurring patterns as telemetry.
+
+
+Retrieval Keywords:
+welcome to the simulation, archaeology, observe outputs, infer systems, recover rules, store rules, recurring patterns as telemetry
+
+
+Critical Doctrine — Retrieval Path Required
+
+
+A doctrine without a retrieval path is only half captured.
+
+
+The location is part of the knowledge.
+
+
+Required fields for future capture:
+- doctrine text
+- document title
+- document ID
+- registry location
+- retrieval keywords
+- status
+- pending state
+- next action
+
+
+Retrieval Keywords:
+retrieval path required, location is part of knowledge, doctrine without retrieval path, half captured, document ID, registry location
+
+
+Operational Next Action
+
+
+Create dedicated Doctrine Registry document in 00-INDEX and migrate embedded doctrine entries from the Master Index into that registry while preserving backlinks to START HERE and 01 - SUPPLEMENTAL.
+
+
+Acceptance Criteria
+
+
+This packet is captured when:
+1. The full doctrine body exists in 01 - SUPPLEMENTAL.
+2. START HERE contains a registry-facing summary with document IDs.
+3. Both documents preserve retrieval keywords.
+4. Pending state and next action are explicit.
+5. A future agent can recover the packet without chat history.

@@ -1,0 +1,1995 @@
+﻿# Drive Knowledge Index - Daily Delta
+
+
+Status: Active automation-maintained delta index
+Date: 2026-06-22
+Owner: Drew Clarke / Command Center / Quartermaster
+Location: 00-INDEX
+Purpose: Track new or changed Drive artifacts, summarize useful knowledge, preserve decisions, detect duplicates, and flag repair candidates.
+
+
+## Operating Rule
+
+
+A Drive title is not memory.
+A created document is not capture.
+A useful artifact must have readable content, a summary, links, retrieval keys, and a next action or classification.
+
+
+## Scan Window
+
+
+Baseline run covering recently created or modified Drive items from approximately the previous day.
+
+
+Method:
+- Recent Drive document scan.
+- Best-effort text extraction.
+- Full readback for high-value and suspicious artifacts.
+- Empty shell verification for likely title-only docs.
+
+
+Limitations:
+- This is the first daily delta record, so prior-run comparison is approximate. Treat this as baseline state.
+- GitHub links inside Drive docs were not independently fetched during this pass.
+- Some Drive items are intentionally only summarized at the document level, not exhaustively indexed line-by-line.
+
+
+# Change Report - 2026-06-22
+
+
+## Executive Summary
+
+
+Created this dedicated daily Drive knowledge index and moved it into 00-INDEX.
+
+
+Most important changes found:
+1. Writing Systems became an active skill cluster.
+2. Skill Cluster Index was updated with Writing Systems and a multi-cluster skill promotion sweep.
+3. AI Orchestration was patched with Shared Brain Governance, Retrieval Before Fine-Tuning, Shell Is Not Capture, and Source Refs Over Doctrine Forks.
+4. Game Development was patched with Mascot-as-Mechanic, Observer-Sourced Awareness Camera, Archival Memory Visual Doctrine, Reports Are State, and Spinout Without Mutation.
+5. Project Archaeology was patched with Truth / Mirror / Summary / Archive discipline and Empty Shell Repair Flag.
+6. A Vernepunk + Shared Corpus Discovery Promotion Report promoted five durable discoveries and clarified source-of-truth policy.
+7. Multiple empty/title-only documents were verified and flagged as repair candidates.
+
+
+## Counts
+
+
+Added / newly indexed:
+- Drive Knowledge Index - Daily Delta
+- Skill Cluster - Writing Systems
+- Discovery Promotion Report - 2026-06-22 - Vernepunk + Shared Corpus
+- 00 - START HERE
+- Human Offloading / Corpus Leverage material inside 01 - SUPPLEMENTAL
+- Borrow Expertise Not Work
+- Self-Inception
+- Orientation Target - Reciprocal Error Correction
+
+
+Updated / reinforced:
+- Home Center - Skill Cluster Index
+- Skill Cluster - AI Orchestration
+- Skill Cluster - Game Development
+- Skill Cluster - Project Archaeology
+- START HERE - Shared Corpus Master Index
+- Drive Brain
+
+
+Flagged for review / repair:
+- Doctrine - Corpus Leverage and Prompt Goblin Economics - 2026-06-22
+- VWC - Supplemental Doctrine
+- WTTS - Supplemental Doctrine
+- ETD - Supplemental Doctrine
+- PDBN - Supplemental Doctrine
+- corpus repair test
+- START HERE
+- Untitled document
+- temp
+- AI-Human Contract
+
+
+# Human-Readable Index Entries
+
+
+## 1. Skill Cluster - Writing Systems
+
+
+URL: https://docs.google.com/document/d/1Ysk4e9p03b-ykutQ4VIQsRXPR52OrsbxvP-xN3DbyKU
+Status: New / active first-pass cluster
+Type: Skill Cluster
+Summary: Durable capability index for narrative systems, worldbuilding, character simulation, institution modeling, prose-to-system extraction, voice preservation, and story archaeology.
+Key entities: Holding Vigil, Vernepunk, Prism League, WWVD, Story Archaeology, Institution Simulation, Simulation First Artifact Second.
+Decisions:
+- Writing Systems is no longer pending.
+- The published artifact is not always the primary artifact; the simulation substrate is often the primary artifact.
+- Holding Vigil should probably become the first full Writing Systems specimen report.
+Action items:
+- Link this cluster from the master Skill Cluster Index.
+- Create a Holding Vigil specimen report.
+- Promote Institution Simulation after one more corpus pass.
+- Create Story Corpus Index.
+- Repair empty title-only writing doctrine shells before indexing them.
+Reusable discoveries:
+- Simulation First, Artifact Second.
+- A scene is often also a prototype.
+- A power is often also an interface.
+- Character wounds can become mechanics without becoming gimmicks.
+- Institutions, tools, food, training, constraints, and reports build worlds more reliably than exposition.
+- Mascot-as-Mechanic generalizes into feedback systems.
+Retrieval keys: writing systems, story archaeology, institution simulation, Holding Vigil, simulation first artifact second, playable fiction extraction, wound to mechanic.
+Related material: Home Center - Skill Cluster Index; Game Development; Project Archaeology; AI Orchestration; Holding Vigil corpus mining.
+
+
+## 2. Home Center - Skill Cluster Index
+
+
+URL: https://docs.google.com/document/d/1vEn3S2He4CaTqsq1jYR9Nqcz2mCL7Sa0qCAc65VlRA8
+Status: Updated
+Type: Master Skill Index
+Summary: Durable map of skill clusters above Drive, GitHub, and future source adapters.
+Key entities: AI Orchestration, Game Development, Accessibility Engineering, Animation and Pose Systems, Writing Systems, Project Archaeology.
+Decisions:
+- Skill clusters are the interface; projects are evidence.
+- Writing Systems activated.
+- Empty title-only doctrine docs are repair candidates, not captured doctrine.
+- Project-local Drive mirrors of active repos should point back to live GitHub evidence unless intentionally promoted.
+Action items:
+- Keep Writing Systems linked as active.
+- Create Recipe Synthesis cluster or merge existing Recipe Synthesis Index into cluster format.
+- Create restricted Private Records Register before deeper household/private ingestion.
+Reusable discoveries:
+- Projects create artifacts; artifacts contain discoveries; discoveries strengthen skills; skills are the durable asset.
+- Raw inventory alone is not enough; promoting skill is treasure.
+Retrieval keys: skill cluster index, skill promotion sweep, source adapters, writing systems active, empty shell repair.
+
+
+## 3. Skill Cluster - AI Orchestration
+
+
+URL: https://docs.google.com/document/d/1EBwa28sPvuZAqxFyHsNHJ7TWaDmKUYVBs__Zm2LgNzo
+Status: Updated
+Type: Skill Cluster
+Summary: Capability index for AI-assisted work systems, command center patterns, agent delegation, cloud memory, execution pipelines, and source adapters.
+Key entities: Home Center, Agent Commander, Thunder Brainstorm, Vernepunk, WWVD, Shared Brain Governance, Drive Knowledge Index.
+Decisions:
+- ChatGPT is reasoning/planning/synthesis; Codex is implementation partner; Drive is durable memory; GitHub is executable evidence.
+- A doctrine-class discovery is not complete until it has a name, doctrine, durable location, retrieval path, and future-agent inheritance path.
+- Start with retrieval before fine-tuning.
+- A Drive file title is not memory; an empty document is not doctrine.
+- Mirrors should point to canonical evidence instead of duplicating living doctrine.
+Action items:
+- Define JSON schema for cluster entries.
+- Maintain daily changed source-adapter scan.
+- Keep sensitive private state in restricted register.
+Reusable discoveries:
+- Shared Brain Governance.
+- Retrieval Before Fine-Tuning.
+- Shell Is Not Capture.
+- Source Refs Over Doctrine Forks.
+Retrieval keys: AI orchestration, source adapters, shared brain governance, retrieval before fine tuning, shell is not capture.
+
+
+## 4. Skill Cluster - Game Development
+
+
+URL: https://docs.google.com/document/d/1zpJPxFY9ERln1mYKx5YM56yoSk6d2VtMP11c4p5iAEU
+Status: Updated
+Type: Skill Cluster
+Summary: Durable capability index for game design, implementation patterns, playable prototypes, procedural systems, art direction, and project archaeology.
+Key entities: Tanks for the Memories, Prism League, Vernepunk, Gasket, Infinite Brutality, Driftfield, Thunder Brainstorm.
+Decisions:
+- Every good game mechanic is a pressure system.
+- Repos are project fossil beds, not just code storage.
+- Tanks remains WWII command/simulation; Vernepunk becomes the broader analog-machine / report-state spinout.
+Action items:
+- Create project index docs for Infinite Brutality and Driftfield.
+- Promote terrain grammar into a general Procedural Terrain subcluster.
+- Add acceptance templates for pressure systems.
+- Create repo readiness checklist.
+Reusable discoveries:
+- Mascot-as-Mechanic.
+- Observer-Sourced Awareness Camera.
+- Archival Memory Visual Doctrine.
+- Reports Are State.
+- Spinout Without Mutation.
+Retrieval keys: game development, pressure systems, mascot as mechanic, reports are state, observer camera, archival memory, tanks for the memories, prism league, vernepunk.
+
+
+## 5. Skill Cluster - Project Archaeology
+
+
+URL: https://docs.google.com/document/d/1DP6rVjqWg10SvBAnsBYGM4ul8-IY1n2OTGTe28-j3Ww
+Status: Updated
+Type: Skill Cluster
+Summary: Refinery skill for turning abandoned projects, duplicate docs, old repos, partial prototypes, and failed experiments into reusable discoveries.
+Key entities: Infinite Brutality, Driftfield, Shattered Bonds, Sunken City, Vernepunk, Tanks for the Memories, Thunder Brainstorm.
+Decisions:
+- The project is not the treasure. The surviving discovery is the treasure.
+- Classify artifacts as truth, mirror, summary, archive, private, or repair candidate.
+- Only one artifact should be truth when possible; everything else points.
+Action items:
+- Run archaeology on Driftfield.
+- Run archaeology on Shattered Bonds / Sunken City duplicate cluster.
+- Create archive decision tags.
+Reusable discoveries:
+- Spinout Without Mutation.
+- Truth / Mirror / Summary / Archive Discipline.
+- Empty Shell Repair Flag.
+- Archaeology reports must survive as evidence.
+Retrieval keys: project archaeology, truth mirror summary archive, empty shell repair, spinout without mutation, project fossil bed.
+
+
+## 6. Discovery Promotion Report - 2026-06-22 - Vernepunk + Shared Corpus
+
+
+URL: https://docs.google.com/document/d/1Z67jCG4eWaXwUWqsAXe3eGiSlpaumniGteVk2kSuS_o
+Status: New / promotion report
+Type: Discovery Promotion Report
+Summary: Promoted five durable discoveries from Vernepunk and shared-corpus work, linked Drive reports to GitHub evidence, and patched Thunder Brainstorm source refs.
+Key entities: Vernepunk, Thunder Brainstorm, Shared Corpus Master Index, WWVD, GitHub, distillation cards, simulation primitives.
+Decisions:
+- GitHub is canonical for Vernepunk repo docs, schemas, prompts, source manifests, cards, and query tooling.
+- Drive reports may summarize and point back; they should not fork living doctrine.
+- Thunder Brainstorm should keep source refs and promotion summaries, not duplicate Vernepunk doctrine.
+- Empty content docs should not be promoted.
+Action items:
+- Create standalone Doctrine Registry in 00-INDEX.
+- Add report to Shared Corpus Master Index.
+- Repair / populate empty Corpus Leverage doc.
+- Promote Reports Are State into Tanks for the Memories.
+- Run duplicate check for doctrine-titled docs with empty readback.
+Reusable discoveries:
+- Shared Brain Governance.
+- WWVD Judgment Layer.
+- Retrieval Before Fine-Tuning.
+- Evidence-Backed Distillation Cards.
+- Vernepunk Simulation Primitives.
+Retrieval keys: vernepunk promotion, WWVD, retrieval before fine tuning, distillation cards, simulation primitives, source refs, reports are state.
+
+
+## 7. START HERE - Shared Corpus Master Index
+
+
+URL: https://docs.google.com/document/d/1uovqqBhtcKdykzodSS3LOrMpdNgAlY_pyXcWhBFNfyY
+Status: Updated / active registry surface
+Type: Master Index / Navigation
+Summary: Drive-visible entry index for the Shared Corpus. It currently doubles as the active doctrine registry surface until a standalone Doctrine Registry exists.
+Key entities: Drive Brain, Shared Corpus Root, 00-INDEX, Doctrine Registry, WWDD, Artificial Continuity.
+Decisions:
+- This document is the active doctrine lookup authority until a standalone Doctrine Registry file exists.
+- A doctrine is not captured until it has readable content, retrieval keywords, registry entry, and verified location.
+- Shared Brain Governance and the Vernepunk promotion report were added.
+Action items:
+- Create standalone Doctrine Registry.
+- Create Discovery Registry, Pattern Registry, Automation Registry, and WWDD Evidence Registry.
+Reusable discoveries:
+- Discovery -> Pattern -> Procedure -> Judgment -> WWDD Candidate.
+- If it cannot be found later, it was not saved.
+Retrieval keys: shared corpus master index, active doctrine registry, 00-INDEX, doctrine registry pending, shared brain governance.
+
+
+## 8. 00 - START HERE
+
+
+URL: https://docs.google.com/document/d/1OhAXmRyAXl3u4LqqBpzFeVSFvM6QCpSXynHWPfWuav0
+Status: New / canonical onboarding candidate
+Type: Onboarding / Procedure
+Summary: Clear onboarding entry point for agents operating inside the corpus.
+Key entities: Shared Corpus Master Index, Doctrine Registry, Judgment Registry, Active Project Registries, People Registry.
+Decisions:
+- Read before modifying.
+- Search before creating.
+- Update before duplicating.
+- Shell is not capture.
+- Chat is not storage.
+Action items:
+- Decide whether this supersedes the older empty START HERE shell.
+- Link from Shared Corpus Master Index if canonical.
+Reusable discoveries:
+- The purpose of reading is continuity acquisition, not information acquisition.
+- Future agents should recover what exists, why it exists, active work, finished work, and next steps with minimal rediscovery.
+Retrieval keys: start here, onboarding, read before modifying, search before creating, continuity acquisition.
+
+
+## 9. 01 - SUPPLEMENTAL
+
+
+URL: https://docs.google.com/document/d/1CcpJD5CNIS2io_ZW9FeEMgO1OzAQFw0ptPFnxuFtUoU
+Status: New / populated supplemental doctrine bundle
+Type: Doctrine Bundle / Judgment
+Summary: Contains Human Offloading Doctrine and Corpus Leverage Doctrine.
+Key entities: WWDD, WWVD, Self-Insertion, Shared Corpus, Quartermaster, Foreman, Artificial Continuity, Prompt Goblin Economics.
+Decisions:
+- The goal is not to make AI smarter in isolation; the goal is to externalize repetitive cognition into durable infrastructure.
+- The objective is artificial continuity, not artificial intelligence.
+- Strong corpus + clear doctrine + smaller model can outperform powerful model + empty context for practical outcomes.
+Action items:
+- Consider splitting this into separate canonical doctrine docs or promoting as a bundled doctrine source.
+- Repair the empty standalone Corpus Leverage / Prompt Goblin Economics doc using this source.
+Reusable discoveries:
+- Human Offloading Doctrine.
+- Corpus Leverage Doctrine.
+- Prompt Goblin Economics.
+- The repository is cognitive scaffolding; the model climbs the scaffolding.
+Retrieval keys: human offloading doctrine, corpus leverage doctrine, prompt goblin economics, cognitive scaffolding, artificial continuity, small model leverage.
+
+
+## 10. Borrow Expertise Not Work
+
+
+URL: https://docs.google.com/document/d/1ngMEldgAQjyfBtZxuy1bEdSIsQIvIpUoufqZARjCv9o
+Status: New / verified readable
+Type: Judgment
+Summary: Drew repeatedly succeeds by borrowing expertise from finished systems instead of starting from a blank state.
+Key entities: Animation, accessibility, Google speech recognition, Marrow Runner, Armor Command, Long Haul, Quake, Doom, Hexen.
+Decisions:
+- Do not learn an entire discipline before building.
+- Find the nearest thing that already works, extract defaults, preserve working parts, replace only what must change.
+Action items:
+- Keep as core doctrine for future agents and project starts.
+Reusable discoveries:
+- Borrow Expertise, Not Work.
+- Companion pattern: Don't Become One With The Floor.
+Retrieval keys: borrow expertise not work, known good state, defaults, not greenfield, don't become one with the floor.
+
+
+## 11. Self-Inception
+
+
+URL: https://docs.google.com/document/d/1ECmlnvi1nUGRxOyl7rQNo1_-Wi1a1Mdv-qclfqszSyM
+Status: New / verified readable
+Type: Procedure / Recovery Doctrine
+Summary: When an agent/workflow is stuck, it should package the useful state and create a clean successor prompt rather than flailing.
+Key entities: Reciprocal Error Correction, Shell Is Not Capture, Save -> Read -> Verify.
+Decisions:
+- A stuck agent should preserve discoveries, decisions, evidence, failure mode, acceptance criteria, and next action.
+- Empty shells are failed capture, not partial success.
+Action items:
+- Use Self-Inception whenever a session gets too noisy or tool-blocked.
+Reusable discoveries:
+- Shell Is Not Capture.
+- A failed local context can still produce treasure if it hands off cleanly.
+Retrieval keys: self inception, stuck agent, successor prompt, shell is not capture, recovery doctrine.
+
+
+## 12. Orientation Target - Reciprocal Error Correction
+
+
+URL: https://docs.google.com/document/d/1nrltqJxqH8CsPCP9UEAsoILwiQpmByDgXKZf77LR-OE
+Status: New / verified readable
+Type: Judgment
+Summary: Correction is preferred over agreement. The human corrects the AI's reasoning; the AI corrects the human's patterns.
+Key entities: Command Center, error correction, doctrine, automation.
+Decisions:
+- Agreement without examination is failure camouflage.
+- Silence around recurring failure is a bug.
+Action items:
+- Keep indexed in active doctrine registry.
+Reusable discoveries:
+- Repeated failure becomes pattern; pattern becomes doctrine; doctrine becomes automation; automation preserves attention.
+Retrieval keys: reciprocal error correction, correction over agreement, repeated failure, preserve attention.
+
+
+# Duplicate / Related Material Detected
+
+
+## Cluster: START HERE / onboarding docs
+
+
+Likely canonical:
+- 00 - START HERE
+  https://docs.google.com/document/d/1OhAXmRyAXl3u4LqqBpzFeVSFvM6QCpSXynHWPfWuav0
+
+
+Related / active registry:
+- START HERE - Shared Corpus Master Index
+  https://docs.google.com/document/d/1uovqqBhtcKdykzodSS3LOrMpdNgAlY_pyXcWhBFNfyY
+
+
+Repair candidate:
+- START HERE
+  https://docs.google.com/document/d/1MJh0HofoYpQ6HPGeQvCaeTOd2dR_eAeeal3TE5dMCDs
+  Readback: empty.
+
+
+Decision:
+Keep 00 - START HERE as onboarding candidate and Shared Corpus Master Index as active registry. Do not promote empty START HERE.
+
+
+## Cluster: Corpus Leverage / Prompt Goblin Economics
+
+
+Populated source:
+- 01 - SUPPLEMENTAL
+  https://docs.google.com/document/d/1CcpJD5CNIS2io_ZW9FeEMgO1OzAQFw0ptPFnxuFtUoU
+
+
+Empty standalone shell:
+- Doctrine - Corpus Leverage and Prompt Goblin Economics - 2026-06-22
+  https://docs.google.com/document/d/1sGIpOfwhKCPvXmPFq9N3bPzIdvbAGWDCl_nvFf8Bxd4
+
+
+Decision:
+Use 01 - SUPPLEMENTAL as source until the standalone doctrine doc is repaired. Do not promote empty shell.
+
+
+## Cluster: Empty supplemental doctrine shells
+
+
+Verified empty:
+- VWC - Supplemental Doctrine
+  https://docs.google.com/document/d/1oYLioZZfkgL5sCHU9oFbm-QlQ_KVvs4RFtY7jfzZSpM
+- WTTS - Supplemental Doctrine
+  https://docs.google.com/document/d/1pBZiQW4fdKgCT4V2ARTo4-DPkL3aXaPkedADoBhKVpk
+- ETD - Supplemental Doctrine
+  https://docs.google.com/document/d/1gZ-8DgwPyqdqEAgGg7Ynl0LO5BBMS2Xtg-znDu7GNXo
+- PDBN - Supplemental Doctrine
+  https://docs.google.com/document/d/1-zuM3QG5YLmkkSVnFr-3fl6xmhNG5LZOb7Coqhs2WDI
+- corpus repair test
+  https://docs.google.com/document/d/1SOpx0AeCwJwb2nw0ZhsGPowjfegxP0xEd8s61SDDb3U
+- Untitled document
+  https://docs.google.com/document/d/1I9loqeGdOa-9gCaBDaWH15gXuCt-DWyTfbR_kU9p-qg
+- temp
+  https://docs.google.com/document/d/13wCR0dQI_fo9gxPlZBVpJEBjpsuwRQRCZAgpLjqa_c4
+- AI-Human Contract
+  https://docs.google.com/document/d/1l3PeKGMnwDVn_vywekmXQdRhoCUNZkeZYfiAvpd6hdg
+
+
+Decision:
+Flag as repair candidates or archive candidates. Do not index as doctrine until readable content exists.
+
+
+# Decisions Preserved
+
+
+1. GitHub is canonical for active software/corpus project truth when repo docs, schemas, code, tests, and commits exist.
+2. Drive is durable doctrine, index, summary, governance, and human-readable continuity layer.
+3. Thunder Brainstorm is reusable mirror/source-ref/skill extraction layer, not a fork of live project doctrine.
+4. Empty Drive docs are repair candidates, not captured knowledge.
+5. Skill clusters are more durable than projects.
+6. Writing Systems is now a first-class skill cluster.
+7. Corpus leverage should be extracted from 01 - SUPPLEMENTAL into a repaired standalone doctrine artifact.
+8. Daily changed-source scan should continue and append to this index or its successor structured registry.
+
+
+# Action Queue
+
+
+High priority:
+1. Create standalone Doctrine Registry in 00-INDEX.
+2. Repair or populate Doctrine - Corpus Leverage and Prompt Goblin Economics from 01 - SUPPLEMENTAL.
+3. Add this Drive Knowledge Index - Daily Delta to the Shared Corpus Master Index.
+4. Decide whether 00 - START HERE supersedes empty START HERE.
+5. Run duplicate check for title-only doctrine documents.
+
+
+Medium priority:
+1. Create Story Corpus Index.
+2. Create Holding Vigil specimen report under Writing Systems.
+3. Promote Reports Are State into Tanks for the Memories.
+4. Create Recipe Synthesis skill cluster.
+5. Create Private Records Register before deeper household ingestion.
+
+
+Low priority:
+1. Clean or archive temp / untitled empty docs after confirming they were accidental shells.
+2. Split 01 - SUPPLEMENTAL into individual doctrine assets if the bundle becomes too dense.
+
+
+# AI-Readable Delta JSON
+
+
+```json
+{
+  "index_title": "Drive Knowledge Index - Daily Delta",
+  "run_date": "2026-06-22",
+  "status": "baseline_created",
+  "scan_scope": "recent new/modified Drive documents, baseline pass",
+  "created_index_doc_id": "17i2lHegzhBERHhZhTOGQ71PWU4aCF1CSWOTjpLYcFeg",
+  "created_index_url": "https://docs.google.com/document/d/17i2lHegzhBERHhZhTOGQ71PWU4aCF1CSWOTjpLYcFeg",
+  "source_of_truth_rules": [
+    "GitHub is canonical for active repo docs, schemas, code, tests, commits, and source manifests.",
+    "Drive is canonical for durable doctrine, indexes, governance summaries, and human-readable continuity assets.",
+    "Thunder Brainstorm stores reusable mirrors and source refs; it should not fork active project doctrine.",
+    "Empty title-only documents are repair candidates, not captured doctrine."
+  ],
+  "added_or_newly_indexed": [
+    "Skill Cluster - Writing Systems",
+    "Discovery Promotion Report - 2026-06-22 - Vernepunk + Shared Corpus",
+    "00 - START HERE",
+    "01 - SUPPLEMENTAL",
+    "Borrow Expertise Not Work",
+    "Self-Inception",
+    "Orientation Target - Reciprocal Error Correction"
+  ],
+  "updated_or_reinforced": [
+    "Home Center - Skill Cluster Index",
+    "Skill Cluster - AI Orchestration",
+    "Skill Cluster - Game Development",
+    "Skill Cluster - Project Archaeology",
+    "START HERE - Shared Corpus Master Index",
+    "Drive Brain"
+  ],
+  "flagged_repair_candidates": [
+    "Doctrine - Corpus Leverage and Prompt Goblin Economics - 2026-06-22",
+    "VWC - Supplemental Doctrine",
+    "WTTS - Supplemental Doctrine",
+    "ETD - Supplemental Doctrine",
+    "PDBN - Supplemental Doctrine",
+    "corpus repair test",
+    "START HERE",
+    "Untitled document",
+    "temp",
+    "AI-Human Contract"
+  ],
+  "major_promoted_patterns": [
+    "Shared Brain Governance",
+    "WWVD Judgment Layer",
+    "Retrieval Before Fine-Tuning",
+    "Evidence-Backed Distillation Cards",
+    "Vernepunk Simulation Primitives",
+    "Mascot-as-Mechanic",
+    "Observer-Sourced Awareness Camera",
+    "Reports Are State",
+    "Spinout Without Mutation",
+    "Truth / Mirror / Summary / Archive Discipline",
+    "Human Offloading Doctrine",
+    "Corpus Leverage Doctrine",
+    "Prompt Goblin Economics",
+    "Borrow Expertise Not Work",
+    "Self-Inception",
+    "Reciprocal Error Correction"
+  ],
+  "next_actions": [
+    "Create standalone Doctrine Registry in 00-INDEX.",
+    "Repair Corpus Leverage / Prompt Goblin Economics standalone doc using 01 - SUPPLEMENTAL as source.",
+    "Add this index to Shared Corpus Master Index.",
+    "Promote Reports Are State into Tanks for the Memories.",
+    "Create Holding Vigil specimen report under Writing Systems."
+  ]
+}
+```
+
+
+# Acceptance Check
+
+
+- Recent Drive docs scanned: yes.
+- High-value changes summarized: yes.
+- Empty shells detected and flagged: yes.
+- Related / duplicate clusters detected: yes.
+- AI-readable delta produced: yes.
+- Dedicated index document created: yes.
+- Index moved into 00-INDEX: yes.
+- Remaining blocker: no prior daily index existed, so this is a baseline rather than a true previous-run diff.
+
+
+
+
+# Change Report - 2026-06-23
+
+
+## Executive Summary
+
+
+Reviewed newly modified Drive registry/index documents and recent GitHub activity from Agent Closet and droobiedoo.
+
+
+Most important changes found:
+1. Agent Closet now contains a stronger shared doctrine layer: Infrastructure Doctrine, Hidden Factory Doctrine, Encoded Judgment Doctrine, Perspective Graphing, Deep Ocean Protocol, and Question Ledger.
+2. droobiedoo now has a clear raw-corpus policy: raw chat/corpus exports stay local-only; only indexed or curated derivatives should be committed when deliberately prepared for reuse.
+3. Reflective Cartographer exists as a therapist-style simulation agent with explicit non-clinical and privacy/agency boundaries.
+4. Drive Doctrine Registry exists and is active, but needed source-reference routing to Agent Closet canonical doctrine bodies.
+5. Existing skill clusters were sufficient; no new top-level skill cluster was created.
+
+
+## What Survived
+
+
+### Agent Closet as Canonical Doctrine Layer
+
+
+Agent Closet is no longer just a skeleton. It now contains promoted doctrine, procedures, templates, agent profiles, and command skills.
+
+
+Surviving source-of-truth rule:
+Agent Closet is canonical for its doctrine bodies. Drive stores registry routes, archaeology summaries, and cluster-local use cases.
+
+
+### Drive Brain / Shared Corpus as Retrieval Layer
+
+
+Drive remains the human-readable registry, index, and promotion layer. The Doctrine Registry and Shared Corpus Master Index now give future agents retrieval paths instead of relying on title memory.
+
+
+### droobiedoo as Workspace Substrate
+
+
+droobiedoo survives as a workspace-level repository for shared Android/Godot workspace knowledge, not a single project repo.
+
+
+The important policy is privacy-preserving corpus governance: raw exports remain local-only; curated/indexed derivatives may be committed intentionally.
+
+
+## What Was Promoted
+
+
+### AI Orchestration
+
+
+Promoted / reinforced:
+- Perspective Graphing
+- Encoded Judgment Doctrine
+- Deep Ocean Protocol
+- Question Ledger
+- Reflective Cartographer boundary pattern
+- Raw Corpus Local-Only Policy
+
+
+Durable lesson:
+A useful agent system needs grounded perspectives, explicit boundaries, durable questions, anti-migration discipline, and privacy-aware corpus handling.
+
+
+### Project Archaeology
+
+
+Promoted / reinforced:
+- Hidden Factory Doctrine
+- Infrastructure Doctrine
+- Question Ledger as archaeology scaffold
+- Deep Ocean anti-migration pattern
+
+
+Durable lesson:
+Do not only ask what happened in an artifact. Ask what factory produced it, who or what became infrastructure, what questions remain unresolved, and what should not be repeated.
+
+
+### Writing Systems
+
+
+Promoted / reinforced:
+- Encoded Perspective Substrate
+- Hidden Factory character method
+- Infrastructure character pattern
+- Perspective Graphing for revision
+
+
+Durable lesson:
+Character simulation improves when voices are grounded in written substrate and behavior is modeled as production, not trait labels.
+
+
+## Duplicate Discoveries
+
+
+### Not Duplicates — Cross-Cluster Doctrines
+
+
+Infrastructure, Hidden Factory, and Encoded Judgment are cross-cluster doctrines.
+
+
+Resolution:
+Do not duplicate full doctrine bodies inside every cluster. Store only the cluster-specific use case and point back to the canonical Agent Closet path.
+
+
+### Not Yet A Cluster — Reflective Mapping
+
+
+Reflective Cartographer suggests a future Reflective Mapping / Human Systems cluster, but evidence is still agent-profile heavy.
+
+
+Resolution:
+Hold under AI Orchestration for now. Activate a new cluster only after repeated non-agent artifacts justify it.
+
+
+## What Can Be Archived Or Ignored
+
+
+- Raw corpus/chat exports: keep local-only unless intentionally curated.
+- Duplicate Drive mirrors of Agent Closet doctrine: avoid forking; point to GitHub source instead.
+- Title-only or empty doctrine shells: repair candidates, not promoted assets.
+- New platform/dashboard impulses for current doctrine work: apply Deep Ocean first; build better cargo, not a new ship.
+
+
+## Files Updated In This Sweep
+
+
+- Doctrine Registry
+- Home Center - Skill Cluster Index
+- Skill Cluster - AI Orchestration
+- Skill Cluster - Project Archaeology
+- Skill Cluster - Writing Systems
+- Drive Knowledge Index - Daily Delta
+
+
+## Acceptance Check
+
+
+This sweep produced:
+- source-of-truth mapping
+- reusable discoveries
+- skill promotions
+- duplicate handling
+- archive guidance
+- registry update
+- cluster patches
+
+
+Status: Green.
+
+
+
+
+# Change Report - 2026-06-23 - Agent Closet + Thunder Terrain Mirror
+
+
+Status: Completed promotion pass.
+
+
+## Executive Summary
+
+
+Newly reviewed and promoted:
+1. Agent Closet PR #1 capture doctrine bundle.
+2. Thunder Brainstorm PR #1 Infinite Brutality terrain grammar mirror.
+3. Procedural terrain grammar promoted into Game Development cluster.
+4. Agent Closet PR #1 candidate doctrines added to Doctrine Registry.
+5. Thunder terrain source refs patched to point to live GitHub evidence first.
+
+
+## Updated Artifacts
+
+
+- Discovery Promotion Report - 2026-06-23 - Agent Closet + Thunder Terrain Mirror: https://docs.google.com/document/d/1nPcbdswYQo4ilnCNQLPGrV9FXSfdthf8kTYI15MgXwc
+- Doctrine Registry: https://docs.google.com/document/d/1gGaoyUkXqOlISKrI95L9a27TkNxu6FO9I9FTRiZQ6EQ
+- Skill Cluster - Game Development: https://docs.google.com/document/d/1zpJPxFY9ERln1mYKx5YM56yoSk6d2VtMP11c4p5iAEU
+- Thunder source refs patch: https://github.com/Valar05/thunder-brainstorm/blob/codex/infinite-brutality-terrain-mirror/generated/source_refs_manual/infinite_brutality_rock_shape_grammar_source_refs.jsonl
+
+
+## Promotions
+
+
+Agent Closet PR #1 candidates:
+- Feed Is The Battlefield
+- Evidence Must Feel Physical
+- Dashboard Failure
+- Crucible Capture Protocol
+- Capability Distillation
+- TFTM Discovery Chain
+
+
+Thunder / Infinite Brutality:
+- Procedural Terrain Grammar
+- Active Rendered Mesh Path Validation
+- Macro / Meso / Micro Terrain Read
+- Shaping Force + Gameplay Purpose Rule
+
+
+## Source-of-Truth Notes
+
+
+- Agent Closet PR branch is canonical until PR #1 merges; then main branch should replace PR-branch links.
+- Thunder PR #1 is canonical for the reusable mirror and source-ref patch.
+- Infinite Brutality repo exists as a project repo candidate, but the referenced local docs/tests still need live repo or local worktree verification before being treated as canonical GitHub evidence.
+
+
+## Repair / Merge Flags
+
+
+- Do not fork Agent Closet doctrine bodies into Drive; keep registry links only.
+- Do not treat Thunder mirror docs as canonical project truth when project-local docs/tests can be verified later.
+- Empty/title-only Drive doctrine shells remain repair candidates.
+
+
+## Acceptance Check
+
+
+This pass produced source-backed promotion records, patched a reusable mirror back to live GitHub evidence, updated cluster routing, and created a report with confidence and archive/merge decisions.
+
+
+
+
+# Change Report - 2026-06-23
+
+
+## Executive Summary
+
+
+This scan found one newly created promotion report and six materially updated registry or skill-cluster documents.
+
+
+Primary change: Agent Closet doctrine, Thunder Brainstorm terrain evidence, and Drive Brain registry surfaces were tightened into a clearer source-of-truth hierarchy.
+
+
+Core rule reinforced:
+GitHub evidence remains canonical for live doctrine and project work. Drive stores retrieval paths, cluster routing, confidence, human-readable summaries, and promotion history. Do not fork full doctrine bodies into Drive unless the artifact is intentionally Drive-native.
+
+
+## Counts
+
+
+Added / newly indexed:
+- Discovery Promotion Report - 2026-06-23 - Agent Closet + Thunder Terrain Mirror
+
+
+Updated / reinforced:
+- Doctrine Registry
+- Home Center - Skill Cluster Index
+- Skill Cluster - AI Orchestration
+- Skill Cluster - Writing Systems
+- Skill Cluster - Game Development
+- Skill Cluster - Project Archaeology
+
+
+Merged:
+- No document merge performed this run.
+- Related material was cross-linked conceptually by treating Agent Closet as canonical doctrine source, Thunder Brainstorm as reusable skill/source-ref mirror, and Drive as registry plus promotion layer.
+
+
+Flagged for review:
+- Agent Closet PR #1 is open/draft; use PR-branch files as provisional evidence until merged.
+- Thunder Brainstorm PR #1 is open/draft but mergeable; use as current reusable mirror evidence until merged.
+- Infinite Brutality local/project repo evidence still needs direct verification before treating project-local terrain docs/tests as canonical.
+- Doctrine Registry says folder placement still needs verification.
+- Reflective Mapping / Human Systems remains a candidate cluster, not active; current evidence is agent-profile heavy.
+- Cross-cluster doctrines must not be copied wholesale into every cluster. Store local use-case and route back to canonical source.
+- Carry-forward repair flag: empty/title-only doctrine shells remain repair candidates, not captured doctrine.
+
+
+## Human-Readable Index Entries
+
+
+### 1. Discovery Promotion Report - 2026-06-23 - Agent Closet + Thunder Terrain Mirror
+
+
+URL: https://docs.google.com/document/d/1nPcbdswYQo4ilnCNQLPGrV9FXSfdthf8kTYI15MgXwc
+Status: New / completed promotion pass
+Type: Discovery Promotion Report
+Summary: Promotes Agent Closet capture doctrine candidates and Thunder Brainstorm / Infinite Brutality procedural terrain grammar into Drive-visible registry and skill-cluster surfaces. It also clarifies the source-of-truth hierarchy between GitHub, Thunder mirrors, and Drive indexes.
+Key entities: Agent Closet, Thunder Brainstorm, Infinite Brutality, Doctrine Registry, Skill Cluster - Game Development, Skill Cluster - AI Orchestration, Project Archaeology, Tanks for the Memories.
+Decisions:
+- Agent Closet PR #1 branch evidence is canonical until the PR merges.
+- Thunder Brainstorm PR #1 is canonical for the reusable Infinite Brutality terrain mirror and source-ref patch.
+- Drive should store retrieval paths, cluster routing, confidence, status, and human-readable promotion history rather than forking live doctrine bodies.
+Action items:
+- After Agent Closet PR #1 merges, update Doctrine Registry links from PR branch paths to main-branch doctrine files.
+- After Thunder Brainstorm PR #1 merges, update the Game Development terrain entry to merged/main evidence.
+- Verify Infinite Brutality project-local repo/docs/tests before raising project-local terrain evidence from medium confidence to high confidence.
+Reusable discoveries:
+- Feed Is The Battlefield.
+- Evidence Must Feel Physical.
+- Dashboard Failure.
+- Crucible Capture Protocol.
+- Capability Distillation.
+- TFTM Discovery Chain.
+- Procedural Terrain Grammar / Infinite Brutality.
+Retrieval keys: agent closet pr1, thunder terrain mirror, infinite brutality terrain grammar, evidence must feel physical, feed is the battlefield, dashboard failure, crucible capture, capability distillation, TFTM discovery chain.
+
+
+### 2. Doctrine Registry
+
+
+URL: https://docs.google.com/document/d/1gGaoyUkXqOlISKrI95L9a27TkNxu6FO9I9FTRiZQ6EQ
+Status: Updated / active registry
+Type: Registry / Doctrine Lookup Table
+Summary: Registry now includes active Agent Closet promoted entries plus candidate doctrine entries from Agent Closet PR #1. It routes doctrine to clusters without duplicating full source bodies.
+Key entities: Infrastructure Doctrine, Hidden Factory Doctrine, Encoded Judgment Doctrine, Perspective Graphing Skill, Deep Ocean Protocol, Question Ledger, Reflective Cartographer, Raw Corpus Local-Only Policy, Feed Is The Battlefield, Evidence Must Feel Physical, Dashboard Failure, Crucible Capture Protocol, Capability Distillation.
+Decisions:
+- Agent Closet is canonical for Agent Closet doctrine bodies.
+- Drive registry stores retrieval paths, cluster routing, confidence, and status.
+- Candidate PR entries remain provisional until merge.
+Action items:
+- Verify Doctrine Registry folder placement.
+- Update candidate entries when PR evidence merges or changes.
+- Repair Corpus Leverage standalone shell before promoting outside Supplemental.
+Reusable discoveries:
+- A doctrine without a retrieval path is only half captured.
+- The location is part of the knowledge.
+- Status and confidence belong beside doctrine, not in someone's head.
+Retrieval keys: doctrine registry, agent closet authority, infrastructure doctrine, hidden factory doctrine, encoded judgment, perspective graphing, deep ocean protocol, question ledger.
+
+
+### 3. Home Center - Skill Cluster Index
+
+
+URL: https://docs.google.com/document/d/1vEn3S2He4CaTqsq1jYR9Nqcz2mCL7Sa0qCAc65VlRA8
+Status: Updated / active master skill index
+Type: Master Skill Index
+Summary: Patched with Agent Closet, Drive Brain, and droobiedoo source-adapter findings. Existing clusters were updated instead of creating a new top-level cluster.
+Key entities: AI Orchestration, Project Archaeology, Writing Systems, Game Development, Agent Closet, Drive Brain, droobiedoo, Reflective Mapping.
+Decisions:
+- No new active top-level cluster created.
+- Reflective Mapping / Human Systems stays candidate until repeated non-agent artifacts justify activation.
+- Hidden Factory, Infrastructure, and Encoded Judgment are cross-cluster doctrines; clusters should store local use-case, not duplicate full doctrine bodies.
+- Raw corpus exports stay local-only; promote curated derivatives.
+Action items:
+- Keep Reflective Mapping under AI Orchestration for now.
+- Create Recipe Synthesis cluster or merge existing Recipe Synthesis Index into cluster format.
+- Create restricted Private Records Register before deeper household/private ingestion.
+Reusable discoveries:
+- Projects create artifacts; artifacts contain discoveries; discoveries strengthen skills; skills are the durable asset.
+- The skill cluster is the interface; the project is evidence.
+Retrieval keys: skill cluster index, source adapters, reflective mapping candidate, cross-cluster doctrine, raw corpus local-only.
+
+
+### 4. Skill Cluster - AI Orchestration
+
+
+URL: https://docs.google.com/document/d/1EBwa28sPvuZAqxFyHsNHJ7TWaDmKUYVBs__Zm2LgNzo
+Status: Updated / active cluster
+Type: Skill Cluster
+Summary: Patched with Agent Closet / WWDD system discoveries that improve multi-agent reasoning, corpus governance, and bounded reflection-agent design.
+Key entities: Perspective Graphing, Encoded Judgment, Deep Ocean Protocol, Question Ledger, Reflective Cartographer, Raw Corpus Local-Only Policy, WWDD, Artificial Continuity.
+Decisions:
+- Run perspective synthesis before flattening complex judgment.
+- Distinguish encoded perspective from invented voice.
+- Use a question ledger for durable open questions.
+- Avoid unnecessary platform migration when existing substrate can carry the work.
+- Keep raw corpus exports private/local unless deliberately curated.
+- Reflection agents need explicit boundaries and grounded response structure.
+Action items:
+- Preserve /perspective as a reusable command pattern.
+- Use Question Ledger for unresolved investigations rather than rediscovering confusion.
+- Keep Reflective Cartographer boundary notes linked from this cluster.
+Reusable discoveries:
+- Perspective Graphing.
+- Encoded Judgment Doctrine.
+- Deep Ocean Protocol: build better cargo, not a new ship.
+- Question Ledger.
+- Reflective Cartographer Boundary Pattern.
+- Raw Corpus Local-Only Policy.
+Retrieval keys: AI orchestration, perspective graphing, encoded judgment, deep ocean protocol, question ledger, reflective cartographer, raw corpus local-only, WWDD.
+
+
+### 5. Skill Cluster - Writing Systems
+
+
+URL: https://docs.google.com/document/d/1Ysk4e9p03b-ykutQ4VIQsRXPR52OrsbxvP-xN3DbyKU
+Status: Updated / active cluster
+Type: Skill Cluster
+Summary: Patched with character and perspective substrate discoveries, especially for Holding Vigil-style character simulation, grounded voice, and institution modeling.
+Key entities: Holding Vigil, Lexen Vigil, Isaac, Encoded Perspective Substrate, Hidden Factory Character Method, Infrastructure Character Pattern, Perspective Graphing for Revision, Reflective Cartographer.
+Decisions:
+- A simulated voice is reliable only when backed by written substrate, not just vibe.
+- Trait labels describe outputs; factory maps explain production.
+- Some characters become the support structure inside the story world.
+- Scene revision should preserve multiple grounded perspectives before synthesis.
+Action items:
+- Create Holding Vigil specimen report.
+- Promote Institution Simulation as reusable subskill after another corpus pass.
+- Create Story Corpus Index.
+- Repair empty title-only writing doctrine shells before indexing.
+Reusable discoveries:
+- Encoded Perspective Substrate.
+- Hidden Factory Character Method.
+- Infrastructure Character Pattern.
+- Perspective Graphing for Revision.
+Retrieval keys: writing systems, encoded perspective substrate, hidden factory character method, infrastructure character pattern, Holding Vigil, Lexen, perspective graphing for revision, character simulation.
+
+
+### 6. Skill Cluster - Game Development
+
+
+URL: https://docs.google.com/document/d/1zpJPxFY9ERln1mYKx5YM56yoSk6d2VtMP11c4p5iAEU
+Status: Updated / active cluster
+Type: Skill Cluster
+Summary: Patched with Procedural Terrain Grammar / Infinite Brutality, sourced from Thunder Brainstorm PR evidence and source-ref repairs.
+Key entities: Infinite Brutality, Thunder Brainstorm, Procedural Terrain Grammar, level design environment grammar, terrain validation harness, Game Development, Project Archaeology.
+Decisions:
+- Floating terrain failure is not fixed by texture, detail, or props if the macro form still reads as random blob / asteroid / potato / cube-kitbash.
+- Terrain chunks need macro named silhouette, meso playable traversal read, and micro support detail before decoration.
+- Test the active rendered mesh path, not an old fallback generator.
+Action items:
+- Verify Infinite Brutality live repo/project-local docs and tests.
+- Promote terrain grammar into a general Procedural Terrain subcluster once source confidence is fully verified.
+- Add acceptance templates for pressure systems and environment grammar.
+Reusable discoveries:
+- Terrain must imply shaping force and gameplay purpose.
+- Screenshot acceptance test: what shaped this landform, where does the player stand, where does the player move next, and why does this chunk exist in gameplay?
+Retrieval keys: game development, infinite brutality, procedural terrain grammar, terrain silhouette, environment grammar, active mesh path, thunder brainstorm terrain mirror.
+
+
+### 7. Skill Cluster - Project Archaeology
+
+
+URL: https://docs.google.com/document/d/1DP6rVjqWg10SvBAnsBYGM4ul8-IY1n2OTGTe28-j3Ww
+Status: Updated / active cluster
+Type: Skill Cluster
+Summary: Patched with factory archaeology methods that turn repeated behavior, invisible labor, unresolved questions, and platform churn into explicit artifact decisions.
+Key entities: Hidden Factory Doctrine, Infrastructure Doctrine, Question Ledger, Deep Ocean Protocol, Project Archaeology, Agent Closet.
+Decisions:
+- Visible behavior is often the output of an invisible production system.
+- Reliable people, repos, docs, tools, and agents can become the floor others stand on.
+- Questions are artifacts and should be preserved with evidence and confidence.
+- New repo/dashboard/tool temptation should be tested against Deep Ocean: build better cargo, not a new ship.
+Action items:
+- Add Question Ledger to archaeology reports.
+- During project scans, identify what factory produced the repeated pattern and who or what became infrastructure.
+- Promote, bound, automate, archive, or deliberately not repeat discovered factories.
+Reusable discoveries:
+- Hidden Factory Doctrine as extraction method.
+- Infrastructure Doctrine as invisible labor detection.
+- Question Ledger as archaeology scaffold.
+- Deep Ocean Anti-Migration Pattern.
+Retrieval keys: project archaeology, hidden factory, infrastructure doctrine, question ledger, deep ocean, invisible labor, anti-migration, project fossil bed.
+
+
+## Duplicate / Related Material Analysis
+
+
+### Source-of-truth hierarchy
+
+
+Agent Closet doctrine bodies should remain canonical in GitHub. Drive should route to them and store status, confidence, and cluster placement.
+
+
+Thunder Brainstorm should mirror reusable lessons with source refs. It should not become a second conflicting source of truth.
+
+
+Drive should remain the human-readable registry, knowledge index, and promotion layer.
+
+
+### Cross-cluster doctrine handling
+
+
+Hidden Factory, Infrastructure, Encoded Judgment, Perspective Graphing, Deep Ocean, and Question Ledger legitimately belong in multiple clusters.
+
+
+Merge rule:
+Do not duplicate the full doctrine body in every cluster.
+Store only the local application in each cluster and route back to the canonical source.
+
+
+### Candidate cluster held
+
+
+Reflective Mapping / Human Systems is not promoted as a top-level cluster yet.
+Current evidence is mostly an agent profile and boundary file. Keep under AI Orchestration until repeated non-agent artifacts justify a separate cluster.
+
+
+### Carry-forward duplicate / repair flags
+
+
+- START HERE and 00 - START HERE still need final canonical/supersession decision.
+- Empty/title-only doctrine shells remain repair candidates.
+- Corpus Leverage standalone shell remains unresolved; supplemental content exists, but standalone promotion requires readable verified body.
+
+
+## AI-Readable Delta Block
+
+
+run_date: 2026-06-23
+index_doc: 17i2lHegzhBERHhZhTOGQ71PWU4aCF1CSWOTjpLYcFeg
+material_changes:
+  added:
+    - title: Discovery Promotion Report - 2026-06-23 - Agent Closet + Thunder Terrain Mirror
+      id: 1nPcbdswYQo4ilnCNQLPGrV9FXSfdthf8kTYI15MgXwc
+      type: promotion_report
+      projects: [agent-closet, thunder-brainstorm, infinite-brutality, tanks-for-the-memories]
+      discoveries: [feed_is_the_battlefield, evidence_must_feel_physical, dashboard_failure, crucible_capture_protocol, capability_distillation, tftm_discovery_chain, procedural_terrain_grammar]
+  updated:
+    - title: Doctrine Registry
+      id: 1gGaoyUkXqOlISKrI95L9a27TkNxu6FO9I9FTRiZQ6EQ
+      type: doctrine_registry
+      change: agent_closet_promoted_entries_and_pr_candidate_routes_added
+    - title: Home Center - Skill Cluster Index
+      id: 1vEn3S2He4CaTqsq1jYR9Nqcz2mCL7Sa0qCAc65VlRA8
+      type: master_skill_index
+      change: agent_closet_drive_brain_droobiedoo_patch_added_no_new_cluster
+    - title: Skill Cluster - AI Orchestration
+      id: 1EBwa28sPvuZAqxFyHsNHJ7TWaDmKUYVBs__Zm2LgNzo
+      type: skill_cluster
+      change: perspective_graphing_encoded_judgment_deep_ocean_question_ledger_reflective_boundaries_raw_corpus_policy
+    - title: Skill Cluster - Writing Systems
+      id: 1Ysk4e9p03b-ykutQ4VIQsRXPR52OrsbxvP-xN3DbyKU
+      type: skill_cluster
+      change: encoded_perspective_hidden_factory_character_infrastructure_character_perspective_revision
+    - title: Skill Cluster - Game Development
+      id: 1zpJPxFY9ERln1mYKx5YM56yoSk6d2VtMP11c4p5iAEU
+      type: skill_cluster
+      change: infinite_brutality_procedural_terrain_grammar_promoted
+    - title: Skill Cluster - Project Archaeology
+      id: 1DP6rVjqWg10SvBAnsBYGM4ul8-IY1n2OTGTe28-j3Ww
+      type: skill_cluster
+      change: hidden_factory_infrastructure_question_ledger_deep_ocean_archaeology_methods
+  merged: []
+  flagged:
+    - agent_closet_pr1_open_draft_candidate_evidence
+    - thunder_brainstorm_pr1_open_draft_mirror_evidence
+    - infinite_brutality_project_local_verification_needed
+    - doctrine_registry_folder_placement_needs_verification
+    - reflective_mapping_candidate_cluster_not_active
+    - cross_cluster_doctrine_must_route_not_fork
+    - start_here_supersession_unresolved
+    - empty_shell_repair_candidates_carry_forward
+next_actions:
+  - update_pr_branch_links_after_agent_closet_pr1_merges
+  - update_thunder_main_links_after_pr1_merges
+  - verify_infinite_brutality_live_project_evidence
+  - add_question_ledger_to_future_archaeology_reports
+  - keep_reflective_mapping_under_ai_orchestration_until_more_evidence
+  - repair_empty_doctrine_shells_before_promotion
+
+
+
+
+# Change Report - 2026-06-24
+
+
+## Executive Summary
+
+
+Daily Drive delta scan completed.
+
+
+No new or changed source documents were found since the previous indexed run.
+
+
+The only item matching the post-run modified-time window was this index document itself, with its previous report timestamp. That item was excluded from source-document processing to prevent the index from eating its own tail like a very boring ouroboros.
+
+
+## Scan Window
+
+
+Compared against the previous indexed run ending at approximately 2026-06-23T13:41:39Z.
+
+
+Query basis:
+- Drive recent document scan
+- Modified-time filter after previous indexed run
+- Excluded folders and trashed files
+- Best-effort content extraction for matched files
+
+
+## Added
+
+
+None.
+
+
+## Updated
+
+
+None, excluding this maintenance entry in the daily delta index.
+
+
+## Merged
+
+
+None.
+
+
+## Flagged For Review
+
+
+No new flags.
+
+
+Existing carry-forward flags remain active:
+- empty or title-only doctrine shells
+- duplicate start/index documents
+- provisional GitHub/PR mirror evidence needing direct repo verification
+- Infinite Brutality terrain grammar confidence still depends on live repo verification
+
+
+## Duplicate / Related Material Detection
+
+
+No new candidate duplicates detected in this run.
+
+
+Existing duplicate cluster remains:
+- START HERE / 00 - START HERE / Shared Corpus Master Index overlap
+
+
+Existing related-material cluster remains:
+- Agent Closet doctrine
+- Thunder Brainstorm terrain mirror
+- Skill Cluster index patches
+- Doctrine Registry entries
+
+
+## AI-Readable Delta Record
+
+
+```yaml
+run_date: 2026-06-24
+status: no_source_changes
+previous_indexed_run_utc: 2026-06-23T13:41:39Z
+source_documents_added: 0
+source_documents_updated: 0
+source_documents_merged: 0
+source_documents_flagged: 0
+index_updated: true
+excluded_items:
+  - title: Drive Knowledge Index - Daily Delta
+    reason: self-index maintenance document
+carry_forward_flags:
+  - empty_or_title_only_shells
+  - duplicate_start_index_documents
+  - provisional_github_pr_mirror_evidence
+  - infinite_brutality_live_repo_verification_needed
+next_action: continue_daily_delta_scan
+```
+
+
+## Human Readback
+
+
+Nothing new came in after the last indexed pass. The Drive swamp was quiet. That is useful: the baseline held, the index did not need to merge new doctrine, and no new repair fires appeared.
+
+
+
+
+# Change Report - 2026-06-24
+
+
+## Executive Summary
+
+
+Completed Skill Promotion Sweep for recent Drive and GitHub artifacts.
+
+
+Most important changes found:
+1. Agent Closet shifted from doctrine capture toward doctrine retrieval by adding index surfaces and linking agent ecosystem behavior to Self-Insertion Calibration.
+2. droobiedoo compressed capability growth into five reusable principles: Feedback Density, Durable Memory, Validation Before Trust, Role Separation, and Execution Proximity.
+3. Simulation Shovel was validated as a cross-cluster method: behavior-first discovery beats explanation when behavior is the target.
+4. Home Center Netrunner v0 survived as Accessibility Engineering evidence: visible browser shell before automation.
+5. Holding Vigil Institution and Military Reality extraction survived as Writing Systems evidence: reporting chains mutate truth.
+6. No new top-level cluster was created; Software Delivery / Work Platform remains a candidate only.
+
+
+## New / Updated Durable Artifacts
+
+
+Added:
+- Discovery Promotion Report - 2026-06-24 - Agent Closet + Droobiedoo + Netrunner
+
+
+Updated:
+- Home Center - Skill Cluster Index
+- Doctrine Registry
+- Skill Cluster - AI Orchestration
+- Skill Cluster - Project Archaeology
+- Skill Cluster - Writing Systems
+- Skill Cluster - Game Development
+- Skill Cluster - Accessibility Engineering
+
+
+## What Survived
+
+
+### Agent Closet Index-First Doctrine Retrieval
+
+
+Agent Closet now has doctrine, skill/procedure, agent, and repo-map index surfaces. This means future agents can start from retrieval paths instead of filename memory.
+
+
+Promoted to:
+- AI Orchestration
+- Project Archaeology
+
+
+### droobiedoo Human Capability Stack
+
+
+The five-principle stack survived promotion:
+- Feedback Density
+- Durable Memory
+- Validation Before Trust
+- Role Separation
+- Execution Proximity
+
+
+Promoted to:
+- AI Orchestration
+- Project Archaeology
+- Accessibility Engineering for Execution Proximity
+
+
+### Simulation Shovel
+
+
+Promoted compression:
+Instantiate -> Observe -> Compress.
+
+
+Promoted to:
+- AI Orchestration
+- Project Archaeology
+- Writing Systems
+- Game Development
+
+
+### Self-Insertion Calibration
+
+
+Promoted test:
+A self-insert is useful when it preserves an operating pattern while allowing divergence and independent usefulness.
+
+
+Promoted to:
+- AI Orchestration
+- Writing Systems
+
+
+### Humor as Compression Engine
+
+
+Promoted rule:
+A recurring joke may be a doctrine that survived attention constraints.
+
+
+Promoted to:
+- AI Orchestration
+- Writing Systems
+
+
+### Functional Annoyance
+
+
+Promoted rule:
+Useful systems can irritate users because they remove excuses, narratives, or escape hatches.
+
+
+Promoted to:
+- AI Orchestration
+- Accessibility Engineering
+- Writing Systems
+
+
+### Netrunner v0
+
+
+Promoted rule:
+Visible surface before magic.
+
+
+Promoted to:
+- Accessibility Engineering
+- AI Orchestration
+
+
+### Holding Vigil Corpus Mining
+
+
+Promoted discoveries:
+- Paradise abstracts. Lexen concretes.
+- Institutional fiction strengthens when reporting chains mutate truth.
+- Military realism is authority, responsibility, reporting, consequences, and accountability gaps.
+
+
+Promoted to:
+- Writing Systems
+- Project Archaeology
+
+
+## Duplicate / Repair Flags
+
+
+- Human-AI Symbiosis appears both as standalone doctrine and inside a Combined Arms bundle. Keep standalone doctrine canonical.
+- Viral Infrastructure appears in multiple bundles. Store cluster-local use cases instead of duplicating the full body.
+- Agent Closet doctrine-index, Agent Closet doctrine-registry, and Drive Doctrine Registry overlap. Reconcile; do not create a fourth registry.
+- Agent Closet skill-index and Drive Skill Cluster Index should coexist because one is repo-local retrieval and the other is cross-source capability routing.
+- Availity work PRs were observed but not mined deeply enough to activate Software Delivery / Work Platform.
+
+
+## Archive Candidates
+
+
+- Raw chat/corpus exports unless curated.
+- Title-only Drive shells.
+- Bundled doctrine files after canonical subdoctrines are split and indexed.
+- Duplicate Drive mirrors of live GitHub doctrine.
+
+
+## Next Repairs
+
+
+1. Reconcile Agent Closet doctrine-index and doctrine-registry.
+2. Add Holding Vigil as a full Writing Systems specimen report.
+3. Add Home Center Netrunner as an Accessibility Engineering specimen.
+4. Decide whether Simulation Shovel should become a standalone shared skill file in Agent Closet.
+5. Run a targeted Software Delivery / Work Platform scan only if work PR evidence becomes an intentional sweep target.
+
+
+## Final Compression
+
+
+A system is not mature when it has good doctrine.
+
+
+A system is mature when the right doctrine is findable, inheritable, testable, and close enough to execution to change behavior.
+
+
+
+
+# Change Report - 2026-06-25 - Fiction Corpus Evidence Gate + Shattered Bonds
+
+
+Status: Skill Promotion Sweep completed.
+
+
+New report:
+- Discovery Promotion Report - 2026-06-25 - Fiction Corpus Evidence Gate + Shattered Bonds: https://docs.google.com/document/d/11Xqqu-oMNkasKJkbXpzwLFuNEUCJZeEvWyec4DHsWqg
+
+
+Reviewed:
+- Agent Closet fiction manifest, canonical corpus map, scene index, kinetic action evidence ledger, fiction observation ledger, and book observation artifacts.
+- Recent Agent Closet fiction corpus commits for Jumpy Bug, Holding Vigil, Shattered Bonds Online, Aegis of Victory, Lighter Than Air, Fatal Vow Exception, and all-book observation indexing.
+- New Drive Shattered Bonds -Dorian beginning Google Doc and PDF export.
+
+
+Promoted:
+- Writing Systems: Fiction Evidence Gate; Action as State Conversion; Version-Aware Manuscript Mining; Shattered Bonds Dorian Beginning local specimen.
+- Project Archaeology: Evidence Stratification; Manifest / Canonical Map Split; Alternate Preservation Before Archive.
+- AI Orchestration: Anti-Vibe Corpus Governance.
+
+
+Duplicate decisions:
+- Shattered Bonds Google Doc survives as active review surface; PDF is export/archive candidate after equivalence check.
+- Fiction manifest and canonical map both survive; different jobs.
+- Book observation files and corpus ledger both survive; evidence layer versus recurrence layer.
+- Drive reports summarize and route promotions; Agent Closet corpus files remain repository truth.
+
+
+Next repair:
+Run Shattered Bonds version reconciliation across Online v2, v3, and Dorian beginning before promoting Shattered Bonds-specific discoveries into corpus doctrine.
+
+
+
+
+# Change Report - 2026-06-25
+
+
+## Executive Summary
+
+
+Daily Drive delta scan found meaningful new fiction-corpus and doctrine-retrieval material since the previous no-source-change run.
+
+
+Most important changes:
+1. Added a new Fiction Corpus Evidence Gate promotion report.
+2. Added Shattered Bonds - Dorian beginning as a new Google Doc plus matching PDF export.
+3. Captured the 2026-06-24 Agent Closet + Droobiedoo + Netrunner promotion report that landed after the prior scan window.
+4. Updated skill clusters for Writing Systems, Project Archaeology, AI Orchestration, Accessibility Engineering, Game Development, and the master Skill Cluster Index.
+5. Updated Doctrine Registry routing and flagged index/registry overlap for reconciliation.
+6. Flagged Shattered Bonds version reconciliation as the highest-priority next repair.
+
+
+## Counts
+
+
+Added / newly indexed:
+- Discovery Promotion Report - 2026-06-25 - Fiction Corpus Evidence Gate + Shattered Bonds
+- Shattered Bonds -Dorian beginning
+- Shattered Bonds -Dorian beginning.pdf
+- Discovery Promotion Report - 2026-06-24 - Agent Closet + Droobiedoo + Netrunner
+
+
+Updated / reinforced:
+- Home Center - Skill Cluster Index
+- Skill Cluster - Writing Systems
+- Skill Cluster - AI Orchestration
+- Skill Cluster - Project Archaeology
+- Skill Cluster - Accessibility Engineering
+- Skill Cluster - Game Development
+- Doctrine Registry
+
+
+Merged:
+- None. No source document bodies were merged this run. Related materials were classified and routed only.
+
+
+Flagged for review / repair:
+- Shattered Bonds Google Doc versus PDF export relationship
+- Shattered Bonds Dorian beginning versus Shattered Bonds Online v2/v3 relationship
+- Agent Closet doctrine-registry / doctrine-index / Drive Doctrine Registry overlap
+- Human-AI Symbiosis / Mirror Problem duplicate body
+- Viral Infrastructure duplication across doctrine bundles
+- Agent Closet skill-index versus Drive Skill Cluster Index overlap
+
+
+# Human-Readable Index Entries
+
+
+## 1. Discovery Promotion Report - 2026-06-25 - Fiction Corpus Evidence Gate + Shattered Bonds
+
+
+URL: https://docs.google.com/document/d/11Xqqu-oMNkasKJkbXpzwLFuNEUCJZeEvWyec4DHsWqg
+Status: New / promotion report
+Type: Discovery Promotion Report
+Summary: Promoted a fiction archaeology discipline: scene evidence -> book observation artifact -> corpus observation ledger -> doctrine / theory promotion. The report warns that the fiction corpus is now too large for memory-based style claims and requires source-backed evidence gates.
+Key entities: Shattered Bonds, Dorian Flint, Jess, Elysium, Agent Closet fiction manifest, canonical fiction corpus map, fiction scene index, kinetic action evidence ledger, fiction observation ledger, Writing Systems, Project Archaeology, AI Orchestration.
+Decisions:
+- No full-corpus style claim is valid until Priority A works have canonical links verified, first pass indexed, and book-local observations captured.
+- Keep fiction manifest and canonical corpus map separate: manifest records inventory; map chooses mining priority.
+- Book-local observation files and corpus observation ledger are not duplicates; both survive.
+- Agent Closet remains durable repository truth for corpus evidence; Drive reports summarize and route promotions into skill clusters.
+Action items:
+- Run Shattered Bonds version reconciliation.
+- Compare Shattered Bonds Online v2, Shattered Bonds v3, and Dorian beginning.
+- Classify Dorian beginning as revision, branch, prelude, replacement opening, or orphan fragment.
+- Update canonical corpus map and Shattered Bonds book observation file.
+Reusable discoveries:
+- Fiction Evidence Gate.
+- Action As State Conversion.
+- Version-Aware Story Archaeology.
+- Evidence Stratification.
+- Manifest / Map Split.
+- Anti-Vibe Corpus Governance.
+Retrieval keys: fiction evidence gate, Shattered Bonds, corpus archaeology, scene evidence, book observation artifact, corpus observation ledger, action as state conversion, anti-vibe corpus governance, version-aware story archaeology.
+Related material: Agent Closet fiction manifest; canonical fiction corpus map; fiction observation ledger; Writing Systems cluster; Project Archaeology cluster; Shattered Bonds Dorian beginning.
+
+
+## 2. Shattered Bonds -Dorian beginning
+
+
+URL: https://docs.google.com/document/d/15oFV5bUE2r_77p_A9d2IqWOyuDS8lcFqHGKLtV59AoQ
+Status: New / active review surface
+Type: Fiction manuscript fragment / opening candidate
+Summary: Dorian Flint is burned out, isolated, and surrounded by evidence of decline. His old Radiant Bastion armor physically externalizes the self he cannot lift anymore. He ignores a job offer, repairs a corrupt AI emergency-routing system with Elysium, receives a painful signal from Jess, accepts a Shattered Bonds Online beta invite, resists Elysium's medication reminder, and begins moving again without yet reaching hope.
+Key entities: Dorian Flint, Jess, Todd, Elysium, IntegraAI, HARMA, Radiant Bastion, Shattered Bonds Online.
+Decisions:
+- Treat this Google Doc as the active review surface unless version reconciliation proves otherwise.
+- Do not promote Dorian-specific findings as corpus doctrine yet; preserve as Shattered Bonds local evidence.
+Action items:
+- Compare against Shattered Bonds Online v2 and Shattered Bonds v3.
+- Determine whether this is a revision, branch, prelude, replacement opening, or orphan fragment.
+- Add local observations to Shattered Bonds book observation file.
+Reusable discoveries:
+- Burnout can be externalized through a physical artifact.
+- The old self can be an object too heavy to lift rather than exposition.
+- AI auditing can operate as moral repair work.
+- A benevolent assistant can function as capability amplifier and conscience-adjacent reminder.
+- A game invite can trigger movement without cheap instant hope.
+Retrieval keys: Shattered Bonds Dorian beginning, Dorian Flint, Jess, Elysium, Radiant Bastion, burnout armor, AI auditor, game as agency gateway, wound to mechanic.
+Related material: Shattered Bonds -Dorian beginning.pdf; Discovery Promotion Report - 2026-06-25; Writing Systems cluster.
+
+
+## 3. Shattered Bonds -Dorian beginning.pdf
+
+
+URL: https://drive.google.com/file/d/157CuC7ErsPL_bYN1Aq1km17uiWWT9gc_
+Status: New / export or archive evidence
+Type: PDF export of manuscript fragment
+Summary: Appears to contain the same Dorian beginning material as the Google Doc version.
+Key entities: Dorian Flint, Jess, Elysium, Todd, Shattered Bonds Online.
+Decisions:
+- Keep the Google Doc as active review surface.
+- Treat the PDF as export/archive evidence unless it proves newer, cleaner, or structurally different.
+Action items:
+- During version reconciliation, confirm whether PDF and Google Doc are equivalent.
+Reusable discoveries:
+- Exact exports are archive evidence, not separate doctrine sources, unless they differ materially.
+Retrieval keys: Shattered Bonds PDF, Dorian beginning export, archive evidence, manuscript duplicate.
+Related material: Shattered Bonds -Dorian beginning Google Doc.
+
+
+## 4. Discovery Promotion Report - 2026-06-24 - Agent Closet + Droobiedoo + Netrunner
+
+
+URL: https://docs.google.com/document/d/1NjGNCDPdwU7SjWsQgBLqkvwfeBfG8GMjeeUquKrTW2M
+Status: New / promotion report caught by this scan
+Type: Discovery Promotion Report
+Summary: Captured the shift from doctrine capture to doctrine retrieval. Agent Closet gained first-class index surfaces for doctrines, agents, skills, procedures, templates, theory, and scratch ore. Droobiedoo contributed a human-general capability stack. Netrunner survived as accessibility infrastructure: visible browser first, automation later. Holding Vigil survived as a Writing Systems specimen through Institution Simulation and Military Reality Extraction.
+Key entities: Agent Closet, Droobiedoo, Netrunner, Home Center, Prism League, Holding Vigil, Doctrine Registry, Skill Cluster Index, Thunder Brainstorm.
+Decisions:
+- Index surfaces are retrieval infrastructure, not admin overhead.
+- Visible surface before automation for accessible browser work.
+- Drive registry should point to Agent Closet canonical files and store cluster routing, not fork doctrine bodies.
+- Agent Closet skill-index and Drive Skill Cluster Index both survive; cross-link, do not merge.
+Action items:
+- Reconcile Agent Closet doctrine-registry and doctrine-index.
+- Add Humor as Compression Engine, Functional Annoyance, Self-Insertion Calibration, and Simulation Shovel to Agent Closet doctrine index if absent.
+- Add Netrunner to Accessibility Engineering as a canonical Home Center specimen.
+- Add Holding Vigil as first Writing Systems specimen report.
+- Create Software Delivery / Work Platform candidate cluster only after repeated work-platform PR evidence is intentionally mined.
+Reusable discoveries:
+- Index-First Agent Closet.
+- Human-General Capability Stack.
+- Feedback Density.
+- Durable Memory.
+- Validation Before Trust.
+- Role Separation.
+- Execution Proximity.
+- Simulation Shovel.
+- Self-Insertion Calibration.
+- Humor as Compression Engine.
+- Functional Annoyance.
+- Combined Arms With Swords.
+- Visible Surface Before Automation.
+- Institutional fiction strengthens when reporting chains mutate truth.
+Retrieval keys: index-first agent closet, droobiedoo, netrunner, visible surface before automation, human-general capability stack, simulation shovel, humor as compression, functional annoyance, combined arms with swords, holding vigil military reality.
+Related material: Doctrine Registry; Skill Cluster - AI Orchestration; Skill Cluster - Accessibility Engineering; Skill Cluster - Writing Systems; Skill Cluster - Game Development; Thunder Brainstorm source refs.
+
+
+## 5. Doctrine Registry
+
+
+URL: https://docs.google.com/document/d/1gGaoyUkXqOlISKrI95L9a27TkNxu6FO9I9FTRiZQ6EQ
+Status: Updated / active lookup table
+Type: Registry
+Summary: Doctrine lookup surface remains active, but now overlaps with Agent Closet's doctrine-registry and doctrine-index.
+Key entities: Doctrine Registry, Agent Closet, shared/doctrine-registry.md, shared/index/doctrine-index.md, Drive Skill Cluster Index.
+Decisions:
+- Do not create another registry.
+- Reconcile existing registries instead.
+- Drive registry should route and summarize, not fork canonical Agent Closet doctrine bodies.
+Action items:
+- Add source-of-truth pointers from Drive Doctrine Registry to Agent Closet canonical files.
+- Resolve duplicate doctrine bodies by choosing canonical file plus local use-case summaries.
+Reusable discoveries:
+- Registry competition is a repair smell.
+- The cure for duplicated doctrine is pointer discipline, not another index.
+Retrieval keys: doctrine registry, registry reconciliation, agent closet doctrine index, source of truth pointers, duplicate doctrine bodies.
+Related material: Discovery Promotion Report - 2026-06-24.
+
+
+## 6. Skill Cluster - Writing Systems
+
+
+URL: https://docs.google.com/document/d/1Ysk4e9p03b-ykutQ4VIQsRXPR52OrsbxvP-xN3DbyKU
+Status: Updated
+Type: Skill Cluster
+Summary: Reinforced as the home for fiction corpus archaeology, Holding Vigil specimen methods, Shattered Bonds local evidence, Fiction Evidence Gate, Action As State Conversion, and Version-Aware Story Archaeology.
+Key entities: Holding Vigil, Shattered Bonds, Fiction Corpus Evidence Gate, Writing Systems, Institution Simulation, Military Reality Extraction.
+Decisions:
+- Writing Systems remains the correct top-level home; no new fiction cluster required.
+- Do not promote full-corpus writing doctrine from memory, vibe, or favorite excerpt.
+Action items:
+- Add Holding Vigil as first Writing Systems specimen report.
+- Feed Shattered Bonds observations into local book observation layer after version reconciliation.
+Reusable discoveries:
+- Fiction Evidence Gate.
+- Action As State Conversion.
+- Version-Aware Story Archaeology.
+- Simulation Shovel for behavior-first story mining.
+Retrieval keys: writing systems, fiction evidence gate, action state conversion, Shattered Bonds, Holding Vigil specimen, version-aware story archaeology.
+Related material: 2026-06-25 promotion report; 2026-06-24 promotion report; Shattered Bonds Dorian beginning.
+
+
+## 7. Skill Cluster - AI Orchestration
+
+
+URL: https://docs.google.com/document/d/1EBwa28sPvuZAqxFyHsNHJ7TWaDmKUYVBs__Zm2LgNzo
+Status: Updated
+Type: Skill Cluster
+Summary: Reinforced with doctrine-retrieval infrastructure, anti-vibe corpus governance, human-general capability stack, Simulation Shovel, and source-adapter discipline.
+Key entities: Agent Closet, Drive Knowledge Index, Doctrine Registry, Droobiedoo, WWDD/WWVD, source adapters.
+Decisions:
+- Agents must not turn chat impressions into doctrine when a repository evidence gate exists.
+- Read manifest -> read canonical target -> capture local observation -> update ledger -> only then promote.
+Action items:
+- Maintain source adapter scan.
+- Keep registry pointers to canonical evidence instead of copying doctrine bodies.
+Reusable discoveries:
+- Anti-Vibe Corpus Governance.
+- Index-first doctrine retrieval.
+- Human-General Capability Stack.
+- Simulation Shovel.
+Retrieval keys: AI orchestration, anti-vibe corpus governance, doctrine retrieval, source adapters, index-first, simulation shovel.
+Related material: Doctrine Registry; 2026-06-24 and 2026-06-25 promotion reports.
+
+
+## 8. Skill Cluster - Project Archaeology
+
+
+URL: https://docs.google.com/document/d/1DP6rVjqWg10SvBAnsBYGM4ul8-IY1n2OTGTe28-j3Ww
+Status: Updated
+Type: Skill Cluster
+Summary: Reinforced as the method for recovering durable value from project remains, duplicates, manuscript versions, and corpus evidence layers.
+Key entities: Shattered Bonds, Agent Closet corpus files, fiction manifest, canonical corpus map, book observation files, corpus observation ledger.
+Decisions:
+- Big corpora need layers: raw artifact, local observation, cross-artifact ledger, and promoted doctrine are different objects.
+- A manifest preserves inventory; a canonical map chooses working targets.
+Action items:
+- Run Shattered Bonds version reconciliation.
+- Continue duplicate repair via classification before archiving.
+Reusable discoveries:
+- Evidence Stratification.
+- Manifest / Map Split.
+- Version-Aware Story Archaeology.
+- Registry Reconciliation.
+Retrieval keys: project archaeology, evidence stratification, manifest map split, version reconciliation, duplicate repair, source-of-truth selection.
+Related material: Shattered Bonds Dorian beginning; 2026-06-25 promotion report.
+
+
+## 9. Skill Cluster - Accessibility Engineering
+
+
+URL: https://docs.google.com/document/d/1dCf2FxBxN-vZoZbpMKxq22JlooTDJn4sxUc3aaJm5pg
+Status: Updated
+Type: Skill Cluster
+Summary: Reinforced with Netrunner v0 and accessible browser automation sequence: visible browser surface before automation.
+Key entities: Netrunner, Home Center, blind/low-vision workflows, accessibility engineering, browser shell.
+Decisions:
+- Do not automate an invisible surface.
+- Accessible browser infrastructure should be visible, navigable, and inspectable before magic automation is added.
+Action items:
+- Add Netrunner as canonical Home Center accessibility specimen.
+Reusable discoveries:
+- Visible Surface Before Automation.
+- Execution Proximity.
+- Functional Annoyance as adoption friction signal.
+Retrieval keys: accessibility engineering, Netrunner, visible surface before automation, execution proximity, browser shell, low vision workflow.
+Related material: 2026-06-24 promotion report; Home Center project artifacts.
+
+
+## 10. Skill Cluster - Game Development
+
+
+URL: https://docs.google.com/document/d/1zpJPxFY9ERln1mYKx5YM56yoSk6d2VtMP11c4p5iAEU
+Status: Updated
+Type: Skill Cluster
+Summary: Reinforced with Combined Arms With Swords, actor-centric to system-centric design, Simulation Shovel for prototype-first mechanic discovery, and sibling-prototype routing walls for Prism League / Goblin Chess.
+Key entities: Prism League, Goblin Chess, Game Development, Combined Arms With Swords, Simulation Shovel.
+Decisions:
+- No capability wins alone; victory emerges from interaction.
+- Protect sibling prototypes with routing walls so requirements do not bleed across projects.
+Action items:
+- Convert fiction action-state ledger into playable mechanics only if intentionally promoted later.
+Reusable discoveries:
+- Combined Arms With Swords.
+- Actor-centric -> system-centric design shift.
+- Simulation Shovel for prototype-first mechanic discovery.
+- Sibling prototype protection.
+Retrieval keys: game development, combined arms with swords, system-centric design, simulation shovel, prism league, goblin chess routing.
+Related material: 2026-06-24 promotion report; 2026-06-25 fiction action-state notes.
+
+
+## 11. Home Center - Skill Cluster Index
+
+
+URL: https://docs.google.com/document/d/1vEn3S2He4CaTqsq1jYR9Nqcz2mCL7Sa0qCAc65VlRA8
+Status: Updated
+Type: Master Skill Index
+Summary: Updated as cross-source capability routing surface. It now reflects Agent Closet doctrine/index evidence, Droobiedoo capability-stack evidence, Netrunner accessibility work, Prism League routing walls, Holding Vigil corpus work, and Drive cluster/registry overlap.
+Key entities: Home Center, Skill Cluster Index, Agent Closet, Droobiedoo, Netrunner, Prism League, Holding Vigil, Doctrine Registry.
+Decisions:
+- Agent Closet skill-index is repo-local retrieval.
+- Drive Skill Cluster Index is cross-source capability routing.
+- Cross-link rather than merge.
+Action items:
+- Reconcile overlapping registry/index surfaces.
+- Keep cluster routing summaries local without duplicating canonical doctrine bodies.
+Reusable discoveries:
+- Cross-source index layers need role separation.
+- Routing surfaces are useful only when they preserve source-of-truth boundaries.
+Retrieval keys: home center skill cluster index, cross-source capability routing, agent closet overlap, drive registry, skill index reconciliation.
+Related material: Doctrine Registry; 2026-06-24 and 2026-06-25 promotion reports.
+
+
+# Duplicate / Related Material Handling
+
+
+## Shattered Bonds Google Doc versus PDF
+
+
+Decision: Keep Google Doc as active review surface. Treat PDF as export/archive evidence unless it proves newer, cleaner, or structurally different.
+
+
+## Shattered Bonds Dorian Beginning versus v2/v3
+
+
+Decision: Relationship unresolved. Do not archive or promote until version reconciliation classifies Dorian beginning.
+
+
+## Fiction Manifest versus Canonical Corpus Map
+
+
+Decision: Not duplicates. Manifest answers what exists. Canonical map answers what should be mined first.
+
+
+## Book Observation Files versus Corpus Observation Ledger
+
+
+Decision: Not duplicates. Book files preserve local evidence. Corpus ledger preserves recurring cross-book observations.
+
+
+## Drive Reports versus Agent Closet Corpus Files
+
+
+Decision: Not duplicates. Agent Closet is durable repository truth for corpus evidence; Drive reports summarize and route promotions.
+
+
+## Human-AI Symbiosis / Mirror Problem Duplicate Body
+
+
+Decision: Keep human_ai_symbiosis_mirror_problem.md as canonical doctrine. Treat combined_arms_with_swords_and_identity.md as bundled conversation artifact with promoted extracts.
+
+
+## Viral Infrastructure Duplication
+
+
+Decision: Do not duplicate body text into every cluster. Store local cluster use cases only.
+
+
+## Agent Closet Doctrine Registry / Doctrine Index / Drive Doctrine Registry
+
+
+Decision: Reconcile. Do not create another registry. Drive should point to Agent Closet canonical files and store cluster routing.
+
+
+## Agent Closet Skill Index / Drive Skill Cluster Index
+
+
+Decision: Keep both. Agent Closet skill-index is repo-local retrieval. Drive Skill Cluster Index is cross-source capability routing. Cross-link, do not merge.
+
+
+# AI-Readable Delta Record
+
+
+```yaml
+run_date: 2026-06-25
+status: source_changes_found
+scan_basis:
+  method:
+    - recent Drive document scan
+    - modifiedTime filter after previous daily scan window
+    - best-effort fetch
+    - full readback for high-value reports and new fiction artifact
+source_documents_added: 4
+source_documents_updated: 7
+source_documents_merged: 0
+source_documents_flagged: 6
+added:
+  - title: Discovery Promotion Report - 2026-06-25 - Fiction Corpus Evidence Gate + Shattered Bonds
+    url: https://docs.google.com/document/d/11Xqqu-oMNkasKJkbXpzwLFuNEUCJZeEvWyec4DHsWqg
+    classification: promotion_report
+    primary_clusters: [Writing Systems, Project Archaeology, AI Orchestration]
+  - title: Shattered Bonds -Dorian beginning
+    url: https://docs.google.com/document/d/15oFV5bUE2r_77p_A9d2IqWOyuDS8lcFqHGKLtV59AoQ
+    classification: fiction_manuscript_fragment
+    primary_clusters: [Writing Systems]
+  - title: Shattered Bonds -Dorian beginning.pdf
+    url: https://drive.google.com/file/d/157CuC7ErsPL_bYN1Aq1km17uiWWT9gc_
+    classification: pdf_export_archive_candidate
+    primary_clusters: [Writing Systems, Project Archaeology]
+  - title: Discovery Promotion Report - 2026-06-24 - Agent Closet + Droobiedoo + Netrunner
+    url: https://docs.google.com/document/d/1NjGNCDPdwU7SjWsQgBLqkvwfeBfG8GMjeeUquKrTW2M
+    classification: promotion_report
+    primary_clusters: [AI Orchestration, Project Archaeology, Accessibility Engineering, Writing Systems, Game Development]
+updated:
+  - Home Center - Skill Cluster Index
+  - Skill Cluster - Writing Systems
+  - Skill Cluster - AI Orchestration
+  - Skill Cluster - Project Archaeology
+  - Skill Cluster - Accessibility Engineering
+  - Skill Cluster - Game Development
+  - Doctrine Registry
+promoted_discoveries:
+  - Fiction Evidence Gate
+  - Action As State Conversion
+  - Version-Aware Story Archaeology
+  - Evidence Stratification
+  - Manifest / Map Split
+  - Anti-Vibe Corpus Governance
+  - Index-First Agent Closet
+  - Human-General Capability Stack
+  - Simulation Shovel
+  - Visible Surface Before Automation
+  - Humor as Compression Engine
+  - Functional Annoyance
+  - Combined Arms With Swords
+flags:
+  - Shattered Bonds version reconciliation required
+  - Shattered Bonds PDF likely export/archive evidence
+  - registry/index overlap requires reconciliation
+  - Human-AI Symbiosis duplicate body requires canonical pointer discipline
+  - Viral Infrastructure duplication requires local-use-case-only handling
+  - skill-index / cluster-index overlap should be cross-linked, not merged
+next_actions:
+  - Fetch/read Shattered Bonds Online v2
+  - Fetch/read Shattered Bonds v3
+  - Compare v2/v3 against Dorian beginning
+  - Classify Dorian beginning as revision, branch, prelude, replacement opening, or orphan fragment
+  - Update canonical corpus map and Shattered Bonds book observation file
+  - Reconcile Agent Closet doctrine-registry, doctrine-index, and Drive Doctrine Registry
+  - Add Netrunner to Accessibility Engineering as canonical Home Center specimen
+  - Add Holding Vigil as first Writing Systems specimen report
+```
+
+
+## Final Compression
+
+
+The useful change is not just new fiction.
+
+
+The useful change is the gate around fiction:
+
+
+Evidence first. Local observation second. Corpus claim third. Doctrine last.
+
+
+That keeps the writing system from becoming a haunted mirror maze of confident vibes.
+
+
+
+
+# Change Report - 2026-06-25 Addendum - Fiction Corpus Promotion Patches
+
+
+## Summary
+
+
+Completed follow-through for the fiction corpus promotion sweep.
+
+
+Updated artifacts:
+- Discovery Promotion Report - 2026-06-25 - Fiction Corpus Evidence Gate + Shattered Bonds
+- Skill Cluster - Writing Systems
+- Skill Cluster - Project Archaeology
+- Skill Cluster - AI Orchestration
+- Agent Closet repository promotion record
+- Thunder Brainstorm GitHub source-reference mirror
+
+
+## GitHub Patches
+
+
+### Agent Closet
+
+
+Created:
+`shared/registry-addenda/2026-06-25-fiction-corpus-promotion.md`
+
+
+Commit:
+`3032315c327a684acff8d4dc81f1537166984928`
+
+
+Purpose:
+Durable repository-local promotion record for Fiction Corpus Evidence Gate, Manifest / Canonical Map Split, Book-Local Observation Layer, Action As State Conversion, and Shattered Bonds Dorian Beginning local-evidence status.
+
+
+### Thunder Brainstorm
+
+
+Created:
+`generated/source_refs_github/2026-06-25_fiction_corpus_promotion_source_refs.jsonl`
+
+
+Commit:
+`b8926fdd3c2c073f74fcbc8689d2fa861f796763`
+
+
+Purpose:
+Patch Thunder reusable mirrors so fiction corpus claims point back to live Agent Closet evidence and active Drive manuscript surfaces.
+
+
+## Skill Cluster Patches
+
+
+Writing Systems received:
+- Fiction Corpus Evidence Gate
+- Action As State Conversion
+- Version-Aware Story Archaeology
+- Book-Local Observation Layer
+
+
+Project Archaeology received:
+- Evidence Stratification for fiction corpus governance
+- source-of-truth and archive/hold rules
+
+
+AI Orchestration received:
+- Anti-Vibe Corpus Governance
+- mirror/source-reference rule
+
+
+## Source-of-Truth Decisions
+
+
+- Agent Closet is canonical for fiction archaeology evidence.
+- Drive reports summarize promotions and decisions.
+- Thunder Brainstorm stores source refs, not doctrine forks.
+- Drive manuscripts remain active prose surfaces until version reconciliation is complete.
+
+
+## Next Action
+
+
+Run Shattered Bonds version reconciliation before promoting any Dorian beginning discovery beyond local evidence.

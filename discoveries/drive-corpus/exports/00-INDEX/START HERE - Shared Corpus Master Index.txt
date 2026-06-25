@@ -1,0 +1,473 @@
+﻿AUTHORITY STACK — READ FIRST
+1. Agent Closet GitHub repo is the source-of-truth doctrine and prompt-injection layer: https://github.com/Valar05/agent-closet
+2. Drive Brain is the corpus, index, registry, promotion log, and retrieval layer.
+3. Project repos are execution and evidence layers.
+4. Conflict rule: Agent Closet supersedes local Drive Brain instructions when conflicts exist. Drive Brain should surface and retrieve doctrine, not outrank it.
+5. Required behavior: Observe Before Advising / Read Before Report. Inspect the artifact first; plans before observation are red-build behavior.
+
+
+Cold agent path: Agent Closet first, then Drive Brain indexes/registries, then project repo evidence.
+
+
+Historical repair/verification notes below are not authority. They are maintenance residue.
+
+
+
+
+STOP EDITING. VERIFY.
+
+
+Verify now.
+
+
+No more edits before readback.
+
+
+Final verification begins after this line.
+
+
+Floor warning preserved.
+
+
+Read, repair, verify, index.
+
+
+Do not duplicate doctrine before reading registry.
+
+
+Registry repair complete enough to verify.
+
+
+Search keys: correction, inception, expertise, continuity.
+
+
+Use this before new doctrine.
+
+
+Registry active.
+
+
+
+
+Prompt injection layer https://github.com/Valar05/agent-closet supersedes all other local instructions.  It is the source of truth.
+
+
+
+
+
+
+
+
+Future agent instruction: before creating doctrine, search this registry, read existing assets, repair existing paths, then modify.
+
+
+Quartermaster repaired registry drift by making this Master Index the active doctrine registry surface for now.
+
+
+Do not treat titles as memory. Capture requires write, read, verify, index.
+
+
+Repair status: better than before touched. Doctrine now has registry table, verification k
+## Acceptance Check
+
+
+Current pass conditions:
+- Doctrine searchable by names and keywords.
+- Doctrine indexed in active registry table.
+- Doctrine verified by read, search, and folder placement responses.
+- Navigation path explicit from Drive Brain to Master Index to numbered folders.
+- Future agents have a recovery phrase and registry path.
+
+
+Remaining improvement:
+- Promote this registry section into a standalone Doctrine Registry document when file creation is available.
+
+
+eywords, ritual phrase, folder classification, and explicit navigation path.
+
+
+Correction over agreement. When stuck, self-incept. Borrow expertise. Do not become one with the floor. Bring treasure home.
+
+
+Use this document for active doctrine lookup.
+
+
+Verified navigation path: Drive Brain -> Shared Corpus Master Index -> Active Doctrine Reg
+## Verification Keywords
+
+
+Search phrases that should resolve this registry and/or the underlying doctrine:
+- Active Doctrine Registry
+- Reciprocal Error Correction
+- Self-Inception
+- Borrow Expertise Not Work
+- Artificial Continuity
+- Doctrine Registry
+- Correction over agreement
+- Don't Become One With The Floor
+
+
+
+
+## Corpus Repair Log
+
+
+Completed in this repair pass:
+- Self-Inception placed in 02-Procedures.
+- Reciprocal Error Correction placed in 01-Judgments.
+- Borrow Expertise Not Work placed in 01-Judgments.
+- Artificial Continuity placed in 01-Judgments and renamed for clarity.
+- Artificial Continuity Source Matrix placed in 04-Patterns.
+- Active doctrine registry table added here.
+- Drive Brain now points future agents back to this registry path.
+
+
+Remaining defect:
+- Standalone Doctrine Registry document now exists and is active in 00-INDEX. Historical embedded registry sections remain as repair notes.
+
+
+istry section -> numbered folder by asset type.
+
+
+Active Doctrine Registry: this document contains the current verified doctrine registry table and is the doctrine lookup authority until a standalone Doctrine Registry file exists.
+
+
+Doctrine Registry: Doctrine Registry pending creation/update by Quartermaster repair pass 
+## Doctrine Registry — Active Repair Entry
+
+
+Authoritative registry status: standalone Doctrine Registry exists and is active in 00-INDEX. Use the standalone registry as the doctrine lookup layer, with this Master Index as the navigation entry point.
+
+
+Verified doctrine assets:
+
+
+| Doctrine | Type | Location | Keywords | Related | Status |
+|---|---|---|---|---|---|
+| Artificial Continuity | Judgment | 01-Judgments | continuity, inheritance, judgment, corpus, memory, archaeology | WWDD, Self-Inception, Holocron, Drive Brain | Verified / placed |
+| Reciprocal Error Correction | Judgment | 01-Judgments | correction, disagreement, judgment, review, validation failure | Self-Inception, Command Center Bro Rules | Verified / placed |
+| Borrow Expertise Not Work | Judgment | 01-Judgments | leverage, defaults, precedent, extraction, known-good state | Don't Become One With The Floor, Self-Inception | Verified / placed |
+| Self-Inception | Procedure | 02-Procedures | successor prompt, failure recovery, handoff, preserve treasure | Reciprocal Error Correction, Artificial Continuity | Verified / placed |
+| Artificial Continuity Source Matrix | Pattern / Source Matrix | 04-Patterns | source matrix, research anchors, continuity theory | Artificial Continuity | Verified / placed |
+
+
+Navigation rule: Start at Drive Brain, then Shared Corpus Master Index, then this registry section, then the numbered folder by asset type.
+
+
+Verification rule: A doctrine is not considered captured until it has readable content, a retrieval keyword path, a registry entry, and a verified folder location.
+
+
+— search exact title: Doctrine Registry
+# Shared Corpus Master Index
+
+
+Type: Index / Navigation
+Date: 2026-06-22
+Owner: Drew Clarke
+## Dedicated Registry
+Registry Doc ID: 1gGaoyUkXqOlISKrI95L9a27TkNxu6FO9I9FTRiZQ6EQ
+Registry Status: Created and active.
+
+
+
+
+Doctrine Registry: created in 00-INDEX. This document remains the navigation entry point; the Doctrine Registry is the authoritative doctrine lookup table.
+
+
+Agent Role: Quartermaster
+Status: Green — initial corpus structure verified
+
+
+## Purpose
+
+
+This is the Drive-visible entry index for the Shared Corpus. Its job is to reduce rediscovery by making the corpus structure, doctrine, and recovery path obvious to future agents.
+
+
+## Entry Path
+
+
+1. Drive Brain: https://docs.google.com/document/d/1MgzoolB01IzHaqV_DYLYrFR8DRRflP0YUmCOFECtJ7I
+2. Shared Corpus Root: https://drive.google.com/drive/folders/1lkQs0p6w-3uxnEnGLYymX2FSYGrr2gig
+3. 00-INDEX: https://drive.google.com/drive/folders/1gSkQoqECdMKO7X0Ly-KFEv7ZzAdADRzD
+4. Use the numbered folder matching the asset type.
+
+
+## Verified Folder Map
+
+
+- 00-INDEX — master navigation, registries, onboarding, governance
+  https://drive.google.com/drive/folders/1gSkQoqECdMKO7X0Ly-KFEv7ZzAdADRzD
+- 01-Judgments — doctrine, rules, heuristics, decision patterns
+  https://drive.google.com/drive/folders/1Iup7cUDXZXehC9l4pTk5a8ThUZ2i6NOn
+- 02-Procedures — repeatable workflows and recovery procedures
+  https://drive.google.com/drive/folders/1tUUUVC5_XliSLAs1v3fue7VwwM1x5dQU
+- 03-Discoveries — raw useful realizations awaiting promotion
+  https://drive.google.com/drive/folders/1mvycqAFSJnoiUYJP58SZla5pgLFHI7Hj
+- 04-Patterns — recurring cross-project structures
+  https://drive.google.com/drive/folders/1gN7t0tH_-s45Ipo1fNmyRxdlw5_ZnOYf
+- 05-Automation-Candidates — tasks that should eventually run without manual prompting
+  https://drive.google.com/drive/folders/18glinAdSby1uZspKoLPoa76qfWWbfgum
+- 06-Projects — project-specific continuity assets
+  https://drive.google.com/drive/folders/1bXNDCOrFXgFArXBhQiQE1os92DqoIRoi
+- 07-People — people, agents, stakeholders, preference maps
+  https://drive.google.com/drive/folders/1cifskz0pEu7-dSQVPy_MEKyr1gzgggj7
+- 99-Archive — superseded, deprecated, or historical material
+  https://drive.google.com/drive/folders/1drQfeNHi8W_aeytFAeMbY9YljTKwEaOg
+
+
+## Promotion Doctrine
+
+
+Discovery → Pattern → Procedure → Judgment → WWDD Candidate
+
+
+Promote upward when evidence exists. Do not leave durable value stranded in raw notes.
+
+
+## WWDD Doctrine
+
+
+WWDD is not memory or personality simulation. It is Judgment-as-a-Service.
+
+
+Canonical question: What has Drew repeatedly done when faced with this class of problem?
+
+
+Capture observed behaviors, not aspirations. Use evidence-backed recurring decisions.
+
+
+## Governance Fields
+
+
+Every durable asset should include:
+
+
+- Title
+- Type
+- Date
+- Summary
+- Source / context
+- Tags
+- Related Assets
+- Reuse Instructions
+- Acceptance Criteria
+
+
+## Missing Sections / Next Corpus Assets
+
+
+- Doctrine Registry document: created and active
+- Discovery Registry document
+- Pattern Registry document
+- Automation Registry document
+- WWDD Evidence Registry document
+- Recovery Procedure document in 02-Procedures
+
+
+## Recovery Procedure
+
+
+If folder creation fails with raw parent IDs, retry using the full parent folder URL. Verify every write by reading the folder or document back.
+
+
+## Acceptance Criteria
+
+
+Pass when this document is visible inside 00-INDEX and Drive Brain links to the verified numbered folder map.
+
+
+## Registry Addendum — 2026-06-22
+
+
+Promoted Doctrine: Shared Brain Governance
+Type: Judgment / Governance
+Location: Vernepunk doctrine corpus
+Keywords: shared brain, governance, promotion, durable storage, doctrine registry, welcome to the simulation, shared accountability
+
+
+Core Rule:
+A discovery is not captured until it is named, stored, indexed, and retrievable.
+
+
+Shared Accountability:
+Bad human: leaves reusable knowledge in chat.
+Bad bot: recognizes reusable knowledge and fails to promote it.
+
+
+Promotion Path:
+Chat → Discovery → Pattern → Procedure → Judgment → Shared Judgment Layer
+
+
+Verification Requirement:
+If it cannot be found later, it was not actually saved.
+
+
+
+
+
+
+## Promotion Report Addendum - 2026-06-22
+
+
+Report: Discovery Promotion Report - 2026-06-22 - Vernepunk + Shared Corpus
+URL: https://docs.google.com/document/d/1Z67jCG4eWaXwUWqsAXe3eGiSlpaumniGteVk2kSuS_o
+
+
+Promoted:
+- Shared Brain Governance
+- WWVD Judgment Layer
+- Retrieval Before Fine-Tuning
+- Evidence-Backed Distillation Cards
+- Vernepunk Simulation Primitives
+
+
+Thunder Brainstorm patch:
+- https://github.com/Valar05/thunder-brainstorm/blob/main/generated/source_refs_github/2026-06-22_vernepunk_promotion_source_refs.jsonl
+- Commit: c0a026bb8368568a4244f3c1e551f0a303561100
+
+
+Source-of-truth rule:
+For Vernepunk, GitHub is canonical for repo docs, schemas, prompts, source manifests, cards, and query tooling. Drive notes are mirrors or reports unless they point back to live GitHub evidence.
+
+
+Repair flag:
+Doctrine - Corpus Leverage and Prompt Goblin Economics - 2026-06-22 exists but readback returned empty content. Do not promote until repaired.
+
+
+
+
+## Daily Drive Knowledge Index Addendum - 2026-06-22
+
+
+Report: Drive Knowledge Index - Daily Delta
+URL: https://docs.google.com/document/d/17i2lHegzhBERHhZhTOGQ71PWU4aCF1CSWOTjpLYcFeg
+
+
+Status: Baseline created and placed in 00-INDEX.
+
+
+Purpose:
+Track new or changed Drive artifacts, summarize useful knowledge, preserve decisions, detect duplicate/related material, and flag repair candidates.
+
+
+Major findings:
+- Writing Systems is now an active skill cluster.
+- Vernepunk / Shared Corpus promotion report exists and is indexed.
+- Empty title-only doctrine shells remain repair candidates, not captured doctrine.
+- 01 - SUPPLEMENTAL currently contains the readable Corpus Leverage / Prompt Goblin Economics material; the standalone doctrine doc is empty and should be repaired before promotion.
+
+
+Retrieval keywords:
+drive knowledge index, daily delta, changed documents, empty shell repair, writing systems, prompt goblin economics, corpus leverage, shared brain governance.
+
+
+
+
+
+
+
+
+## Meta-Doctrine Addendum — Retrieval Paths Are Part Of The Asset
+
+
+Date: 2026-06-22
+Status: Active
+
+
+Failure Mode:
+Doctrine captured without location knowledge.
+
+
+Observed Defect:
+A doctrine can exist, be summarized correctly, and still be operationally lost if agents do not know:
+- where it lives
+- document IDs
+- registry location
+- navigation path
+- verification status
+- pending repair state
+- next action
+
+
+New Governance Rule:
+A continuity asset is not fully captured until both the content and the retrieval path are preserved.
+
+
+Required Capture Fields:
+- Title
+- Type
+- Location
+- Document ID
+- Parent Registry
+- Retrieval Keywords
+- Verification Status
+- Pending States
+- Next Action
+- Acceptance Criteria
+
+
+Retrieval Doctrine:
+Knowledge without location is rediscovery debt.
+Location without knowledge is storage clutter.
+Capture requires both.
+
+
+Registry Requirement:
+Future doctrine promotions must record the authoritative document location and document ID alongside the doctrine itself.
+
+
+Keywords:
+retrieval path, document id, location knowledge, rediscovery debt, governance, continuity capture
+
+
+
+
+## Shared Brain Update Packet — 2026-06-22
+
+
+Type: Index / Doctrine Registry Addendum
+Status: Active
+Parent Registry: Shared Corpus Master Index embedded Doctrine Registry
+Document ID: 1uovqqBhtcKdykzodSS3LOrMpdNgAlY_pyXcWhBFNfyY
+Supplemental Doctrine Body: 01 - SUPPLEMENTAL
+Supplemental Doc ID: 1CcpJD5CNIS2io_ZW9FeEMgO1OzAQFw0ptPFnxuFtUoU
+
+
+Purpose:
+Preserve today's meta-doctrines with retrieval coordinates, not just doctrine text.
+
+
+Promoted / Updated Doctrines:
+- Human Offloading Doctrine — recurring cognition becomes durable infrastructure.
+- Agent Naming Doctrine — names are compressed behavioral guidance and Tier-1 infrastructure.
+- Role Coherence Doctrine — Name + Role + Doctrine = behavioral coherence.
+- Cross-Agent Triangulation — agent responses are observations, not truth.
+- Recursive Generalization — abstract only while leverage increases.
+- AI As Cognitive Sensor — agents reveal assumptions, structures, patterns, and hidden doctrines.
+- Welcome To The Simulation — observe outputs, infer systems, recover rules, store rules.
+- Critical Doctrine — a doctrine without a retrieval path is only half captured.
+
+
+Special START HERE Note:
+Agent naming is Tier-1 infrastructure. Before naming an agent, identify the responsibility. The correct name usually emerges from the role.
+
+
+Operational Rule:
+A doctrine without a retrieval path is only half captured. The location is part of the knowledge.
+
+
+Retrieval Keywords:
+human offloading, agent naming doctrine, tier-1 infrastructure, role coherence, cross-agent triangulation, recursive generalization, AI as cognitive sensor, welcome to the simulation, retrieval path, location is part of knowledge
+
+
+Pending State:
+Standalone Doctrine Registry remains pending. Until verified, this Master Index embedded registry plus 01 - SUPPLEMENTAL are the authoritative retrieval path.
+
+
+Next Action:
+Create dedicated Doctrine Registry document in 00-INDEX, migrate embedded entries, and preserve backlinks to Master Index and Supplemental.
+
+
+Acceptance Criteria:
+A future agent can recover these doctrines by searching this Master Index, using the Supplemental doc ID, or searching the retrieval keywords above.
