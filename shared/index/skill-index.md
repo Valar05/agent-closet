@@ -10,6 +10,9 @@ Purpose: Make reusable behaviors, procedures, templates, and theory easier to fi
 | Skill | Path | Use when |
 |---|---|---|
 | Perspective Graphing | `shared/skills/perspective-graphing.md` | Comparing encoded perspectives and observer models. |
+| Kinetic Compression | `skills/kinetic-compression.md` | Rendering motion, action, contact, and consequence as legible state change. |
+| Scene Compiler | `skills/scene-compiler.md` | Generating fiction scenes from image -> pressure -> judgment -> system -> consequence -> next pressure rather than prose imitation. |
+| World Pressure Engine | `skills/world-pressure-engine.md` | Selecting the next natural story pressure from world state, active clocks, consequence debt, and character judgment. |
 
 ## Procedures
 
@@ -39,6 +42,18 @@ Purpose: Make reusable behaviors, procedures, templates, and theory easier to fi
 | Learning Is Play | `shared/theory/learning-is-play.md` | Connecting play, exploration, feedback, and learning. |
 | Simulation as Learning Infrastructure | `shared/theory/simulation-as-learning-infrastructure.md` | Treating simulation as practice infrastructure. |
 
+## Writing / Fiction Generation Route
+
+Use this route when a future agent needs to generate, evaluate, or improve fiction scenes without copying Drew's surface prose:
+
+1. Read `corpus/fiction/fiction-manifest.md` for corpus scope and evidence gate.
+2. Read `skills/scene-compiler.md` for conductor procedure.
+3. Read `skills/world-pressure-engine.md` when selecting the next pressure from world state.
+4. Read `skills/kinetic-compression.md` when the scene contains motion, contact, combat, rescue, or machine procedure.
+5. Read `shared/skills/perspective-graphing.md` when the scene requires multiple observer lenses or interpretation layers.
+6. Read `shared/theory/simulation-as-learning-infrastructure.md` when designing repeatable simulations, feedback loops, or consequence memory.
+7. Check `corpus/fiction/observations/` and `corpus/fiction/fiction-observation-ledger.md` before promoting any corpus-wide claim.
+
 ## Scratch / Ore
 
 | Scratch asset | Path | Use when |
@@ -62,3 +77,4 @@ A template is ready for promotion when repeated files start needing the same sha
 - Procedures and skills should be separated by behavior type after another inventory pass.
 - Theory docs should point back to doctrines and skills they support.
 - Scratch files need periodic Crucible review.
+- Top-level `skills/` and `shared/skills/` both exist; future hygiene pass should decide whether to consolidate paths or preserve the split with explicit routing.
