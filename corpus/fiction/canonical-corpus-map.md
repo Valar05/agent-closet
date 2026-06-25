@@ -1,6 +1,6 @@
 # Canonical Fiction Corpus Map
 
-Status: v1 / mining gate
+Status: v2 / mining gate
 Created: 2026-06-24
 Depends on: `corpus/fiction/fiction-manifest.md`
 
@@ -25,7 +25,33 @@ Prefer, in order:
 
 ## Canonical Mining Targets
 
-### 1. Lighter Than Air
+### 1. Jumpy Bug / Biblical
+
+Status: READY / USER-CONFIRMED
+
+Canonical target:
+
+- https://docs.google.com/document/d/11bkG4pFd9I32JHTRa7h1XUUtQUZE7cUKN1iq1f2SWTA/edit?usp=drivesdk
+
+Drive title:
+
+- `Biblical`
+
+User title:
+
+- `Jumpy Bug`
+
+Reason:
+
+User supplied this link as Jumpy Bug. It fetches successfully as readable prose and contains high-density kinetic survival action.
+
+Mining notes:
+
+- Chapter 1 is confirmed action-bearing.
+- Tag locust/plague opening, spear/scorpion fight, Jumpy spider movement, web action, cave escape, resource harvesting, bee/locust aftermath, and girl-in-hive encounter.
+- Treat as first evidence source for kinetic compression because it is compact, readable, and action-heavy.
+
+### 2. Lighter Than Air
 
 Status: READY
 
@@ -48,7 +74,7 @@ Mining notes:
 - Mine book 1 and book 2 separately.
 - Tag powers, training, combat, rescue, institutional conflict, and humor.
 
-### 2. Revelation
+### 3. Revelation
 
 Status: READY
 
@@ -65,7 +91,7 @@ Mining notes:
 - Treat as primary action/speculative corpus.
 - Do not rely on prior memory until text is read.
 
-### 3. Holding Vigil
+### 4. Holding Vigil
 
 Status: READY WITH VERIFY
 
@@ -88,7 +114,7 @@ Mining notes:
 - Compare opening/major structure against V2 if needed.
 - Corpus mining pass is supporting analysis, not primary prose.
 
-### 4. Omnitread
+### 5. Omnitread
 
 Status: READY
 
@@ -108,7 +134,7 @@ Mining notes:
 
 - Read for cross-genre action, rhythm, and prose compression.
 
-### 5. Inhuman Reaches
+### 6. Inhuman Reaches
 
 Status: READY WITH SEQUENCE VERIFY
 
@@ -135,7 +161,7 @@ Mining notes:
 - Mine revised parts first.
 - Use juicy bits only after canonical parts are indexed.
 
-### 6. Shattered Bonds / Shattered Bonds Online
+### 7. Shattered Bonds / Shattered Bonds Online
 
 Status: NEEDS VERSION VERIFY
 
@@ -164,7 +190,7 @@ Mining notes:
 - Decide whether they are revisions, separate branches, or connected parts.
 - Do not collapse them until verified.
 
-### 7. Fatal Vow Exception
+### 8. Fatal Vow Exception
 
 Status: READY
 
@@ -186,7 +212,7 @@ Mining notes:
 - Read v2 first.
 - Original only for revision comparison.
 
-### 8. Veil of Liquid Stars
+### 9. Veil of Liquid Stars
 
 Status: READY
 
@@ -206,7 +232,7 @@ Mining notes:
 
 - Older version may contain useful abandoned prose but is not first-pass target.
 
-### 9. Aegis of Victory
+### 10. Aegis of Victory
 
 Status: READY
 
@@ -260,15 +286,15 @@ Decision:
 
 Find actual manuscript before mining.
 
-### Jumpy Bug
+### Game Concept
 
-Status: MISSING / UNCLEAR
+Status: CANDIDATE
 
-- Search found `Game Concept`: https://docs.google.com/document/d/1J4CkdyLEHlhLo_3BW3bIj9KDpiz4UC22LHNqKavmxfA
+- Candidate found: https://docs.google.com/document/d/1J4CkdyLEHlhLo_3BW3bIj9KDpiz4UC22LHNqKavmxfA
 
 Decision:
 
-Not a confirmed prose manuscript. Needs alternate title or user confirmation.
+Old search result. Not canonical Jumpy Bug. Keep as candidate/supporting only.
 
 ### Nightmare Voyage
 
@@ -278,20 +304,21 @@ Decision:
 
 Search exact title failed. Needs alternate title discovery.
 
-## Mining Queue v1
+## Mining Queue v2
 
-1. Lighter Than Air 1
-2. Lighter Than Air 2
-3. Revelation
-4. Holding Vigil revised candidate
-5. Omnitread
-6. Inhuman Reaches revised part 1
-7. Inhuman Reaches revised part 2
-8. Fatal Vow Exception v2
-9. Veil of Liquid Stars
-10. Aegis of Victory
-11. Shattered Bonds version reconciliation
-12. Candidate works after verification
+1. Jumpy Bug / Biblical
+2. Lighter Than Air 1
+3. Lighter Than Air 2
+4. Revelation
+5. Holding Vigil revised candidate
+6. Omnitread
+7. Inhuman Reaches revised part 1
+8. Inhuman Reaches revised part 2
+9. Fatal Vow Exception v2
+10. Veil of Liquid Stars
+11. Aegis of Victory
+12. Shattered Bonds version reconciliation
+13. Candidate works after verification
 
 ## Next File To Create
 
