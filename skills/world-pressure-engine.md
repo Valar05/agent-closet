@@ -19,6 +19,7 @@ What pressure deserves the next scene because of what already changed?
 ## Relationship To Existing Skills
 
 - `skills/scene-compiler.md` orchestrates image -> pressure -> judgment -> system -> consequence -> next pressure.
+- `skills/scene-compiler-runtime.md` uses the pressure result to select doctrine, generate a scene, run the harness, and repair failures.
 - `skills/kinetic-compression.md` renders beat-level motion/contact/consequence as state change.
 - `shared/theory/simulation-as-learning-infrastructure.md` explains why consequence loops teach through survivable feedback.
 - `shared/skills/perspective-graphing.md` selects useful observer lenses when the pressure depends on interpretation conflict.

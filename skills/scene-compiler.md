@@ -38,9 +38,12 @@ Closest existing capabilities:
 
 - `skills/kinetic-compression.md` — handles compressed motion, contact, consequence, and new tactical state.
 - `simulations/lighter-than-air/life-simulation-report.md` — handles world-state simulation, pressure clocks, relationship state, institution state, and consequence memory.
+- `skills/scene-compiler-runtime.md` — execution layer that selects pressure, doctrine, generation, validation, repair, and acceptance.
 - `corpus/fiction/fiction-observation-ledger.md` — preserves repeated fiction patterns but does not yet package them as a generation skill.
 
 Therefore this file does not replace an existing canonical Scene Compiler. It stitches existing evidence into a higher-order scene generation procedure.
+
+The runtime file now supplies the loop that applies this procedure.
 
 ## Scene Compiler
 
