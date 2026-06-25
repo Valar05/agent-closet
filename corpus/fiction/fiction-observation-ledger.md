@@ -1,8 +1,8 @@
 # Fiction Observation Ledger
 
-Status: v1 / observed corpus ledger  
-Created: 2026-06-24  
-Scope: fictional writing only  
+Status: v1 / observed corpus ledger
+Created: 2026-06-24
+Scope: fictional writing only
 Depends on:
 
 - `corpus/fiction/fiction-manifest.md`
@@ -27,25 +27,25 @@ No full-corpus style claim is valid until all Priority A works have been fetched
 
 ## Fiction Corpus Observation Pass 002
 
-**Status:** Observed (Not Promoted)  
-**Role:** Prospector → Quartermaster Handoff  
+**Status:** Observed (Not Promoted)
+**Role:** Prospector → Quartermaster Handoff
 **Purpose:** Cross-corpus observations requiring durable preservation.
 
 ### Sources
 
 Canonical manuscripts:
 
-- Jumpy Bug / Biblical  
+- Jumpy Bug / Biblical
   https://docs.google.com/document/d/11bkG4pFd9I32JHTRa7h1XUUtQUZE7cUKN1iq1f2SWTA
-- Holding Vigil  
+- Holding Vigil
   Canonical candidate from corpus manifest.
-- Shattered Bonds Online  
+- Shattered Bonds Online
   Canonical candidate from corpus manifest.
-- Aegis of Victory  
+- Aegis of Victory
   https://docs.google.com/document/d/1bIlXCINuMkXjVvRMUoR72xXT4_kOscteSBxVZXbpW58
-- Omnitread  
+- Omnitread
   https://docs.google.com/document/d/1-XwFH_dk3LSBExmyPe3ZVCa2SMKt85jlL_w5TSHjfRM
-- Inhuman Reaches  
+- Inhuman Reaches
   Revised Parts 1–2.
 
 ### Observation 051 — Protagonists inherit systems they did not design.
@@ -275,3 +275,116 @@ These observations should be linked forward into future evidence ledgers and pro
 ### Preservation Note
 
 This pass preserves Prospector findings as observed corpus evidence. It is not a doctrine promotion. Promotion requires additional corroboration from the remaining validation corpus.
+
+## Fiction Corpus Synthesis Pass 003
+
+**Status:** Observed (Not Promoted)
+**Role:** Prospector corpus synthesis
+**Purpose:** Cross-corpus writing machinery distilled from already mined fiction observations.
+
+### Sources
+
+Book-local observation artifacts and the existing corpus ledger:
+
+- `corpus/fiction/observations/aegis-of-victory.md`
+- `corpus/fiction/observations/holding-vigil.md`
+- `corpus/fiction/observations/inhuman-reaches.md`
+- `corpus/fiction/observations/jumpy-bug.md`
+- `corpus/fiction/observations/lighter-than-air.md`
+- `corpus/fiction/observations/omnitread.md`
+- `corpus/fiction/observations/revelation.md`
+- `corpus/fiction/observations/shattered-bonds-online.md`
+- `corpus/fiction/observations/the-harroway-connection.md`
+- `corpus/fiction/observations/veil-of-liquid-stars.md`
+
+### Observation 066 — Protagonists become routing points for people, safety, and work.
+
+Evidence:
+
+- Nikia routes Theo's survival and the group's motion.
+- Lexen routes squad safety before orders arrive.
+- Ruben routes the dome's crew and Alexis's role.
+- Jonah becomes the node through which others read, rescue, or hunt.
+
+**Status:** Repeated
+
+### Observation 067 — Maintenance matters more than invention.
+
+Evidence:
+
+- Repair, feeding, shielding, stabilization, and calibration drive the best scenes.
+- The stories reward keeping broken systems usable instead of merely creating new ones.
+
+**Status:** Repeated
+
+### Observation 068 — Food and rest mark scene transitions.
+
+Evidence:
+
+- Meals, drink, sleep, and recovery repeatedly signal a state change after danger or testing.
+- Eating is never neutral; it closes one pressure state and opens another.
+
+**Status:** Repeated
+
+### Observation 069 — Systems are learned through interaction before explanation.
+
+Evidence:
+
+- Interfaces, artifacts, training tools, and game systems are touched, used, or broken first.
+- Rule-setting usually arrives after contact has already revealed the behavior.
+
+**Status:** Repeated
+
+### Observation 070 — Relationships begin as utility and mature into care.
+
+Evidence:
+
+- Combat partners, AI companions, squadmates, siblings, and handlers first connect through need.
+- Affection arrives through repeated usefulness and shared survival.
+
+**Status:** Repeated
+
+### Observation 071 — Progression widens decision space more than raw power.
+
+Evidence:
+
+- New capability usually adds options, routes, or coordination rather than just damage.
+- The best progression arcs make the character more able to choose, not merely more lethal.
+
+**Status:** Repeated
+
+### Observation 072 — Failure remains as useful knowledge.
+
+Evidence:
+
+- Death loops, broken equipment, lost bodies, corrupted systems, and painful scenes persist as memory.
+- Consequence becomes future competence instead of being erased.
+
+**Status:** Repeated
+
+### Observation 073 — Authority is rational and still damaging.
+
+Evidence:
+
+- Institutions, commanders, scientists, and caretakers often pursue coherent goals that still harm the protagonist.
+- Conflict comes from mismatch, not cartoon malice.
+
+**Status:** Repeated
+
+### Observation 074 — Comfort can function as coercion.
+
+Evidence:
+
+- Luxury, rest, relief, oblivion, and anesthesia are repeatedly presented as temptations with hidden costs.
+- Comfort is safe only when the character keeps agency inside it.
+
+**Status:** Repeated
+
+### Observation 075 — Being witnessed restores personhood.
+
+Evidence:
+
+- A signal answered, a name recognized, a body seen as a person, or a companion believed all break the logic of isolation.
+- Communication is not decorative; it is rescue infrastructure.
+
+**Status:** Repeated
