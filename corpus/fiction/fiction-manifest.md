@@ -1,6 +1,6 @@
 # Fiction Corpus Manifest
 
-Status: v1 / source-of-truth seed
+Status: v2 / source-of-truth seed
 Created: 2026-06-24
 Scope: fictional writing only. No code repos, no game design docs, no project management docs.
 
@@ -63,6 +63,17 @@ Further mining must begin from this manifest instead of memory or selected sampl
 - Mining priority: A.
 - Kinetic action likelihood: high; SCP/cultivation/squad action premise from prior context.
 - Notes: Must be read directly before any style claims.
+
+### Jumpy Bug / Biblical
+
+- Canonical target: https://docs.google.com/document/d/11bkG4pFd9I32JHTRa7h1XUUtQUZE7cUKN1iq1f2SWTA/edit?usp=drivesdk
+- Drive title: `Biblical`.
+- User title: `Jumpy Bug`.
+- Search evidence: user supplied canonical link after ambiguous search.
+- Corpus role: primary fiction work.
+- Mining priority: A.
+- Kinetic action likelihood: confirmed high.
+- Notes: Fetched and readable. Chapter 1 contains locust/plague survival, spear/scorpion fight, Jumpy spider movement, webbing, resource harvesting, and compressed survival action. Treat `Jumpy Bug` as working title and `Biblical` as Drive title.
 
 ### Inhuman Reaches
 
@@ -152,10 +163,10 @@ Further mining must begin from this manifest instead of memory or selected sampl
 - Mining priority: B/C.
 - Notes: Need actual manuscript, not feedback copy, if present.
 
-### Game Concept / Jumpy Bug candidate
+### Game Concept candidate
 
 - Candidate found: https://docs.google.com/document/d/1J4CkdyLEHlhLo_3BW3bIj9KDpiz4UC22LHNqKavmxfA
-- Search evidence: `Jumpy Bug` search returned `Game Concept` but not a clean `Jumpy Bug` manuscript.
+- Search evidence: old `Jumpy Bug` search returned `Game Concept`, but user has since provided the canonical Jumpy Bug/Biblical manuscript.
 - Corpus role: uncertain; likely supporting only unless it contains prose.
 - Mining priority: C until verified.
 
@@ -180,16 +191,17 @@ Further mining must begin from this manifest instead of memory or selected sampl
 
 ## Mining Order
 
-1. Lighter Than Air 1 + 2
-2. Revelation
-3. Holding Vigil
-4. Omnitread
-5. Inhuman Reaches revised parts
-6. Shattered Bonds / Online variants
-7. Fatal Vow Exception v2
-8. Veil of Liquid Stars
-9. Aegis of Victory
-10. B-priority candidates after verification
+1. Jumpy Bug / Biblical
+2. Lighter Than Air 1 + 2
+3. Revelation
+4. Holding Vigil
+5. Omnitread
+6. Inhuman Reaches revised parts
+7. Shattered Bonds / Online variants
+8. Fatal Vow Exception v2
+9. Veil of Liquid Stars
+10. Aegis of Victory
+11. B-priority candidates after verification
 
 ## Next Deliverables
 
