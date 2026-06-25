@@ -97,3 +97,122 @@ Torah repeatedly accepts quarantine, experimentation, risk, and deployment becau
 
 - Does later `Revelation` continue treating the supernatural as an operational system?
 - Does Torah eventually become infrastructure for the Institute or broader humanity, strengthening Corpus Observation 065?
+## Direct Manuscript Observations
+
+### REV-011 — Identity is revealed by what Torah keeps doing under pressure.
+
+Evidence:
+- Greenhouse / burning bush encounter and the quarantine transfer that follows.
+- Torah leads with the scope, scouts the anomaly, checks for survivors, stays calm when the pressure intensifies, and accepts quarantine without theatrical resistance.
+- What state changes: the anomaly marks him, but the mark confirms an existing disposition toward service, restraint, and waiting.
+
+Compiler relevance:
+- Image: A lone scout in a greenhouse, a burning plant that does not consume, and a body marked instead of destroyed.
+- Pressure: The extraordinary tests whether his existing duty can survive contact with revelation.
+- Judgment: He keeps scanning, keeps checking breath, and keeps serving the squad instead of chasing glory.
+- System: Canary rules, field procedure, and quarantine all respond to the anomaly as an operational event.
+- Consequence: Torah becomes legible to the Institute as a compatible operator, not just an exposed subject.
+- Next pressure: The mark turns him into a case the Institute must study, contain, and eventually train.
+
+Cross-links:
+- Corpus Observation 052 — Identity emerges from repeated action.
+- Corpus Observation 057 — Maintenance receives more narrative weight than invention.
+- Corpus Observation 058 — Food changes simulation state.
+- Corpus Observation 065 — Protagonists gradually become infrastructure.
+
+Status:
+Observed
+
+### REV-012 — Quarantine turns service into a moral choice.
+
+Evidence:
+- Lead-lined trailer, base transfer, holding room, and early lab scenes.
+- Torah treats the restraints, tests, and waiting as acceptable because mankind needs answers and he can serve as the subject.
+- What state changes: military field duty shifts into institutional captivity without breaking his internal alignment.
+
+Compiler relevance:
+- Image: A cargo-like trailer, a tidy holding room, and a Bible that people placed there as if belief could be installed.
+- Pressure: The Institute needs data and control; Torah needs to decide whether he resists or cooperates.
+- Judgment: He chooses compliance as service, not defeat.
+- System: Science, security, and quarantine merge into one containment workflow.
+- Consequence: The Institute gains access to a willing test subject with a dangerous mark.
+- Next pressure: Tests will convert his body into a readable system.
+
+Cross-links:
+- Corpus Observation 057 — Maintenance receives more narrative weight than invention.
+- Corpus Observation 062 — Protagonists become infrastructure through repeated utility.
+- Corpus Observation 065 — Protagonists gradually become infrastructure.
+
+Status:
+Observed
+
+### REV-013 — Nightmare and rest regulate power expression.
+
+Evidence:
+- Bedroom / sprinkler wake-up, then the medication conversation and the lab testing sequence.
+- Torah's nightmares trigger uncontrolled flame; calm and focus reduce the flames, while later controlled tests map resonance through the body.
+- What state changes: sleep is no longer rest alone; it becomes a pressure clock and a power interface.
+
+Compiler relevance:
+- Image: A man on fire in a room with sprinklers, then later a lab chamber asking him to move flame through his body.
+- Pressure: Internal dream-state decides whether power is stable or dangerous.
+- Judgment: He reports honestly, accepts tests, and learns the body as a control surface.
+- System: The Institute turns nightmare, bloodwork, and body sensation into repeatable procedure.
+- Consequence: Power becomes measurable and trainable instead of mystical noise.
+- Next pressure: The team now has to manage Torah's sleep, medication, and emotional state as operational variables.
+
+Cross-links:
+- Corpus Observation 058 — Food changes simulation state.
+- Corpus Observation 057 — Maintenance receives more narrative weight than invention.
+- Corpus Observation 060 — Failure permanently increases capability.
+- Corpus Observation 065 — Protagonists gradually become infrastructure.
+
+Status:
+Repeated
+
+### REV-014 — Engineering makes the sacred usable without flattening it.
+
+Evidence:
+- Blood sample in the reinforced chamber, spectroscopy-like testing, body-flame mapping, and later Hebrew bloodwork references.
+- The Institute keeps scanners, sample handling, and repeatable tests in play even as the supernatural becomes undeniable.
+- What state changes: mystery is translated into procedure without being dismissed.
+
+Compiler relevance:
+- Image: A blood sample that heats a vial, a reinforced chamber, and a scientist noting the language of the data.
+- Pressure: The sacred keeps resisting neat explanation.
+- Judgment: Torah and the Institute proceed through interaction, not faith cosplay or anti-science denial.
+- System: Science, language, and ritual all become tools for navigating an anomaly.
+- Consequence: The supernatural remains operationally legible, which makes it deployable.
+- Next pressure: If the system can be measured, it can be taught, optimized, and weaponized.
+
+Cross-links:
+- Corpus Observation 057 — Maintenance receives more narrative weight than invention.
+- Corpus Observation 059 — Systems are explained through interaction.
+- Corpus Observation 062 — Protagonists become infrastructure through repeated utility.
+
+Status:
+Repeated
+
+### REV-015 — Meals and recovery mark the end of testing cycles.
+
+Evidence:
+- Quarantine room amenities, sleep, the holding room transition, and the repeated pattern of rest after breakthroughs and tests.
+- Food is already positioned as recovery/reset material even when the manuscript is still in the containment phase.
+- What state changes: the body moves between danger and stabilization through care, not invention.
+
+Compiler relevance:
+- Image: A stocked holding room with a bed, bathroom, and Bible after a violent encounter.
+- Pressure: The body needs recovery after contact with the anomaly.
+- Judgment: Torah submits to the reset cycle instead of trying to power through alone.
+- System: The Institute manages bodies with containment, rest, and later nourishment.
+- Consequence: Recovery becomes part of the operational loop, not an afterthought.
+- Next pressure: Each new test will depend on how well the body recovers from the last one.
+
+Cross-links:
+- Corpus Observation 058 — Food changes simulation state.
+- Corpus Observation 057 — Maintenance receives more narrative weight than invention.
+- Corpus Observation 065 — Protagonists gradually become infrastructure.
+
+Status:
+Observed
+
