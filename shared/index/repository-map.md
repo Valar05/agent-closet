@@ -30,7 +30,7 @@ Read in this order:
 | `procedures/` | Step-by-step operating procedures. | Running a repeatable workflow. |
 | `templates/` | Reusable file shapes. | Creating new entries consistently. |
 | `glue/` | Interface and workflow connection layers. | Fixing translation problems between tools, agents, or artifacts. |
-| `corpus/fiction/` | Fiction corpus map, scene evidence, observation ledger, and book-local observations. | Mining fiction, supporting writing skills, or validating corpus-wide claims. |
+| `corpus/fiction/` | Fiction manifest, source map, scene evidence, observation ledger, and book-local observations. | Mining fiction, supporting writing skills, or validating corpus-wide claims. |
 | `simulations/` | Simulation reports and life-simulation engines. | Designing consequence memory, pressure clocks, and world-state feedback loops. |
 | `scratch/` | Ore, dumps, fragments, and proof notes. | Capturing before refining. |
 
@@ -39,13 +39,14 @@ Read in this order:
 When the task involves Drew's fiction, narrative judgment, scene generation, or manuscript mining, read in this order:
 
 1. `corpus/fiction/fiction-manifest.md` - canonical corpus scope and evidence gate.
-2. `corpus/fiction/observations/README.md` - book-local evidence rules.
-3. `skills/scene-compiler.md` - conductor skill for image -> pressure -> judgment -> system -> consequence -> next pressure.
-4. `skills/world-pressure-engine.md` - pressure selection and clock validation.
-5. `skills/kinetic-compression.md` - action/contact/state-change rendering.
-6. `shared/skills/perspective-graphing.md` - observer lenses and interpretation conflicts.
-7. `shared/theory/simulation-as-learning-infrastructure.md` - consequence simulation, feedback loops, and survivable disagreement.
-8. `corpus/fiction/fiction-observation-ledger.md` plus the relevant book-local observation file before promoting any claim.
+2. `corpus/fiction/fiction-source-map.md` - local export bridge and evidence routing.
+3. `corpus/fiction/observations/README.md` - book-local evidence rules.
+4. `skills/scene-compiler.md` - conductor skill for image -> pressure -> judgment -> system -> consequence -> next pressure.
+5. `skills/world-pressure-engine.md` - pressure selection and clock validation.
+6. `skills/kinetic-compression.md` - action/contact/state-change rendering.
+7. `shared/skills/perspective-graphing.md` - observer lenses and interpretation conflicts.
+8. `shared/theory/simulation-as-learning-infrastructure.md` - consequence simulation, feedback loops, and survivable disagreement.
+9. `corpus/fiction/fiction-observation-ledger.md` plus the relevant book-local observation file before promoting any claim.
 
 ## Current Bottleneck
 

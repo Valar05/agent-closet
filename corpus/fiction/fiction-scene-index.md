@@ -6,11 +6,14 @@ Scope: fictional writing only
 Depends on:
 
 - `corpus/fiction/fiction-manifest.md`
+- `corpus/fiction/fiction-source-map.md`
 - `corpus/fiction/canonical-corpus-map.md`
 
 ## Purpose
 
 This file indexes scenes across Drew's fiction corpus for later pattern mining.
+
+Read `corpus/fiction/fiction-source-map.md` before assuming a manuscript export path.
 
 No full-corpus style claims are valid until every Priority A work has been fetched and indexed.
 

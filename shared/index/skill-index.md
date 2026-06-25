@@ -20,7 +20,7 @@ Purpose: Make reusable behaviors, procedures, templates, and theory easier to fi
 |---|---|---|
 | Capture Save Promote | `procedures/capture-save-promote.md` | Turning chat discoveries into durable repo assets. |
 | Deep Ocean Protocol | `procedures/deep-ocean-protocol.md` | Improving cargo/structure before scaling the vessel. |
-| Drive Corpus Sync | `procedures/drive-corpus-sync.md` | Syncing Google Drive fiction corpus exports into repository-readable local evidence. |
+| Drive Corpus Sync | `procedures/drive-corpus-sync.md` | Syncing Google Drive support corpus exports into repository-readable local evidence. Fiction manuscripts are routed separately. |
 
 ## Templates
 
@@ -48,12 +48,13 @@ Purpose: Make reusable behaviors, procedures, templates, and theory easier to fi
 Use this route when a future agent needs to generate, evaluate, or improve fiction scenes without copying Drew's surface prose:
 
 1. Read `corpus/fiction/fiction-manifest.md` for corpus scope and evidence gate.
-2. Read `skills/scene-compiler.md` for conductor procedure.
-3. Read `skills/world-pressure-engine.md` when selecting the next pressure from world state.
-4. Read `skills/kinetic-compression.md` when the scene contains motion, contact, combat, rescue, or machine procedure.
-5. Read `shared/skills/perspective-graphing.md` when the scene requires multiple observer lenses or interpretation layers.
-6. Read `shared/theory/simulation-as-learning-infrastructure.md` when designing repeatable simulations, feedback loops, or consequence memory.
-7. Check `corpus/fiction/observations/` and `corpus/fiction/fiction-observation-ledger.md` before promoting any corpus-wide claim.
+2. Read `corpus/fiction/fiction-source-map.md` for local export routing and evidence bridge.
+3. Read `skills/scene-compiler.md` for conductor procedure.
+4. Read `skills/world-pressure-engine.md` when selecting the next pressure from world state.
+5. Read `skills/kinetic-compression.md` when the scene contains motion, contact, combat, rescue, or machine procedure.
+6. Read `shared/skills/perspective-graphing.md` when the scene requires multiple observer lenses or interpretation layers.
+7. Read `shared/theory/simulation-as-learning-infrastructure.md` when designing repeatable simulations, feedback loops, or consequence memory.
+8. Check `corpus/fiction/observations/` and `corpus/fiction/fiction-observation-ledger.md` before promoting any corpus-wide claim.
 
 ## Scratch / Ore
 

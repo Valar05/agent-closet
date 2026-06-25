@@ -6,6 +6,7 @@ Scope: fictional writing only
 Depends on:
 
 - `corpus/fiction/fiction-manifest.md`
+- `corpus/fiction/fiction-source-map.md`
 - `corpus/fiction/canonical-corpus-map.md`
 - `corpus/fiction/fiction-scene-index.md`
 
