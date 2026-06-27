@@ -55,6 +55,17 @@ This registry tracks promoted doctrine and the evidence that earned it storage.
 - `Counterexamples`: sprawling plans, explanation without action
 - `Why It Matters`: keeps action small, verifiable, and shippable
 
+
+### Home Center Doctrine
+
+- `Status`: promoted silver
+- `Confidence`: medium-high
+- `Evidence Files`: `/storage/emulated/0/Documents/GodotProjects/home-center/README.md`, `/storage/emulated/0/Documents/GodotProjects/home-center/docs/AGENT_CONTRACT.md`, `/storage/emulated/0/Documents/GodotProjects/home-center/docs/DATA_MODEL.md`, `/storage/emulated/0/Documents/GodotProjects/home-center/docs/netrunner/learning-model.md`, `/storage/emulated/0/Documents/GodotProjects/home-center/app/src/main/java/com/dclar/homecenter/ToolRegistry.java`, `/storage/emulated/0/Documents/GodotProjects/home-center/tools/home_center_regression_tests.py`, `shared/doctrine/home-center-doctrine.md`
+- `Supporting Doctrines`: `Evidence beats activity`, `Save -> Read -> Verify`, `Human Offloading Doctrine`, `Infrastructure Doctrine`, `Accessibility First`
+- `Supporting Agents`: `Foreman`, `Quartermaster`, `Auditor`, `Holocron`
+- `Counterexamples`: personality cloning, chat-only memory, fake provider access, dashboard-only state, unconfirmed risky writes
+- `Why It Matters`: generalizes Home Center beyond one user's preferences into a portable life-operations pattern for organization, research, memory, writing, and reusable skills
+
 ## Registry Notes
 
 - The registry is a promotion ledger, not a scrapbook.
