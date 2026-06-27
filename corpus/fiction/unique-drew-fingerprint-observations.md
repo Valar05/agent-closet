@@ -120,3 +120,17 @@ Evidence:
 Why it feels like Drew:
 
 He treats witnessing as an operational event, not just a feeling.
+
+## Fingerprint 009 — The impossible becomes ordinary through maintenance.
+
+Drew makes impossible worlds feel inhabited by showing logistics, salvage, repair, and routine before explanation.
+
+Evidence:
+
+- `discoveries/fiction-corpus/exports/jumpy-bug/Biblical.txt`
+- `corpus/fiction/fiction-scene-index.md`
+- `shared/doctrine/biblical-engine.md`
+
+Why it feels like Drew:
+
+The scene does not pause to justify its reality. Characters already know how to keep moving inside it.

@@ -153,3 +153,44 @@ Evidence anchors:
 - Observation ID: VLS-010
 - Local note: Being witnessed is the first real rescue because Erin believes Jonah and breaks the isolation logic.
 - Why this supports the pattern: Recognition is treated as operational rescue, not decorative sympathy.
+
+## 11. Write the World as Maintained Reality
+
+Do not write about the impossible as if it were a novelty. Write about people who already live inside it and keep moving.
+
+Promoted to `shared/doctrine/biblical-engine.md`.
+
+Why it matters:
+
+The reader feels a larger world when the prose assumes the setting has been in operation for years.
+
+Evidence anchors:
+
+- Work: The Biblical Engine
+- Local note: The impossible is the environment; the story is maintenance.
+- Why this supports the pattern: The scene becomes believable through ordinary upkeep, not explanation.
+
+Reusable guidance:
+
+- Let ordinary actions imply extraordinary conditions.
+- Lead with logistics before lore.
+- Treat competence as the source of wonder.
+- Keep each sentence to one useful observation when possible.
+
+## 12. Narrative as Capability Transfer
+
+Stories do more than entertain.
+
+They transfer judgment.
+
+Promoted to `shared/doctrine/narrative-capability-transfer.md`.
+
+Why it matters:
+
+The reader can walk the road that produced the conclusion instead of being told where to stand.
+
+Evidence anchors:
+
+- Work: Biblical Engine
+- Local note: The protagonist's way of seeing becomes portable through lived sequence.
+- Why this supports the pattern: Narrative becomes a vehicle for transferable judgment, not just content.

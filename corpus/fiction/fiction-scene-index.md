@@ -44,6 +44,7 @@ No full-corpus style claims are valid until every Priority A work has been fetch
 Canonical link: https://docs.google.com/document/d/11bkG4pFd9I32JHTRa7h1XUUtQUZE7cUKN1iq1f2SWTA/edit?usp=drivesdk
 Drive title: `Biblical`
 Status: fetched/read first pass
+Related doctrine: `shared/doctrine/biblical-engine.md`
 
 | Chapter/Section | Scene Label | Scene Type | Action Density | Dialogue Density | Kinetic Compression Evidence | Notes |
 |---|---|---|---|---|---|---|

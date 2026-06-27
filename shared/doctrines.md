@@ -34,6 +34,8 @@ For retrieval and promotion status, start with `shared/index/doctrine-index.md`.
 - Missing Glue Layer: repeated workflow failure often needs an interface, not a new personality.
 - Deep Ocean Protocol: build better cargo, not a new ship.
 - Self-Insertion Calibration: preserve useful judgment while allowing divergence; do not clone the user.
+- Biblical Engine Doctrine: write lived-in impossible worlds through logistics, maintenance, and competent survival.
+- Narrative Capability Transfer: move judgment and worldview through honest sequence, not argument.
 
 ## Shared Requirements
 

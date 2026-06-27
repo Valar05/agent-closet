@@ -31,6 +31,8 @@ Purpose: Make promoted doctrine findable without requiring filename memory.
 | Behavioral Distillation | `shared/behavioral-distillation.md` | Turn repeated high-value behavior into reusable skill. |
 | Crucible Protocol | `shared/crucible-protocol.md` | Separate ore, dross, and gold. |
 | Sense Synthesis | `shared/sense-synthesis.md` | Shape sensory outcomes through composition. |
+| Biblical Engine Doctrine | `shared/doctrine/biblical-engine.md` | Write lived-in impossible worlds through logistics, maintenance, and competent survival. |
+| Narrative Capability Transfer | `shared/doctrine/narrative-capability-transfer.md` | Move judgment and worldview through honest sequence, not argument. |
 | Agent Relativity | `shared/agent-relativity.md` | Understand agents through artifact-anchored operational time. |
 
 ## Theory-Linked Doctrine
@@ -40,6 +42,7 @@ Purpose: Make promoted doctrine findable without requiring filename memory.
 | Artificial Continuity | `shared/artificial-continuity.md` | WWDD, encoded judgment, self-insertion calibration. |
 | Learning Is Play | `shared/theory/learning-is-play.md` | Exploration, feedback loops, safe failure, constructivism. |
 | Simulation as Learning Infrastructure | `shared/theory/simulation-as-learning-infrastructure.md` | Simulation, practice, feedback, training loops. |
+| Simulation Doctrine | `doctrines/SIMULATION_DOCTRINE.md` | Believable command under uncertainty, friction, memory, and cascading consequence. |
 
 ## Operational Doctrine / Procedures
 
