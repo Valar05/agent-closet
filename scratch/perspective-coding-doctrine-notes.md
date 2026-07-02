@@ -32,6 +32,15 @@ For each incident, record:
 - doctrine candidate
 - promotion status
 
+Before claiming success, implementation work must state the truth ledger:
+
+- repo truth
+- runtime truth
+- visual truth
+- human truth
+
+If any truth layer remains red, the output must be framed as preservation, diagnosis, or blocker. It must not be framed as progress.
+
 ## Incident 2026-07-02 - Pose Lab Meshy FK Red Build
 
 Context:
@@ -77,12 +86,14 @@ Doctrine candidates:
 
 - During visual red builds, perspective coding must produce a changed visual artifact, an exact red artifact, or a concrete blocker. Guardrail-only commits are not enough.
 - "Perspective used" is not evidence. Artifact delta is evidence.
+- Perspective coding for implementation should require a truth ledger before claiming success: repo, runtime, visual, human.
+- If any truth remains red, the output must be framed as preservation, diagnosis, or blocker, not progress.
 - Gasket must be allowed to stop a Foreman commit when human visual truth says red.
 - Wallfly should run before Foreman when the failure is visual.
 - Quartermaster must distinguish preservation leverage from progress leverage.
 
 Promotion status:
-Scratch. Promote only after the same rule survives another coding incident or after a follow-up process prevents a similar false-progress commit.
+Strong ore. Keep in scratch. Promote only after the same rule survives another coding incident or after a follow-up process prevents a similar false-progress commit.
 
 ## Open Questions
 

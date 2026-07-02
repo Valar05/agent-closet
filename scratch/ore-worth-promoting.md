@@ -79,13 +79,15 @@ Needs: examples and safety boundaries.
 
 ### Perspective Coding Doctrine
 
-Status: ore.
+Status: strong ore. Keep in scratch.
 
 Source: `perspective-coding-doctrine-notes.md`
 
 Idea: coding sessions using Perspective-Guided Command should be judged by artifact deltas, not by whether named perspectives were invoked.
 
 Why it matters: Pose Lab Meshy FK work showed that guardrail-only commits can preserve useful truth while still being a human-visible red build, visual no-op, and churn edit.
+
+Senior refinement: implementation perspective coding should require a truth ledger before claiming success: repo, runtime, visual, human. If any truth remains red, the output must be framed as preservation, diagnosis, or blocker, not progress.
 
 Needs: at least one more incident record proving the doctrine candidate changes agent behavior before promotion to shared doctrine.
 
