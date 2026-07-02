@@ -77,6 +77,18 @@ Why it matters: doctrine can travel through artifacts, not only system prompts.
 
 Needs: examples and safety boundaries.
 
+### Perspective Coding Doctrine
+
+Status: ore.
+
+Source: `perspective-coding-doctrine-notes.md`
+
+Idea: coding sessions using Perspective-Guided Command should be judged by artifact deltas, not by whether named perspectives were invoked.
+
+Why it matters: Pose Lab Meshy FK work showed that guardrail-only commits can preserve useful truth while still being a human-visible red build, visual no-op, and churn edit.
+
+Needs: at least one more incident record proving the doctrine candidate changes agent behavior before promotion to shared doctrine.
+
 ### Artificial Continuity
 
 Status: promoted, but needs more examples.
