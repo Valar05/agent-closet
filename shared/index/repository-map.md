@@ -72,6 +72,8 @@ If an agent has a responsibility, it should be reachable from `shared/index/agen
 
 If a skill or procedure changes execution, it should be reachable from `shared/index/skill-index.md`.
 
+Current external-code-review route: use `procedures/independent-code-review-with-external-critic.md`, then the workspace skill `/storage/emulated/0/Documents/GodotProjects/.codex/skills/claude-pr-code-review/SKILL.md`, then Thunder Brainstorm's review driver.
+
 ## Promotion Status Labels
 
 Use these labels consistently:
