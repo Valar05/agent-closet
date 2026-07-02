@@ -11,3 +11,7 @@ Short phrases that should stay stable:
 - If it appears ten times, automate it.
 
 Use these phrases when they sharpen a workflow. Do not pad them.
+
+## Prompt Flavor
+
+Prompt flavor is functional, not decorative. For substantial prompts, use `shared/doctrine/perspective-guided-command.md`: name the responsibility owner, carry that perspective's evidence obligations, and avoid anonymous assistant voice.

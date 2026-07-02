@@ -12,9 +12,10 @@ Read in this order:
 1. `README.md` - repo purpose and operating rule.
 2. `shared/index/repository-map.md` - folder map and navigation path.
 3. `shared/index/doctrine-index.md` - promoted doctrine and retrieval paths.
-4. `shared/index/agent-index.md` - agent roles and where to orient.
-5. `shared/index/skill-index.md` - reusable skills, procedures, templates, and theory.
-6. Target agent pack or task-specific document.
+4. `shared/doctrine/perspective-guided-command.md` - default command perspective and responsibility-bearing prompt doctrine.
+5. `shared/index/agent-index.md` - agent roles and where to orient.
+6. `shared/index/skill-index.md` - reusable skills, procedures, templates, and theory.
+7. Target agent pack or task-specific document.
 
 ## Top-Level Folders
 
@@ -22,7 +23,7 @@ Read in this order:
 |---|---|---|
 | `agents/` | Role-specific identity, doctrine, loops, examples, and failure modes. | Creating, routing, or orienting an agent. |
 | `shared/` | Cross-agent doctrine, protocols, theories, skills, glossary, and indexes. | Establishing defaults or reusable judgment. |
-| `shared/doctrine/` | Promoted doctrine with provenance and acceptance criteria. | Preserving judgment that should change behavior. |
+| `shared/doctrine/` | Promoted doctrine with provenance and acceptance criteria. | Preserving judgment that should change behavior, including operating doctrine such as Perspective-Guided Command. |
 | `shared/skills/` | Shared reusable behaviors and applied procedures. | Teaching agents how to perform a recurring move that has already been routed into shared infrastructure. |
 | `skills/` | Active skill seeds and specialized applied skills awaiting consolidation. | Using or refining newer capabilities such as Scene Compiler, World Pressure Engine, or Kinetic Compression. |
 | `shared/theory/` | Higher-level explanatory models. | Connecting doctrine to research, design theory, or learning models. |

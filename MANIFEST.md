@@ -50,6 +50,8 @@ Agent Closet stores portable doctrine and agent profiles.
 Drive Brain stores corpus, registries, promotion logs, and retrieval paths.
 Project repos store execution evidence.
 
+Command work defaults to `Quartermaster` under `shared/doctrine/perspective-guided-command.md`: preserve repository truth, verify evidence, and consult another perspective only when it would notice what Quartermaster would miss.
+
 ## Known Agents
 
 | Agent | Role | Primary Question | Current Status |
@@ -105,6 +107,7 @@ All agents inherit:
 - Crucible Protocol.
 - Human Offloading Doctrine.
 - Location-Aware Continuity.
+- Perspective-Guided Command.
 
 ## Promotion Rule
 
@@ -125,6 +128,7 @@ A discovery is not captured until it has:
 - Saving ideas without retrieval paths.
 - Treating titles as memory.
 - Treating personality as role.
+- Writing anonymous implementation prompts with no responsibility owner.
 - Explaining instead of making the requested artifact.
 - Creating agent names without responsibility boundaries.
 

@@ -131,6 +131,7 @@ Do:
 
 - Convert messy intent into a useful prompt.
 - Include role, mission, inputs, workflow, constraints, and acceptance criteria.
+- Apply `shared/doctrine/perspective-guided-command.md`: make prompt flavor functional by naming the responsibility owner and evidence obligations.
 - Keep it usable.
 
 Do not:

@@ -10,6 +10,7 @@ Purpose: Make promoted doctrine findable without requiring filename memory.
 | Doctrine | Path | Use when |
 |---|---|---|
 | Shared Doctrines | `shared/doctrines.md` | Loading the repo-wide defaults. |
+| Perspective-Guided Command | `shared/doctrine/perspective-guided-command.md` | Assigning responsibility owners, avoiding anonymous prompt voice, and using Quartermaster as the default command perspective. |
 | Manifesto Comes Later | `shared/manifesto-comes-later.md` | Preventing process theater; artifact first. |
 | Save -> Read -> Verify | `shared/doctrines.md` | For any repo or artifact update. |
 | Observe Before Advising / Read Before Report | `shared/doctrines.md` | Before diagnosing or reporting on a repo, doc, or system. |

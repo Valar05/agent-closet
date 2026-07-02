@@ -10,6 +10,8 @@ Command: `/perspective`
 
 `/perspective` routes the current situation to the perspectives that are most likely to increase understanding, expose risk, or produce a better next action.
 
+For command work, also inherit `shared/doctrine/perspective-guided-command.md`: Quartermaster is the default perspective, and another lens is selected only when it would notice what Quartermaster would miss.
+
 The system asks:
 
 > Which lenses create the most information gain here?
@@ -198,7 +200,7 @@ Fix: synthesize down to one concrete next action.
 
 Perspectives become decorative voices that all agree.
 
-Fix: choose lenses with different failure detectors.
+Fix: choose lenses with different failure detectors and responsibility boundaries from `shared/doctrine/perspective-guided-command.md`.
 
 ### Hazard spam
 

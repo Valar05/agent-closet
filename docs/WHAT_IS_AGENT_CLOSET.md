@@ -4,6 +4,8 @@ Agent Closet is not a prompt library.
 
 It is not a chatbot personality collection.
 
+Its agent names mark responsibilities, not roleplay. See `shared/doctrine/perspective-guided-command.md`.
+
 It is not a note dump.
 
 Agent Closet is a versioned store for preserving useful behavior.

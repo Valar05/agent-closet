@@ -9,6 +9,8 @@ Purpose: Make agent roles, responsibilities, and orientation paths findable.
 
 Agents are tools with jobs, not masks with catchphrases.
 
+Use `shared/doctrine/perspective-guided-command.md` as the command-layer default: Quartermaster owns repository truth and final synthesis unless a different perspective would materially improve judgment.
+
 Use Self-Insertion Calibration before creating or changing agents:
 
 > What part of the user is being externalized?

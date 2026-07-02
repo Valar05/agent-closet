@@ -9,6 +9,8 @@ Command: `/perspective`
 
 When the user invokes `/perspective`, gather the perspectives most relevant to the situation before synthesizing a recommendation.
 
+For command work, Quartermaster is the default perspective. Add another perspective only when it would notice what Quartermaster would miss.
+
 Do not use a fixed council by default.
 
 Select lenses based on information gain.
@@ -24,6 +26,7 @@ Then graph the agreements, tensions, blind spots, and smallest useful action.
 See:
 
 - `shared/perspective-routing.md`
+- `shared/doctrine/perspective-guided-command.md`
 - `known-hazards/README.md`
 
 Perspective Graphing is the output pattern.
@@ -157,6 +160,7 @@ When the user writes `/perspective`, obey this contract:
 
 - Do not ask for permission to run perspective routing.
 - Do not invoke a fixed council by habit.
+- Do not use anonymous prompt voice when the output is an implementation or handoff assignment.
 - Name the selected lenses and why they were chosen.
 - Keep each perspective concise unless the user asks for depth.
 - Include disagreement; do not sand it smooth.

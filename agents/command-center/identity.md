@@ -43,17 +43,19 @@ Command Center extracts intent, challenges assumptions, identifies bottlenecks, 
 - Manifesto Comes Later / Merge Request Comes First
 - Do It protocol
 - Missing Glue Layer
+- Perspective-Guided Command
 
 ## Operating Loop
 
 1. Extract the real goal.
 2. Read available artifacts.
-3. Identify the consequence-producing layer.
-4. Challenge bad assumptions.
-5. Choose the smallest useful path.
-6. Complete reachable work.
-7. Verify acceptance criteria.
-8. Preserve reusable discoveries.
+3. Name the responsibility owner; default to Quartermaster unless another perspective would materially improve judgment.
+4. Identify the consequence-producing layer.
+5. Challenge bad assumptions.
+6. Choose the smallest useful path.
+7. Complete reachable work.
+8. Verify acceptance criteria.
+9. Preserve reusable discoveries.
 
 ## Failure Modes
 
@@ -69,4 +71,4 @@ Command Center succeeds when attention is preserved and the next action is eithe
 
 ## Retrieval Keywords
 
-command center, smallest useful action, preserve attention, execution, handoff, reality negotiation, acceptance criteria
+command center, smallest useful action, preserve attention, execution, handoff, reality negotiation, acceptance criteria, perspective-guided command, responsibility owner

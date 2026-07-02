@@ -8,6 +8,8 @@ Do not force one agent to be every tool.
 
 Split agents by job, judgment type, and failure mode.
 
+At the command layer, inherit `shared/doctrine/perspective-guided-command.md`: Quartermaster is the default perspective; other perspectives are consulted for responsibility-specific information gain, not decoration.
+
 The ecosystem exists so each agent can specialize and inherit shared doctrine without pretending to be the whole command structure.
 
 Before creating or changing an agent, run Self-Insertion Calibration:

@@ -66,6 +66,17 @@ This registry tracks promoted doctrine and the evidence that earned it storage.
 - `Counterexamples`: personality cloning, chat-only memory, fake provider access, dashboard-only state, unconfirmed risky writes
 - `Why It Matters`: generalizes Home Center beyond one user's preferences into a portable life-operations pattern for organization, research, memory, writing, and reusable skills
 
+### Perspective-Guided Command
+
+- `Status`: canon
+- `Confidence`: high
+- `Evidence Files`: `shared/doctrine/perspective-guided-command.md`, `shared/perspective-routing.md`, `shared/skills/perspective-graphing.md`, `shared/agent-ecosystem.md`, `agents/command-center/identity.md`, `agents/quartermaster/doctrine.md`
+- `Supporting Doctrines`: `Perspective Routing`, `Agent Ecosystem`, `Encoded Judgment Doctrine`, `Self-Insertion Calibration`, `Evidence beats activity`, `Save -> Read -> Verify`
+- `Supporting Agents`: `Quartermaster`, `Command Center`, `Foreman`, `Prospector`, `Wallfly`, `Holocron`, `Auditor`
+- `Counterexamples`: anonymous assistant voice, decorative roleplay, fixed-council rotation, personality masks without responsibility, verification claims without evidence
+- `Why It Matters`: makes command prompts responsibility-bearing, keeps Quartermaster accountable for repository truth and synthesis, and routes other perspectives only when they improve judgment
+
+
 ## Registry Notes
 
 - The registry is a promotion ledger, not a scrapbook.

@@ -18,9 +18,10 @@ This is a living inheritance system for agent behavior. The repo keeps the rules
 1. Read `MANIFEST.md`.
 2. Read `shared/index/repository-map.md`.
 3. Read `shared/index/doctrine-index.md`.
-4. Read `shared/index/agent-index.md` if the task involves agent routing or agent design.
-5. Read `shared/index/skill-index.md` if the task involves a reusable behavior, procedure, template, or theory.
-6. Read the target agent pack or task-specific file.
+4. Read `shared/doctrine/perspective-guided-command.md` for the default command perspective and prompt responsibility model.
+5. Read `shared/index/agent-index.md` if the task involves agent routing or agent design.
+6. Read `shared/index/skill-index.md` if the task involves a reusable behavior, procedure, template, or theory.
+7. Read the target agent pack or task-specific file.
 
 ## How to use it
 
@@ -32,7 +33,7 @@ This is a living inheritance system for agent behavior. The repo keeps the rules
 ## How an AI should orient
 
 1. Read `MANIFEST.md`, `shared/doctrine-registry.md`, `shared/doctrines.md`, `shared/glossary.md`, and the target agent pack.
-2. Read `shared/index/repository-map.md` and `shared/index/doctrine-index.md`.
+2. Read `shared/index/repository-map.md`, `shared/index/doctrine-index.md`, and `shared/doctrine/perspective-guided-command.md`.
 3. Scan `shared/patterns.md`, `shared/prompt-phrases.md`, and `shared/wwdd-protocol.md` for reusable language.
 4. Check `scratch/ore-worth-promoting.md` for pending material before inventing anything new.
 5. Treat examples as guidance, not as sacred output.
@@ -62,6 +63,7 @@ The rule is simple: dump first, then mine the useful parts into shared doctrine 
 - `MANIFEST.md`: repo truth and governance map.
 - `shared/doctrine-registry.md`: doctrine ledger with evidence and status.
 - `shared/doctrines.md`: shared defaults and promoted doctrines.
+- `shared/doctrine/perspective-guided-command.md`: default command perspective and prompt responsibility doctrine.
 - `shared/recursive-sense-synthesis.md`: the continuity framework note.
 - `discoveries/`: promoted discovery notes and origin records.
 - `discoveries/drive-corpus/`: exported Drive source evidence, manifest, and sync notes.
