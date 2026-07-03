@@ -39,6 +39,30 @@ The next action is to fix or quarantine the gate, not to report success.
 
 If a human visual report contradicts a green result, treat the contradiction as a stop condition until the artifact and gate explain the disagreement.
 
+## No-Op Churn Rule
+
+When a human reports `red build`, `no visual change`, `no-op`, or equivalent after a claimed visual fix, all prior green checks are demoted to support evidence.
+
+The next deliverable must be one of:
+
+- a visible delta in the accepted visual evidence lane
+- a preserved failed attempt with the red artifact named
+- a concrete blocker requiring human intervention
+
+Do not report gate work, telemetry work, UI labels, cache busting, review banners, artifact schema changes, or other instrumentation-only edits as progress on the visual fix. Label them as instrumentation, diagnosis, preservation, or failed-attempt cleanup.
+
+## UI Can Lie
+
+Runtime UI truth labels, review pages, clip lists, debug overlays, selected rows, and green banners are support evidence only. They are part of the artifact under review, not the authority over the artifact.
+
+A UI that says the build is correct while the visible target relationship is wrong is itself red. Fix the lying UI or quarantine it before using it to judge another visual fix.
+
+## Paid / Cloud Loop Discipline
+
+Cloud and paid review loops are not accomplishments by themselves. Before spending another run after a human no-op or red-build report, name the new visual hypothesis, the artifact that will answer it, and the stop condition.
+
+If the new run cannot answer a new visual question, do not run it. If it answers the question red, preserve that evidence and change the implementation hypothesis before spending another loop.
+
 ## Visible Relationship Truth
 
 Visual truth is not object presence.
@@ -113,4 +137,4 @@ This doctrine is working when:
 
 ## Retrieval Keywords
 
-visual truth authority, visible relationship truth, expected relationship actual relationship, visible evidence, cloud screenshots, false green, telemetry cannot override screenshots, object presence is not visual proof, not verified, human visual contradiction, truth ledger, red visual artifact
+visual truth authority, visible relationship truth, expected relationship actual relationship, visible evidence, cloud screenshots, false green, telemetry cannot override screenshots, object presence is not visual proof, not verified, human visual contradiction, truth ledger, red visual artifact, no-op churn, UI can lie, paid cloud loop discipline, instrumentation is not visual progress

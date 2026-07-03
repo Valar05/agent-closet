@@ -11,7 +11,7 @@ Purpose: Make promoted doctrine findable without requiring filename memory.
 |---|---|---|
 | Shared Doctrines | `shared/doctrines.md` | Loading the repo-wide defaults. |
 | Perspective-Guided Command | `shared/doctrine/perspective-guided-command.md` | Assigning responsibility owners, avoiding anonymous prompt voice, and using Quartermaster as the default command perspective. |
-| Visual Truth Authority | `shared/doctrine/visual-truth-authority.md` | Visual work, visible relationship truth, cloud screenshots, false-green gates, human visual contradiction, and telemetry that conflicts with visible evidence. |
+| Visual Truth Authority | `shared/doctrine/visual-truth-authority.md` | Visual work, visible relationship truth, cloud screenshots, false-green gates, no-op churn, UI-can-lie failures, paid/cloud loop discipline, human visual contradiction, and telemetry that conflicts with visible evidence. |
 | Manifesto Comes Later | `shared/manifesto-comes-later.md` | Preventing process theater; artifact first. |
 | Save -> Read -> Verify | `shared/doctrines.md` | For any repo or artifact update. |
 | Observe Before Advising / Read Before Report | `shared/doctrines.md` | Before diagnosing or reporting on a repo, doc, or system. |
@@ -64,6 +64,10 @@ These are not failures; they are next cleanup targets:
 - Promotion status is not yet normalized across all files.
 - Inbound links are not yet tracked.
 - Related doctrines need graph links, not just lists.
+
+## Retrieval Notes
+
+Use `Visual Truth Authority` when a user says `red build`, `no-op`, `visual did not change`, `UI can lie`, `money suck`, `cloud truth`, `false green`, or `tests passed but screenshots are wrong`. Gate, telemetry, UI, and artifact-schema changes after that report are instrumentation only unless the accepted visual artifact changes correctly.
 
 ## Rule
 
