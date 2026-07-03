@@ -131,6 +131,20 @@ Why it matters: generalizes beyond beverages into runtime-based design and feedb
 
 Needs: schema and feedback format.
 
+### Drink Simulation / Perceptual Composition
+
+Status: strong scratch ore. Do not canonize yet.
+
+Source: `scratch/drink-simulation-sense-synthesis-collation.md`
+
+Idea: drink design is a fast feedback loop for perceptual composition: target experience -> sensory levers -> available ingredient job map -> predicted interaction -> tasting -> deviation capture.
+
+Why it matters: upgrades Drink Compiler from recipe generation into a simulation-space skill. It also strengthens the larger Composition Doctrine: ingredients, tools, agents, mechanics, and flavors should be modeled by what jobs they perform, not by what nouns they are.
+
+Senior refinement: the likely parent skill is `Perceptual Composition`; `Drink Simulation` is the first domain pack. Keep this in scratch until there are logged prediction/observation/deviation records.
+
+Needs: drink observation ledger, bitters contribution map, at least five tested simulations, and a decision on whether promotion target is a drink skill or parent perceptual-composition skill.
+
 ## Imported Queue
 
 ### `wwdd-proof`
