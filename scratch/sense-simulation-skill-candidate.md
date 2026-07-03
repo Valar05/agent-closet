@@ -8,6 +8,7 @@ Source: user-supplied Quartermaster Skill packet, 2026-07-03
 Related:
 
 - [Ore Worth Promoting](ore-worth-promoting.md)
+- [Sense Simulation Doctrine Notes](sense-simulation-doctrine-notes.md)
 - [Drink Simulation Sense Synthesis Collation](drink-simulation-sense-synthesis-collation.md)
 - [Sense Synthesis](../shared/sense-synthesis.md)
 - [Visual Truth Authority](../shared/doctrine/visual-truth-authority.md)
@@ -317,7 +318,7 @@ The strongest future proof will be incident records where Sense Simulation chang
 
 ## Next Evidence To Capture
 
-- A Pose Lab case where transform correctness disagrees with perceived weapon ownership.
+- The Pose Lab weapon/FK screenshot case preserved in [Sense Simulation Doctrine Notes](sense-simulation-doctrine-notes.md), where transform correctness or hilt pinning can disagree with perceived weapon ownership.
 - A UX case where a technically correct UI produces hesitation or confusion.
 - An accessibility case where the intended experience fails under low vision, fatigue, motor limits, or screen constraints.
 - A Drink Simulation case where perceptual levers predict experience better than ingredient identity.
