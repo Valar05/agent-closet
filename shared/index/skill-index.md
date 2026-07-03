@@ -22,6 +22,7 @@ Purpose: Make reusable behaviors, procedures, templates, and theory easier to fi
 | Capture Save Promote | `procedures/capture-save-promote.md` | Turning chat discoveries into durable repo assets. |
 | Deep Ocean Protocol | `procedures/deep-ocean-protocol.md` | Improving cargo/structure before scaling the vessel. |
 | Drive Corpus Sync | `procedures/drive-corpus-sync.md` | Syncing Google Drive support corpus exports into repository-readable local evidence. Fiction manuscripts are routed separately. |
+| Chat Export Corpus Mining | `procedures/chat-export-corpus-mining.md` | Mining local ChatGPT export shards into bounded derivative scratch/source indexes without committing raw corpus blobs. |
 | Independent Code Review With External Critic | `procedures/independent-code-review-with-external-critic.md` | Reviewing PRs with Claude as an external critic through Thunder Brainstorm read-only repo tools, with Quartermaster verification before reporting or posting. |
 
 ## Templates
@@ -36,6 +37,8 @@ Purpose: Make reusable behaviors, procedures, templates, and theory easier to fi
 | Asset | Path | Use when |
 |---|---|---|
 | Missing Glue Layers | `glue/missing-glue-layers.md` | A workflow repeatedly fails because tools, agents, or artifacts cannot translate into each other. |
+| Chat Export Miner | `tools/mine-chat-export.py` | Querying local ChatGPT export shards and emitting bounded derivative markdown source indexes. |
+| Scratch Link Validator | `tools/validate-scratch-links.py` | Checking markdown links, conflict markers, duplicate headings, and fenced code sanity before committing scratch/procedure notes. |
 
 ## Theories
 

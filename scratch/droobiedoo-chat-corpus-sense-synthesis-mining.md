@@ -12,6 +12,7 @@ Related:
 - [Sense Synthesis](../shared/sense-synthesis.md)
 - [Sommelier](../agents/sommelier/identity.md)
 - [Missing Glue Layers](../glue/missing-glue-layers.md)
+- [Droobiedoo Sense Synthesis Source Index](droobiedoo-sense-synthesis-source-index.md)
 
 ## Purpose
 
@@ -35,7 +36,7 @@ Searched the `wwdd/conversations-000.json` through `wwdd/conversations-014.json`
 - tannin, tannic, bitterness, sweetness, acidity, acid, salt, mineral
 - mouthfeel, aroma, flavor, tea, molasses, syrup, Guinness
 
-The broad search produced hundreds of hits, but the strong Sense Synthesis evidence clustered in a smaller set of conversations.
+The broad search produced hundreds of hits, but the strong Sense Synthesis evidence clustered in a smaller set of conversations. A bounded generated index now lives at `scratch/droobiedoo-sense-synthesis-source-index.md`.
 
 ## High-Signal Source Threads
 
@@ -243,7 +244,7 @@ Hydration Mode needs concentration checks, frequency assumptions, and physiologi
 
 ## Evidence Gaps
 
-- No committed `wwdd/indexed/` or `wwdd/curated/` derivative exists in the current checkout.
+- No committed `wwdd/indexed/` or `wwdd/curated/` derivative exists in the current checkout; Agent Closet now has a scratch derivative source index instead.
 - The raw export lacks line-stable markdown references, so this scratch note cites shard, date, and title instead of line numbers.
 - Many beverage details are embedded in long mixed-purpose chat threads; a future mining pass should extract only structured experiment records.
 - Some suggestions in the raw chat include medical, supplement, fermentation, alcohol, or inhalation topics. Promotion requires safety review and should not turn those into casual advice.
