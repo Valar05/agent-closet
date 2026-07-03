@@ -14,6 +14,8 @@ Related:
 - [Missing Glue Layers](../glue/missing-glue-layers.md)
 - [Doctrine Index](../shared/index/doctrine-index.md)
 - [Droobiedoo Chat Corpus Sense Synthesis Mining](droobiedoo-chat-corpus-sense-synthesis-mining.md)
+- [Sense Synthesis Research Manifest](research-manifest-sense-synthesis.md)
+- [Sense Synthesis Evidence Matrix](sense-synthesis-evidence-matrix.md)
 
 ## Purpose
 
@@ -442,6 +444,9 @@ Additional scratch artifacts requested by the Droobiedoo corpus pass:
 - `scratch/sense-synthesis-log-template.md` - lightweight experiment log for drink, food, and sensory tests.
 - `scratch/drink-compiler-schema.md` - candidate schema for inventory, constraints, target state, levers, process stage, feedback, and safety notes.
 - `scratch/droobiedoo-sense-synthesis-source-index.md` - compact source index for high-signal `droobiedoo/wwdd` conversations.
+- `scratch/research-manifest-sense-synthesis.md` - Quartermaster / Prospector plan for external research that can support or falsify the doctrine claims.
+- `scratch/sense-synthesis-evidence-matrix.md` - claim-by-claim proof ledger connecting corpus evidence, experiments, and research support.
+- `discoveries/research-corpus/sense-synthesis/manifest.jsonl` - metadata-only home for approved external research sources.
 
 ## Open Question
 
