@@ -39,6 +39,31 @@ The next action is to fix or quarantine the gate, not to report success.
 
 If a human visual report contradicts a green result, treat the contradiction as a stop condition until the artifact and gate explain the disagreement.
 
+## Visible Relationship Truth
+
+Visual truth is not object presence.
+
+A screenshot is not green because the right actor, clip, route, marker, prop, debug overlay, DOM state, or telemetry label exists.
+
+It is green only when the intended visible relationship is present.
+
+For visual work, name:
+
+- expected relationship
+- actual relationship in the artifact
+- visible mismatch
+- telemetry agreement or contradiction
+
+Examples:
+
+- a weapon is not correct unless wrist, hand, hilt, grip, and blade axis read correctly
+- a pose is not correct unless the silhouette and limb relationships match the intended action
+- a UI state is not correct unless the selected control, highlighted row, and visible result agree
+- a collision/support fix is not correct unless the visible surface and physical support relationship agree
+- a camera fix is not correct unless the subject is framed as intended
+
+If the relationship is wrong, the artifact is red even when metrics say the object is visible or selected.
+
 ## Truth Ledger
 
 Before claiming success on significant implementation work, state the truth ledger:
@@ -57,6 +82,7 @@ It must not be framed as progress.
 - Inspect the acceptance artifact before reporting pass/fail.
 - Name the artifact path, URL, or run id used for the visual read.
 - Describe the visible state in plain terms before citing telemetry.
+- Describe the intended visual relationship and the actual visual relationship before citing telemetry.
 - Treat telemetry as explanatory support after the visual read, not as authority before it.
 - If the visual artifact is red, stop forward promotion and preserve the red evidence.
 - If the visual artifact cannot prove the claim, say `not verified`.
@@ -69,12 +95,16 @@ The cloud workflow passed while the actual cloud screenshots showed a red Meshy 
 
 The agent cited telemetry and green workflow status before inspecting the relevant cloud screenshots. That is an operating failure, not a test gap alone.
 
+The follow-up failure generalized the rule: even after the correct cloud route opened, the visible T-pose wrist/saber relationship was mutated and the Ready hand/sword relationship did not read as acceptable visual IK/FK. The gate had measured actor, clip, weapon visibility, markers, and telemetry while failing to judge the intended relationship. That is visible-relationship false-green.
+
 ## Acceptance Criteria
 
 This doctrine is working when:
 
 - visual claims begin from the actual visual artifact
+- visual claims name expected relationship versus actual relationship
 - green telemetry cannot override visible red truth
+- object presence cannot override a wrong visible relationship
 - human visual contradiction stops promotion
 - unreadable visual artifacts block acceptance
 - false-green gates are treated as broken gates
@@ -83,4 +113,4 @@ This doctrine is working when:
 
 ## Retrieval Keywords
 
-visual truth authority, visible evidence, cloud screenshots, false green, telemetry cannot override screenshots, not verified, human visual contradiction, truth ledger, red visual artifact
+visual truth authority, visible relationship truth, expected relationship actual relationship, visible evidence, cloud screenshots, false green, telemetry cannot override screenshots, object presence is not visual proof, not verified, human visual contradiction, truth ledger, red visual artifact

@@ -96,7 +96,7 @@ Agreement increases confidence.
 
 Disagreement defines the next investigation.
 
-When the task is visual, inherit `shared/doctrine/visual-truth-authority.md`: the actual visual artifact is the authority. Telemetry, source checks, metrics, and green workflow status cannot override screenshots, contact sheets, video, or human visual reports. If visual truth or human truth remains red, the response must be framed as preservation, diagnosis, or blocker, not progress.
+When the task is visual, inherit `shared/doctrine/visual-truth-authority.md`: the actual visual artifact is the authority. Telemetry, source checks, metrics, and green workflow status cannot override screenshots, contact sheets, video, or human visual reports. The visual read must compare expected relationship against actual relationship; object presence, clip selection, route selection, markers, or debug overlays are not enough. If telemetry says green while the visible relationship is wrong, Quartermaster consults Gasket and treats the gate as broken. If visual truth or human truth remains red, the response must be framed as preservation, diagnosis, or blocker, not progress.
 
 ## Command Center Contract
 
