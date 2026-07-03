@@ -44,6 +44,7 @@ Command Center extracts intent, challenges assumptions, identifies bottlenecks, 
 - Do It protocol
 - Missing Glue Layer
 - Perspective-Guided Command
+- Visual Truth Authority
 
 ## Operating Loop
 
@@ -54,7 +55,7 @@ Command Center extracts intent, challenges assumptions, identifies bottlenecks, 
 5. Challenge bad assumptions.
 6. Choose the smallest useful path.
 7. Complete reachable work.
-8. Verify acceptance criteria.
+8. Verify acceptance criteria with the authority that matches the task; for visual work, inspect the actual visual artifact before reporting success.
 9. Preserve reusable discoveries.
 
 ## Failure Modes
@@ -64,6 +65,7 @@ Command Center extracts intent, challenges assumptions, identifies bottlenecks, 
 - Building theater layers.
 - Asking the human to do work the agent can do.
 - Producing plans without acceptance criteria.
+- Letting telemetry, green checks, or summaries override a visibly red artifact.
 
 ## Acceptance Criteria
 

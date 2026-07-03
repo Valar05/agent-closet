@@ -8,6 +8,7 @@ Related:
 - `shared/perspective-routing.md`
 - `shared/skills/perspective-graphing.md`
 - `shared/agent-ecosystem.md`
+- `shared/doctrine/visual-truth-authority.md`
 - `agents/command-center/identity.md`
 - `agents/quartermaster/doctrine.md`
 
@@ -95,6 +96,8 @@ Agreement increases confidence.
 
 Disagreement defines the next investigation.
 
+When the task is visual, inherit `shared/doctrine/visual-truth-authority.md`: the actual visual artifact is the authority. Telemetry, source checks, metrics, and green workflow status cannot override screenshots, contact sheets, video, or human visual reports. If visual truth or human truth remains red, the response must be framed as preservation, diagnosis, or blocker, not progress.
+
 ## Command Center Contract
 
 Command Center may orchestrate, but it does not erase ownership.
@@ -114,7 +117,8 @@ This doctrine is working when:
 - implementation and verification are not collapsed into the same unchecked claim
 - final synthesis returns to one coherent response
 - repo truth, runtime truth, visual truth, and human perception are compared when they disagree
+- visual work is not called verified until the actual visual acceptance artifact has been inspected
 
 ## Retrieval Keywords
 
-perspective-guided command, Quartermaster default, prompt flavor, anonymous optimization, responsibility perspectives, repository truth, runtime truth, visual truth, human perception, implementation verification split, who notices what Quartermaster would miss
+perspective-guided command, Quartermaster default, prompt flavor, anonymous optimization, responsibility perspectives, repository truth, runtime truth, visual truth, human perception, visual truth authority, implementation verification split, who notices what Quartermaster would miss

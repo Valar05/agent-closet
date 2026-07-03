@@ -19,9 +19,10 @@ This is a living inheritance system for agent behavior. The repo keeps the rules
 2. Read `shared/index/repository-map.md`.
 3. Read `shared/index/doctrine-index.md`.
 4. Read `shared/doctrine/perspective-guided-command.md` for the default command perspective and prompt responsibility model.
-5. Read `shared/index/agent-index.md` if the task involves agent routing or agent design.
-6. Read `shared/index/skill-index.md` if the task involves a reusable behavior, procedure, template, or theory.
-7. Read the target agent pack or task-specific file.
+5. Read `shared/doctrine/visual-truth-authority.md` if the task involves visual output, screenshots, video, cloud visual parity, or a red-build report.
+6. Read `shared/index/agent-index.md` if the task involves agent routing or agent design.
+7. Read `shared/index/skill-index.md` if the task involves a reusable behavior, procedure, template, or theory.
+8. Read the target agent pack or task-specific file.
 
 ## How to use it
 
@@ -64,6 +65,7 @@ The rule is simple: dump first, then mine the useful parts into shared doctrine 
 - `shared/doctrine-registry.md`: doctrine ledger with evidence and status.
 - `shared/doctrines.md`: shared defaults and promoted doctrines.
 - `shared/doctrine/perspective-guided-command.md`: default command perspective and prompt responsibility doctrine.
+- `shared/doctrine/visual-truth-authority.md`: visual evidence authority doctrine for screenshots, video, cloud parity, and false-green gates.
 - `shared/recursive-sense-synthesis.md`: the continuity framework note.
 - `discoveries/`: promoted discovery notes and origin records.
 - `discoveries/drive-corpus/`: exported Drive source evidence, manifest, and sync notes.

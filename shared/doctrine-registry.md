@@ -76,6 +76,16 @@ This registry tracks promoted doctrine and the evidence that earned it storage.
 - `Counterexamples`: anonymous assistant voice, decorative roleplay, fixed-council rotation, personality masks without responsibility, verification claims without evidence
 - `Why It Matters`: makes command prompts responsibility-bearing, keeps Quartermaster accountable for repository truth and synthesis, and routes other perspectives only when they improve judgment
 
+### Visual Truth Authority
+
+- `Status`: canon
+- `Confidence`: high
+- `Evidence Files`: `shared/doctrine/visual-truth-authority.md`, `scratch/perspective-coding-doctrine-notes.md`, `/storage/emulated/0/Documents/GodotProjects/pose-lab/docs/FIREBASE_VISUAL_TRUTH.md`, `/storage/emulated/0/Documents/GodotProjects/pose-lab/docs/POSE_LAB_EVIDENCE_PROTOCOL.md`
+- `Supporting Doctrines`: `Perspective-Guided Command`, `Evidence beats activity`, `Reality Negotiation`, `Observe Before Advising / Read Before Report`
+- `Supporting Agents`: `Quartermaster`, `Command Center`, `Gasket`, `Wallfly`, `Auditor`
+- `Counterexamples`: telemetry-only success claims, green CI over visibly red screenshots, local artifact substitution for cloud visual truth, unreadable contact sheets treated as proof
+- `Why It Matters`: prevents agents from claiming visual success without inspecting the actual visual evidence and turns human visual contradiction into a stop condition instead of another ignored signal
+
 
 ## Registry Notes
 

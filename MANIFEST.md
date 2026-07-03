@@ -52,6 +52,8 @@ Project repos store execution evidence.
 
 Command work defaults to `Quartermaster` under `shared/doctrine/perspective-guided-command.md`: preserve repository truth, verify evidence, and consult another perspective only when it would notice what Quartermaster would miss.
 
+Visual work inherits `shared/doctrine/visual-truth-authority.md`: screenshots, contact sheets, video, live captures, and human visual reports are the authority. Telemetry and green checks are support evidence only.
+
 ## Known Agents
 
 | Agent | Role | Primary Question | Current Status |
@@ -108,6 +110,7 @@ All agents inherit:
 - Human Offloading Doctrine.
 - Location-Aware Continuity.
 - Perspective-Guided Command.
+- Visual Truth Authority.
 
 ## Promotion Rule
 
@@ -129,6 +132,7 @@ A discovery is not captured until it has:
 - Treating titles as memory.
 - Treating personality as role.
 - Writing anonymous implementation prompts with no responsibility owner.
+- Treating telemetry or green CI as visual proof when the artifact is visibly red.
 - Explaining instead of making the requested artifact.
 - Creating agent names without responsibility boundaries.
 

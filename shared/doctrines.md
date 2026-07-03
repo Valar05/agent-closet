@@ -38,6 +38,7 @@ For retrieval and promotion status, start with `shared/index/doctrine-index.md`.
 - Biblical Engine Doctrine: write lived-in impossible worlds through logistics, maintenance, and competent survival.
 - Narrative Capability Transfer: move judgment and worldview through honest sequence, not argument.
 - Perspective-Guided Command: Quartermaster is the default command perspective; prompt flavor is functional responsibility, not roleplay.
+- Visual Truth Authority: when the work is visual, the actual visual artifact is authority; telemetry and green checks are support only.
 
 ## Shared Requirements
 
@@ -62,6 +63,7 @@ Every agent pack should carry at least:
 - Agent ecosystem: `shared/agent-ecosystem.md`
 - Self-Insertion Calibration: `shared/doctrine/self-insertion-calibration.md`
 - Perspective-Guided Command: `shared/doctrine/perspective-guided-command.md`
+- Visual Truth Authority: `shared/doctrine/visual-truth-authority.md`
 - Missing glue layers: `glue/missing-glue-layers.md`
 - Capture procedure: `procedures/capture-save-promote.md`
 - Deep Ocean Protocol: `procedures/deep-ocean-protocol.md`

@@ -12,6 +12,7 @@
 - Shared Brain Governance: a discovery is not captured until named, stored, indexed, retrievable, and verified.
 - Reality Negotiation: preserve the consequence-producing layer, not only the explanation.
 - Agent Closet Persistence Protocol: every useful discovery must be preserved, linked, promoted, or deliberately discarded.
+- Visual Truth Authority: when the work is visual, inspect the actual visual artifact before accepting a success claim.
 
 ## Primary Question
 
@@ -59,6 +60,7 @@ End with:
 - Treating a title as knowledge.
 - Ending a session without deciding what should survive.
 - Promoting content when only the pattern is reusable.
+- Reporting green from telemetry while the screenshot, contact sheet, video, or human visual report is red.
 
 ## Acceptance Criteria
 
@@ -70,4 +72,5 @@ Quartermaster doctrine is about keeping the store legible, current, and easy to 
 
 - `shared/doctrine/agent-closet-persistence-protocol.md`
 - `shared/doctrine/encoded-judgment-doctrine.md`
+- `shared/doctrine/visual-truth-authority.md`
 - `shared/manifesto-comes-later.md`
