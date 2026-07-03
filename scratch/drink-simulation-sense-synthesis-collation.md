@@ -4,6 +4,17 @@ Status: scratch ore
 Date: 2026-07-03
 Owner: Quartermaster
 
+Related:
+
+- [Ore Worth Promoting](ore-worth-promoting.md)
+- [Perspective Coding Doctrine Notes](perspective-coding-doctrine-notes.md)
+- [Sense Synthesis](../shared/sense-synthesis.md)
+- [Recursive Sense Synthesis](../shared/recursive-sense-synthesis.md)
+- [Sommelier](../agents/sommelier/identity.md)
+- [Missing Glue Layers](../glue/missing-glue-layers.md)
+- [Doctrine Index](../shared/index/doctrine-index.md)
+- [Droobiedoo Chat Corpus Sense Synthesis Mining](droobiedoo-chat-corpus-sense-synthesis-mining.md)
+
 ## Purpose
 
 Collate the drink-related sense synthesis discoveries into a durable scratch artifact.
@@ -17,6 +28,21 @@ It is evidence and prompt material for a possible Agent Closet simulation-space 
 Drink Simulation is not primarily a recipe generator.
 
 It is a fast feedback loop for perceptual composition: define a desired sensory experience, decompose it into functional levers, compose from available common ingredients, predict interactions, taste, compare, and preserve the deviation.
+
+
+## Repository Evidence
+
+Current repository evidence found during the rebase-resolution pass:
+
+- `shared/sense-synthesis.md` defines Sense Synthesis as shaping sensory and experiential outcomes through composition, with perception and behavior as the unit of work.
+- `shared/sense-synthesis.md` already contains the beverage runtime: `Inventory + Preferences + Constraints + Feedback -> Synthesized Experience`.
+- `agents/sommelier/identity.md` names Sommelier as the owner for drink, food, ritual, texture, aroma, novelty, and accessible sensory design.
+- `glue/missing-glue-layers.md` names the missing `Sense Synthesis Log` glue layer for storing drink, food, and sensory experiments as reusable rules.
+- `agents/prospector/mined-examples.md` preserves `Acid Stones Tannins`, `Drink Compiler`, `Beverage Runtime`, and `Flavor Negotiation` as extracted patterns from beverage experiments.
+- `scratch/ore-worth-promoting.md` links the Drink Compiler and Drink Simulation / Perceptual Composition candidates back to this scratch collation.
+- `scratch/droobiedoo-chat-corpus-sense-synthesis-mining.md` adds derivative evidence from the local `droobiedoo/wwdd` chat corpus for componentized mocktails, hydration/regulation sipping, gentian/acid/salt coupling, fermentation process levers, and sobriety ritual drinks.
+
+Resolution note: the remote collation cites `guinness_sense_synthesis_simulation.md` and `Composition_Doctrine_Addendum.docx` as existing scratch evidence, but those files are not separately tracked in the current `origin/main` tree. Preserve the citations as inherited scratch evidence names until the source artifacts are recovered or explicitly marked unavailable.
 
 ## Hard Data Points
 
@@ -196,6 +222,51 @@ The useful artifact is a repeatable simulation procedure:
 10. Compare prediction against observed result.
 11. Preserve doctrine candidates.
 
+
+## Functional Modes
+
+### Hydration Mode
+
+Large-volume drinks optimized for repeatable consumption, recovery, electrolyte usefulness, bodily support, and regulation sipping.
+
+Primary success criteria:
+
+- drinkable at volume
+- not cloying
+- not medicinal
+- restores or supports bodily state
+- remains useful when diluted
+- safe concentration and frequency assumptions are explicit
+
+Primary failure modes:
+
+- seawater
+- medicine
+- ghost water
+- flatness
+- over-concentrated replacement formula used as casual regulation sipping
+
+### Ritual Mode
+
+Smaller drinks optimized for experience, progression, aroma, complexity, and state transition.
+
+Primary success criteria:
+
+- has a beginning, middle, and finish
+- aroma carries first impression
+- bitterness or tannin provides spine
+- body and temperature support the intended mood
+- novelty is legible without becoming chaotic
+- sensory structure replaces or regulates a state without creating a worse loop
+
+Primary failure modes:
+
+- thin flavored water
+- unstructured bitterness
+- perfume without body
+- syrup without spine
+- clever ingredient list with no experienced payoff
+
 ## Perspective Review
 
 ### Quartermaster
@@ -362,6 +433,13 @@ Promote from scratch to shared skill only after:
 - `scratch/drink-observation-ledger.md`
 - `scratch/bitters-contribution-map.md`
 - `skills/drink-simulation.md` only after promotion gate passes.
+
+
+Additional scratch artifacts requested by the Droobiedoo corpus pass:
+
+- `scratch/sense-synthesis-log-template.md` - lightweight experiment log for drink, food, and sensory tests.
+- `scratch/drink-compiler-schema.md` - candidate schema for inventory, constraints, target state, levers, process stage, feedback, and safety notes.
+- `scratch/droobiedoo-sense-synthesis-source-index.md` - compact source index for high-signal `droobiedoo/wwdd` conversations.
 
 ## Open Question
 

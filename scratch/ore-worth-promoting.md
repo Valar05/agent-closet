@@ -123,13 +123,22 @@ Needs: examples from wizard wand, goblin familiar, and mixed engineering/persona
 
 ### Drink Compiler
 
-Status: promoted pattern, needs implementation sketch.
+Status: strong ore / promoted pattern, needs implementation sketch and experiment logs.
 
-Idea: beverages as a generative system: Inventory + Preferences + Constraints + Feedback -> Synthesized Drink.
+Source: [Drink Simulation Sense Synthesis Collation](drink-simulation-sense-synthesis-collation.md)
 
-Why it matters: generalizes beyond beverages into runtime-based design and feedback loops.
+Idea: beverages as a generative system: Inventory + Preferences + Constraints + Feedback -> Synthesized Drink. Model ingredients by perceptual jobs and lever interactions, not by recipe identity.
 
-Needs: schema and feedback format.
+Why it matters: generalizes beyond beverages into runtime-based design and feedback loops. It may become a simulation-space skill once the repo has logged examples, a schema, and a promotion gate.
+
+Preserved candidate rules:
+
+- The ingredient is not the flavor; the composition is the flavor.
+- Hydration Mode and Ritual Mode need different acceptance rubrics.
+- Carbonation, water, acid, salt, minerality, sweetness, bitterness, tannin, aroma, temperature, dilution, and mouthfeel interact.
+- Bitters should be mapped as aromatic/structural modules, not only as bitterness.
+
+Needs: schema, feedback format, Sense Synthesis Log, and pantry contribution records backed by observation.
 
 ### Drink Simulation / Perceptual Composition
 
