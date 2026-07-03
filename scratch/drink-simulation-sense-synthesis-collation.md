@@ -35,11 +35,13 @@ It is a fast feedback loop for perceptual composition: define a desired sensory 
 Current repository evidence found during the rebase-resolution pass:
 
 - `shared/sense-synthesis.md` defines Sense Synthesis as shaping sensory and experiential outcomes through composition, with perception and behavior as the unit of work.
-- `shared/sense-synthesis.md` already contains the beverage runtime: `Inventory + Preferences + Constraints + Feedback -> Synthesized Experience`.
+- `shared/sense-synthesis.md` contains the beverage runtime: `Inventory + Preferences + Constraints + Feedback -> Synthesized Experience`.
+- `shared/sense-synthesis.md` lists dilution, acidity, sweetness, carbonation, bitterness, aroma, temperature, and ritual as interacting perceptual factors.
 - `agents/sommelier/identity.md` names Sommelier as the owner for drink, food, ritual, texture, aroma, novelty, and accessible sensory design.
 - `glue/missing-glue-layers.md` names the missing `Sense Synthesis Log` glue layer for storing drink, food, and sensory experiments as reusable rules.
 - `agents/prospector/mined-examples.md` preserves `Acid Stones Tannins`, `Drink Compiler`, `Beverage Runtime`, and `Flavor Negotiation` as extracted patterns from beverage experiments.
 - `scratch/ore-worth-promoting.md` links the Drink Compiler and Drink Simulation / Perceptual Composition candidates back to this scratch collation.
+- `shared/index/doctrine-index.md` indexes Sense Synthesis as promoted doctrine: shape sensory outcomes through composition.
 - `scratch/droobiedoo-chat-corpus-sense-synthesis-mining.md` adds derivative evidence from the local `droobiedoo/wwdd` chat corpus for componentized mocktails, hydration/regulation sipping, gentian/acid/salt coupling, fermentation process levers, and sobriety ritual drinks.
 
 Resolution note: the remote collation cites `guinness_sense_synthesis_simulation.md` and `Composition_Doctrine_Addendum.docx` as existing scratch evidence, but those files are not separately tracked in the current `origin/main` tree. Preserve the citations as inherited scratch evidence names until the source artifacts are recovered or explicitly marked unavailable.
