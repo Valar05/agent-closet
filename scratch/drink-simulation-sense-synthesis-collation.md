@@ -19,6 +19,7 @@ Related:
 - [Drink Observation Ledger](drink-observation-ledger.md)
 - [Bitters Contribution Map](bitters-contribution-map.md)
 - [Sense Synthesis Proof Sprint](sense-synthesis-proof-sprint.md)
+- [Sense Simulation Skill Candidate](sense-simulation-skill-candidate.md)
 
 ## Purpose
 

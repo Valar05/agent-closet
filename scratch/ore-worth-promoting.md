@@ -121,6 +121,28 @@ Why it matters: useful for art direction, agent behavior, tool design, and story
 
 Needs: examples from wizard wand, goblin familiar, and mixed engineering/personality artifacts.
 
+
+### Sense Simulation
+
+Status: strong scratch ore. Do not canonize yet.
+
+Source: [Sense Simulation Skill Candidate](sense-simulation-skill-candidate.md)
+
+Idea: simulate the human experience of an artifact across Physical Truth, Visual Truth, Perceptual Truth, and Behavioral Truth before optimizing implementation details.
+
+Why it matters: this extends Visual Truth Authority into a broader perception-first skill. It can change implementation priorities by predicting what humans notice, believe, trust, misunderstand, or ignore.
+
+Preserved candidate rules:
+
+- Implementation exists only because it creates experience.
+- Metrics are evidence; experience is the target.
+- Do not confuse passing tests with successful experience.
+- Corrections should improve perception, not simply numbers.
+
+Needs: repeated demonstrations across multiple domains, including Pose Lab, UX, accessibility, game feel, environment design, audio, narrative, Drink Simulation, or interaction design.
+
+Quartermaster / Prospector gate: Quartermaster must verify evidence, continuity, and scratch boundary; Prospector must verify that the simulation grammar predicts human perception better than implementation-first reasoning.
+
 ### Drink Compiler
 
 Status: strong ore / promoted pattern, needs implementation sketch and experiment logs.
