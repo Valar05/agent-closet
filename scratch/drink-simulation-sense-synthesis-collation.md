@@ -16,6 +16,9 @@ Related:
 - [Droobiedoo Chat Corpus Sense Synthesis Mining](droobiedoo-chat-corpus-sense-synthesis-mining.md)
 - [Sense Synthesis Research Manifest](research-manifest-sense-synthesis.md)
 - [Sense Synthesis Evidence Matrix](sense-synthesis-evidence-matrix.md)
+- [Drink Observation Ledger](drink-observation-ledger.md)
+- [Bitters Contribution Map](bitters-contribution-map.md)
+- [Sense Synthesis Proof Sprint](sense-synthesis-proof-sprint.md)
 
 ## Purpose
 
@@ -447,6 +450,9 @@ Additional scratch artifacts requested by the Droobiedoo corpus pass:
 - `scratch/research-manifest-sense-synthesis.md` - Quartermaster / Prospector plan for external research that can support or falsify the doctrine claims.
 - `scratch/sense-synthesis-evidence-matrix.md` - claim-by-claim proof ledger connecting corpus evidence, experiments, and research support.
 - `discoveries/research-corpus/sense-synthesis/manifest.jsonl` - metadata-only home for approved external research sources.
+- `scratch/drink-observation-ledger.md` - pre-registered first five Drink Simulation tests.
+- `scratch/bitters-contribution-map.md` - observation scaffold for bitters as aromatic/structural modules.
+- `scratch/sense-synthesis-proof-sprint.md` - Quartermaster / Prospector workflow for exploiting the proof scaffold.
 
 ## Open Question
 

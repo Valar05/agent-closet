@@ -140,7 +140,7 @@ Preserved candidate rules:
 
 Needs: schema, feedback format, Sense Synthesis Log, and pantry contribution records backed by observation.
 
-Research proof scaffold: [Sense Synthesis Research Manifest](research-manifest-sense-synthesis.md) and [Sense Synthesis Evidence Matrix](sense-synthesis-evidence-matrix.md) define what external research and experiment logs would strengthen or falsify this candidate.
+Research proof scaffold: [Sense Synthesis Research Manifest](research-manifest-sense-synthesis.md), [Sense Synthesis Evidence Matrix](sense-synthesis-evidence-matrix.md), and [Sense Synthesis Proof Sprint](sense-synthesis-proof-sprint.md) define what external research and experiment logs would strengthen or falsify this candidate.
 
 ### Drink Simulation / Perceptual Composition
 
@@ -154,7 +154,7 @@ Why it matters: upgrades Drink Compiler from recipe generation into a simulation
 
 Senior refinement: the likely parent skill is `Perceptual Composition`; `Drink Simulation` is the first domain pack. Keep this in scratch until there are logged prediction/observation/deviation records.
 
-Needs: drink observation ledger, bitters contribution map, at least five tested simulations, and a decision on whether promotion target is a drink skill or parent perceptual-composition skill.
+Needs: complete observations in [Drink Observation Ledger](drink-observation-ledger.md), real dose/failure notes in [Bitters Contribution Map](bitters-contribution-map.md), at least five tested simulations, and a decision on whether promotion target is a drink skill or parent perceptual-composition skill.
 
 Quartermaster / Prospector gate: Quartermaster must verify preservation, source custody, rights notes, and scratch boundary; Prospector must verify claim value, falsification risk, and whether the stronger ore is `Drink Simulation` or parent `Perceptual Composition`.
 

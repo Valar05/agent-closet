@@ -64,3 +64,12 @@ This corpus scaffold is working when every added source can answer:
 ## Retrieval Keywords
 
 sense synthesis research corpus, drink simulation research metadata, perceptual composition evidence sources, flavor interaction research, hydration mode research, ritual mode research
+
+## Validation
+
+Run this after adding or changing source records:
+
+```sh
+python tools/validate-sense-synthesis-research.py discoveries/research-corpus/sense-synthesis/manifest.jsonl
+python tools/validate-scratch-links.py scratch procedures discoveries/research-corpus
+```
