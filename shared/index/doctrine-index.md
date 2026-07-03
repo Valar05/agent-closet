@@ -67,7 +67,7 @@ These are not failures; they are next cleanup targets:
 
 ## Retrieval Notes
 
-Use `Visual Truth Authority` when a user says `red build`, `no-op`, `visual did not change`, `UI can lie`, `money suck`, `cloud truth`, `false green`, or `tests passed but screenshots are wrong`. Gate, telemetry, UI, and artifact-schema changes after that report are instrumentation only unless the accepted visual artifact changes correctly.
+Use `Visual Truth Authority` when a user says `red build`, `no-op`, `visual did not change`, `UI can lie`, `manual load`, `manual actor selection`, `money suck`, `cloud truth`, `false green`, or `tests passed but screenshots are wrong`. Gate, telemetry, UI, and artifact-schema changes after that report are instrumentation only unless the accepted visual artifact changes correctly. If manual user selection is needed to reach the reviewed state, treat it as a route/state-hydration failure.
 
 ## Rule
 

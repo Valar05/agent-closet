@@ -38,7 +38,7 @@ For retrieval and promotion status, start with `shared/index/doctrine-index.md`.
 - Biblical Engine Doctrine: write lived-in impossible worlds through logistics, maintenance, and competent survival.
 - Narrative Capability Transfer: move judgment and worldview through honest sequence, not argument.
 - Perspective-Guided Command: Quartermaster is the default command perspective; prompt flavor is functional responsibility, not roleplay.
-- Visual Truth Authority: when the work is visual, the actual visual artifact is authority; telemetry and green checks are support only. The visible relationship must match the intended relationship.
+- Visual Truth Authority: when the work is visual, the actual visual artifact is authority; telemetry and green checks are support only. The visible relationship must match the intended relationship, and a review URL that requires manual actor/state selection is red.
 
 ## Shared Requirements
 

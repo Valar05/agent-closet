@@ -57,6 +57,15 @@ Runtime UI truth labels, review pages, clip lists, debug overlays, selected rows
 
 A UI that says the build is correct while the visible target relationship is wrong is itself red. Fix the lying UI or quarantine it before using it to judge another visual fix.
 
+If the user must manually select the actor, clip, item, tab, page, or mode that the review URL claimed to load automatically, the review surface is red. Manual recovery after a bad hydration is not acceptance evidence; it is a route/state-hydration failure.
+
+The required order after this class of failure is:
+
+1. state the visible contradiction
+2. fix the lying evidence/UI gate
+3. prove the gate catches the contradiction
+4. only then edit visual math, offsets, transforms, layout, or gameplay behavior
+
 ## Paid / Cloud Loop Discipline
 
 Cloud and paid review loops are not accomplishments by themselves. Before spending another run after a human no-op or red-build report, name the new visual hypothesis, the artifact that will answer it, and the stop condition.
