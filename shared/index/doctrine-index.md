@@ -12,6 +12,7 @@ Purpose: Make promoted doctrine findable without requiring filename memory.
 | Shared Doctrines | `shared/doctrines.md` | Loading the repo-wide defaults. |
 | Perspective-Guided Command | `shared/doctrine/perspective-guided-command.md` | Assigning responsibility owners, avoiding anonymous prompt voice, and using Quartermaster as the default command perspective. |
 | Visual Truth Authority | `shared/doctrine/visual-truth-authority.md` | Visual work, visible relationship truth, cloud screenshots, false-green gates, no-op churn, UI-can-lie failures, paid/cloud loop discipline, human visual contradiction, and telemetry that conflicts with visible evidence. |
+| Context Firewall Doctrine | `shared/doctrine/context-firewall-doctrine.md` | Quarantining contaminated project context, preserving exact user nouns, stopping on hard corrections, and preventing old false-green harnesses or proxy artifacts from defining new work. |
 | Manifesto Comes Later | `shared/manifesto-comes-later.md` | Preventing process theater; artifact first. |
 | Save -> Read -> Verify | `shared/doctrines.md` | For any repo or artifact update. |
 | Observe Before Advising / Read Before Report | `shared/doctrines.md` | Before diagnosing or reporting on a repo, doc, or system. |
@@ -68,6 +69,8 @@ These are not failures; they are next cleanup targets:
 ## Retrieval Notes
 
 Use `Visual Truth Authority` when a user says `red build`, `no-op`, `visual did not change`, `UI can lie`, `manual load`, `manual actor selection`, `money suck`, `cloud truth`, `false green`, or `tests passed but screenshots are wrong`. Gate, telemetry, UI, and artifact-schema changes after that report are instrumentation only unless the accepted visual artifact changes correctly. If manual user selection is needed to reach the reviewed state, treat it as a route/state-hydration failure.
+
+Use `Context Firewall Doctrine` when old failed work starts shaping a new project, salvage branch, simplified tool, review surface, or prototype. If the user says the requested object was substituted with a proxy, marker, route, placeholder, metric, or documentation artifact, treat that as a hard interrupt and rebuild from the exact named visible target.
 
 ## Rule
 

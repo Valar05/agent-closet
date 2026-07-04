@@ -86,6 +86,16 @@ This registry tracks promoted doctrine and the evidence that earned it storage.
 - `Counterexamples`: telemetry-only success claims, green CI over visibly red screenshots, local artifact substitution for cloud visual truth, unreadable contact sheets treated as proof
 - `Why It Matters`: prevents agents from claiming visual success without inspecting the actual visual evidence and turns human visual contradiction into a stop condition instead of another ignored signal
 
+### Context Firewall Doctrine
+
+- `Status`: canon
+- `Confidence`: high
+- `Evidence Files`: `shared/doctrine/context-firewall-doctrine.md`, `shared/doctrine/visual-truth-authority.md`, `/storage/emulated/0/Documents/GodotProjects/AGENTS.md`, `/storage/emulated/0/Documents/GodotProjects/.codex/skills/ai-mentorship/SKILL.md`, `/storage/emulated/0/Documents/GodotProjects/.codex/skills/visual-red-build-contract/SKILL.md`, `/storage/emulated/0/Documents/GodotProjects/.codex/skills/visual-qa-harness/SKILL.md`
+- `Supporting Doctrines`: `Visual Truth Authority`, `Perspective-Guided Command`, `Evidence beats activity`, `Observe Before Advising / Read Before Report`
+- `Supporting Agents`: `Quartermaster`, `Foreman`, `Auditor`, `Wallfly`
+- `Counterexamples`: carrying Pose Lab FK/IK assumptions into a fresh tool, presenting proxy geometry as a real requested mesh, treating `Implement the plan` as overriding a newer `no`, using stale false-green tests as acceptance for a new surface
+- `Why It Matters`: prevents a failed project from infecting the next project and forces agents to preserve the user's exact visible target before implementing, proving, or documenting around it
+
 
 ## Registry Notes
 
