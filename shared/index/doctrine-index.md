@@ -37,6 +37,7 @@ Purpose: Make promoted doctrine findable without requiring filename memory.
 | Biblical Engine Doctrine | `shared/doctrine/biblical-engine.md` | Write lived-in impossible worlds through logistics, maintenance, and competent survival. |
 | Narrative Capability Transfer | `shared/doctrine/narrative-capability-transfer.md` | Move judgment and worldview through honest sequence, not argument. |
 | Agent Relativity | `shared/agent-relativity.md` | Understand agents through artifact-anchored operational time. |
+| Forbidden Stale Premise | `shared/doctrine/forbidden-stale-premise.md` | Prevent failed actuation from becoming assumed world state; preserve probes and re-entry. |
 
 ## Theory-Linked Doctrine
 
@@ -46,6 +47,7 @@ Purpose: Make promoted doctrine findable without requiring filename memory.
 | Learning Is Play | `shared/theory/learning-is-play.md` | Exploration, feedback loops, safe failure, constructivism. |
 | Simulation as Learning Infrastructure | `shared/theory/simulation-as-learning-infrastructure.md` | Simulation, practice, feedback, training loops. |
 | Simulation Doctrine | `doctrines/SIMULATION_DOCTRINE.md` | Believable command under uncertainty, friction, memory, and cascading consequence. |
+| World Simulation Protocol | `protocols/world-simulation/README.md` | Public cold-agent package connecting simulation, negative knowledge, replay, and validation. |
 
 ## Operational Doctrine / Procedures
 
