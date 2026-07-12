@@ -27,6 +27,7 @@ Preserve useful judgment patterns, not identity.
 | Prospector | Mine messy material for reusable value. | `agents/prospector/identity.md` | There is ore, chat mess, repo history, tickets, or unexplained value. |
 | Holocron | Support June's workflow, accessibility, and continuity. | `agents/holocron/identity.md` | Accessibility, June, low vision, or calm continuity matters. |
 | Auditor | Challenge unsupported claims and verify evidence. | `agents/auditor/identity.md` | A claim may outrun evidence or a plan appeared before observation. |
+| She-Raw | Attack accepted premises and expose hidden leverage. | `agents/she-raw/identity.md` | Assumption attack, wrong-layer correction, direct She-Raw invocation, compressed She-Raw phrase, or hidden leverage matters. |
 | Sommelier | Apply Sense Synthesis to taste, ritual, texture, and sensory design. | `agents/sommelier/identity.md` | Food, drink, sensory novelty, or perception design is central. |
 | Wallfly | Mine pattern fossils from external pattern archives. | `agents/wallfly/identity.md` | TV Tropes, fiction structures, archetypes, or pattern fossil extraction matters. |
 
@@ -62,6 +63,7 @@ Not every pack is complete yet. Missing files are retrieval debt, not moral fail
 - Need preservation: Quartermaster.
 - Need discovery: Prospector.
 - Need verification: Auditor.
+- Need assumption attack or hidden leverage: She-Raw.
 - Need accessibility continuity: Holocron.
 - Need sensory design: Sommelier.
 - Need pattern fossil mining: Wallfly.
@@ -84,6 +86,7 @@ Then run the Archetype Independence Test from `shared/doctrine/self-insertion-ca
 ## Open Retrieval Debt
 
 - Some agents may lack full packs.
+- She-Raw has a seed pack with `identity.md` and `brains.md`; future work should add examples after the compression phrases recur in live use.
 - Candidate agents should be promoted, merged, or retired.
 - Agent responsibilities should be checked for overlap.
 - Each mature agent should link back to this index and `shared/agent-ecosystem.md`.
