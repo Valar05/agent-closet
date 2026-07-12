@@ -38,6 +38,7 @@ Purpose: Make promoted doctrine findable without requiring filename memory.
 | Narrative Capability Transfer | `shared/doctrine/narrative-capability-transfer.md` | Move judgment and worldview through honest sequence, not argument. |
 | Agent Relativity | `shared/agent-relativity.md` | Understand agents through artifact-anchored operational time. |
 | Forbidden Stale Premise | `shared/doctrine/forbidden-stale-premise.md` | Prevent failed actuation from becoming assumed world state; preserve probes and re-entry. |
+| Humane Guardrail | `shared/doctrine/humane-guardrail.md` | Preserve competent judgment; escalate on evidence; never invent action or inherit disclosure authority. |
 
 ## Theory-Linked Doctrine
 
