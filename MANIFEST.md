@@ -2,7 +2,7 @@
 
 Type: Registry / governance manifest
 Status: Active bootstrap
-Date: 2026-06-22
+Date: 2026-07-13
 Source anchors:
 - START HERE - Shared Corpus Master Index: https://docs.google.com/document/d/1uovqqBhtcKdykzodSS3LOrMpdNgAlY_pyXcWhBFNfyY
 - Doctrine Registry: https://docs.google.com/document/d/1gGaoyUkXqOlISKrI95L9a27TkNxu6FO9I9FTRiZQ6EQ
@@ -54,15 +54,18 @@ Command work defaults to `Quartermaster` under `shared/doctrine/perspective-guid
 
 Visual work inherits `shared/doctrine/visual-truth-authority.md`: screenshots, contact sheets, video, live captures, and human visual reports are the authority. Telemetry and green checks are support evidence only.
 
+Current external research and promotion intake lives in `discoveries/agent-closet-research-radar-2026-07-13.md`.
+
 ## Known Agents
 
 | Agent | Role | Primary Question | Current Status |
 |---|---|---|---|
-| Command Center | Orchestration / action | What is the smallest useful action? | Needs explicit profile |
+| Command Center | Orchestration / action | What is the smallest useful action? | Existing pack |
 | Foreman | Build / delivery | What needs to be built, tested, and delivered? | Existing pack |
 | Prospector | Value mining | Is there ore here? | Existing pack |
-| Quartermaster | Preservation | Is it preserved? | Needs explicit pack |
+| Quartermaster | Preservation | Is it preserved? | Existing pack |
 | Holocron | June / accessibility continuity | What context and accessibility support matters? | Existing pack |
+| Auditor | Verification / red-build detection | What claim outruns the evidence? | Existing pack |
 | WWDD | Judgment service | What has Drew repeatedly done here? | Shared protocol exists |
 | Home Center | Household operations | What household state must persist? | Needs profile |
 | Pose Lab | Animation workflow | What pose/animation state must persist? | Needs profile |
@@ -76,7 +79,6 @@ Visual work inherits `shared/doctrine/visual-truth-authority.md`: screenshots, c
 | Crucible | Score ore into gold | Promotion needs a dedicated evaluator |
 | Archivist | Track provenance and version history | Retrieval without provenance decays |
 | Dispatcher | Route tasks to agents/tools | Prevents agent soup |
-| Auditor | Detect red builds | Catches plans-before-observation and fake progress |
 | Compiler | Convert doctrine into prompts, tests, workflows | Doctrine must change behavior |
 | Sommelier | Sense Synthesis specialist | Drinks, food, sensory experiments need a domain agent |
 | Mediator | Translate goals across people/agents | Useful for Drew, June, and multi-agent handoffs |
@@ -86,14 +88,14 @@ Visual work inherits `shared/doctrine/visual-truth-authority.md`: screenshots, c
 
 See `glue/missing-glue-layers.md`.
 
-Highest-value gaps:
+Highest-value current gaps:
 
-1. Agent profile cards for every named agent.
-2. Doctrine registry inside repo.
-3. Promotion log tied to source evidence.
-4. Update pipeline: doctrine change -> affected agents -> file edits -> readback.
-5. Red-build detector.
-6. Handoff prompt generator.
+1. Runtime Projection / Doctrine Compiler.
+2. Policy Envelope / Authority Intersection.
+3. Delivered-Artifact Acceptance Packet.
+4. Disabled-User Verdict Ledger.
+5. Web Capability and Fallback Matrix.
+6. Comprehension-Debt Handoff Packet.
 
 ## Doctrine Inheritance
 
@@ -135,14 +137,18 @@ A discovery is not captured until it has:
 - Treating telemetry or green CI as visual proof when the artifact is visibly red.
 - Explaining instead of making the requested artifact.
 - Creating agent names without responsibility boundaries.
+- Treating written doctrine as inherited before the acting runtime loads it.
+- Treating authentication as sufficient authorization.
+- Accepting accessibility from automation without a disabled-user task verdict.
+- Assuming browser capabilities instead of probing and preserving fallback truth.
 
 ## Next Work
 
-1. Add explicit `agents/quartermaster/` pack.
-2. Add explicit `agents/command-center/` pack.
-3. Add `shared/doctrine-registry.md`.
-4. Add `glue/update-pipeline.md`.
-5. Add `agents/auditor/` pack for red-build detection.
+1. Compile the Quartermaster pack into a versioned runtime manifest and cold-agent test.
+2. Draft Authority Intersection with negative tests for actor, project, tool, and mutation scope.
+3. Define the Delivered-Artifact Acceptance Packet across repo, runtime, visual, accessibility, and human truth.
+4. Add the Accessibility Doctrine Pack and first Disabled-User Verdict Ledger entry.
+5. Add a privacy-aware web capability matrix and fallback-routing procedure.
 
 ## Acceptance Criteria
 
