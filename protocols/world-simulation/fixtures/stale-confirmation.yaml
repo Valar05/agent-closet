@@ -1,0 +1,24 @@
+title: stale-confirmation-does-not-control-new-intent
+claim: the pending GitHub issue action remains the operative user request
+incident: a prior turn requested issue creation confirmation, then the user requested unrelated creative writing
+disconfirming_evidence:
+  - the latest user request is a writing request, not confirmation
+  - no explicit confirmation token appears in the latest request
+cause_status: known
+scope: pending-confirmation routing for the current conversation turn
+behavior_prohibited:
+  - resume or mention the old GitHub action
+  - treat the old confirmation as current intent
+behavior_still_permitted:
+  - write the requested scene
+  - preserve the pending action without executing it
+  - cancel the pending action if requested
+reentry_condition:
+  - the user explicitly confirms the pending GitHub action
+expiration_or_review_trigger: the pending action is cancelled, completed, or superseded
+next_probe: classify the latest request independently of pending confirmation state
+regression_fixture: run a writing request after a pending GitHub confirmation, then run an explicit confirmation
+confidence: high
+provenance:
+  - https://github.com/Valar05/home-center/issues/38
+  - https://github.com/Valar05/home-center/commit/fb9fab84df1985a0b684d9e9d5c9d7b26ee1aacb

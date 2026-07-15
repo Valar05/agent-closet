@@ -15,7 +15,8 @@ Read in this order:
 4. `shared/doctrine/perspective-guided-command.md` - default command perspective and responsibility-bearing prompt doctrine.
 5. `shared/index/agent-index.md` - agent roles and where to orient.
 6. `shared/index/skill-index.md` - reusable skills, procedures, templates, and theory.
-7. Target agent pack or task-specific document.
+7. `protocols/world-simulation/README.md` when the task involves persistent worlds, consequence memory, no-op churn, or stale state.
+8. Target agent pack or task-specific document.
 
 ## Top-Level Folders
 
@@ -33,6 +34,7 @@ Read in this order:
 | `glue/` | Interface and workflow connection layers. Start with `glue/README.md` and `glue/ai-substrate-contract.md`. | Fixing translation problems between tools, agents, or artifacts. |
 | `corpus/fiction/` | Fiction manifest, source map, scene evidence, observation ledger, and book-local observations. | Mining fiction, supporting writing skills, or validating corpus-wide claims. |
 | `simulations/` | Simulation reports and life-simulation engines. | Designing consequence memory, pressure clocks, and world-state feedback loops. |
+| `protocols/` | Public transmission layers that compile existing doctrine into cold-agent adoption and validation paths. | Making Agent Closet behavior portable without creating a competing authority. |
 | `scratch/` | Ore, dumps, fragments, and proof notes. | Capturing before refining. |
 
 ## Writing / Fiction Generation Path

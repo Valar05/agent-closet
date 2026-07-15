@@ -22,7 +22,8 @@ This is a living inheritance system for agent behavior. The repo keeps the rules
 5. Read `shared/doctrine/visual-truth-authority.md` if the task involves visual output, screenshots, video, cloud visual parity, or a red-build report.
 6. Read `shared/index/agent-index.md` if the task involves agent routing or agent design.
 7. Read `shared/index/skill-index.md` if the task involves a reusable behavior, procedure, template, or theory.
-8. Read the target agent pack or task-specific file.
+8. Read `protocols/world-simulation/README.md` for persistent-world simulation, consequence memory, no-op churn, or Forbidden Stale Premise work.
+9. Read the target agent pack or task-specific file.
 
 ## How to use it
 
@@ -71,6 +72,7 @@ The rule is simple: dump first, then mine the useful parts into shared doctrine 
 - `discoveries/drive-corpus/`: exported Drive source evidence, manifest, and sync notes.
 - `doctrines/`: focused doctrine pages that have already earned storage.
 - `scratch/ore-worth-promoting.md`: intake queue for rough ore and promotion candidates.
+- `protocols/world-simulation/`: public cold-agent transmission path for World Simulation and Forbidden Stale Premise.
 
 ## What does not belong here
 
