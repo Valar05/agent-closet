@@ -87,6 +87,17 @@ This registry tracks promoted doctrine and the evidence that earned it storage.
 - `Why It Matters`: prevents agents from claiming visual success without inspecting the actual visual evidence and turns human visual contradiction into a stop condition instead of another ignored signal
 
 
+### Prompt Hydraulics
+
+- `Status`: Silver / active skill seed
+- `Confidence`: medium-high
+- `Evidence Files`: `skills/prompt-hydraulics.md`, `skills/world-pressure-engine.md`, `skills/scene-compiler-runtime.md`, `skills/kinetic-compression.md`
+- `Supporting Doctrines`: `Evidence-Pressure Loop`, `Continuity Without Memory Theater`, `Keep Consequences in the World`
+- `Supporting Agents`: `Quartermaster`, `Foreman`, `Timmy`
+- `Counterexamples`: metaphor cosplay, prompt bloat, exposition leaks, actor-geometry collapse, reset laundering, competence commercials
+- `Why It Matters`: converts compact outcome prompts into constrained state-changing work while preserving actor independence, evidence, consequence, and cold-worker consumability
+
+
 ## Registry Notes
 
 - The registry is a promotion ledger, not a scrapbook.
