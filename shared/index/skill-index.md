@@ -11,6 +11,7 @@ Purpose: Make reusable behaviors, procedures, templates, and theory easier to fi
 |---|---|---|
 | Perspective Graphing | `shared/skills/perspective-graphing.md` | Comparing encoded perspectives and observer models. |
 | Kinetic Compression | `skills/kinetic-compression.md` | Rendering motion, action, contact, and consequence as legible state change. |
+| Prompt Hydraulics | `skills/prompt-hydraulics.md` | Routing semantic pressure through persistent state until a concrete actuator produces a verified state change. |
 | Scene Compiler | `skills/scene-compiler.md` | Generating fiction scenes from image -> pressure -> judgment -> system -> consequence -> next pressure rather than prose imitation. |
 | Scene Compiler Runtime | `skills/scene-compiler-runtime.md` | Running the Scene Compiler loop: state, pressure selection, doctrine selection, scene generation, harness validation, repair, and acceptance. |
 | World Pressure Engine | `skills/world-pressure-engine.md` | Selecting the next natural story pressure from world state, active clocks, consequence debt, and character judgment. |
