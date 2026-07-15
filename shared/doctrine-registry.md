@@ -93,7 +93,7 @@ This registry tracks promoted doctrine and the evidence that earned it storage.
 - `Confidence`: medium-high
 - `Evidence Files`: `skills/prompt-hydraulics.md`, `skills/world-pressure-engine.md`, `skills/scene-compiler-runtime.md`, `skills/kinetic-compression.md`
 - `Supporting Doctrines`: `Evidence-Pressure Loop`, `Continuity Without Memory Theater`, `Keep Consequences in the World`
-- `Supporting Agents`: `Quartermaster`, `Foreman`, `Timmy`
+- `Supporting Agents`: `Quartermaster`, `Foreman`
 - `Counterexamples`: metaphor cosplay, prompt bloat, exposition leaks, actor-geometry collapse, reset laundering, competence commercials
 - `Why It Matters`: converts compact outcome prompts into constrained state-changing work while preserving actor independence, evidence, consequence, and cold-worker consumability
 
