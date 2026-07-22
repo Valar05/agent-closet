@@ -2,7 +2,7 @@
 
 Type: Index / orientation / retrieval  
 Status: Canon seed  
-Date: 2026-07-14  
+Date: 2026-07-21  
 Owner: Quartermaster  
 Verification owner: Auditor  
 Purpose: Give a new agent the shortest path from repo entry to useful action.
@@ -84,7 +84,8 @@ When a task needs a diagnostic lens rather than an operational agent:
 
 ## Integrity Reports
 
-- Current: `reports/agent-closet-integrity-2026-07-14.md`
+- Current: `reports/agent-closet-integrity-2026-07-21.md`
+- Previous: `reports/agent-closet-integrity-2026-07-14.md`
 - Historical capability snapshot: `reports/end_of_day_capability_report_2026_06_23.md`
 
 Reports describe repository state at a date. They do not override current manifests, indexes, or canonical doctrine.
