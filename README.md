@@ -66,6 +66,7 @@ The rule is simple: dump first, then mine the useful parts into shared doctrine 
 - `shared/doctrines.md`: shared defaults and promoted doctrines.
 - `shared/doctrine/perspective-guided-command.md`: default command perspective and prompt responsibility doctrine.
 - `shared/doctrine/visual-truth-authority.md`: visual evidence authority doctrine for screenshots, video, cloud parity, and false-green gates.
+- `shared/doctrine/context-firewall-doctrine.md`: quarantine doctrine for preventing failed project assumptions, proxy artifacts, and false-green proof paths from spreading into new work.
 - `shared/recursive-sense-synthesis.md`: the continuity framework note.
 - `discoveries/`: promoted discovery notes and origin records.
 - `discoveries/drive-corpus/`: exported Drive source evidence, manifest, and sync notes.
