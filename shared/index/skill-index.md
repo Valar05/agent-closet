@@ -46,6 +46,7 @@ Purpose: Make reusable behaviors, procedures, templates, and theory easier to fi
 | Theory | Path | Use when |
 |---|---|---|
 | Artificial Continuity | `shared/artificial-continuity.md` | Preserving useful decision-making machinery across sessions and agents. |
+| Contagious Operational Memes | `shared/theory/contagious-operational-memes.md` | Transmitting compact, executable judgment that changes behavior in fresh actors. |
 | Learning Is Play | `shared/theory/learning-is-play.md` | Connecting play, exploration, feedback, and learning. |
 | Simulation as Learning Infrastructure | `shared/theory/simulation-as-learning-infrastructure.md` | Treating simulation as practice infrastructure. |
 
