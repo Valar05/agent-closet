@@ -2,7 +2,7 @@
 
 Type: Architecture debt registry
 Status: Active
-Date: 2026-07-13
+Date: 2026-07-27
 Related doctrine: Reality Negotiation, Location-Aware Continuity, Human Offloading Doctrine
 
 ## Definition
@@ -33,10 +33,18 @@ When a workflow fails repeatedly, the answer is often not a better agent. It is 
 | Disabled-User Verdict Ledger | Preserve task-level accessibility evidence and the disabled user's verdict separately from automated checks | Accessibility is claimed from linting without proving usable completion | Holocron / Auditor |
 | Web Capability and Fallback Matrix | Record browser, device, WebGPU/WebGL, local-AI, storage, and fallback capability | Web features are assumed available and fail on real devices | Cartographer / Foreman |
 | Comprehension-Debt Handoff Packet | Explain generated systems, decisions, dependencies, build steps, ownership, and recovery paths | AI-built systems function but the team cannot maintain them independently | Quartermaster / Compiler |
+| ARD-Compatible Catalog Projection | Publish canonical agents, skills, doctrine, ownership, source hashes, runtime status, and authority requirements as a discoverable read-only resource catalog | Humans hand-wire resources, candidate ore leaks into runtime, or conflicting indexes are silently flattened | Compiler / Quartermaster |
+| Stateless Execution Context Receipt | Carry actor, delegated authority, exact catalog revision, request identity, idempotency, checkpoints, and evidence requirements without relying on a transport session | Continuity disappears when sessions do, retries lose authority context, or repeated requests cannot be distinguished safely | Compiler / Auditor |
+| Resource Conflict and Supersession Report | Expose contradictory status, duplicate identity, obsolete paths, and competing canonical records before compilation | The runtime inherits whichever file was read last | Quartermaster / Auditor |
+| Suggestion-to-Mutation Receipt | Separate rationale, confidence, suggestion, approval, authorization, provider execution, and completed mutation | Approval UX is mistaken for a security boundary or low-confidence intent still mutates state | Auditor / Compiler |
+| Assistive Model Capability Receipt | Record model availability, version, language, finality, quota, foreground state, and literal-versus-generated output | An assistive feature appears available but cannot complete the user's task reliably | Holocron / Foreman |
+| Cross-Engine Accessibility Fixture | Exercise equivalent keyboard, controller, screen-reader, mobile, runtime, and human-verdict paths across Unity and web engines | Engine APIs are mistaken for accessible user completion | Foreman / Holocron |
+| Renderer and Engine Migration Receipt | Bind evidence to exact engine and renderer versions, changed semantics, fallbacks, and visual/accessibility re-verification | Version upgrades silently invalidate prior runtime or visual evidence | Foreman / Auditor |
 
-## Current Research Anchor
+## Current Research Anchors
 
-- `discoveries/agent-closet-research-radar-2026-07-13.md` records the external evidence and smallest experiments behind the six added glue layers.
+- Current: `discoveries/agent-closet-research-radar-2026-07-27.md`
+- Previous: `discoveries/agent-closet-research-radar-2026-07-13.md`
 
 ## Rule
 
@@ -57,6 +65,9 @@ Before creating a new personality, check whether the missing piece is actually g
 11. Was accessibility accepted without a disabled-user task verdict?
 12. Was a browser capability assumed instead of probed?
 13. Can the team explain and recover the AI-generated system without the generating agent?
+14. Did a stateless action carry enough context to preserve identity, authority, idempotency, and evidence?
+15. Did discovery, suggestion, approval, installation, or confidence get mistaken for authorization?
+16. Did an engine or model capability get mistaken for successful user task completion?
 
 ## Acceptance Criteria
 
@@ -64,4 +75,4 @@ This registry is working when future agents can name the missing interface befor
 
 ## Retrieval Keywords
 
-missing glue layer, architecture debt, agent profile cards, doctrine registry, promotion log, evidence schema, task router, workflow defect detector, update pipeline, runtime projection, doctrine compiler, authority intersection, policy envelope, delivered artifact acceptance, disabled-user verdict, web capability matrix, fallback routing, comprehension debt, handoff packet
+missing glue layer, architecture debt, agent profile cards, doctrine registry, promotion log, evidence schema, task router, workflow defect detector, update pipeline, runtime projection, doctrine compiler, authority intersection, policy envelope, delivered artifact acceptance, disabled-user verdict, web capability matrix, fallback routing, comprehension debt, handoff packet, ARD catalog, stateless execution context, resource conflict, supersession report, suggestion receipt, assistive model capability, cross-engine accessibility, migration receipt
