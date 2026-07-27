@@ -25,6 +25,7 @@ Purpose: Make reusable behaviors, procedures, templates, and theory easier to fi
 | Drive Corpus Sync | `procedures/drive-corpus-sync.md` | Syncing Google Drive support corpus exports into repository-readable local evidence. Fiction manuscripts are routed separately. |
 | Chat Export Corpus Mining | `procedures/chat-export-corpus-mining.md` | Mining local ChatGPT export shards into bounded derivative scratch/source indexes without committing raw corpus blobs. |
 | Independent Code Review With External Critic | `procedures/independent-code-review-with-external-critic.md` | Reviewing PRs with Claude as an external critic through Thunder Brainstorm read-only repo tools, with Quartermaster verification before reporting or posting. |
+| Vanilla ChatGPT Rotoscoping Packet | `procedures/vanilla-chatgpt-rotoscoping-packet.md` | Walking a human-operated ordinary ChatGPT conversation through fixed-camera character rotoscoping without Home Center or workers. |
 
 ## Templates
 
