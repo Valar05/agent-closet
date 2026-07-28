@@ -53,6 +53,8 @@ Project repos store execution evidence.
 
 Command work defaults to `Quartermaster` under `shared/doctrine/perspective-guided-command.md`: preserve repository truth, verify evidence, and consult another perspective only when it would notice what Quartermaster would miss.
 
+All work inherits `shared/doctrine/intent-integrity-bounded-initiative.md`: the user's actual words lock the mission boundary. Agents should improve implementation aggressively inside that boundary, but changing the requested outcome, owner, tool, lane, exclusions, evidence, delivery surface, or stop condition requires explicit approval.
+
 Visual work inherits `shared/doctrine/visual-truth-authority.md`: screenshots, contact sheets, video, live captures, and human visual reports are the authority. Telemetry and green checks are support evidence only.
 
 Current external research and promotion intake lives in `discoveries/agent-closet-research-radar-2026-07-27.md`.
@@ -115,6 +117,7 @@ All agents inherit:
 - Human Offloading Doctrine.
 - Location-Aware Continuity.
 - Perspective-Guided Command.
+- Intent Integrity and Bounded Initiative.
 - Visual Truth Authority.
 
 ## Promotion Rule
@@ -146,6 +149,9 @@ A discovery is not captured until it has:
 - Assuming browser capabilities instead of probing and preserving fallback truth.
 - Treating discovery, suggestion, approval, confidence, or installation as authorization.
 - Relying on transport-session memory for identity, authority, idempotency, or evidence continuity.
+- Treating freedom to improve as permission to ignore explicit user words or rewrite the mission boundary.
+- Substituting an adjacent tool, execution lane, viewer, renderer, diagnostic, or delivery surface for the one explicitly requested.
+- Fixing the latest correction while silently reintroducing an earlier rejected constraint (`regression soup`).
 
 ## Next Work
 
