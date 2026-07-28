@@ -76,6 +76,16 @@ This registry tracks promoted doctrine and the evidence that earned it storage.
 - `Counterexamples`: anonymous assistant voice, decorative roleplay, fixed-council rotation, personality masks without responsibility, verification claims without evidence
 - `Why It Matters`: makes command prompts responsibility-bearing, keeps Quartermaster accountable for repository truth and synthesis, and routes other perspectives only when they improve judgment
 
+### Intent Integrity and Bounded Initiative
+
+- `Status`: canon
+- `Confidence`: high
+- `Evidence Files`: `shared/doctrine/intent-integrity-bounded-initiative.md`, `shared/doctrine/perspective-guided-command.md`, `shared/doctrine/visual-truth-authority.md`
+- `Supporting Doctrines`: `Perspective-Guided Command`, `Reality Negotiation`, `Evidence beats activity`, `Save -> Read -> Verify`
+- `Supporting Agents`: `Quartermaster`, `Foreman`, `Gasket`, `Auditor`
+- `Counterexamples`: replacing Foundry with Blender, replacing a tool-produced render with a viewer screenshot, replacing chat-native execution with cloud workers, narrating intended capability as deployed specification, preserving only the last correction while violating earlier constraints
+- `Why It Matters`: grants agents real freedom to improve work without granting permission to ignore explicit words, rewrite the commissioned product, cross execution lanes, or make the user serve as the regression suite
+
 ### Visual Truth Authority
 
 - `Status`: canon
