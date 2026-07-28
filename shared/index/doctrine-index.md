@@ -11,6 +11,7 @@ Purpose: Make promoted doctrine findable without requiring filename memory.
 |---|---|---|
 | Shared Doctrines | `shared/doctrines.md` | Loading the repo-wide defaults. |
 | Perspective-Guided Command | `shared/doctrine/perspective-guided-command.md` | Assigning responsibility owners, avoiding anonymous prompt voice, and using Quartermaster as the default command perspective. |
+| Intent Integrity and Bounded Initiative | `shared/doctrine/intent-integrity-bounded-initiative.md` | Preserving the user's actual words while improving implementation inside the authorized mission boundary; preventing lane substitution and regression soup. |
 | Visual Truth Authority | `shared/doctrine/visual-truth-authority.md` | Visual work, visible relationship truth, cloud screenshots, false-green gates, no-op churn, UI-can-lie failures, paid/cloud loop discipline, human visual contradiction, and telemetry that conflicts with visible evidence. |
 | Manifesto Comes Later | `shared/manifesto-comes-later.md` | Preventing process theater; artifact first. |
 | Save -> Read -> Verify | `shared/doctrines.md` | For any repo or artifact update. |
