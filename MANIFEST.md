@@ -119,6 +119,7 @@ All agents inherit:
 - Perspective-Guided Command.
 - Intent Integrity and Bounded Initiative.
 - Visual Truth Authority.
+- Mechanical hard-surface work uses persistent Home Center Blender revisions; Foundry is retired and never an authoring choice.
 
 ## Promotion Rule
 
