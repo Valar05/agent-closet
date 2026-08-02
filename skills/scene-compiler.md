@@ -26,9 +26,11 @@ Primary evidence anchors:
 - `skills/kinetic-compression.md` — lower-level motion/state-change skill.
 - `simulations/lighter-than-air/life-simulation-report.md` — world simulation and pressure-clock evidence.
 
-Incoming ore:
+Routed judgment substrate:
 
-- `Field Guide: Simulating Drew's Narrative Judgment` was referenced in the task directive as supplied ore. Its contents are treated as a hypothesis source, not repository truth, until fully reconciled against artifacts above.
+- `Field Guide: Simulating Drew's Narrative Judgment` is routed by `shared/registry-addenda/2026-06-26-scene-compiler-runtime-promotion.md` as Drive-native author judgment substrate, not as the canonical runtime.
+- Its claims remain evidence-gated by the fiction corpus, but the reconciliation record preserves the reusable judgment layer: restore agency, repair before destruction, competence as ethical obligation, power as interface, maintenance as meaningful action, logistics/recovery as narrative events, and action as multi-layer state change.
+- Its prime directive is operational here: do not ask only what would be cool; ask what system is breaking.
 
 ## Repository Position
 
@@ -868,6 +870,6 @@ Do not promote this skill into canon until:
 
 1. At least three additional Priority A works have direct scene-level evidence comparable to `Jumpy Bug / Biblical`.
 2. Placeholder book-local observation artifacts are expanded or explicitly marked out of scope.
-3. The Field Guide ore is directly compared against repository artifacts.
+3. Any new Field Guide claim beyond the routed judgment substrate is directly compared against repository artifacts.
 4. The World Pressure Engine is tested against at least three generated scenes and one manuscript-mining pass.
 5. Future agents can generate strong compiler passes without copying prose voice.
