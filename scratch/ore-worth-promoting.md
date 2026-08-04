@@ -126,11 +126,13 @@ Needs: examples from wizard wand, goblin familiar, and mixed engineering/persona
 
 Status: strong scratch ore. Do not canonize yet.
 
-Source: [Sense Simulation Skill Candidate](sense-simulation-skill-candidate.md)
+Source: [Sense Simulation Skill Candidate](sense-simulation-skill-candidate.md), [Sense Simulation Doctrine Notes](sense-simulation-doctrine-notes.md)
 
 Idea: simulate the human experience of an artifact across Physical Truth, Visual Truth, Perceptual Truth, and Behavioral Truth before optimizing implementation details.
 
 Why it matters: this extends Visual Truth Authority into a broader perception-first skill. It can change implementation priorities by predicting what humans notice, believe, trust, misunderstand, or ignore.
+
+Pose Lab application: screenshot review must ask whether the viewer believes the weapon is held by the character before accepting socket, FK, hilt, or transform metrics. A metric-green / human-red screenshot is red; metrics explain the failure but do not overrule human-visible truth.
 
 Preserved candidate rules:
 
@@ -138,10 +140,13 @@ Preserved candidate rules:
 - Metrics are evidence; experience is the target.
 - Do not confuse passing tests with successful experience.
 - Corrections should improve perception, not simply numbers.
+- Physical Truth, Visual Truth, Perceptual Truth, and Behavioral Truth must be reported separately when they disagree.
 
 Needs: repeated demonstrations across multiple domains, including Pose Lab, UX, accessibility, game feel, environment design, audio, narrative, Drink Simulation, or interaction design.
 
 Quartermaster / Prospector gate: Quartermaster must verify evidence, continuity, and scratch boundary; Prospector must verify that the simulation grammar predicts human perception better than implementation-first reasoning.
+
+Likely destination: shared doctrine or skill only after repeated use across Pose Lab, UX, accessibility, and game feel. Current status remains scratch ore.
 
 ### Drink Compiler
 

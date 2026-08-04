@@ -40,6 +40,7 @@ For retrieval and promotion status, start with `shared/index/doctrine-index.md`.
 - Perspective-Guided Command: Quartermaster is the default command perspective; prompt flavor is functional responsibility, not roleplay.
 - Intent Integrity and Bounded Initiative: the user's actual words lock the mission boundary; improve freely inside it, but never silently replace the outcome, owner, lane, exclusions, evidence, or delivery surface.
 - Visual Truth Authority: when the work is visual, the actual visual artifact is authority; telemetry and green checks are support only. The visible relationship must match the intended relationship, and a review URL that requires manual actor/state selection is red.
+- Context Firewall Doctrine: after a false-green or no-op loop, old architecture, tests, proxies, and proof paths are quarantined; exact user nouns control the next target, and correction phrases such as `no`, `wrong`, `red build`, or `nothing changed` are hard interrupts.
 
 ## Shared Requirements
 
@@ -66,6 +67,7 @@ Every agent pack should carry at least:
 - Perspective-Guided Command: `shared/doctrine/perspective-guided-command.md`
 - Intent Integrity and Bounded Initiative: `shared/doctrine/intent-integrity-bounded-initiative.md`
 - Visual Truth Authority: `shared/doctrine/visual-truth-authority.md`
+- Context Firewall Doctrine: `shared/doctrine/context-firewall-doctrine.md`
 - Missing glue layers: `glue/missing-glue-layers.md`
 - Capture procedure: `procedures/capture-save-promote.md`
 - Deep Ocean Protocol: `procedures/deep-ocean-protocol.md`
