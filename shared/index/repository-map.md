@@ -84,8 +84,9 @@ When a task needs a diagnostic lens rather than an operational agent:
 
 ## Integrity Reports
 
-- Current: `reports/agent-closet-integrity-2026-07-28.md`
-- Previous: `reports/agent-closet-integrity-2026-07-21.md`
+- Current: `reports/agent-closet-integrity-2026-08-04.md`
+- Previous: `reports/agent-closet-integrity-2026-07-28.md`
+- Earlier: `reports/agent-closet-integrity-2026-07-21.md`
 - Earlier: `reports/agent-closet-integrity-2026-07-14.md`
 - Historical capability snapshot: `reports/end_of_day_capability_report_2026_06_23.md`
 
